@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.marriage.confbean.SMarriageLevelCfg id="190000000" itemNum="0" itemOrMoney="0" itemid="210106000" marriageSugerItemNum="10" moneyNum="1000000" moneyType="3" scacleSugerItemNum="1" sugerItemid="214100000" triggerSugerCount="5"/>
+  <mzm.gsp.marriage.confbean.SMarriageLevelCfg id="190000001" itemNum="1" itemOrMoney="1" itemid="210106000" marriageSugerItemNum="20" moneyNum="0" moneyType="0" scacleSugerItemNum="2" sugerItemid="214100000" triggerSugerCount="10"/>
+  <mzm.gsp.marriage.confbean.SMarriageLevelCfg id="190000002" itemNum="1" itemOrMoney="1" itemid="210106001" marriageSugerItemNum="30" moneyNum="0" moneyType="0" scacleSugerItemNum="3" sugerItemid="214100000" triggerSugerCount="20"/>
+</data>

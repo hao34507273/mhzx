@@ -1,0 +1,138 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800000" levelLowerLimit="40" levelUpperLimit="44" templateName="放生奖励40">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>2</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800001" levelLowerLimit="45" levelUpperLimit="49" templateName="放生奖励45">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>3</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800002" levelLowerLimit="50" levelUpperLimit="54" templateName="放生奖励50">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>4</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800003" levelLowerLimit="55" levelUpperLimit="59" templateName="放生奖励55">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>5</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800004" levelLowerLimit="60" levelUpperLimit="64" templateName="放生奖励60">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>6</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800005" levelLowerLimit="65" levelUpperLimit="69" templateName="放生奖励65">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>8</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800006" levelLowerLimit="70" levelUpperLimit="74" templateName="放生奖励70">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>10</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800007" levelLowerLimit="75" levelUpperLimit="79" templateName="放生奖励75">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>12</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800008" levelLowerLimit="80" levelUpperLimit="84" templateName="放生奖励80">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>15</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800009" levelLowerLimit="85" levelUpperLimit="89" templateName="放生奖励85">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>18</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800010" levelLowerLimit="90" levelUpperLimit="94" templateName="放生奖励90">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>21</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800011" levelLowerLimit="95" levelUpperLimit="99" templateName="放生奖励95">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>24</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800012" levelLowerLimit="100" levelUpperLimit="104" templateName="放生奖励100">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>27</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800013" levelLowerLimit="105" levelUpperLimit="109" templateName="放生奖励105">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>30</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800014" levelLowerLimit="110" levelUpperLimit="114" templateName="放生奖励110">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>34</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800015" levelLowerLimit="115" levelUpperLimit="119" templateName="放生奖励115">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>38</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+  <mzm.gsp.pet.confbean.SPetReleaseCfg id="130800016" levelLowerLimit="120" levelUpperLimit="124" templateName="放生奖励120">
+    <PetReleaseRewardItems>
+      <int>210600001</int>
+    </PetReleaseRewardItems>
+    <PetReleaseRewardNums>
+      <int>42</int>
+    </PetReleaseRewardNums>
+  </mzm.gsp.pet.confbean.SPetReleaseCfg>
+</data>

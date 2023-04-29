@@ -1,0 +1,4212 @@
+<data>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600000" questionLv="1" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>法寶</string>
+      <string>人物</string>
+      <string>技能</string>
+      <string>門派</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600001" questionLv="1" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>慕容複</string>
+      <string>張小凡</string>
+      <string>碧瑤</string>
+      <string>陸雪琪</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600002" questionLv="1" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天琊</string>
+      <string>誅仙</string>
+      <string>大悲金輪</string>
+      <string>斬龍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600003" questionLv="1" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>傷心花</string>
+      <string>紫芒刃</string>
+      <string>血骷髏</string>
+      <string>軒轅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600004" questionLv="1" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>阿迪達斯</string>
+      <string>卡帕</string>
+      <string>耐克</string>
+      <string>李寧</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600005" questionLv="1" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>掰腕子</string>
+      <string>深蹲</string>
+      <string>硬拉</string>
+      <string>臥推</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600006" questionLv="1" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>背部</string>
+      <string>腰部</string>
+      <string>胳膊</string>
+      <string>肩部</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600007" questionLv="1" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>下蹲時兩腿併攏</string>
+      <string>把杠鈴放在斜方肌上</string>
+      <string>膝蓋不要超過腳尖</string>
+      <string>腰要挺直</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600008" questionLv="1" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蕭鼎</string>
+      <string>說不得</string>
+      <string>唐家三少</string>
+      <string>我吃番茄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600009" questionLv="1" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>合歡鈴</string>
+      <string>誅仙劍</string>
+      <string>四靈血陣</string>
+      <string>噬血珠</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600010" questionLv="1" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>田不易</string>
+      <string>水月大師</string>
+      <string>蒼松道人</string>
+      <string>道玄真人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600011" questionLv="1" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>7</string>
+      <string>4</string>
+      <string>5</string>
+      <string>6</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600012" questionLv="1" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張小凡</string>
+      <string>何大智</string>
+      <string>呂大信</string>
+      <string>杜必書</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600013" questionLv="1" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普空</string>
+      <string>普德</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600014" questionLv="1" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷玄火壇</string>
+      <string>天音寺</string>
+      <string>四靈血陣</string>
+      <string>誅仙劍陣</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600015" questionLv="1" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>妙公子</string>
+      <string>血公子</string>
+      <string>玄公子</string>
+      <string>毒公子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600016" questionLv="1" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷穀主</string>
+      <string>青雲門首座</string>
+      <string>鬼王宗宗主</string>
+      <string>萬毒門宗主</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600017" questionLv="1" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朱雀</string>
+      <string>青龍</string>
+      <string>白虎</string>
+      <string>玄武</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600018" questionLv="1" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朝陽峰</string>
+      <string>龍首峰</string>
+      <string>風回峰</string>
+      <string>落霞峰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600019" questionLv="1" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>赤焰刀</string>
+      <string>天琊劍</string>
+      <string>傷心花</string>
+      <string>玄火鑒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600020" questionLv="1" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600021" questionLv="1" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>9</string>
+      <string>3</string>
+      <string>6</string>
+      <string>7</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600022" questionLv="1" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普德</string>
+      <string>普空</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600023" questionLv="1" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇秦</string>
+      <string>呂不韋</string>
+      <string>樂毅</string>
+      <string>張儀</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600024" questionLv="1" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>斬龍</string>
+      <string>寒冰</string>
+      <string>吳鉤</string>
+      <string>軒轅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600025" questionLv="1" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑水玄蛇</string>
+      <string>夔牛</string>
+      <string>饕餮</string>
+      <string>黃鳥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600026" questionLv="1" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>17顆</string>
+      <string>0顆</string>
+      <string>7顆</string>
+      <string>18顆</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600027" questionLv="1" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>斬相思</string>
+      <string>合歡鈴</string>
+      <string>噬血珠</string>
+      <string>伏龍鼎</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600028" questionLv="1" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒼松</string>
+      <string>萬劍一</string>
+      <string>林驚羽</string>
+      <string>道玄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600029" questionLv="1" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天狐</string>
+      <string>妖狐</string>
+      <string>不可能</string>
+      <string>魔狐</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600030" questionLv="1" templatename="题目31" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>古希臘</string>
+      <string>古羅馬</string>
+      <string>古代中國</string>
+      <string>古巴比倫</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600031" questionLv="1" templatename="题目32" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>西漢</string>
+      <string>東漢</string>
+      <string>唐</string>
+      <string>宋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600032" questionLv="1" templatename="题目33" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>許海峰</string>
+      <string>李寧</string>
+      <string>高鳳蓮</string>
+      <string>吳佳妮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600033" questionLv="1" templatename="题目34" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>非洲</string>
+      <string>亞洲</string>
+      <string>美洲</string>
+      <string>大洋洲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600034" questionLv="1" templatename="题目35" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>南管</string>
+      <string>大提琴</string>
+      <string>二胡</string>
+      <string>吉他</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600035" questionLv="1" templatename="题目36" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>京杭大運河</string>
+      <string>蘇伊士運河</string>
+      <string>巴拿馬運河</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600036" questionLv="1" templatename="题目37" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>吳道子</string>
+      <string>顧愷之</string>
+      <string>韓幹</string>
+      <string>張擇端</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600037" questionLv="1" templatename="题目38" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>靈芝</string>
+      <string>人參</string>
+      <string>冬蟲夏草</string>
+      <string>田七</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600038" questionLv="1" templatename="题目39" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>貴州</string>
+      <string>湖南</string>
+      <string>四川</string>
+      <string>江西</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600039" questionLv="1" templatename="题目40" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>太行山</string>
+      <string>泰山</string>
+      <string>恒山</string>
+      <string>沂蒙山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600040" questionLv="1" templatename="题目41" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>尼羅河</string>
+      <string>長江</string>
+      <string>亞馬遜河</string>
+      <string>密西西比河</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600041" questionLv="1" templatename="题目42" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>7~9月</string>
+      <string>1~3月</string>
+      <string>2~4月</string>
+      <string>10~12月</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600042" questionLv="1" templatename="题目43" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>地球公轉</string>
+      <string>地球自轉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600043" questionLv="1" templatename="题目44" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>田文</string>
+      <string>魏無忌</string>
+      <string>趙勝</string>
+      <string>黃歇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600044" questionLv="1" templatename="题目45" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>大量喝水</string>
+      <string>喝鹽水</string>
+      <string>喝牛奶</string>
+      <string>喝醋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600045" questionLv="1" templatename="题目46" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>面南為尊，面北為卑</string>
+      <string>面北為尊，面南為卑</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600046" questionLv="1" templatename="题目47" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>HTC</string>
+      <string>OPPO</string>
+      <string>SONY</string>
+      <string>NOKIA</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600047" questionLv="1" templatename="题目48" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>711超商</string>
+      <string>全家超商</string>
+      <string>OK超商</string>
+      <string>萊爾富超商</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600048" questionLv="1" templatename="题目49" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>祝融</string>
+      <string>共工</string>
+      <string>混沌</string>
+      <string>帝江</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600049" questionLv="1" templatename="题目50" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>白金漢宮</string>
+      <string>故宮</string>
+      <string>凡爾賽宮</string>
+      <string>克里姆林宮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600050" questionLv="1" templatename="题目51" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>秦始皇兵馬俑</string>
+      <string>萬里長城</string>
+      <string>樂山大佛</string>
+      <string>敦煌莫高窟</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600051" questionLv="1" templatename="题目52" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>巨鹿之戰</string>
+      <string>牧野之戰</string>
+      <string>官渡之戰</string>
+      <string>淝水之戰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600052" questionLv="1" templatename="题目53" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>反客為主</string>
+      <string>聲東擊西</string>
+      <string>李代桃僵</string>
+      <string>欲擒故縱</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600053" questionLv="1" templatename="题目54" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>孫子兵法</string>
+      <string>吳子</string>
+      <string>孫臏兵法</string>
+      <string>六韜</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600054" questionLv="1" templatename="题目55" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雷達測不到</string>
+      <string>肉眼看不見</string>
+      <string>飛行太高看不見</string>
+      <string>體積太小</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600055" questionLv="1" templatename="题目57" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>東漢</string>
+      <string>西漢</string>
+      <string>三國</string>
+      <string>南北朝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600056" questionLv="1" templatename="题目58" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張仲景</string>
+      <string>華佗</string>
+      <string>扁鵲</string>
+      <string>李時珍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600057" questionLv="1" templatename="题目59" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>殿下</string>
+      <string>私下</string>
+      <string>陛下</string>
+      <string>閣下</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600058" questionLv="1" templatename="题目60" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>重陽節</string>
+      <string>中秋節</string>
+      <string>清明節</string>
+      <string>元宵節</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600059" questionLv="1" templatename="题目61" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>夏</string>
+      <string>商</string>
+      <string>戰國</string>
+      <string>秦</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600060" questionLv="1" templatename="题目62" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒙恬</string>
+      <string>劉伯溫</string>
+      <string>樂毅</string>
+      <string>聞仲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600061" questionLv="1" templatename="题目63" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>瑞典</string>
+      <string>波蘭</string>
+      <string>德國</string>
+      <string>挪威</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600062" questionLv="1" templatename="题目64" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>四川</string>
+      <string>雲南</string>
+      <string>貴州</string>
+      <string>西藏</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600063" questionLv="1" templatename="题目65" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>泰山</string>
+      <string>華山</string>
+      <string>恒山</string>
+      <string>嵩山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600064" questionLv="1" templatename="题目66" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>甘肅敦煌莫高窟</string>
+      <string>新疆千佛洞</string>
+      <string>雲岡石窟</string>
+      <string>龍門石窟</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600065" questionLv="1" templatename="题目67" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>祖逖</string>
+      <string>嶽飛</string>
+      <string>戚繼光</string>
+      <string>鄭成功</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600066" questionLv="1" templatename="题目68" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>20%</string>
+      <string>10%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600067" questionLv="1" templatename="题目69" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天下會武</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>亂世妖魔</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600068" questionLv="1" templatename="题目70" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>15</string>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600069" questionLv="1" templatename="题目71" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10%</string>
+      <string>5%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600070" questionLv="1" templatename="题目72" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>幻月洞府</string>
+      <string>鎮妖</string>
+      <string>十二生肖</string>
+      <string>妖獸突襲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600071" questionLv="1" templatename="题目73" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3%</string>
+      <string>1%</string>
+      <string>2%</string>
+      <string>5%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600072" questionLv="1" templatename="题目74" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>決戰九霄</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>十二生肖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600073" questionLv="1" templatename="题目75" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>100</string>
+      <string>50</string>
+      <string>80</string>
+      <string>150</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600074" questionLv="1" templatename="题目78" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒙恬</string>
+      <string>劉伯溫</string>
+      <string>樂毅</string>
+      <string>聞仲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600075" questionLv="1" templatename="题目79" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>調質阻尼器</string>
+      <string>鋼體結構</string>
+      <string>大理石鋪設</string>
+      <string>地基</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600076" questionLv="1" templatename="题目81" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>500點</string>
+      <string>800點</string>
+      <string>700點</string>
+      <string>100點</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600077" questionLv="1" templatename="题目84" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>可以</string>
+      <string>不可能</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350600078" questionLv="1" templatename="题目85" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>升級</string>
+      <string>放生</string>
+      <string>展示</string>
+      <string>賣掉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610000" questionLv="2" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>班固</string>
+      <string>司馬遷</string>
+      <string>司馬光</string>
+      <string>左丘明</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610001" questionLv="2" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>獅子</string>
+      <string>馬</string>
+      <string>老虎</string>
+      <string>蛇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610002" questionLv="2" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇格拉底</string>
+      <string>亞里斯多德</string>
+      <string>尼采</string>
+      <string>阿納克薩格拉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610003" questionLv="2" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《吉檀迦利》</string>
+      <string>《園丁集》</string>
+      <string>《新月集》</string>
+      <string>《飛鳥集》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610004" questionLv="2" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雪萊</string>
+      <string>普斯金</string>
+      <string>拜倫</string>
+      <string>雨果</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610005" questionLv="2" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>駕車</string>
+      <string>騎馬</string>
+      <string>雜技</string>
+      <string>射箭</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610006" questionLv="2" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>顧炎武</string>
+      <string>黃宗羲</string>
+      <string>王夫之</string>
+      <string>王充</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610007" questionLv="2" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>編年體</string>
+      <string>紀傳體</string>
+      <string>紀事本末體</string>
+      <string>國別體</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610008" questionLv="2" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>H</string>
+      <string>HB</string>
+      <string>B</string>
+      <string>2B</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610009" questionLv="2" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>矛盾</string>
+      <string>巴金</string>
+      <string>郭沫若</string>
+      <string>歐陽山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610010" questionLv="2" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>宋朝</string>
+      <string>唐朝</string>
+      <string>元朝</string>
+      <string>明朝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610011" questionLv="2" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>chu</string>
+      <string>gou</string>
+      <string>tu</string>
+      <string>qu</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610012" questionLv="2" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑節竹</string>
+      <string>淚竹</string>
+      <string>木竹</string>
+      <string>墨竹</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610013" questionLv="2" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黃鳥</string>
+      <string>張小凡</string>
+      <string>陸雪琪</string>
+      <string>小灰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610014" questionLv="2" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>小池鎮</string>
+      <string>流波山</string>
+      <string>空桑山</string>
+      <string>河陽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610015" questionLv="2" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>布</string>
+      <string>石頭</string>
+      <string>剪子</string>
+      <string>怎樣都贏不了</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610016" questionLv="2" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3263442</string>
+      <string>0</string>
+      <string>1806</string>
+      <string>337722</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610017" questionLv="2" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610018" questionLv="2" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天音女</string>
+      <string>合歡女</string>
+      <string>焚香男</string>
+      <string>聖巫女</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610019" questionLv="2" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>謝安</string>
+      <string>謝遜</string>
+      <string>謝霆鋒</string>
+      <string>謝玄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610020" questionLv="2" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>7</string>
+      <string>5</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610021" questionLv="2" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>契</string>
+      <string>神農</string>
+      <string>後羿</string>
+      <string>後稷</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610022" questionLv="2" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>哥特式</string>
+      <string>羅馬式</string>
+      <string>巴羅克式</string>
+      <string>拜占庭式</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610023" questionLv="2" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>佛教、道教、儒教</string>
+      <string>道教、佛教、法教</string>
+      <string>道教、基督教、明教</string>
+      <string>東方、艦娘、LL</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610024" questionLv="2" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>1987</string>
+      <string>1986</string>
+      <string>1989</string>
+      <string>1988</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610025" questionLv="2" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《孟子》</string>
+      <string>《書》</string>
+      <string>《禮》</string>
+      <string>《春秋》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610026" questionLv="2" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>福建</string>
+      <string>杭州</string>
+      <string>蘇州</string>
+      <string>江蘇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610027" questionLv="2" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>法國</string>
+      <string>英國</string>
+      <string>德國</string>
+      <string>義大利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610028" questionLv="2" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>迪拜</string>
+      <string>北京</string>
+      <string>紐約</string>
+      <string>阿布達比</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610029" questionLv="2" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>王重陽</string>
+      <string>洪七公</string>
+      <string>黃藥師</string>
+      <string>歐陽鋒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610030" questionLv="2" templatename="题目31" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>英國</string>
+      <string>法國</string>
+      <string>加拿大</string>
+      <string>美國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610031" questionLv="2" templatename="题目32" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>海洋之心</string>
+      <string>深藍之心</string>
+      <string>天空之心</string>
+      <string>大地之心</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610032" questionLv="2" templatename="题目33" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>湯姆漢克斯</string>
+      <string>湯姆克魯斯</string>
+      <string>威爾史密斯</string>
+      <string>邁克喬丹</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610033" questionLv="2" templatename="题目34" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張學友</string>
+      <string>張學良</string>
+      <string>林俊傑</string>
+      <string>周傑倫</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610034" questionLv="2" templatename="题目35" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>霹靂虎</string>
+      <string>乖乖虎</string>
+      <string>小帥虎</string>
+      <string>下山虎</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610035" questionLv="2" templatename="题目36" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>盧浮宮</string>
+      <string>白宮</string>
+      <string>凡爾賽宮</string>
+      <string>故宮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610036" questionLv="2" templatename="题目37" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>保羅</string>
+      <string>傑克</string>
+      <string>羅斯</string>
+      <string>阿凡達</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610037" questionLv="2" templatename="题目38" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雄黃酒</string>
+      <string>喜力</string>
+      <string>雪花</string>
+      <string>白酒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610038" questionLv="2" templatename="题目39" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>華佗</string>
+      <string>扁鵲</string>
+      <string>孫思邈</string>
+      <string>張仲景</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610039" questionLv="2" templatename="题目40" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>我心永恆</string>
+      <string>北京歡迎你</string>
+      <string>雙節棍</string>
+      <string>江南STYLE</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610040" questionLv="2" templatename="题目41" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>小熊星座</string>
+      <string>人馬星座</string>
+      <string>大熊星座</string>
+      <string>獅子星座</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610041" questionLv="2" templatename="题目42" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>希臘</string>
+      <string>埃及</string>
+      <string>瑞士</string>
+      <string>冰島</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610042" questionLv="2" templatename="题目43" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>武則天</string>
+      <string>李世民</string>
+      <string>李隆基</string>
+      <string>李治</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610043" questionLv="2" templatename="题目44" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>32</string>
+      <string>16</string>
+      <string>24</string>
+      <string>28</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610044" questionLv="2" templatename="题目45" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>UFO</string>
+      <string>WTO</string>
+      <string>NBA</string>
+      <string>EMS</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610045" questionLv="2" templatename="题目46" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>德國</string>
+      <string>美國</string>
+      <string>英國</string>
+      <string>法國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610046" questionLv="2" templatename="题目47" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>牛郎織女</string>
+      <string>董永七仙女</string>
+      <string>梁山伯祝英臺</string>
+      <string>羅密歐茱麗葉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610047" questionLv="2" templatename="题目48" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>盤古</string>
+      <string>女媧</string>
+      <string>後羿</string>
+      <string>黃帝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610048" questionLv="2" templatename="题目49" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>胖子</string>
+      <string>小男孩</string>
+      <string>小女孩</string>
+      <string>瘦子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610049" questionLv="2" templatename="题目50" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張國榮</string>
+      <string>周潤發</string>
+      <string>劉德華</string>
+      <string>梁朝偉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610050" questionLv="2" templatename="题目51" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《論語》</string>
+      <string>《春秋》</string>
+      <string>《詩經》</string>
+      <string>《史記》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610051" questionLv="2" templatename="题目52" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>O</string>
+      <string>A</string>
+      <string>B</string>
+      <string>AB</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610052" questionLv="2" templatename="题目53" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>鴨蛋</string>
+      <string>雞蛋</string>
+      <string>鴕鳥蛋</string>
+      <string>鵝蛋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610053" questionLv="2" templatename="题目54" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>貂蟬</string>
+      <string>昭君</string>
+      <string>西施</string>
+      <string>楊玉環</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610054" questionLv="2" templatename="题目55" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>11</string>
+      <string>9</string>
+      <string>10</string>
+      <string>12</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610055" questionLv="2" templatename="题目56" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>周</string>
+      <string>明</string>
+      <string>宋</string>
+      <string>元</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610056" questionLv="2" templatename="题目57" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張三豐</string>
+      <string>老子李耳</string>
+      <string>袁天罡</string>
+      <string>張道陵</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610057" questionLv="2" templatename="题目58" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>李靖</string>
+      <string>李剛</string>
+      <string>李連傑</string>
+      <string>李洛克</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610058" questionLv="2" templatename="题目59" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>碘</string>
+      <string>維生素A</string>
+      <string>鋅</string>
+      <string>鐵</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610060" questionLv="2" templatename="题目61" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>30級</string>
+      <string>20級</string>
+      <string>10級</string>
+      <string>5級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350610061" questionLv="2" templatename="题目62" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>40級</string>
+      <string>30級</string>
+      <string>20級</string>
+      <string>10級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620000" questionLv="3" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>印度</string>
+      <string>巴基斯坦</string>
+      <string>埃及</string>
+      <string>雅典</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620001" questionLv="3" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>射擊</string>
+      <string>乒乓球</string>
+      <string>羽毛球</string>
+      <string>舉重</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620002" questionLv="3" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>母親</string>
+      <string>父親</string>
+      <string>姐姐</string>
+      <string>哥哥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620003" questionLv="3" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>濟南</string>
+      <string>鄭州</string>
+      <string>天津</string>
+      <string>青島</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620004" questionLv="3" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>加利福尼亞州</string>
+      <string>亞利桑那州</string>
+      <string>俄亥俄州</string>
+      <string>明尼蘇達州</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620005" questionLv="3" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>村上春樹</string>
+      <string>黑澤明</string>
+      <string>宮崎駿</string>
+      <string>木村拓哉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620006" questionLv="3" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>南瓜</string>
+      <string>冬瓜</string>
+      <string>柚子</string>
+      <string>榴槤</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620007" questionLv="3" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇聯</string>
+      <string>美國</string>
+      <string>法國</string>
+      <string>英國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620008" questionLv="3" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>IQ</string>
+      <string>IP</string>
+      <string>EQ</string>
+      <string>IC</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620009" questionLv="3" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>加油</string>
+      <string>不要</string>
+      <string>去死吧</string>
+      <string>勝利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620010" questionLv="3" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>羽毛球</string>
+      <string>網球</string>
+      <string>棒球</string>
+      <string>兵乓球</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620011" questionLv="3" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>8</string>
+      <string>6</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620012" questionLv="3" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>美國</string>
+      <string>中國</string>
+      <string>日本</string>
+      <string>德國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620013" questionLv="3" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>英國</string>
+      <string>西班牙</string>
+      <string>法國</string>
+      <string>義大利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620014" questionLv="3" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>30</string>
+      <string>20</string>
+      <string>50</string>
+      <string>40</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620015" questionLv="3" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>維生素A</string>
+      <string>維生素D</string>
+      <string>維生素B</string>
+      <string>維生素C</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620016" questionLv="3" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>周潤發</string>
+      <string>周星馳</string>
+      <string>梁朝偉</string>
+      <string>成龍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620017" questionLv="3" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>饅頭</string>
+      <string>包子</string>
+      <string>漢堡包</string>
+      <string>甜甜圈</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620018" questionLv="3" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>川菜</string>
+      <string>粵菜</string>
+      <string>徽菜</string>
+      <string>魯菜</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620019" questionLv="3" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>白居易</string>
+      <string>王維</string>
+      <string>劉禹錫</string>
+      <string>李商隱</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620020" questionLv="3" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《西廂記》</string>
+      <string>《紅樓夢》</string>
+      <string>《紅色娘子軍》</string>
+      <string>《紅燈記》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620021" questionLv="3" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>威尼斯</string>
+      <string>首爾</string>
+      <string>北京</string>
+      <string>紐約</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620022" questionLv="3" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>阿波羅11號</string>
+      <string>阿波羅12號</string>
+      <string>和平號</string>
+      <string>愛國者6號</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620023" questionLv="3" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>浙江杭州</string>
+      <string>福建安溪</string>
+      <string>雲南普洱</string>
+      <string>河南信陽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620024" questionLv="3" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>十字花科</string>
+      <string>豆科</string>
+      <string>菊科</string>
+      <string>薔薇科</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620025" questionLv="3" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蛋白質</string>
+      <string>糖元</string>
+      <string>脂肪</string>
+      <string>核酸</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620026" questionLv="3" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>206</string>
+      <string>205</string>
+      <string>207</string>
+      <string>208</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620027" questionLv="3" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>垓下之戰</string>
+      <string>淝水之戰</string>
+      <string>赤壁之戰</string>
+      <string>巨鹿之戰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620028" questionLv="3" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>渤海</string>
+      <string>黃海</string>
+      <string>東海</string>
+      <string>南海</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350620029" questionLv="3" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>40</string>
+      <string>20</string>
+      <string>50</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630000" questionLv="4" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>法寶</string>
+      <string>人物</string>
+      <string>技能</string>
+      <string>門派</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630001" questionLv="4" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>慕容複</string>
+      <string>張小凡</string>
+      <string>碧瑤</string>
+      <string>陸雪琪</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630002" questionLv="4" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天琊</string>
+      <string>誅仙</string>
+      <string>大悲金輪</string>
+      <string>斬龍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630003" questionLv="4" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>傷心花</string>
+      <string>紫芒刃</string>
+      <string>血骷髏</string>
+      <string>軒轅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630004" questionLv="4" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>阿迪達斯</string>
+      <string>卡帕</string>
+      <string>耐克</string>
+      <string>李寧</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630005" questionLv="4" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>掰腕子</string>
+      <string>深蹲</string>
+      <string>硬拉</string>
+      <string>臥推</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630006" questionLv="4" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>背部</string>
+      <string>腰部</string>
+      <string>胳膊</string>
+      <string>肩部</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630007" questionLv="4" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>下蹲時兩腿併攏</string>
+      <string>把杠鈴放在斜方肌上</string>
+      <string>膝蓋不要超過腳尖</string>
+      <string>腰要挺直</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630008" questionLv="4" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蕭鼎</string>
+      <string>說不得</string>
+      <string>唐家三少</string>
+      <string>我吃番茄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630009" questionLv="4" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>合歡鈴</string>
+      <string>誅仙劍</string>
+      <string>四靈血陣</string>
+      <string>噬血珠</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630010" questionLv="4" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>田不易</string>
+      <string>水月大師</string>
+      <string>蒼松道人</string>
+      <string>道玄真人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630011" questionLv="4" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>7</string>
+      <string>4</string>
+      <string>5</string>
+      <string>6</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630012" questionLv="4" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張小凡</string>
+      <string>何大智</string>
+      <string>呂大信</string>
+      <string>杜必書</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630013" questionLv="4" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普空</string>
+      <string>普德</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630014" questionLv="4" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷玄火壇</string>
+      <string>天音寺</string>
+      <string>四靈血陣</string>
+      <string>誅仙劍陣</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630015" questionLv="4" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>妙公子</string>
+      <string>血公子</string>
+      <string>玄公子</string>
+      <string>毒公子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630016" questionLv="4" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷穀主</string>
+      <string>青雲門首座</string>
+      <string>鬼王宗宗主</string>
+      <string>萬毒門宗主</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630017" questionLv="4" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朱雀</string>
+      <string>青龍</string>
+      <string>白虎</string>
+      <string>玄武</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630018" questionLv="4" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朝陽峰</string>
+      <string>龍首峰</string>
+      <string>風回峰</string>
+      <string>落霞峰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630019" questionLv="4" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>赤焰刀</string>
+      <string>天琊劍</string>
+      <string>傷心花</string>
+      <string>玄火鑒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630020" questionLv="4" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630021" questionLv="4" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>9</string>
+      <string>3</string>
+      <string>6</string>
+      <string>7</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630022" questionLv="4" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普德</string>
+      <string>普空</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630023" questionLv="4" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>襄樊</string>
+      <string>昌都</string>
+      <string>那曲</string>
+      <string>林芝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630024" questionLv="4" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>班固</string>
+      <string>司馬遷</string>
+      <string>司馬光</string>
+      <string>左丘明</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630025" questionLv="4" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普羅米修斯</string>
+      <string>海克力斯</string>
+      <string>阿波羅</string>
+      <string>阿基裏斯</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630026" questionLv="4" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇格拉底</string>
+      <string>亞里斯多德</string>
+      <string>尼采</string>
+      <string>阿納克薩格拉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630027" questionLv="4" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《吉檀迦利》</string>
+      <string>《園丁集》</string>
+      <string>《新月集》</string>
+      <string>《飛鳥集》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630028" questionLv="4" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雪萊</string>
+      <string>普斯金</string>
+      <string>拜倫</string>
+      <string>雨果</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630029" questionLv="4" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>駕車</string>
+      <string>騎馬</string>
+      <string>雜技</string>
+      <string>射箭</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630030" questionLv="4" templatename="题目31" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>顧炎武</string>
+      <string>黃宗羲</string>
+      <string>王夫之</string>
+      <string>王充</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630031" questionLv="4" templatename="题目32" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>編年體</string>
+      <string>紀傳體</string>
+      <string>紀事本末體</string>
+      <string>國別體</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630032" questionLv="4" templatename="题目33" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>H</string>
+      <string>HB</string>
+      <string>B</string>
+      <string>2B</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630033" questionLv="4" templatename="题目34" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>矛盾</string>
+      <string>巴金</string>
+      <string>郭沫若</string>
+      <string>歐陽山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630034" questionLv="4" templatename="题目35" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>宋朝</string>
+      <string>唐朝</string>
+      <string>元朝</string>
+      <string>明朝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630035" questionLv="4" templatename="题目36" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>chu</string>
+      <string>gou</string>
+      <string>tu</string>
+      <string>qu</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630036" questionLv="4" templatename="题目37" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑節竹</string>
+      <string>淚竹</string>
+      <string>木竹</string>
+      <string>墨竹</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630037" questionLv="4" templatename="题目38" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黃鳥</string>
+      <string>張小凡</string>
+      <string>陸雪琪</string>
+      <string>小灰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630038" questionLv="4" templatename="题目39" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>小池鎮</string>
+      <string>流波山</string>
+      <string>空桑山</string>
+      <string>河陽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630039" questionLv="4" templatename="题目40" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>布</string>
+      <string>石頭</string>
+      <string>剪子</string>
+      <string>怎樣都贏不了</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630040" questionLv="4" templatename="题目41" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3263442</string>
+      <string>0</string>
+      <string>1806</string>
+      <string>337722</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630041" questionLv="4" templatename="题目42" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630042" questionLv="4" templatename="题目43" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天音女</string>
+      <string>合歡女</string>
+      <string>焚香男</string>
+      <string>聖巫女</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630043" questionLv="4" templatename="题目44" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>謝安</string>
+      <string>謝遜</string>
+      <string>謝霆鋒</string>
+      <string>謝玄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630044" questionLv="4" templatename="题目45" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>7</string>
+      <string>5</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630045" questionLv="4" templatename="题目46" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>契</string>
+      <string>神農</string>
+      <string>後羿</string>
+      <string>後稷</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630046" questionLv="4" templatename="题目47" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>哥特式</string>
+      <string>羅馬式</string>
+      <string>巴羅克式</string>
+      <string>拜占庭式</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630047" questionLv="4" templatename="题目48" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>佛教、道教、儒教</string>
+      <string>道教、佛教、法教</string>
+      <string>道教、基督教、明教</string>
+      <string>東方、艦娘、LL</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630048" questionLv="4" templatename="题目49" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>1987</string>
+      <string>1986</string>
+      <string>1989</string>
+      <string>1988</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630049" questionLv="4" templatename="题目50" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《孟子》</string>
+      <string>《書》</string>
+      <string>《禮》</string>
+      <string>《春秋》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630050" questionLv="4" templatename="题目51" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>印度</string>
+      <string>巴基斯坦</string>
+      <string>埃及</string>
+      <string>雅典</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630051" questionLv="4" templatename="题目52" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>射擊</string>
+      <string>乒乓球</string>
+      <string>羽毛球</string>
+      <string>舉重</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630052" questionLv="4" templatename="题目53" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>母親</string>
+      <string>父親</string>
+      <string>姐姐</string>
+      <string>哥哥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630053" questionLv="4" templatename="题目54" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>濟南</string>
+      <string>鄭州</string>
+      <string>天津</string>
+      <string>青島</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630054" questionLv="4" templatename="题目55" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>加利福尼亞州</string>
+      <string>亞利桑那州</string>
+      <string>俄亥俄州</string>
+      <string>明尼蘇達州</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630055" questionLv="4" templatename="题目56" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>村上春樹</string>
+      <string>黑澤明</string>
+      <string>宮崎駿</string>
+      <string>木村拓哉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630056" questionLv="4" templatename="题目57" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>南瓜</string>
+      <string>冬瓜</string>
+      <string>柚子</string>
+      <string>榴槤</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630057" questionLv="4" templatename="题目58" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>地動說</string>
+      <string>性惡說</string>
+      <string>天動說</string>
+      <string>性善說</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630058" questionLv="4" templatename="题目59" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>IQ</string>
+      <string>IP</string>
+      <string>EQ</string>
+      <string>IC</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630059" questionLv="4" templatename="题目60" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>加油</string>
+      <string>不要</string>
+      <string>去死吧</string>
+      <string>勝利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630060" questionLv="4" templatename="题目61" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>義大利</string>
+      <string>英國</string>
+      <string>德國</string>
+      <string>法國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630061" questionLv="4" templatename="题目62" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>8</string>
+      <string>6</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630062" questionLv="4" templatename="题目63" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>美國</string>
+      <string>中國</string>
+      <string>日本</string>
+      <string>德國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630063" questionLv="4" templatename="题目64" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>英國</string>
+      <string>西班牙</string>
+      <string>法國</string>
+      <string>義大利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630064" questionLv="4" templatename="题目65" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>30</string>
+      <string>20</string>
+      <string>50</string>
+      <string>40</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350630065" questionLv="4" templatename="题目66" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>維生素A</string>
+      <string>維生素D</string>
+      <string>維生素B</string>
+      <string>維生素C</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640001" questionLv="5" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>法寶</string>
+      <string>人物</string>
+      <string>技能</string>
+      <string>門派</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640002" questionLv="5" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>慕容複</string>
+      <string>張小凡</string>
+      <string>碧瑤</string>
+      <string>陸雪琪</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640003" questionLv="5" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天琊</string>
+      <string>誅仙</string>
+      <string>大悲金輪</string>
+      <string>斬龍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640004" questionLv="5" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>傷心花</string>
+      <string>紫芒刃</string>
+      <string>血骷髏</string>
+      <string>軒轅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640005" questionLv="5" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>阿迪達斯</string>
+      <string>卡帕</string>
+      <string>耐克</string>
+      <string>李寧</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640006" questionLv="5" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>掰腕子</string>
+      <string>深蹲</string>
+      <string>硬拉</string>
+      <string>臥推</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640007" questionLv="5" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>背部</string>
+      <string>腰部</string>
+      <string>胳膊</string>
+      <string>肩部</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640008" questionLv="5" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>下蹲時兩腿併攏</string>
+      <string>把杠鈴放在斜方肌上</string>
+      <string>膝蓋不要超過腳尖</string>
+      <string>腰要挺直</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640009" questionLv="5" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蕭鼎</string>
+      <string>說不得</string>
+      <string>唐家三少</string>
+      <string>我吃番茄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640010" questionLv="5" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>合歡鈴</string>
+      <string>誅仙劍</string>
+      <string>四靈血陣</string>
+      <string>噬血珠</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640011" questionLv="5" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>田不易</string>
+      <string>水月大師</string>
+      <string>蒼松道人</string>
+      <string>道玄真人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640012" questionLv="5" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>7</string>
+      <string>4</string>
+      <string>5</string>
+      <string>6</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640013" questionLv="5" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張小凡</string>
+      <string>何大智</string>
+      <string>呂大信</string>
+      <string>杜必書</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640014" questionLv="5" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普空</string>
+      <string>普德</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640015" questionLv="5" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷玄火壇</string>
+      <string>天音寺</string>
+      <string>四靈血陣</string>
+      <string>誅仙劍陣</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640016" questionLv="5" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>妙公子</string>
+      <string>血公子</string>
+      <string>玄公子</string>
+      <string>毒公子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640017" questionLv="5" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>焚香谷穀主</string>
+      <string>青雲門首座</string>
+      <string>鬼王宗宗主</string>
+      <string>萬毒門宗主</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640018" questionLv="5" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朱雀</string>
+      <string>青龍</string>
+      <string>白虎</string>
+      <string>玄武</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640019" questionLv="5" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>朝陽峰</string>
+      <string>龍首峰</string>
+      <string>風回峰</string>
+      <string>落霞峰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640020" questionLv="5" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>赤焰刀</string>
+      <string>天琊劍</string>
+      <string>傷心花</string>
+      <string>玄火鑒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640021" questionLv="5" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640022" questionLv="5" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>9</string>
+      <string>3</string>
+      <string>6</string>
+      <string>7</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640023" questionLv="5" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>普智</string>
+      <string>普泓</string>
+      <string>普德</string>
+      <string>普空</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640024" questionLv="5" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>襄樊</string>
+      <string>昌都</string>
+      <string>那曲</string>
+      <string>林芝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640025" questionLv="5" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>斬龍</string>
+      <string>寒冰</string>
+      <string>吳鉤</string>
+      <string>軒轅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640026" questionLv="5" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑水玄蛇</string>
+      <string>夔牛</string>
+      <string>饕餮</string>
+      <string>黃鳥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640027" questionLv="5" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>17顆</string>
+      <string>0顆</string>
+      <string>7顆</string>
+      <string>18顆</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640028" questionLv="5" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>斬相思</string>
+      <string>合歡鈴</string>
+      <string>噬血珠</string>
+      <string>伏龍鼎</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640029" questionLv="5" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒼松</string>
+      <string>萬劍一</string>
+      <string>林驚羽</string>
+      <string>道玄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640030" questionLv="5" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天狐</string>
+      <string>妖狐</string>
+      <string>不可能</string>
+      <string>魔狐</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640031" questionLv="5" templatename="题目31" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>古希臘</string>
+      <string>古羅馬</string>
+      <string>古代中國</string>
+      <string>古巴比倫</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640032" questionLv="5" templatename="题目32" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>英國</string>
+      <string>美國</string>
+      <string>德國</string>
+      <string>中國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640033" questionLv="5" templatename="题目33" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>許海峰</string>
+      <string>李寧</string>
+      <string>高鳳蓮</string>
+      <string>吳佳妮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640034" questionLv="5" templatename="题目34" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>非洲</string>
+      <string>亞洲</string>
+      <string>美洲</string>
+      <string>大洋洲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640035" questionLv="5" templatename="题目35" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇伊士運河</string>
+      <string>伊利運河</string>
+      <string>基爾運河</string>
+      <string>巴拿馬運河</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640036" questionLv="5" templatename="题目36" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>京杭大運河</string>
+      <string>蘇伊士運河</string>
+      <string>巴拿馬運河</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640037" questionLv="5" templatename="题目37" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>吳道子</string>
+      <string>顧愷之</string>
+      <string>韓幹</string>
+      <string>張擇端</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640038" questionLv="5" templatename="题目38" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>靈芝</string>
+      <string>人參</string>
+      <string>冬蟲夏草</string>
+      <string>田七</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640039" questionLv="5" templatename="题目39" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>貴州</string>
+      <string>湖南</string>
+      <string>四川</string>
+      <string>江西</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640040" questionLv="5" templatename="题目40" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>太行山</string>
+      <string>泰山</string>
+      <string>恒山</string>
+      <string>沂蒙山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640041" questionLv="5" templatename="题目41" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>尼羅河</string>
+      <string>長江</string>
+      <string>亞馬遜河</string>
+      <string>密西西比河</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640042" questionLv="5" templatename="题目42" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>坎培拉</string>
+      <string>墨爾本</string>
+      <string>布利斯本</string>
+      <string>悉尼</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640043" questionLv="5" templatename="题目43" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>地球公轉</string>
+      <string>地球自轉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640044" questionLv="5" templatename="题目44" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>田文</string>
+      <string>魏無忌</string>
+      <string>趙勝</string>
+      <string>黃歇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640045" questionLv="5" templatename="题目45" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>君主立憲思想</string>
+      <string>人文主義思想</string>
+      <string>三權分立學說</string>
+      <string>民主共和思想</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640046" questionLv="5" templatename="题目46" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>面南為尊，面北為卑</string>
+      <string>面北為尊，面南為卑</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640047" questionLv="5" templatename="题目47" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>復興航空</string>
+      <string>中華航空</string>
+      <string>長榮航空</string>
+      <string>遠東航空</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640048" questionLv="5" templatename="题目48" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3952米</string>
+      <string>3962米</string>
+      <string>3852米</string>
+      <string>3862米</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640049" questionLv="5" templatename="题目49" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>沙烏地阿拉伯</string>
+      <string>伊拉克</string>
+      <string>伊朗</string>
+      <string>科威特</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640050" questionLv="5" templatename="题目50" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>白金漢宮</string>
+      <string>故宮</string>
+      <string>凡爾賽宮</string>
+      <string>克里姆林宮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640051" questionLv="5" templatename="题目51" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>秦始皇兵馬俑</string>
+      <string>萬里長城</string>
+      <string>樂山大佛</string>
+      <string>敦煌莫高窟</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640052" questionLv="5" templatename="题目52" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>巨鹿之戰</string>
+      <string>牧野之戰</string>
+      <string>官渡之戰</string>
+      <string>淝水之戰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640053" questionLv="5" templatename="题目53" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>反客為主</string>
+      <string>聲東擊西</string>
+      <string>李代桃僵</string>
+      <string>欲擒故縱</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640054" questionLv="5" templatename="题目54" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>一萬</string>
+      <string>一百</string>
+      <string>一千</string>
+      <string>十萬</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640055" questionLv="5" templatename="题目55" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雷達測不到</string>
+      <string>肉眼看不見</string>
+      <string>飛行太高看不見</string>
+      <string>體積太小</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640056" questionLv="5" templatename="题目56" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>以上皆是</string>
+      <string>猶太教</string>
+      <string>伊斯蘭教</string>
+      <string>基督教</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640057" questionLv="5" templatename="题目57" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>東漢</string>
+      <string>西漢</string>
+      <string>三國</string>
+      <string>南北朝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640058" questionLv="5" templatename="题目58" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>基督教</string>
+      <string>伊斯蘭教</string>
+      <string>佛教</string>
+      <string>猶太教</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640059" questionLv="5" templatename="题目59" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>殿下</string>
+      <string>私下</string>
+      <string>陛下</string>
+      <string>閣下</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640060" questionLv="5" templatename="题目60" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>華盛頓</string>
+      <string>林肯</string>
+      <string>杜魯門</string>
+      <string>羅斯福</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640061" questionLv="5" templatename="题目61" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>夏</string>
+      <string>商</string>
+      <string>戰國</string>
+      <string>秦</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640062" questionLv="5" templatename="题目62" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒙恬</string>
+      <string>劉伯溫</string>
+      <string>樂毅</string>
+      <string>聞仲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640063" questionLv="5" templatename="题目63" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>織田信長</string>
+      <string>豐臣秀吉</string>
+      <string>武田信玄</string>
+      <string>德川家康</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640064" questionLv="5" templatename="题目64" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>明智光秀</string>
+      <string>羽柴秀吉</string>
+      <string>丹羽長秀</string>
+      <string>柴田勝家</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640065" questionLv="5" templatename="题目65" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>泰山</string>
+      <string>華山</string>
+      <string>恒山</string>
+      <string>嵩山</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640066" questionLv="5" templatename="题目66" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>甘肅敦煌莫高窟</string>
+      <string>新疆千佛洞</string>
+      <string>雲岡石窟</string>
+      <string>龍門石窟</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640067" questionLv="5" templatename="题目67" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>祖逖</string>
+      <string>嶽飛</string>
+      <string>戚繼光</string>
+      <string>鄭成功</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640068" questionLv="5" templatename="题目68" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>20%</string>
+      <string>10%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640069" questionLv="5" templatename="题目69" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天下會武</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>亂世妖魔</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640070" questionLv="5" templatename="题目70" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>15</string>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640071" questionLv="5" templatename="题目71" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10%</string>
+      <string>5%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640072" questionLv="5" templatename="题目72" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>幻月洞府</string>
+      <string>鎮妖</string>
+      <string>十二生肖</string>
+      <string>妖獸突襲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640073" questionLv="5" templatename="题目73" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3%</string>
+      <string>1%</string>
+      <string>2%</string>
+      <string>5%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640074" questionLv="5" templatename="题目74" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>決戰九霄</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>十二生肖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640075" questionLv="5" templatename="题目75" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>100</string>
+      <string>50</string>
+      <string>80</string>
+      <string>150</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640076" questionLv="5" templatename="题目76" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>精英副本</string>
+      <string>普通副本</string>
+      <string>黑龍浩劫</string>
+      <string>幻月洞府</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640077" questionLv="5" templatename="题目77" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑龍浩劫</string>
+      <string>普通副本</string>
+      <string>十二生肖</string>
+      <string>鎮妖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640078" questionLv="5" templatename="题目78" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒙恬</string>
+      <string>劉伯溫</string>
+      <string>樂毅</string>
+      <string>聞仲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640079" questionLv="5" templatename="题目79" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>隆納·雷根</string>
+      <string>亞伯拉罕·林肯</string>
+      <string>約翰·甘迺迪</string>
+      <string>威廉·麥金利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640080" questionLv="5" templatename="题目80" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>8人</string>
+      <string>6人</string>
+      <string>4人</string>
+      <string>3人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640081" questionLv="5" templatename="题目81" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>500點</string>
+      <string>800點</string>
+      <string>700點</string>
+      <string>100點</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640082" questionLv="5" templatename="题目82" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>升階獲得</string>
+      <string>學習技能書</string>
+      <string>升級獲得</string>
+      <string>元寶獲得</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640083" questionLv="5" templatename="题目83" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>仙侶修煉等級</string>
+      <string>人物等級</string>
+      <string>寵物等級</string>
+      <string>裝備等級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640084" questionLv="5" templatename="题目84" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>可以</string>
+      <string>有可能</string>
+      <string>不可以</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640085" questionLv="5" templatename="题目85" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>升級</string>
+      <string>放生</string>
+      <string>展示</string>
+      <string>賣掉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640086" questionLv="5" templatename="题目86" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>點擊左上角的圖示</string>
+      <string>亂點一通</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640087" questionLv="5" templatename="题目87" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>打開小地圖查詢</string>
+      <string>自己找</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640088" questionLv="5" templatename="题目88" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>3</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640089" questionLv="5" templatename="题目89" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>無限</string>
+      <string>一百萬</string>
+      <string>一萬</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640090" questionLv="5" templatename="题目90" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>長按查看目標</string>
+      <string>按兩下目標</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640091" questionLv="5" templatename="题目91" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>左上角的地圖名稱</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640092" questionLv="5" templatename="题目92" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>同幫三人以上</string>
+      <string>隨便進</string>
+      <string>同幫兩人以上</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640093" questionLv="5" templatename="题目93" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>神獸</string>
+      <string>魔獸</string>
+      <string>變異寵物</string>
+      <string>寶寶</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640094" questionLv="5" templatename="题目94" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>20%</string>
+      <string>10%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640095" questionLv="5" templatename="题目95" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天下會武</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>亂世妖魔</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640096" questionLv="5" templatename="题目96" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>15</string>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640097" questionLv="5" templatename="题目97" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10%</string>
+      <string>5%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640098" questionLv="5" templatename="题目98" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>幻月洞府</string>
+      <string>鎮妖</string>
+      <string>十二生肖</string>
+      <string>妖獸突襲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640099" questionLv="5" templatename="题目99" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3%</string>
+      <string>1%</string>
+      <string>2%</string>
+      <string>5%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640100" questionLv="5" templatename="题目100" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>決戰九霄</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>十二生肖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640101" questionLv="5" templatename="题目101" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>100</string>
+      <string>50</string>
+      <string>80</string>
+      <string>150</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640102" questionLv="5" templatename="题目102" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>精英副本</string>
+      <string>普通副本</string>
+      <string>黑龍浩劫</string>
+      <string>幻月洞府</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640103" questionLv="5" templatename="题目103" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑龍浩劫</string>
+      <string>普通副本</string>
+      <string>十二生肖</string>
+      <string>鎮妖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640104" questionLv="5" templatename="题目104" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>混沌時空掛機</string>
+      <string>黑龍浩劫</string>
+      <string>賞金</string>
+      <string>競技場</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640105" questionLv="5" templatename="题目105" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10</string>
+      <string>15</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640106" questionLv="5" templatename="题目106" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>20</string>
+      <string>15</string>
+      <string>10</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640107" questionLv="5" templatename="题目107" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>5</string>
+      <string>6</string>
+      <string>7</string>
+      <string>10</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640108" questionLv="5" templatename="题目108" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10</string>
+      <string>15</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640109" questionLv="5" templatename="题目109" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>5星</string>
+      <string>4星</string>
+      <string>3星</string>
+      <string>1星</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640110" questionLv="5" templatename="题目110" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>35級</string>
+      <string>25級</string>
+      <string>45級</string>
+      <string>10級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640111" questionLv="5" templatename="题目111" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>夫妻</string>
+      <string>結義兄弟</string>
+      <string>同幫之人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640112" questionLv="5" templatename="题目112" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>返生</string>
+      <string>放生</string>
+      <string>化生</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640113" questionLv="5" templatename="题目113" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>化生</string>
+      <string>返生</string>
+      <string>放生</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640114" questionLv="5" templatename="题目114" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>會</string>
+      <string>不知道</string>
+      <string>不會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640115" questionLv="5" templatename="题目115" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>2級</string>
+      <string>3級</string>
+      <string>4級</string>
+      <string>5級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640116" questionLv="5" templatename="题目116" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>70</string>
+      <string>80</string>
+      <string>90</string>
+      <string>100</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640117" questionLv="5" templatename="题目117" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3次</string>
+      <string>2次</string>
+      <string>1次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640118" questionLv="5" templatename="题目118" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>10張</string>
+      <string>15張</string>
+      <string>20張</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640119" questionLv="5" templatename="题目119" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>隊伍中有輔助職業</string>
+      <string>隊伍純輸出職業</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640120" questionLv="5" templatename="题目120" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>宋朝</string>
+      <string>唐朝</string>
+      <string>元朝</string>
+      <string>明朝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640121" questionLv="5" templatename="题目121" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>chu</string>
+      <string>gou</string>
+      <string>tu</string>
+      <string>qu</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640122" questionLv="5" templatename="题目122" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黑節竹</string>
+      <string>淚竹</string>
+      <string>木竹</string>
+      <string>墨竹</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640123" questionLv="5" templatename="题目123" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黃鳥</string>
+      <string>張小凡</string>
+      <string>陸雪琪</string>
+      <string>小灰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640124" questionLv="5" templatename="题目124" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>小池鎮</string>
+      <string>流波山</string>
+      <string>空桑山</string>
+      <string>河陽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640125" questionLv="5" templatename="题目125" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>布</string>
+      <string>石頭</string>
+      <string>剪子</string>
+      <string>怎樣都贏不了</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640126" questionLv="5" templatename="题目126" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>3263442</string>
+      <string>0</string>
+      <string>1806</string>
+      <string>337722</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640127" questionLv="5" templatename="题目127" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>萬劍一</string>
+      <string>道玄真人</string>
+      <string>青葉真人</string>
+      <string>青雲子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640128" questionLv="5" templatename="题目128" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>天音女</string>
+      <string>合歡女</string>
+      <string>焚香男</string>
+      <string>聖巫女</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640129" questionLv="5" templatename="题目129" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>謝安</string>
+      <string>謝遜</string>
+      <string>謝霆鋒</string>
+      <string>謝玄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640130" questionLv="5" templatename="题目130" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>7</string>
+      <string>5</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640131" questionLv="5" templatename="题目131" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>契</string>
+      <string>神農</string>
+      <string>後羿</string>
+      <string>後稷</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640132" questionLv="5" templatename="题目132" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>哥特式</string>
+      <string>羅馬式</string>
+      <string>巴羅克式</string>
+      <string>拜占庭式</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640133" questionLv="5" templatename="题目133" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>佛教、道教、儒教</string>
+      <string>道教、佛教、法教</string>
+      <string>道教、基督教、明教</string>
+      <string>東方、艦娘、LL</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640134" questionLv="5" templatename="题目134" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>1987</string>
+      <string>1986</string>
+      <string>1989</string>
+      <string>1988</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640135" questionLv="5" templatename="题目135" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《孟子》</string>
+      <string>《書》</string>
+      <string>《禮》</string>
+      <string>《春秋》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640136" questionLv="5" templatename="题目136" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>福建</string>
+      <string>杭州</string>
+      <string>蘇州</string>
+      <string>江蘇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640137" questionLv="5" templatename="题目137" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>法國</string>
+      <string>英國</string>
+      <string>德國</string>
+      <string>義大利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640138" questionLv="5" templatename="题目138" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>迪拜</string>
+      <string>北京</string>
+      <string>紐約</string>
+      <string>阿布達比</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640139" questionLv="5" templatename="题目139" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>王重陽</string>
+      <string>洪七公</string>
+      <string>黃藥師</string>
+      <string>歐陽鋒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640140" questionLv="5" templatename="题目140" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>英國</string>
+      <string>法國</string>
+      <string>加拿大</string>
+      <string>美國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640141" questionLv="5" templatename="题目141" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>海洋之心</string>
+      <string>深藍之心</string>
+      <string>天空之心</string>
+      <string>大地之心</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640142" questionLv="5" templatename="题目142" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>湯姆漢克斯</string>
+      <string>湯姆克魯斯</string>
+      <string>威爾史密斯</string>
+      <string>邁克喬丹</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640143" questionLv="5" templatename="题目143" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張學友</string>
+      <string>張學良</string>
+      <string>林俊傑</string>
+      <string>周傑倫</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640144" questionLv="5" templatename="题目144" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>霹靂虎</string>
+      <string>乖乖虎</string>
+      <string>小帥虎</string>
+      <string>下山虎</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640145" questionLv="5" templatename="题目145" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>盧浮宮</string>
+      <string>白宮</string>
+      <string>凡爾賽宮</string>
+      <string>故宮</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640146" questionLv="5" templatename="题目146" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>保羅</string>
+      <string>傑克</string>
+      <string>羅斯</string>
+      <string>阿凡達</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640147" questionLv="5" templatename="题目147" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雄黃酒</string>
+      <string>喜力</string>
+      <string>雪花</string>
+      <string>白酒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640148" questionLv="5" templatename="题目148" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>華佗</string>
+      <string>扁鵲</string>
+      <string>孫思邈</string>
+      <string>張仲景</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640149" questionLv="5" templatename="题目149" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>我心永恆</string>
+      <string>北京歡迎你</string>
+      <string>雙節棍</string>
+      <string>江南STYLE</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640150" questionLv="5" templatename="题目150" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>小熊星座</string>
+      <string>人馬星座</string>
+      <string>大熊星座</string>
+      <string>獅子星座</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640151" questionLv="5" templatename="题目151" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>希臘</string>
+      <string>埃及</string>
+      <string>瑞士</string>
+      <string>冰島</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640152" questionLv="5" templatename="题目152" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>武則天</string>
+      <string>李世民</string>
+      <string>李隆基</string>
+      <string>李治</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640153" questionLv="5" templatename="题目153" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>32</string>
+      <string>16</string>
+      <string>24</string>
+      <string>28</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640154" questionLv="5" templatename="题目154" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>UFO</string>
+      <string>WTO</string>
+      <string>NBA</string>
+      <string>EMS</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640155" questionLv="5" templatename="题目155" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>德國</string>
+      <string>美國</string>
+      <string>英國</string>
+      <string>法國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640156" questionLv="5" templatename="题目156" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>牛郎織女</string>
+      <string>董永七仙女</string>
+      <string>梁山伯祝英臺</string>
+      <string>羅密歐茱麗葉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640157" questionLv="5" templatename="题目157" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>盤古</string>
+      <string>女媧</string>
+      <string>後羿</string>
+      <string>黃帝</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640158" questionLv="5" templatename="题目158" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>喬治哈裏遜</string>
+      <string>約翰藍儂</string>
+      <string>保羅麥卡尼</string>
+      <string>林哥史達</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640159" questionLv="5" templatename="题目159" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張國榮</string>
+      <string>周潤發</string>
+      <string>劉德華</string>
+      <string>梁朝偉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640160" questionLv="5" templatename="题目160" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《論語》</string>
+      <string>《春秋》</string>
+      <string>《詩經》</string>
+      <string>《史記》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640161" questionLv="5" templatename="题目161" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>O</string>
+      <string>A</string>
+      <string>B</string>
+      <string>AB</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640162" questionLv="5" templatename="题目162" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>鴨蛋</string>
+      <string>雞蛋</string>
+      <string>鴕鳥蛋</string>
+      <string>鵝蛋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640163" questionLv="5" templatename="题目163" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>貂蟬</string>
+      <string>昭君</string>
+      <string>西施</string>
+      <string>楊玉環</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640164" questionLv="5" templatename="题目164" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>11</string>
+      <string>9</string>
+      <string>10</string>
+      <string>12</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640165" questionLv="5" templatename="题目165" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>周</string>
+      <string>明</string>
+      <string>宋</string>
+      <string>元</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640166" questionLv="5" templatename="题目166" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>張三豐</string>
+      <string>老子李耳</string>
+      <string>袁天罡</string>
+      <string>張道陵</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640167" questionLv="5" templatename="题目167" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>李靖</string>
+      <string>李剛</string>
+      <string>李連傑</string>
+      <string>李洛克</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640168" questionLv="5" templatename="题目168" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>碘</string>
+      <string>維生素A</string>
+      <string>鋅</string>
+      <string>鐵</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640169" questionLv="5" templatename="题目169" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>兩個</string>
+      <string>一個</string>
+      <string>三個</string>
+      <string>四個</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640170" questionLv="5" templatename="题目170" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>30級</string>
+      <string>20級</string>
+      <string>10級</string>
+      <string>5級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350640171" questionLv="5" templatename="题目171" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>40級</string>
+      <string>30級</string>
+      <string>20級</string>
+      <string>10級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650001" questionLv="6" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>臥龍</string>
+      <string>鳳雛</string>
+      <string>謫仙</string>
+      <string>東坡</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650002" questionLv="6" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>賈</string>
+      <string>要</string>
+      <string>貸</string>
+      <string>粟</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650003" questionLv="6" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>大氣</string>
+      <string>宇宙</string>
+      <string>黑洞</string>
+      <string>星系</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650004" questionLv="6" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>對象</string>
+      <string>朋友</string>
+      <string>親戚</string>
+      <string>同事</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650005" questionLv="6" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>暗香</string>
+      <string>我和你</string>
+      <string>豆漿油條</string>
+      <string>聽媽媽的話</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650006" questionLv="6" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>干</string>
+      <string>土</string>
+      <string>士</string>
+      <string>工</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650007" questionLv="6" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>龍的傳人</string>
+      <string>黃種人</string>
+      <string>東方紅</string>
+      <string>青藏高原</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650008" questionLv="6" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>重男輕女</string>
+      <string>晚婚晚育</string>
+      <string>獨生子女</string>
+      <string>近親結婚</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650009" questionLv="6" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>圓心</string>
+      <string>圓周率</string>
+      <string>直徑</string>
+      <string>周長</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650010" questionLv="6" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>絕緣</string>
+      <string>導體</string>
+      <string>壓強</string>
+      <string>位移</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650011" questionLv="6" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>消耗</string>
+      <string>鼠目寸光</string>
+      <string>貓哭耗子</string>
+      <string>投鼠忌器</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650012" questionLv="6" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>人中</string>
+      <string>百會</string>
+      <string>膻中</string>
+      <string>命門</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650013" questionLv="6" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>有備無患</string>
+      <string>桃園結義</string>
+      <string>三顧茅廬</string>
+      <string>如魚得水</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650014" questionLv="6" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>水仙</string>
+      <string>睡蓮</string>
+      <string>綠蘿</string>
+      <string>風信子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650015" questionLv="6" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>日</string>
+      <string>月</string>
+      <string>星</string>
+      <string>餅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650016" questionLv="6" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>古</string>
+      <string>景</string>
+      <string>月</string>
+      <string>工</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650017" questionLv="6" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>玉米</string>
+      <string>地瓜</string>
+      <string>土豆</string>
+      <string>大蔥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650018" questionLv="6" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雨傘</string>
+      <string>涼亭</string>
+      <string>山峰</string>
+      <string>手機</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650019" questionLv="6" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>高朋滿座</string>
+      <string>觥籌交錯</string>
+      <string>鼓樂齊鳴</string>
+      <string>單刀赴會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650020" questionLv="6" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>半路出家</string>
+      <string>半途而廢</string>
+      <string>立地成佛</string>
+      <string>回頭是岸</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650021" questionLv="6" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>辛棄疾</string>
+      <string>蘇軾</string>
+      <string>杜甫</string>
+      <string>李商隱</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650022" questionLv="6" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>月上柳梢頭</string>
+      <string>一夜魚龍舞</string>
+      <string>月滿柳梢頭</string>
+      <string>一夜魚龍鼓</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650023" questionLv="6" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>北大</string>
+      <string>清華</string>
+      <string>廈大</string>
+      <string>人大</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650024" questionLv="6" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>春不見</string>
+      <string>金銀花</string>
+      <string>山藥</string>
+      <string>天冬</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650025" questionLv="6" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>學而不厭</string>
+      <string>不求甚解</string>
+      <string>誨人不倦</string>
+      <string>有教無類</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650026" questionLv="6" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>桌子</string>
+      <string>杯子</string>
+      <string>碗</string>
+      <string>筷子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650027" questionLv="6" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>火柴</string>
+      <string>打火機</string>
+      <string>香煙</string>
+      <string>紙巾</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650028" questionLv="6" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>脂</string>
+      <string>明</string>
+      <string>旨</string>
+      <string>胖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650029" questionLv="6" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>汗</string>
+      <string>桿</string>
+      <string>稈</string>
+      <string>江</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350650030" questionLv="6" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>元宵燈會</string>
+      <string>河中魚龍起舞</string>
+      <string>煙花</string>
+      <string>美人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660001" questionLv="7" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>杏花村</string>
+      <string>草廟村</string>
+      <string>華西村</string>
+      <string>小崗村</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660002" questionLv="7" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>春城</string>
+      <string>東城</string>
+      <string>西城</string>
+      <string>秋城</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660003" questionLv="7" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>花</string>
+      <string>雪</string>
+      <string>月</string>
+      <string>雨</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660004" questionLv="7" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>江南</string>
+      <string>東北</string>
+      <string>西北</string>
+      <string>華北</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660005" questionLv="7" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>子孫</string>
+      <string>孝子</string>
+      <string>基友</string>
+      <string>親朋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660006" questionLv="7" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>青青</string>
+      <string>紅紅</string>
+      <string>黃黃</string>
+      <string>黑黑</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350660007" questionLv="7" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>讀書</string>
+      <string>霓虹</string>
+      <string>白熾</string>
+      <string>探照</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661001" questionLv="8" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>1889年</string>
+      <string>1949年</string>
+      <string>1987年</string>
+      <string>1840年</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661002" questionLv="8" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>美國</string>
+      <string>德國</string>
+      <string>英國</string>
+      <string>意大利</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661003" questionLv="8" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>1995年</string>
+      <string>1949年</string>
+      <string>1987年</string>
+      <string>2001年</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661004" questionLv="8" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>馬克思</string>
+      <string>列寧</string>
+      <string>毛澤東</string>
+      <string>鄧小平</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661005" questionLv="8" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>電燈</string>
+      <string>造紙術</string>
+      <string>火藥</string>
+      <string>指南針</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661006" questionLv="8" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>鋼鐵工人</string>
+      <string>礦工</string>
+      <string>軍人</string>
+      <string>警察</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661007" questionLv="8" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>8小時</string>
+      <string>6小時</string>
+      <string>9小時</string>
+      <string>7小時</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661008" questionLv="8" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>用工之日</string>
+      <string>簽訂合同之日</string>
+      <string>上級批準設立之日</string>
+      <string>領取工資之日</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661009" questionLv="8" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>勞動報酬</string>
+      <string>試用期</string>
+      <string>保守商業秘密</string>
+      <string>福利待遇</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661010" questionLv="8" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>違約金</string>
+      <string>賠償金</string>
+      <string>補償金</string>
+      <string>損失費</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661011" questionLv="8" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>應當</string>
+      <string>不必</string>
+      <string>不得</string>
+      <string>可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661012" questionLv="8" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>粒粒皆辛苦</string>
+      <string>栗栗皆辛苦</string>
+      <string>小雞燉蘑菇</string>
+      <string>農夫最辛苦</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661013" questionLv="8" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蒜</string>
+      <string>麥</string>
+      <string>稷</string>
+      <string>黍</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661014" questionLv="8" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>守株待兔</string>
+      <string>借坡下驢</string>
+      <string>刻舟求劍</string>
+      <string>亡羊補牢</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661015" questionLv="8" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>秋收萬顆子</string>
+      <string>一歲一枯榮</string>
+      <string>低頭思故鄉</string>
+      <string>四海無閑田</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661016" questionLv="8" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>16歲</string>
+      <string>12歲</string>
+      <string>14歲</string>
+      <string>18歲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661017" questionLv="8" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>相思情</string>
+      <string>碧落淚</string>
+      <string>骨肉相連</string>
+      <string>竹林深處</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661018" questionLv="8" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>秋收萬顆子</string>
+      <string>一歲一枯榮</string>
+      <string>低頭思故鄉</string>
+      <string>四海無閑田</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661019" questionLv="8" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>16歲</string>
+      <string>12歲</string>
+      <string>14歲</string>
+      <string>18歲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350661020" questionLv="8" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>相思情</string>
+      <string>碧落淚</string>
+      <string>骨肉相連</string>
+      <string>竹林深處</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662001" questionLv="9" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>炸藥包</string>
+      <string>小書包</string>
+      <string>大紅包</string>
+      <string>LV包</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662002" questionLv="9" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>書到用時方恨少</string>
+      <string>書中自有黃金屋</string>
+      <string>書山有路勤為徑</string>
+      <string>書中自有顏如玉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662003" questionLv="9" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>窗外班主任的凝視</string>
+      <string>做不完的習題</string>
+      <string>不及格的試卷</string>
+      <string>看不懂的公式</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662004" questionLv="9" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>班主任語錄</string>
+      <string>莎士比亞語錄</string>
+      <string>蘇格拉底語錄</string>
+      <string>亞里士多德語錄</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662005" questionLv="9" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>特困生</string>
+      <string>瞌睡蟲</string>
+      <string>差等生</string>
+      <string>掛科生</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662006" questionLv="9" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>開學前一天</string>
+      <string>放假第一天</string>
+      <string>考試前一天</string>
+      <string>畢業第一天</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662007" questionLv="9" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>我講過的都是重點</string>
+      <string>難點</string>
+      <string>易錯點</string>
+      <string>必考點</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662008" questionLv="9" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>這也能證明</string>
+      <string>證明不出來</string>
+      <string>直接證明</string>
+      <string>間接證明</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662009" questionLv="9" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《開學》</string>
+      <string>《高考》</string>
+      <string>《2012》</string>
+      <string>《諾亞方舟》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662010" questionLv="9" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>荀子</string>
+      <string>老子</string>
+      <string>孔子</string>
+      <string>莊子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662011" questionLv="9" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>陶淵明</string>
+      <string>謝靈運</string>
+      <string>歐陽修</string>
+      <string>李清照</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662012" questionLv="9" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《詩經》</string>
+      <string>《楚辭》</string>
+      <string>《論語》</string>
+      <string>《史記》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662013" questionLv="9" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>杜甫</string>
+      <string>李白</string>
+      <string>白居易</string>
+      <string>陸游</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662014" questionLv="9" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>孔雀東南飛</string>
+      <string>長恨歌</string>
+      <string>正氣歌</string>
+      <string>洛神賦</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662015" questionLv="9" templatename="题目15" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>曹操</string>
+      <string>劉邦</string>
+      <string>項羽</string>
+      <string>劉備</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662016" questionLv="9" templatename="题目16" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>四言</string>
+      <string>五言</string>
+      <string>七言</string>
+      <string>九言</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662017" questionLv="9" templatename="题目17" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《戰狼2》</string>
+      <string>《美人魚》</string>
+      <string>《速度與激情8》</string>
+      <string>《捉妖記》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662018" questionLv="9" templatename="题目18" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>項羽</string>
+      <string>劉邦</string>
+      <string>韓信</string>
+      <string>呂布</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662019" questionLv="9" templatename="题目19" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘭亭</string>
+      <string>愛晚亭</string>
+      <string>陶然亭</string>
+      <string>醉翁亭</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662020" questionLv="9" templatename="题目20" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>嘿嘿嘿</string>
+      <string>哈哈哈</string>
+      <string>嘻嘻嘻</string>
+      <string>呵呵呵</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662021" questionLv="9" templatename="题目21" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>黃河流域</string>
+      <string>長江流域</string>
+      <string>松花江流域</string>
+      <string>湘江流域</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662022" questionLv="9" templatename="题目22" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>西林寺</string>
+      <string>東林寺</string>
+      <string>少林寺</string>
+      <string>金剛寺</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662023" questionLv="9" templatename="题目23" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>魯國</string>
+      <string>秦國</string>
+      <string>趙國</string>
+      <string>楚國</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662024" questionLv="9" templatename="题目24" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>李賀</string>
+      <string>白居易</string>
+      <string>李商隱</string>
+      <string>劉禹錫</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662025" questionLv="9" templatename="题目25" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>王勃</string>
+      <string>歐陽修</string>
+      <string>柳宗元</string>
+      <string>王安石</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662026" questionLv="9" templatename="题目26" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>大學</string>
+      <string>論語</string>
+      <string>道德經</string>
+      <string>春秋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662027" questionLv="9" templatename="题目27" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《山海經》</string>
+      <string>《莊子》</string>
+      <string>《呂氏春秋》</string>
+      <string>《淮南子》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662028" questionLv="9" templatename="题目28" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>《離騷》</string>
+      <string>《天問》</string>
+      <string>《湘夫人》</string>
+      <string>《招魂》</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662029" questionLv="9" templatename="题目29" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>辛棄疾</string>
+      <string>岳飛</string>
+      <string>蘇軾</string>
+      <string>陸游</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662030" questionLv="9" templatename="题目30" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>賈誼</string>
+      <string>蘇洵</string>
+      <string>蘇軾</string>
+      <string>司馬相如</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662031" questionLv="9" templatename="题目31" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>吳道子</string>
+      <string>顧愷之</string>
+      <string>韓干</string>
+      <string>張擇端</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662032" questionLv="9" templatename="题目32" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>靈芝</string>
+      <string>人參</string>
+      <string>冬蟲夏草</string>
+      <string>田七</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662033" questionLv="9" templatename="题目33" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>菊花臺</string>
+      <string>廣陵散</string>
+      <string>十面埋伏</string>
+      <string>平沙落雁</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662034" questionLv="9" templatename="题目34" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>金庸</string>
+      <string>古龍</string>
+      <string>梁羽生</string>
+      <string>溫瑞安</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662035" questionLv="9" templatename="题目35" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>蘇武牧羊</string>
+      <string>文姬歸漢</string>
+      <string>霸王別姬</string>
+      <string>楚漢相爭</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662036" questionLv="9" templatename="题目36" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>南昌</string>
+      <string>開封</string>
+      <string>西安</string>
+      <string>洛陽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662037" questionLv="9" templatename="题目37" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>楊貴妃</string>
+      <string>西施</string>
+      <string>王昭君</string>
+      <string>甄宓</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662038" questionLv="9" templatename="题目38" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>中元節</string>
+      <string>下元節</string>
+      <string>上元節</string>
+      <string>七夕節</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662039" questionLv="9" templatename="题目39" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>學校</string>
+      <string>醫院</string>
+      <string>鬧市</string>
+      <string>商鋪</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662040" questionLv="9" templatename="题目40" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>面南為尊，面北為卑</string>
+      <string>面北為尊，面南為卑</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662041" questionLv="9" templatename="题目41" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>教導主任</string>
+      <string>體育老師</string>
+      <string>音樂老師</string>
+      <string>好基友</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662042" questionLv="9" templatename="题目42" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>叫家長</string>
+      <string>出去玩</string>
+      <string>寫作業</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662043" questionLv="9" templatename="题目43" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>在一起</string>
+      <string>放開她，讓我來</string>
+      <string>燒死異性戀</string>
+      <string>不要答應她</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662044" questionLv="9" templatename="题目44" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>翻墻頭</string>
+      <string>林蔭小路</string>
+      <string>學校大門</string>
+      <string>無路可走</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662045" questionLv="9" templatename="题目45" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>班主任</string>
+      <string>黑貓警長</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662046" questionLv="9" templatename="题目46" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>心里只有學習</string>
+      <string>女同學</string>
+      <string>好基友</string>
+      <string>夢幻誅仙</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662047" questionLv="9" templatename="题目47" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>沒找到女朋友</string>
+      <string>掛科</string>
+      <string>沒有玩夢幻誅仙</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662048" questionLv="9" templatename="题目48" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>我選擇狗帶</string>
+      <string>女朋友</string>
+      <string>綠野仙蹤</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662049" questionLv="9" templatename="题目49" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>長得帥</string>
+      <string>成績好</string>
+      <string>對她好</string>
+      <string>陪她玩</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662050" questionLv="9" templatename="题目50" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>好基友</string>
+      <string>自習室</string>
+      <string>圖書館</string>
+      <string>食堂</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662051" questionLv="9" templatename="题目51" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>提醒同學老師來了</string>
+      <string>假裝沒看到</string>
+      <string>幸災樂禍</string>
+      <string>趕緊看書</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662052" questionLv="9" templatename="题目52" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>情人節</string>
+      <string>兒童節</string>
+      <string>愚人節</string>
+      <string>中秋節</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350662053" questionLv="9" templatename="题目53" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>寒假</string>
+      <string>開學</string>
+      <string>寫作業</string>
+      <string>考試</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663000" questionLv="10" templatename="题目1" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>水仙</string>
+      <string>睡蓮</string>
+      <string>綠蘿</string>
+      <string>風信子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663001" questionLv="10" templatename="题目2" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>日</string>
+      <string>月</string>
+      <string>星</string>
+      <string>餅</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663002" questionLv="10" templatename="题目3" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>古</string>
+      <string>景</string>
+      <string>月</string>
+      <string>工</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663003" questionLv="10" templatename="题目4" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>玉米</string>
+      <string>地瓜</string>
+      <string>土豆</string>
+      <string>大蔥</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663004" questionLv="10" templatename="题目5" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>雨傘</string>
+      <string>涼亭</string>
+      <string>山峰</string>
+      <string>手機</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663005" questionLv="10" templatename="题目6" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>高朋滿座</string>
+      <string>觥籌交錯</string>
+      <string>鼓樂齊鳴</string>
+      <string>單刀赴會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663006" questionLv="10" templatename="题目7" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>半路出家</string>
+      <string>半途而廢</string>
+      <string>立地成佛</string>
+      <string>回頭是岸</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663007" questionLv="10" templatename="题目8" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>辛棄疾</string>
+      <string>蘇軾</string>
+      <string>杜甫</string>
+      <string>李商隱</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663008" questionLv="10" templatename="题目9" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>月上柳梢頭</string>
+      <string>一夜魚龍舞</string>
+      <string>月滿柳梢頭</string>
+      <string>一夜魚龍鼓</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663009" questionLv="10" templatename="题目10" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>北大</string>
+      <string>清華</string>
+      <string>廈大</string>
+      <string>人大</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663010" questionLv="10" templatename="题目11" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>春不見</string>
+      <string>金銀花</string>
+      <string>山藥</string>
+      <string>天冬</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663011" questionLv="10" templatename="题目12" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>學而不厭</string>
+      <string>不求甚解</string>
+      <string>誨人不倦</string>
+      <string>有教無類</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663012" questionLv="10" templatename="题目13" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>桌子</string>
+      <string>杯子</string>
+      <string>碗</string>
+      <string>筷子</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+  <mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal id="350663013" questionLv="10" templatename="题目14" useTimeDay="0" useTimeMonth="0" useTimeYear="0">
+    <answerList>
+      <string>火柴</string>
+      <string>打火機</string>
+      <string>香煙</string>
+      <string>紙巾</string>
+    </answerList>
+  </mzm.gsp.question.confbean.KeJuQuestionItemCfgOriginal>
+</data>

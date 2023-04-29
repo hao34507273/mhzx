@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.item.confbean.SGreetingCardItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" icon="90108" id="217200000" isProprietary="true" name="母親節賀卡" namecolor="4" pilemax="1" rewardId="7907" sellSilver="1000" sort="1" type="123" useLevel="30"/>
+  <mzm.gsp.item.confbean.SGreetingCardItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" icon="90108" id="217200001" isProprietary="true" name="父親節賀卡" namecolor="4" pilemax="1" rewardId="7907" sellSilver="1000" sort="2" type="123" useLevel="30"/>
+  <mzm.gsp.item.confbean.SGreetingCardItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" icon="90108" id="217200002" isProprietary="true" name="中秋賀卡" namecolor="4" pilemax="1" rewardId="7501" sellSilver="1000" sort="3" type="123" useLevel="30"/>
+</data>

@@ -1,0 +1,125 @@
+<data>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillCountInFight" id="121400000">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillMaxInRound" id="121400001">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillCriticalCountInRound" id="121400002">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillBeDodgeCountInFight" id="121400003">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillTargetHpLessCountInFight" id="121400004">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillRebornCountInFight" id="121400005">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillContinuousAddBuff" id="121400006">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillReleaseInFight" id="121400007">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillAttackTimesInFight" id="121400008">
+    <params/>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillCountInFight" id="121401000">
+    <params>
+      <int>110001007</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillCriticalCountInRound" id="121401001">
+    <params>
+      <int>110001002</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillMaxInRound" id="121401002">
+    <params>
+      <int>110002005</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillBeDodgeCountInFight" id="121401003">
+    <params>
+      <int>110002002</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillMaxInRound" id="121401004">
+    <params>
+      <int>110006005</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillCriticalCountInRound" id="121401005">
+    <params>
+      <int>110003002</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillTargetHpLessCountInFight" id="121401006">
+    <params>
+      <int>110006009</int>
+      <int>4</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillTargetHpLessCountInFight" id="121401007">
+    <params>
+      <int>110003009</int>
+      <int>4</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillMaxInRound" id="121401008">
+    <params>
+      <int>110006210</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillKillRebornCountInFight" id="121401009">
+    <params>
+      <int>110006203</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillReleaseInFight" id="121401010">
+    <params>
+      <int>110001002</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillAttackTimesInFight" id="121401011">
+    <params>
+      <int>110006303</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillContinuousAddBuff" id="121401012">
+    <params>
+      <int>110005003</int>
+      <int>104</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillContinuousAddBuff" id="121401013">
+    <params>
+      <int>110004007</int>
+      <int>127</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillCriticalCountInRound" id="121401014">
+    <params>
+      <int>110004003</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillContinuousAddBuff" id="121401015">
+    <params>
+      <int>110005004</int>
+      <int>104</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillLifeLinkDoubleKill" id="121401016">
+    <params>
+      <int>0</int>
+      <int>33</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+  <mzm.gsp.fight.confbean.SSkillLogCfg classname="LogSkillMirrorInFight" id="121401017">
+    <params>
+      <int>110006407</int>
+    </params>
+  </mzm.gsp.fight.confbean.SSkillLogCfg>
+</data>

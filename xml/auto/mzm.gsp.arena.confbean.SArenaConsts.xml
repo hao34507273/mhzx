@@ -1,0 +1,29 @@
+<root>
+<row name="Activityid" value="350000021"/>
+<row name="ControllerIn" value="701103200"/>
+<row name="ActivityMap" value="330000920"/>
+<row name="LeaveMap" value="330000001"/>
+<row name="PrepareAward" value="2400"/>
+<row name="PrepareAwardMinutes" value="1"/>
+<row name="InitScore" value="0"/>
+<row name="InitActionPoint" value="150"/>
+<row name="DeductActionPointWhenLose" value="50"/>
+<row name="WinAward" value="2401"/>
+<row name="LoseAward" value="2402"/>
+<row name="WinTimesAwardList">
+<mzm.gsp.arena.confbean.SWinTimesAward award="2404" winTimes="1"/>
+<mzm.gsp.arena.confbean.SWinTimesAward award="2405" winTimes="3"/>
+</row>
+<row name="ELO_K" value="32"/>
+<row name="ChartPageSize" value="100"/>
+<row name="ChartCapacity" value="100"/>
+<row name="MatchInterval" value="90"/>
+<row name="TopNumber" value="12"/>
+<row name="TopAppellation" value="490100200"/>
+<row name="TopMail" value="340001500"/>
+<row name="WinCampAward" value="510700000"/>
+<row name="PrepareStageMinutes" value="5"/>
+<row name="Match1StageMinutes" value="30"/>
+<row name="ShutdownMatchBeforeEndMinutes" value="3"/>
+<row name="EarlyEndMail" value="340009020"/>
+</root>

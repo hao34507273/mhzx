@@ -1,0 +1,49 @@
+<data>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="0" exchange_times_limit="0" id="342700000" itemId="210800001" itemNum="1" time_limit_cfg_id="351702052">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400000" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400001" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400002" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400003" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400004" itemNum="1"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="0" exchange_times_limit="0" id="342700002" itemId="212300000" itemNum="1" time_limit_cfg_id="351702052">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400008" itemNum="1"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="2" exchange_times_limit="10" id="342700003" itemId="215600111" itemNum="1" time_limit_cfg_id="351708071">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400010" itemNum="15"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400011" itemNum="15"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400012" itemNum="15"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="2" exchange_times_limit="10" id="342700004" itemId="212902003" itemNum="1" time_limit_cfg_id="351708071">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400009" itemNum="5"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="2" exchange_times_limit="10" id="342700005" itemId="215600112" itemNum="1" time_limit_cfg_id="351708085">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400016" itemNum="15"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400014" itemNum="15"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400015" itemNum="15"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="2" exchange_times_limit="10" id="342700006" itemId="212902004" itemNum="1" time_limit_cfg_id="351708085">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400013" itemNum="5"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+  <mzm.gsp.item.confbean.SExchangeItemCfg daily_exchange_times_limit="0" exchange_times_limit="0" id="342700007" itemId="210800002" itemNum="1" time_limit_cfg_id="351702052">
+    <needItemList>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400017" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400018" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400019" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400020" itemNum="1"/>
+      <mzm.gsp.item.confbean.NeedItemId2Num itemId="213400021" itemNum="1"/>
+    </needItemList>
+  </mzm.gsp.item.confbean.SExchangeItemCfg>
+</data>

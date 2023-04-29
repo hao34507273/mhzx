@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangBuildDonateCfg donateSilver="75000" id="411100000" redeemBangGong="5" removeLevelUpM="15" templatename=""/>
+  <mzm.gsp.gang.confbean.SGangBuildDonateCfg donateSilver="150000" id="411100001" redeemBangGong="10" removeLevelUpM="30" templatename=""/>
+  <mzm.gsp.gang.confbean.SGangBuildDonateCfg donateSilver="300000" id="411100002" redeemBangGong="20" removeLevelUpM="60" templatename=""/>
+  <mzm.gsp.gang.confbean.SGangBuildDonateCfg donateSilver="600000" id="411100003" redeemBangGong="40" removeLevelUpM="120" templatename=""/>
+</data>

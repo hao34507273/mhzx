@@ -1,0 +1,58 @@
+<data>
+  <mzm.gsp.homeland.confbean.HomelandCfg id="840000000" mapId="330001010">
+    <childXs>
+      <int>961</int>
+      <int>1023</int>
+      <int>1083</int>
+      <int>1202</int>
+    </childXs>
+    <childYs>
+      <int>816</int>
+      <int>848</int>
+      <int>878</int>
+      <int>939</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.HomelandCfg>
+  <mzm.gsp.homeland.confbean.HomelandCfg id="840000001" mapId="330001011">
+    <childXs>
+      <int>903</int>
+      <int>999</int>
+      <int>1075</int>
+      <int>1166</int>
+    </childXs>
+    <childYs>
+      <int>720</int>
+      <int>764</int>
+      <int>803</int>
+      <int>856</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.HomelandCfg>
+  <mzm.gsp.homeland.confbean.HomelandCfg id="840000002" mapId="330001012">
+    <childXs>
+      <int>815</int>
+      <int>913</int>
+      <int>1006</int>
+      <int>1105</int>
+    </childXs>
+    <childYs>
+      <int>735</int>
+      <int>753</int>
+      <int>839</int>
+      <int>924</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.HomelandCfg>
+  <mzm.gsp.homeland.confbean.HomelandCfg id="840000003" mapId="330001014">
+    <childXs>
+      <int>711</int>
+      <int>854</int>
+      <int>942</int>
+      <int>1055</int>
+    </childXs>
+    <childYs>
+      <int>765</int>
+      <int>827</int>
+      <int>882</int>
+      <int>984</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.HomelandCfg>
+</data>

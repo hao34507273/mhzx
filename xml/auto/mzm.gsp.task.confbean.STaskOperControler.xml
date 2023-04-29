@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000202" operType="2" teamType="3">
+    <controlerIds>
+      <int>701101200</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000203" operType="2" teamType="3">
+    <controlerIds>
+      <int>701101201</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000204" operType="2" teamType="3">
+    <controlerIds>
+      <int>701101300</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000206" operType="2" teamType="3">
+    <controlerIds>
+      <int>701101301</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000212" operType="1" teamType="3">
+    <controlerIds>
+      <int>701101201</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+  <mzm.gsp.task.confbean.STaskOperControler id="30000213" operType="2" teamType="3">
+    <controlerIds>
+      <int>701101302</int>
+    </controlerIds>
+  </mzm.gsp.task.confbean.STaskOperControler>
+</data>

@@ -1,0 +1,184 @@
+<data>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="0" fixOnePointNeedSilver="62" id="220400000" inheritNeedSilver="1200" qilingMaxLevel="0" refreshHunCostItemId="210100102" refreshHunCostItemNum="2" transferHunNeedItemNum="1" transferHunNeedSilver="1200" usePoint="400">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="10" fixOnePointNeedSilver="78" id="220400001" inheritNeedSilver="1200" qilingMaxLevel="0" refreshHunCostItemId="210100102" refreshHunCostItemNum="2" transferHunNeedItemNum="1" transferHunNeedSilver="1200" usePoint="500">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="20" fixOnePointNeedSilver="95" id="220400002" inheritNeedSilver="1800" qilingMaxLevel="9" refreshHunCostItemId="210100102" refreshHunCostItemNum="2" transferHunNeedItemNum="1" transferHunNeedSilver="1800" usePoint="600">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="30" fixOnePointNeedSilver="111" id="220400003" inheritNeedSilver="2400" qilingMaxLevel="9" refreshHunCostItemId="210100102" refreshHunCostItemNum="2" transferHunNeedItemNum="1" transferHunNeedSilver="2400" usePoint="700">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="40" fixOnePointNeedSilver="128" id="220400004" inheritNeedSilver="4000" qilingMaxLevel="12" refreshHunCostItemId="210100102" refreshHunCostItemNum="2" transferHunNeedItemNum="2" transferHunNeedSilver="4000" usePoint="800">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="2"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="50" fixOnePointNeedSilver="144" id="220400005" inheritNeedSilver="7600" qilingMaxLevel="15" refreshHunCostItemId="210100102" refreshHunCostItemNum="3" transferHunNeedItemNum="3" transferHunNeedSilver="7600" usePoint="900">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="3"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="3"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="6"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="60" fixOnePointNeedSilver="161" id="220400006" inheritNeedSilver="18000" qilingMaxLevel="18" refreshHunCostItemId="210100102" refreshHunCostItemNum="3" transferHunNeedItemNum="4" transferHunNeedSilver="18000" usePoint="1000">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="3"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="3"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="6"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="70" fixOnePointNeedSilver="177" id="220400007" inheritNeedSilver="32000" qilingMaxLevel="21" refreshHunCostItemId="210100102" refreshHunCostItemNum="4" transferHunNeedItemNum="5" transferHunNeedSilver="32000" usePoint="1100">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="4"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="8"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="80" fixOnePointNeedSilver="194" id="220400008" inheritNeedSilver="72000" qilingMaxLevel="24" refreshHunCostItemId="210100102" refreshHunCostItemNum="5" transferHunNeedItemNum="6" transferHunNeedSilver="72000" usePoint="1200">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="90" fixOnePointNeedSilver="210" id="220400009" inheritNeedSilver="160000" qilingMaxLevel="27" refreshHunCostItemId="210100102" refreshHunCostItemNum="5" transferHunNeedItemNum="7" transferHunNeedSilver="160000" usePoint="1300">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="100" fixOnePointNeedSilver="227" id="220400010" inheritNeedSilver="240000" qilingMaxLevel="30" refreshHunCostItemId="210100102" refreshHunCostItemNum="5" transferHunNeedItemNum="8" transferHunNeedSilver="240000" usePoint="1400">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="110" fixOnePointNeedSilver="243" id="220400011" inheritNeedSilver="320000" qilingMaxLevel="30" refreshHunCostItemId="210100102" refreshHunCostItemNum="5" transferHunNeedItemNum="9" transferHunNeedSilver="320000" usePoint="1500">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+  <mzm.gsp.item.confbean.SEquipTransferInherit equipmentLevel="120" fixOnePointNeedSilver="260" id="220400012" inheritNeedSilver="400000" qilingMaxLevel="30" refreshHunCostItemId="210100102" refreshHunCostItemNum="5" transferHunNeedItemNum="10" transferHunNeedSilver="400000" usePoint="1600">
+    <moneytype2num>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+      <mzm.gsp.item.confbean.MoneyType2Num moneyType="0" needNum="0"/>
+    </moneytype2num>
+    <lockHunNeedItemInfos>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100100" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="5"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+      <mzm.gsp.item.confbean.LockHunNeedItemInfo itemId="210100101" itemNum="10"/>
+    </lockHunNeedItemInfos>
+  </mzm.gsp.item.confbean.SEquipTransferInherit>
+</data>

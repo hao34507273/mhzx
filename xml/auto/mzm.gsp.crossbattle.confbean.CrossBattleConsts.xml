@@ -1,0 +1,25 @@
+<root>
+<row name="CURRENT_ACTIVITY_CFG_ID" value="350020451"/>
+<row name="ENTER_ROUND_ROBIN_MAP_TEAM_MEMBER_NUM" value="5"/>
+<row name="CANVASS_COOLDOWN_TIME_IN_SECOND" value="300"/>
+<row name="REGISTER_SUCCESS_EFFECT_ID" value="702020176"/>
+<row name="ROUND_ROBIN_WIN_EFFECT_ID" value="702020178"/>
+<row name="ROUND_ROBIN_LOSE_EFFECT_ID" value="702020177"/>
+<row name="OWN_CORPS_TITLE_COLOR_ID" value="701303005"/>
+<row name="OTHER_CORPS_TITLE_COLOR_ID" value="701303006"/>
+<row name="cross_battle_session" value="三"/>
+<row name="cross_battle_session_num" value="3"/>
+<row name="cross_battle_selection_win_effect_id" value="702020182"/>
+<row name="cross_battle_selection_lose_effect_id" value="702020181"/>
+<row name="cross_battle_final_win_effect_id" value="702020180"/>
+<row name="cross_battle_final_lose_effect_id" value="702020179"/>
+<row name="cross_battle_match_wait_effect_id" value="702020203"/>
+<row name="cross_battle_register_tips" value="701609970"/>
+<row name="cross_battle_vote_tips" value="701609971"/>
+<row name="cross_battle_round_tips" value="701609973"/>
+<row name="cross_battle_divide_tips" value="701609972"/>
+<row name="cross_battle_point_tips" value="701609974"/>
+<row name="cross_battle_selection_tips" value="701609975"/>
+<row name="cross_battle_final_tips" value="701609976"/>
+<row name="DAILY_BET_TIMES_UPPER_LIMIT" value="10"/>
+</root>

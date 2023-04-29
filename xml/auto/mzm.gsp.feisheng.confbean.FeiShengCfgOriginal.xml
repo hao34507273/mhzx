@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.feisheng.confbean.FeiShengCfgOriginal activity_cfg_id="350000044" activity_map_cfg_id="330000929" activity_map_transfer_x="763" activity_map_transfer_y="920" award_id="7410" complete_effect_id="702020123" desc="119级觉醒" effect_coord_x="2298" effect_coord_y="1346" id="297000000" level="119" moduleid="274" not_complete_effect_id="702020122" npc_controller_id="701100022" serverlevel="115" task_graph_id="30000033" ui_complete_effect_id="702020124">
+    <sub_activity_cfg_ids>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000045"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000046"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000047"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000048"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000049"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000050"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000051"/>
+      <mzm.gsp.feisheng.confbean.SubActivityCfgid sub_activity_cfg_id="350000052"/>
+    </sub_activity_cfg_ids>
+  </mzm.gsp.feisheng.confbean.FeiShengCfgOriginal>
+</data>

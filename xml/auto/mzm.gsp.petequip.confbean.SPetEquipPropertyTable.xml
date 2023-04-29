@@ -1,0 +1,280 @@
+<data>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100000" templatename="一级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="9" propTypeLow="5" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="13" propTypeLow="10" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="15" propTypeLow="14" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="9" propTypeLow="5" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="13" propTypeLow="10" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="15" propTypeLow="14" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="5" propTypeLow="3" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="8" propTypeLow="6" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="10" propTypeLow="9" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100001" templatename="二级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="27" propTypeLow="15" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="39" propTypeLow="28" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="45" propTypeLow="40" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="27" propTypeLow="15" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="39" propTypeLow="28" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="45" propTypeLow="40" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="18" propTypeLow="10" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="26" propTypeLow="19" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="30" propTypeLow="27" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100002" templatename="三级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="57" propTypeLow="45" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="69" propTypeLow="58" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="75" propTypeLow="70" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="57" propTypeLow="45" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="69" propTypeLow="58" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="75" propTypeLow="70" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="38" propTypeLow="30" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="46" propTypeLow="39" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="50" propTypeLow="47" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100003" templatename="四级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="87" propTypeLow="75" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="99" propTypeLow="88" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="105" propTypeLow="100" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="87" propTypeLow="75" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="99" propTypeLow="88" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="105" propTypeLow="100" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="58" propTypeLow="50" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="66" propTypeLow="59" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="70" propTypeLow="67" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100004" templatename="五级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="117" propTypeLow="105" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="129" propTypeLow="118" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="135" propTypeLow="130" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="117" propTypeLow="105" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="129" propTypeLow="118" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="135" propTypeLow="130" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="78" propTypeLow="70" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="86" propTypeLow="79" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="90" propTypeLow="87" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100005" templatename="六级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="147" propTypeLow="135" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="159" propTypeLow="148" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="165" propTypeLow="160" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="147" propTypeLow="135" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="159" propTypeLow="148" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="165" propTypeLow="160" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="98" propTypeLow="90" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="106" propTypeLow="99" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="110" propTypeLow="107" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101000" templatename="一级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="9" propTypeLow="5" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="13" propTypeLow="10" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="15" propTypeLow="14" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="9" propTypeLow="5" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="13" propTypeLow="10" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="15" propTypeLow="14" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="13" propTypeLow="5" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="22" propTypeLow="14" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="27" propTypeLow="23" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101001" templatename="二级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="27" propTypeLow="15" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="39" propTypeLow="28" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="45" propTypeLow="40" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="27" propTypeLow="15" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="39" propTypeLow="28" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="45" propTypeLow="40" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="48" propTypeLow="27" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="70" propTypeLow="49" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="81" propTypeLow="71" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101002" templatename="三级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="57" propTypeLow="45" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="69" propTypeLow="58" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="75" propTypeLow="70" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="57" propTypeLow="45" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="69" propTypeLow="58" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="75" propTypeLow="70" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="102" propTypeLow="81" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="124" propTypeLow="103" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="135" propTypeLow="125" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101003" templatename="四级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="87" propTypeLow="75" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="99" propTypeLow="88" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="105" propTypeLow="100" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="87" propTypeLow="75" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="99" propTypeLow="88" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="105" propTypeLow="100" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="156" propTypeLow="135" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="178" propTypeLow="157" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="189" propTypeLow="179" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101004" templatename="五级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="117" propTypeLow="105" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="129" propTypeLow="118" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="135" propTypeLow="130" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="117" propTypeLow="105" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="129" propTypeLow="118" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="135" propTypeLow="130" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="210" propTypeLow="189" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="232" propTypeLow="211" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="243" propTypeLow="233" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101005" templatename="六级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="147" propTypeLow="135" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="159" propTypeLow="148" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="165" propTypeLow="160" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="147" propTypeLow="135" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="159" propTypeLow="148" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="165" propTypeLow="160" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="264" propTypeLow="243" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="286" propTypeLow="265" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="297" propTypeLow="287" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100006" templatename="七级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="347" propTypeLow="335" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="359" propTypeLow="348" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="365" propTypeLow="360" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="347" propTypeLow="335" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="359" propTypeLow="348" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="365" propTypeLow="360" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="564" propTypeLow="543" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="586" propTypeLow="565" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="597" propTypeLow="587" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable> 
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101006" templatename="七级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="347" propTypeLow="335" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="359" propTypeLow="348" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="365" propTypeLow="360" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="347" propTypeLow="335" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="359" propTypeLow="348" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="365" propTypeLow="360" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="198" propTypeLow="190" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="206" propTypeLow="199" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="210" propTypeLow="207" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>	  
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>  
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100007" templatename="八级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="547" propTypeLow="535" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="559" propTypeLow="548" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="565" propTypeLow="560" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="547" propTypeLow="535" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="559" propTypeLow="548" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="565" propTypeLow="560" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="864" propTypeLow="843" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="886" propTypeLow="865" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="897" propTypeLow="887" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable> 
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101007" templatename="八级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="547" propTypeLow="535" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="559" propTypeLow="548" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="565" propTypeLow="560" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="547" propTypeLow="535" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="559" propTypeLow="548" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="565" propTypeLow="560" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="298" propTypeLow="290" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="306" propTypeLow="299" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="310" propTypeLow="307" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>	  
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>  
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100008" templatename="九级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="1600" propTypeLow="1500" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="1600" propTypeLow="1500" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="1600" propTypeLow="1500" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="1600" propTypeLow="1500" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="1600" propTypeLow="1500" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="1600" propTypeLow="1500" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="6500" propTypeLow="6000" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="6500" propTypeLow="6000" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="6500" propTypeLow="6000" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable> 
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101008" templatename="九级项圈">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="1747" propTypeLow="1735" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="1759" propTypeLow="1748" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="1765" propTypeLow="1760" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="1747" propTypeLow="1735" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="1759" propTypeLow="1748" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="1765" propTypeLow="1760" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="1398" propTypeLow="1390" propTypeWight="7000"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="1406" propTypeLow="1399" propTypeWight="2500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="1410" propTypeLow="1407" propTypeWight="500"/>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="0" propTypeHigh="0" propTypeLow="0" propTypeWight="0"/>	  
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>   
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230100009" templatename="十级项圈">
+    <propList>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="88888" propTypeLow="50001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="99999" propTypeLow="50002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="7" propTypeHigh="100000" propTypeLow="50003" propTypeWight="2000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="88888" propTypeLow="50001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="99999" propTypeLow="50002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="9" propTypeHigh="100000" propTypeLow="50003" propTypeWight="2000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="88888" propTypeLow="50001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="99999" propTypeLow="50002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="24" propTypeHigh="100000" propTypeLow="50003" propTypeWight="2000"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+  <mzm.gsp.petequip.confbean.SPetEquipPropertyTable id="230101009" templatename="十级头盔">
+    <propList>
+      <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="88888" propTypeLow="50001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="99999" propTypeLow="50002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="8" propTypeHigh="100000" propTypeLow="50003" propTypeWight="2000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="88888" propTypeLow="50001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="99999" propTypeLow="50002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="10" propTypeHigh="100000" propTypeLow="50003" propTypeWight="2000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="4888888" propTypeLow="3000001" propTypeWight="5000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="4999999" propTypeLow="3000002" propTypeWight="3000"/>
+	  <mzm.gsp.petequip.confbean.SPetEquipPropBean propType="1" propTypeHigh="5000000" propTypeLow="3000003" propTypeWight="2000"/>
+    </propList>
+  </mzm.gsp.petequip.confbean.SPetEquipPropertyTable>
+</data>

@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.lonngboatrace.confbean.SLonngBoatRacePhaseCfg aIAccuracy="80" commandCount="1" commandTime="3" id="951000000" maxSpeed="10" minSpeed="5" phaseNo="1" prepareTime="10" raceId="951500000" roundCount="3" speedDownUnit="0.5" speedUpUnit="0.5" timesCount="5" tipTime="2"/>
+  <mzm.gsp.lonngboatrace.confbean.SLonngBoatRacePhaseCfg aIAccuracy="70" commandCount="5" commandTime="7" id="951000001" maxSpeed="15" minSpeed="5" phaseNo="2" prepareTime="5" raceId="951500000" roundCount="1" speedDownUnit="1" speedUpUnit="1" timesCount="5" tipTime="2"/>
+  <mzm.gsp.lonngboatrace.confbean.SLonngBoatRacePhaseCfg aIAccuracy="80" commandCount="1" commandTime="3" id="951000002" maxSpeed="10" minSpeed="5" phaseNo="1" prepareTime="10" raceId="951500001" roundCount="3" speedDownUnit="0.5" speedUpUnit="0.5" timesCount="5" tipTime="2"/>
+  <mzm.gsp.lonngboatrace.confbean.SLonngBoatRacePhaseCfg aIAccuracy="70" commandCount="5" commandTime="7" id="951000003" maxSpeed="15" minSpeed="5" phaseNo="2" prepareTime="5" raceId="951500001" roundCount="1" speedDownUnit="1" speedUpUnit="1" timesCount="5" tipTime="2"/>
+</data>

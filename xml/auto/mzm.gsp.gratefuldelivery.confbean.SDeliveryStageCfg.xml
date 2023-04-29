@@ -1,0 +1,20 @@
+<data>
+  <mzm.gsp.gratefuldelivery.confbean.SDeliveryStageCfg activityId="350009001">
+    <stages>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="100" rewardId="7902"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="200" rewardId="7903"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="500" rewardId="7904"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="1000" rewardId="7905"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="2000" rewardId="7906"/>
+    </stages>
+  </mzm.gsp.gratefuldelivery.confbean.SDeliveryStageCfg>
+  <mzm.gsp.gratefuldelivery.confbean.SDeliveryStageCfg activityId="350009006">
+    <stages>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="100" rewardId="7902"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="200" rewardId="7903"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="500" rewardId="7904"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="800" rewardId="7905"/>
+      <mzm.gsp.gratefuldelivery.confbean.SStageInformation count="1200" rewardId="7908"/>
+    </stages>
+  </mzm.gsp.gratefuldelivery.confbean.SDeliveryStageCfg>
+</data>

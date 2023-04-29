@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.activity2.confbean.STCommonVoteCfg activityCfgId="350000500" awardId="7120" awardType="2" idipSwitchId="236" voteCountMax="1" voteNumMaxPerCount="1" voteType="1">
+    <voteSonIds>
+      <int>295200013</int>
+      <int>295200012</int>
+      <int>295200015</int>
+      <int>295200014</int>
+      <int>295200009</int>
+      <int>295200008</int>
+      <int>295200011</int>
+      <int>295200010</int>
+      <int>295200005</int>
+      <int>295200004</int>
+      <int>295200007</int>
+      <int>295200006</int>
+      <int>295200001</int>
+      <int>295200000</int>
+      <int>295200003</int>
+      <int>295200002</int>
+    </voteSonIds>
+  </mzm.gsp.activity2.confbean.STCommonVoteCfg>
+</data>

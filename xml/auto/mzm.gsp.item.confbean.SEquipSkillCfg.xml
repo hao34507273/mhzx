@@ -1,0 +1,678 @@
+<data>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500005">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671401" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671402" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671403" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671404" weight="19100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671405" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671406" weight="20600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671407" weight="21600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500004">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671301" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671302" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671303" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671304" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671305" weight="20600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671306" weight="21100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500007">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500006">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671501" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671502" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671503" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671504" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671505" weight="20600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671506" weight="21600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671507" weight="22600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671508" weight="23600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500001">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671001" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671002" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671003" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671004" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671005" weight="20600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671006" weight="21600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671007" weight="22100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671008" weight="22600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671009" weight="23100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500003">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671201" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671202" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671203" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671204" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671205" weight="20100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671206" weight="21100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671207" weight="22100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500002">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671601" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671602" weight="2000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671603" weight="3000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671604" weight="4000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671605" weight="4200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671606" weight="5200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671607" weight="5700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671608" weight="6200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671609" weight="6700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671610" weight="7200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671611" weight="7700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671612" weight="8200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671613" weight="8700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671614" weight="9200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671615" weight="9700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671616" weight="10200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671617" weight="10700"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671618" weight="11200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671619" weight="11300"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671620" weight="11400"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671621" weight="11500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671622" weight="11600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671623" weight="12100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671624" weight="12600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671625" weight="13100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671626" weight="13600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671627" weight="13900"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671628" weight="14200"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671629" weight="14500"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671630" weight="14600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671631" weight="15600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671101" weight="16600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671102" weight="17600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671103" weight="18600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671104" weight="19600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671105" weight="20100"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671106" weight="20600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671107" weight="21600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="24600"/>	  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661610" weight="25600"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661611" weight="26600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661612" weight="27600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661613" weight="28600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661614" weight="29600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661615" weight="30600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661616" weight="31600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661617" weight="32600"/>		  
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110661618" weight="33600"/>		  
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220500008">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110671999" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>  
+ <!-- 七阶寒冰 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510101">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697616" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697618" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697620" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697622" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697624" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697626" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697628" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697630" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697632" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697634" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697636" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697638" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697640" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697642" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510102">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697727" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510103">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697728" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510104">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697730" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510105">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697729" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510106">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697731" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 七阶烈火 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510201">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697615" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697617" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697619" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697621" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697623" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697625" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697627" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697629" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697631" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697633" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697635" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697637" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697639" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697641" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510202">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697732" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510203">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697733" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510204">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697735" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510205">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697734" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510206">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697736" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 八阶寒冰 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510111">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697644" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697646" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697648" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697650" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697652" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697654" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697656" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697658" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697660" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697662" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697664" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697666" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697668" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697670" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510112">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697737" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510113">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697738" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510114">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697740" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510115">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697739" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510116">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697741" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 八阶烈火 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510211">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697643" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697645" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697647" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697649" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697651" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697653" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697655" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697657" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697659" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697661" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697663" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697665" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697667" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697669" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510212">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697742" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510213">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697743" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510214">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697745" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510215">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697744" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510216">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697746" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 九阶寒冰 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510121">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697672" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697674" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697676" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697678" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697680" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697682" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697684" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697686" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697688" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697690" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697692" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697694" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697696" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697698" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510122">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697747" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510123">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697748" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510124">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697750" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510125">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697749" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510126">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697751" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 九阶烈火 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510221">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697671" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697673" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697675" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697677" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697679" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697681" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697683" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697685" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697687" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697689" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697691" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697693" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697695" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697697" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510222">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697752" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510223">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697753" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510224">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697755" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510225">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697754" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510226">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697756" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 十阶寒冰 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510131">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697700" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697702" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697704" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697706" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697708" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697710" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697712" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697714" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697716" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697718" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697720" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697722" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697724" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697726" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510132">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697757" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510133">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697758" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510134">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697760" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510135">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697759" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510136">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697761" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+ <!-- 十阶烈火 --> 
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510231">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697699" weight="1000"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697701" weight="1001"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697703" weight="1002"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697705" weight="1003"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697707" weight="1004"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697709" weight="1005"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697711" weight="1006"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697713" weight="1007"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697715" weight="1008"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697717" weight="1009"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697719" weight="1010"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697721" weight="1011"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697723" weight="1012"/>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697725" weight="1013"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510232">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697762" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510233">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697763" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510234">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697765" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510235">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697764" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+  <mzm.gsp.item.confbean.SEquipSkillCfg id="220510236">
+    <skills>
+      <mzm.gsp.item.confbean.EquipSkillWeight skillid="110697766" weight="1000"/>
+    </skills>
+  </mzm.gsp.item.confbean.SEquipSkillCfg>
+</data>

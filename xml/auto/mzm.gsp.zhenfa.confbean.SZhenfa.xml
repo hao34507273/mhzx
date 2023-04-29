@@ -1,0 +1,128 @@
+<data>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10016" icon="6034" id="341000000" zhenfaName="兵刃陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000001"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000003"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000008"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10017" icon="6035" id="341000001" zhenfaName="盾禦陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-250" posAInitValue="-1500" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000006"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000007"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000005"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10018" icon="6036" id="341000002" zhenfaName="星羅陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="57" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="58" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000000"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000006"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000008"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10019" icon="6037" id="341000003" zhenfaName="雲湧陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-300" posAInitValue="-1800" posBEffect="47" posBGrowValue="-200" posBInitValue="-1200"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="60" posAGrowValue="-200" posAInitValue="-1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="60" posAGrowValue="-200" posAInitValue="-1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000008"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000006"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000002"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10020" icon="6038" id="341000004" zhenfaName="鷹擊陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="40" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000002"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000001"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000003"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10021" icon="6039" id="341000005" zhenfaName="蛇盤陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="47" posBGrowValue="125" posBInitValue="500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="59" posAGrowValue="-200" posAInitValue="-1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="59" posAGrowValue="-200" posAInitValue="-1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000007"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000000"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000002"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10022" icon="6040" id="341000006" zhenfaName="風疾陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000004"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000007"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000005"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10023" icon="6041" id="341000007" zhenfaName="虎嘯陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="250" posAInitValue="1500" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="57" posAGrowValue="200" posAInitValue="1200" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="47" posAGrowValue="150" posAInitValue="900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000003"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000000"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000004"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+  <mzm.gsp.zhenfa.confbean.SZhenfa backIcon="10024" icon="6042" id="341000008" zhenfaName="龍騰陣">
+    <posAttriList>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="58" posAGrowValue="250" posAInitValue="1500" posBEffect="47" posBGrowValue="-150" posBInitValue="-900"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="55" posAGrowValue="200" posAInitValue="1200" posBEffect="47" posBGrowValue="-125" posBInitValue="-500"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+      <mzm.gsp.zhenfa.confbean.PosAttriBean posAEffect="56" posAGrowValue="-150" posAInitValue="-900" posBEffect="0" posBGrowValue="0" posBInitValue="0"/>
+    </posAttriList>
+    <restrictZhenfaList>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="600" zhenfaId="341000005"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000001"/>
+      <mzm.gsp.zhenfa.confbean.RestrictZhenfaBean effectId="55" restValue="300" zhenfaId="341000004"/>
+    </restrictZhenfaList>
+  </mzm.gsp.zhenfa.confbean.SZhenfa>
+</data>

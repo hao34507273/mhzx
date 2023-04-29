@@ -1,0 +1,413 @@
+<data>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改氣血上限固定值" effectType="1" effectname="修改氣血上限固定值" fenmu="1" fightProp="1" id="700500000">
+    <parameters>
+      <string>modifyhpmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改氣血上限萬分比" effectType="1" effectname="修改氣血上限萬分比" fenmu="10000" fightProp="30" id="700500001">
+    <parameters>
+      <string>modifyHpMaxRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyHP" description="修改氣血當前值固定值" effectType="1" effectname="修改氣血當前值固定值" fenmu="1" fightProp="0" id="700500002">
+    <parameters>
+      <string>hp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyHPRate" description="修改氣血當前值萬分比" effectType="1" effectname="修改氣血當前值萬分比" fenmu="10000" fightProp="0" id="700500003">
+    <parameters>
+      <string>hprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法力上限固定值" effectType="1" effectname="修改法力上限固定值" fenmu="1" fightProp="3" id="700500004">
+    <parameters>
+      <string>mpmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改法力上限萬分比" effectType="1" effectname="修改法力上限萬分比" fenmu="10000" fightProp="31" id="700500005">
+    <parameters>
+      <string>mpmaxrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyMP" description="修改法力當前值固定值" effectType="1" effectname="修改法力當前值固定值" fenmu="1" fightProp="0" id="700500006">
+    <parameters>
+      <string>mp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyMPRate" description="修改法力當前值萬分比" effectType="1" effectname="修改法力當前值萬分比" fenmu="10000" fightProp="0" id="700500007">
+    <parameters>
+      <string>mprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理攻擊固定值" effectType="1" effectname="修改物理攻擊固定值" fenmu="1" fightProp="7" id="700500008">
+    <parameters>
+      <string>phyatk</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改物理攻擊萬分比" effectType="1" effectname="修改物理攻擊萬分比" fenmu="10000" fightProp="33" id="700500009">
+    <parameters>
+      <string>phyatkrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理防禦固定值" effectType="1" effectname="修改物理防禦固定值" fenmu="1" fightProp="8" id="700500010">
+    <parameters>
+      <string>phydef</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改物理防禦萬分比" effectType="1" effectname="修改物理防禦萬分比" fenmu="10000" fightProp="34" id="700500011">
+    <parameters>
+      <string>phydefrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術攻擊固定值" effectType="1" effectname="修改法術攻擊固定值" fenmu="1" fightProp="9" id="700500012">
+    <parameters>
+      <string>mgcatk</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改法術攻擊萬分比" effectType="1" effectname="修改法術攻擊萬分比" fenmu="10000" fightProp="35" id="700500013">
+    <parameters>
+      <string>mgcatkrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術防禦固定值" effectType="1" effectname="修改法術防禦固定值" fenmu="1" fightProp="10" id="700500014">
+    <parameters>
+      <string>mgcdef</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改法術防禦萬分比" effectType="1" effectname="修改法術防禦萬分比" fenmu="10000" fightProp="36" id="700500015">
+    <parameters>
+      <string>mgcdefrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理暴擊率固定值" effectType="1" effectname="修改物理暴擊率固定值" fenmu="1" fightProp="11" id="700500016">
+    <parameters>
+      <string>phycri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術暴擊率固定值" effectType="1" effectname="修改法術暴擊率固定值" fenmu="1" fightProp="12" id="700500017">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改治療暴擊率固定值" effectType="1" effectname="修改治療暴擊率固定值" fenmu="1" fightProp="13" id="700500018">
+    <parameters>
+      <string>healcri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理暴擊效果固定值" effectType="1" effectname="修改物理暴擊效果固定值" fenmu="1" fightProp="14" id="700500019">
+    <parameters>
+      <string>phycrieffect</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術暴擊效果固定值" effectType="1" effectname="修改法術暴擊效果固定值" fenmu="1" fightProp="15" id="700500020">
+    <parameters>
+      <string>mgccrieffect</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理攻擊命中等級固定值" effectType="1" effectname="修改物理攻擊命中等級固定值" fenmu="1" fightProp="18" id="700500025">
+    <parameters>
+      <string>phyhitlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理攻擊閃避等級固定值" effectType="1" effectname="修改物理攻擊閃避等級固定值" fenmu="1" fightProp="19" id="700500026">
+    <parameters>
+      <string>phyevalevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術攻擊命中等級固定值" effectType="1" effectname="修改法術攻擊命中等級固定值" fenmu="1" fightProp="70" id="700500029">
+    <parameters>
+      <string>mgchitlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術攻擊閃避等級固定值" effectType="1" effectname="修改法術攻擊閃避等級固定值" fenmu="1" fightProp="71" id="700500030">
+    <parameters>
+      <string>mgcevalevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理反擊率固定值" effectType="1" effectname="修改物理反擊率固定值" fenmu="1" fightProp="22" id="700500033">
+    <parameters>
+      <string>hitbackrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術反擊率固定值" effectType="1" effectname="修改法術反擊率固定值" fenmu="1" fightProp="23" id="700500034">
+    <parameters>
+      <string>hitbackrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改戰鬥速度固定值" effectType="1" effectname="修改戰鬥速度固定值" fenmu="1" fightProp="24" id="700500035">
+    <parameters>
+      <string>speed</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="25" classname="AddValueEffect" description="修改力量固定值" effectType="1" effectname="修改力量固定值" fenmu="1" fightProp="0" id="700500036">
+    <parameters>
+      <string>strvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="25" classname="AddRateEffect" description="修改力量萬分比" effectType="1" effectname="修改力量萬分比" fenmu="10000" fightProp="0" id="700500037">
+    <parameters>
+      <string>strrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="27" classname="AddValueEffect" description="修改靈性固定值" effectType="1" effectname="修改靈性固定值" fenmu="1" fightProp="0" id="700500038">
+    <parameters>
+      <string>sprvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="27" classname="AddRateEffect" description="修改靈性萬分比" effectType="1" effectname="修改靈性萬分比" fenmu="10000" fightProp="0" id="700500039">
+    <parameters>
+      <string>sprrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="28" classname="AddValueEffect" description="修改體質固定值" effectType="1" effectname="修改體質固定值" fenmu="1" fightProp="0" id="700500040">
+    <parameters>
+      <string>convalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="28" classname="AddRateEffect" description="修改體質萬分比" effectType="1" effectname="修改體質萬分比" fenmu="10000" fightProp="0" id="700500041">
+    <parameters>
+      <string>conrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="29" classname="AddValueEffect" description="修改耐力固定值" effectType="1" effectname="修改耐力固定值" fenmu="1" fightProp="0" id="700500042">
+    <parameters>
+      <string>stavalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="29" classname="AddRateEffect" description="修改耐力萬分比" effectType="1" effectname="修改耐力萬分比" fenmu="10000" fightProp="0" id="700500043">
+    <parameters>
+      <string>starate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="26" classname="AddValueEffect" description="修改敏捷固定值" effectType="1" effectname="修改敏捷固定值" fenmu="1" fightProp="0" id="700500044">
+    <parameters>
+      <string>dexvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="26" classname="AddRateEffect" description="修改敏捷萬分比" effectType="1" effectname="修改敏捷萬分比" fenmu="10000" fightProp="0" id="700500045">
+    <parameters>
+      <string>dexrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyExpRate" description="修改獲取經驗萬分比" effectType="1" effectname="修改獲取經驗萬分比" fenmu="10000" fightProp="0" id="700500046">
+    <parameters>
+      <string>exprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyPetExpRate" description="修改獲取寵物經驗萬分比" effectType="1" effectname="修改獲取寵物經驗萬分比" fenmu="10000" fightProp="0" id="700500047">
+    <parameters>
+      <string>petexprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyCatchPetRate" description="修改捕捉寵物成功率固定值" effectType="1" effectname="修改捕捉寵物成功率固定值" fenmu="10000" fightProp="75" id="700500048">
+    <parameters>
+      <string>modifyRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="GenerateGoodsItem" description="生成物品" effectType="1" effectname="生成物品" fenmu="1" fightProp="0" id="700500049">
+    <parameters>
+      <string>goodsid</string>
+      <string>goodsnum</string>
+      <string>prop</string>
+      <string>limit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyModel" description="改變單位模型" effectType="1" effectname="改變單位模型" fenmu="1" fightProp="0" id="700500050">
+    <parameters>
+      <string>modelid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyVelocityRate" description="修改移動速度萬分比" effectType="1" effectname="修改移動速度萬分比" fenmu="10000" fightProp="0" id="700500051">
+    <parameters>
+      <string>velocityrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyAptMax" description="修改資質上限固定值" effectType="1" effectname="修改資質上限固定值" fenmu="1" fightProp="0" id="700500052">
+    <parameters>
+      <string>apttype</string>
+      <string>maxaptlimit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyApt" description="修改資質當前值固定值" effectType="1" effectname="修改資質當前值固定值" fenmu="1" fightProp="0" id="700500053">
+    <parameters>
+      <string>apttype</string>
+      <string>aptvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ModifyPetLife" description="修改寵物壽命固定值" effectType="1" effectname="修改寵物壽命固定值" fenmu="1" fightProp="0" id="700500054">
+    <parameters>
+      <string>petlifevalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改封印命中率固定值" effectType="1" effectname="修改封印命中率固定值" fenmu="10000" fightProp="65" id="700500055">
+    <parameters>
+      <string>addsealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改封印命中率固定值" effectType="1" effectname="修改被封印命中率固定值" fenmu="10000" fightProp="67" id="700500056">
+    <parameters>
+      <string>addbesealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改傷害萬分比" effectType="1" effectname="修改傷害萬分比" fenmu="10000" fightProp="55" id="700500057">
+    <parameters>
+      <string>adddamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改物理傷害萬分比" effectType="1" effectname="修改物理傷害萬分比" fenmu="10000" fightProp="57" id="700500058">
+    <parameters>
+      <string>adddamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改法術傷害萬分比" effectType="1" effectname="修改法術傷害萬分比" fenmu="10000" fightProp="58" id="700500059">
+    <parameters>
+      <string>adddamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改受到傷害萬分比" effectType="1" effectname="修改受到傷害萬分比" fenmu="10000" fightProp="56" id="700500060">
+    <parameters>
+      <string>bedamagedrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改受到物理傷害萬分比" effectType="1" effectname="修改受到物理傷害萬分比" fenmu="10000" fightProp="59" id="700500061">
+    <parameters>
+      <string>bedamagedrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改受到法術傷害萬分比" effectType="1" effectname="修改受到法術傷害萬分比" fenmu="10000" fightProp="60" id="700500062">
+    <parameters>
+      <string>bedamagedrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理暴擊等級固定值" effectType="1" effectname="修改物理暴擊等級固定值" fenmu="1" fightProp="85" id="700500063">
+    <parameters>
+      <string>phycri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術暴擊等級固定值" effectType="1" effectname="修改法術暴擊等級固定值" fenmu="1" fightProp="86" id="700500064">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改物理暴抗等級固定值" effectType="1" effectname="修改物理暴抗等級固定值" fenmu="1" fightProp="87" id="700500065">
+    <parameters>
+      <string>phycri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改法術暴抗等級固定值" effectType="1" effectname="修改法術暴抗等級固定值" fenmu="1" fightProp="88" id="700500066">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改怒氣上限" effectType="1" effectname="修改怒氣上限" fenmu="1" fightProp="5" id="700500067">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改怒氣上限" effectType="1" effectname="修改怒氣上限" fenmu="10000" fightProp="68" id="700500068">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改怒氣上限" effectType="1" effectname="修改怒氣上限" fenmu="10000" fightProp="69" id="700500069">
+    <parameters>
+      <string>mgccri</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="CantFight" description="無法進入戰鬥" effectType="1" effectname="無法進入戰鬥" fenmu="10000" fightProp="0" id="700500070">
+    <parameters>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改逃跑概率" effectType="1" effectname="修改逃跑概率" fenmu="10000" fightProp="74" id="700500071">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AuraEffect" description="光環效果" effectType="3" effectname="光環效果" fenmu="1" fightProp="0" id="700500072">
+    <parameters>
+      <string>auraCfgId</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ChangeModelEffect" description="變身效果" effectType="4" effectname="變身效果" fenmu="1" fightProp="0" id="700500073">
+    <parameters>
+      <string>changeModelId</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ProfitEffect" description="獎勵效果" effectType="2" effectname="獎勵效果" fenmu="1" fightProp="0" id="700500074">
+    <parameters>
+      <string>profitCfg</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改封印命中等級固定值" effectType="1" effectname="修改封印命中等級固定值" fenmu="1" fightProp="16" id="700500075">
+    <parameters>
+      <string>addseal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddValueEffect" description="修改封印抗性等級固定值" effectType="1" effectname="修改封印抗性等級固定值" fenmu="1" fightProp="17" id="700500076">
+    <parameters>
+      <string>addbeseal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddQiLingRateEffect" description="增加啟靈時的啟靈成功率，適用於所有裝備" effectType="1" effectname="增加啟靈成功率" fenmu="10000" fightProp="0" id="700500077">
+    <parameters>
+      <string>addQiLingRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddHuaShengRateEffect" description="增加化生時，保留較多技能個數時的概率" effectType="1" effectname="增加化生成功率" fenmu="10000" fightProp="0" id="700500078">
+    <parameters>
+      <string>addHuaShengRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddFanShengBianYiRateEffect" description="增加返生時，變異的概率" effectType="1" effectname="增加反生變異的概率" fenmu="10000" fightProp="0" id="700500079">
+    <parameters>
+      <string>addFanShengBianYiRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="EquipmentPropertiesRate" description="該效果會出現在不同的裝備上，會根據該裝備的屬性增加對應功能的屬性" effectType="1" effectname="增加裝備各系統屬性萬分比" fenmu="10000" fightProp="0" id="700500080">
+    <parameters>
+      <string>addType</string>
+      <string>addValue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="EquipmentLevelVary" description="該效果會出現在不同的裝備上，會修改該裝備的可攜帶等級" effectType="1" effectname="簡易" fenmu="1" fightProp="0" id="700500081">
+    <parameters>
+      <string>varyLevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="EquipmentDurable" description="該效果會出現在不同的裝備上，會使該裝備的耐久值不會降低" effectType="1" effectname="耐久" fenmu="10000" fightProp="0" id="700500082">
+    <parameters/>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="修改戰鬥速度萬分比" effectType="1" effectname="修改戰鬥速度萬分比" fenmu="10000" fightProp="47" id="700500083">
+    <parameters>
+      <string>speed</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddRateEffect" description="封印命中等級萬分比" effectType="1" effectname="封印命中等級萬分比" fenmu="1" fightProp="39" id="700500084">
+    <parameters>
+      <string>addseal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="BaseToPropertyReviseEffect" description="1級屬性轉換成2級屬性數值修正" effectType="1" effectname="1級屬性轉換成2級屬性數值修正" fenmu="10000" fightProp="0" id="700500085">
+    <parameters>
+      <string>baseType</string>
+      <string>propertyType</string>
+      <string>value</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddMoveSpeedEffect" description="增加移動速度" effectType="1" effectname="增加移動速度" fenmu="10000" fightProp="0" id="700500086">
+    <parameters>
+      <string>addRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="AddChivalryOnPVEFightEndEffect" description="PVE戰斗勝利增加俠義值" effectType="1" effectname="PVE戰斗勝利增加俠義值" fenmu="1" fightProp="0" id="700500087">
+    <parameters>
+      <string>chivalryGainType</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+  <mzm.gsp.effect.confbean.RoleEffectCfg baseProp="0" classname="ImmobilityEffect" description="定身" effectType="1" effectname="定身" fenmu="1" fightProp="0" id="700500088">
+    <parameters>
+      <string>ignore</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.RoleEffectCfg>
+</data>

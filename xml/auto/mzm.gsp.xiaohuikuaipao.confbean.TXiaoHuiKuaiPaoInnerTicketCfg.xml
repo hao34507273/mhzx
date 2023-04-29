@@ -1,0 +1,92 @@
+<data>
+  <mzm.gsp.xiaohuikuaipao.confbean.TXiaoHuiKuaiPaoInnerTicketCfg activityId="350020100">
+    <accTurnCount2innerTicketInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="1" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="5" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="10" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="20" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="50" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="100" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>200</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="200" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>300</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="300" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>450</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="450" activityId="350020100" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>600</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="600" activityId="350020100" ticketCount="1"/>
+      </entry>
+    </accTurnCount2innerTicketInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.TXiaoHuiKuaiPaoInnerTicketCfg>
+  <mzm.gsp.xiaohuikuaipao.confbean.TXiaoHuiKuaiPaoInnerTicketCfg activityId="350020101">
+    <accTurnCount2innerTicketInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="1" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="5" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="10" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="20" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="50" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="100" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>200</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="200" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>300</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="300" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>450</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="450" activityId="350020101" ticketCount="1"/>
+      </entry>
+      <entry>
+        <int>600</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.XiaoHuiKuaiPaoInnerTicketInfo accumulateTurnCount="600" activityId="350020101" ticketCount="1"/>
+      </entry>
+    </accTurnCount2innerTicketInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.TXiaoHuiKuaiPaoInnerTicketCfg>
+</data>

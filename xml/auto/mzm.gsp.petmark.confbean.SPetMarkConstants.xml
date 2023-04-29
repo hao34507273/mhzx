@@ -1,0 +1,16 @@
+<root>
+<row name="OPEN_LEVEL" value="80"/>
+<row name="DIFFRENT_MARK_EXP_REDUSE_RATIO" value="2"/>
+<row name="PET_MARK_MAX_LEVEL" value="20"/>
+<row name="PET_MARK_MAX_CARRY_NUM" value="50"/>
+<row name="INIT_PET_MARK_SCORE1" value="0"/>
+<row name="LOTTERY_ANIMATION_DURATION1" value="1"/>
+<row name="LOTTERY_COST1" value="100"/>
+<row name="TEN_LOTTERY_COST1" value="1000"/>
+<row name="LOTTERY_AWARD_POOL_TYPE_ID1" value="8520"/>
+<row name="INIT_PET_MARK_SCORE2" value="0"/>
+<row name="LOTTERY_ANIMATION_DURATION2" value="1"/>
+<row name="LOTTERY_COST2" value="100"/>
+<row name="TEN_LOTTERY_COST2" value="1000"/>
+<row name="LOTTERY_AWARD_POOL_TYPE_ID2" value="8521"/>
+</root>

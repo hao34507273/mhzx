@@ -1,0 +1,297 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg activityCfgId="350020451" gift_item_min_level="90" open_interval_day_after_activity_end="7">
+    <rank_2_award_item_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010029">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010030">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010031">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+    </rank_2_award_item_map>
+    <rank_2_award_buff_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="7">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211313" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211314" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="5">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211315" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211316" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="3">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211317" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211318" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+    </rank_2_award_buff_map>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg activityCfgId="350020014" gift_item_min_level="90" open_interval_day_after_activity_end="7">
+    <rank_2_award_item_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010029">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010030">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010031">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+    </rank_2_award_item_map>
+    <rank_2_award_buff_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="7">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211313" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211314" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="5">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211315" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211316" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="3">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211317" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211318" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+    </rank_2_award_buff_map>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg activityCfgId="350020002" gift_item_min_level="90" open_interval_day_after_activity_end="7">
+    <rank_2_award_item_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010029">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010030">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010031">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+    </rank_2_award_item_map>
+    <rank_2_award_buff_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="7">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211313" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211314" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="5">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211315" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211316" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="3">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211317" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211318" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+    </rank_2_award_buff_map>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg activityCfgId="350020000" gift_item_min_level="90" open_interval_day_after_activity_end="7">
+    <rank_2_award_item_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010029">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010030">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010031">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+    </rank_2_award_item_map>
+    <rank_2_award_buff_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="7">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211313" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211314" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="5">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211315" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211316" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="3">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211317" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211318" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+    </rank_2_award_buff_map>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg activityCfgId="350010000" gift_item_min_level="90" open_interval_day_after_activity_end="7">
+    <rank_2_award_item_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010029">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010030">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardMailItemList award_item_mail_cfg_id="340010031">
+          <award_item_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardMailItemBean award_item_id="216600001" award_item_num="1"/>
+          </award_item_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardMailItemList>
+      </entry>
+    </rank_2_award_item_map>
+    <rank_2_award_buff_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="7">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211313" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211314" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="5">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211315" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211316" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.crossbattle.confbean.RankAwardBuffList buff_last_day="3">
+          <buff_list>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211317" buff_ratio="20000"/>
+            <mzm.gsp.crossbattle.confbean.RankAwardBuffBean buff_id="701211318" buff_ratio="20000"/>
+          </buff_list>
+        </mzm.gsp.crossbattle.confbean.RankAwardBuffList>
+      </entry>
+    </rank_2_award_buff_map>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardCfg>
+</data>

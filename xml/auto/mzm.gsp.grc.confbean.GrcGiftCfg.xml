@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.grc.confbean.GrcGiftCfg gift_count="100" gift_type="1" id="344200000" name="活力赠礼" receive_max_times_everyday="5" send_max_times_everyday="10"/>
+  <mzm.gsp.grc.confbean.GrcGiftCfg gift_count="100" gift_type="2" id="344200001" name="双倍点数赠礼" receive_max_times_everyday="5" send_max_times_everyday="10"/>
+  <mzm.gsp.grc.confbean.GrcGiftCfg gift_count="200" gift_type="3" id="344200002" name="金币赠礼" receive_max_times_everyday="5" send_max_times_everyday="10"/>
+  <mzm.gsp.grc.confbean.GrcGiftCfg gift_count="100" gift_type="4" id="344200003" name="银币赠礼" receive_max_times_everyday="5" send_max_times_everyday="10"/>
+</data>

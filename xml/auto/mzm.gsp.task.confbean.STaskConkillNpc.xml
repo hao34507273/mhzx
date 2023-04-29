@@ -1,0 +1,3348 @@
+<data>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111946" id="10005190" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400083</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111947" id="10005192" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400084</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111948" id="10005194" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400085</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111949" id="10005196" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400086</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111950" id="10005198" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400087</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111951" id="10005204" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="200">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111954" id="10005210" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="201">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111953" id="10005214" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="203">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111997" id="10005216" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="200">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112000" id="10005220" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="200">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111999" id="10005222" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="201">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112002" id="10005224" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="201">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111998" id="10005228" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="203">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112001" id="10005230" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="203">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113814" id="10005259" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461245</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113818" id="10005260" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461246</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100278" id="20000362" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100279" id="20000364" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100280" id="20000365" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100281" id="20000366" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100282" id="20000367" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100283" id="20000369" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100284" id="20000370" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100285" id="20000371" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100286" id="20000372" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100287" id="20000374" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100288" id="20000375" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100289" id="20000376" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100290" id="20000378" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100291" id="20000380" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100292" id="20000382" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100293" id="20000384" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100294" id="20000386" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100295" id="20000388" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100296" id="20000389" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100297" id="20000391" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100298" id="20000394" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100299" id="20000396" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100300" id="20000398" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100301" id="20000400" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100302" id="20000402" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100303" id="20000404" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100304" id="20000406" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100305" id="20000409" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100306" id="20000411" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100307" id="20000413" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100308" id="20000415" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100309" id="20000417" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100310" id="20000419" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100311" id="20000421" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100312" id="20000423" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100313" id="20000425" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100314" id="20000427" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100315" id="20000429" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100316" id="20000431" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100317" id="20000434" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100318" id="20000437" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100319" id="20000439" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100320" id="20000441" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100321" id="20000443" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100322" id="20000445" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100323" id="20000447" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100324" id="20000448" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100325" id="20000450" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100326" id="20000451" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100327" id="20000452" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100328" id="20000453" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100329" id="20000455" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100330" id="20000457" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100331" id="20000458" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400192</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100332" id="20000459" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400193</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100333" id="20000461" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400194</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100334" id="20000463" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400195</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100335" id="20000464" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400196</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100336" id="20000465" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400197</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100337" id="20000466" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400198</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100338" id="20000467" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400199</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100339" id="20000468" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120400200</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100055" id="20000661" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100061" id="20000662" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100062" id="20000664" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450024</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100058" id="20000665" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450025</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100068" id="20000668" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450027</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100070" id="20000669" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450028</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100071" id="20000671" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450029</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100072" id="20000672" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450030</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100073" id="20000673" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450032</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100180" id="20000675" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450033</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100181" id="20000676" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450034</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100075" id="20000677" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450035</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100077" id="20000679" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450036</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100079" id="20000680" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450037</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100079" id="20000681" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450038</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100080" id="20000682" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450040</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100082" id="20000683" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450041</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100083" id="20000684" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450042</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100086" id="20000685" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450043</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100088" id="20000686" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450044</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100092" id="20000688" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450046</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100094" id="20000689" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450047</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100094" id="20000690" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120450048</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100097" id="20000691" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120450049</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100098" id="20000692" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450050</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100104" id="20000694" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450051</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100104" id="20000695" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450052</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100106" id="20000697" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450053</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100107" id="20000698" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450054</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100108" id="20000699" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450055</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100109" id="20000700" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450056</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100110" id="20000702" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450057</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100111" id="20000703" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450058</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100112" id="20000704" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450059</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100370" id="20000706" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450060</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100194" id="20000737" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100183" id="20000738" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100184" id="20000739" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100188" id="20000740" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100192" id="20000741" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100054" id="20000825" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100260" id="20000827" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111051" id="20000830" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111050" id="20000833" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100259" id="20000835" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100270" id="20000836" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100036" id="20000837" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450009</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100055" id="20000840" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100053" id="20000842" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450012</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100213" id="20000847" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100221" id="20000848" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100212" id="20000849" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450016</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100218" id="20000850" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450017</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100259" id="20000851" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450018</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100266" id="20000852" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450019</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100219" id="20000854" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450020</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100222" id="20000923" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100268" id="20000924" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409009</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100200" id="20000926" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409010</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100097" id="20000927" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100185" id="20000931" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100230" id="20000933" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100030" id="20001101" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409071</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111088" id="20001102" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409070</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111090" id="20001103" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120409072</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111091" id="20001104" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409073</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111092" id="20001105" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409074</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111108" id="20001182" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120450061</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111110" id="20001183" joinBattleConfirm="false" needPersonCount="0" onlineFirst="true" pvcId="0">
+    <battleIDs>
+      <int>120450063</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111114" id="20001184" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450064</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111116" id="20001185" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450065</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100086" id="20001187" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450066</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111099" id="20001188" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450067</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111102" id="20001189" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450069</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111094" id="20001190" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450070</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111096" id="20001191" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450071</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111095" id="20001192" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450072</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111103" id="20001193" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450073</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111190" id="20001805" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111191" id="20001806" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111192" id="20001807" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111193" id="20001808" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111194" id="20001809" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111195" id="20001810" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111196" id="20001811" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111197" id="20001812" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111198" id="20001813" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111199" id="20001814" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111200" id="20001815" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111201" id="20001816" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111202" id="20001817" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111203" id="20001818" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111204" id="20001819" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111205" id="20001820" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111206" id="20001821" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111810" id="20001884" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="100">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111811" id="20001888" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="100">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111812" id="20001890" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="100">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111503" id="20001951" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450074</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111506" id="20001955" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450076</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111508" id="20001957" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450077</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111509" id="20001963" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450078</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111511" id="20001966" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450079</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111823" id="20001988" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450080</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111827" id="20002024" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450083</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111825" id="20002025" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450082</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111829" id="20002050" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450085</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111832" id="20002074" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450086</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111836" id="20002098" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450089</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111837" id="20002117" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450090</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111838" id="20002125" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450091</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111833" id="20002141" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450087</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111189" id="20002144" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111855" id="20002159" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111856" id="20002160" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111857" id="20002163" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433016</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111956" id="20002202" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450092</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111958" id="20002206" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450093</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111961" id="20002208" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450095</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111962" id="20002209" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="50">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111838" id="20002211" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450097</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100086" id="20002233" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450098</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111964" id="20002247" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450100</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111966" id="20002248" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450101</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111967" id="20002252" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450102</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111970" id="20002254" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450103</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111973" id="20002279" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450105</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111979" id="20002284" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450106</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111975" id="20002285" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450107</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111976" id="20002287" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450108</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111978" id="20002289" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450109</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112003" id="20002293" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="101">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112004" id="20002294" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="101">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112005" id="20002295" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="101">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112006" id="20002296" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="102">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112007" id="20002297" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="102">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112008" id="20002298" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="102">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113101" id="20002344" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461210</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113103" id="20002346" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461211</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113104" id="20002357" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461213</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111052" id="20002373" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113102" id="20002396" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461215</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113107" id="20002397" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461216</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113109" id="20002398" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461217</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113401" id="20002421" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450110</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113404" id="20002423" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450111</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100034" id="20002424" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450112</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113833" id="20002446" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450114</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113843" id="20002459" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450116</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113857" id="20002476" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450118</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113866" id="20002483" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450119</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113838" id="20002489" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450115</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113854" id="20002494" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450117</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114008" id="20002501" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461257</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114009" id="20002505" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461258</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114011" id="20002508" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461259</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114027" id="20002532" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450125</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114030" id="20002543" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450126</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114034" id="20002557" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450127</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114044" id="20002565" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450128</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114041" id="20002575" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120450129</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114500" id="20002578" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481020</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114509" id="20002581" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114522" id="20002583" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114543" id="20002585" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114562" id="20002587" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481024</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114583" id="20002589" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481025</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114603" id="20002591" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481026</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114622" id="20002593" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481027</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114631" id="20002595" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481028</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114635" id="20002597" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481029</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114225" id="20002605" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482103</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114226" id="20002612" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482104</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114700" id="20002625" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482110</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114701" id="20002627" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482111</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114702" id="20002629" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482112</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114703" id="20002631" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482113</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114704" id="20002633" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482114</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114705" id="20002635" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482115</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114706" id="20002637" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482116</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114707" id="20002639" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482117</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114708" id="20002641" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482118</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114709" id="20002643" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482119</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114710" id="20002647" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114712" id="20002651" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433016</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114713" id="20002653" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114714" id="20002657" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120433015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114801" id="20002675" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482123</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100110" id="20002680" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482124</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114805" id="20002682" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482125</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100254" id="20002688" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482127</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114807" id="20002689" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482128</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100086" id="20002691" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482129</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114809" id="20002692" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482130</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114806" id="20002693" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482126</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115004" id="20002694" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482136</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100036" id="20002696" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482137</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115006" id="20002700" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482138</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115007" id="20002702" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482139</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100275" id="20002706" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482140</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115074" id="20002711" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409094</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115078" id="20002716" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409095</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111040" id="20002721" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409096</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115080" id="20002725" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409097</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115083" id="20002734" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409098</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115095" id="20002745" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482163</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115098" id="20002746" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482164</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115097" id="20002747" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482165</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100261" id="30000195" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100263" id="30000197" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100092" id="30000199" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100093" id="30000201" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100110" id="30000203" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100111" id="30000205" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100112" id="30000207" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100102" id="30000209" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100103" id="30000211" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100104" id="30000213" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422009</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111021" id="30000322" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410300</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111008" id="30000324" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410301</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111009" id="30000327" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410302</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111010" id="30000336" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410303</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111011" id="30000338" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410304</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111013" id="30000340" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410400</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111014" id="30000341" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410401</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111016" id="30000344" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410402</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111017" id="30000352" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410403</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111019" id="30000354" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410404</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111020" id="30000356" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410405</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100261" id="30000411" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100263" id="30000413" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100092" id="30000417" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100093" id="30000419" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100110" id="30000421" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100111" id="30000423" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100102" id="30000427" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100103" id="30000429" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100104" id="30000431" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422009</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100112" id="30000439" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111819" id="30000485" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120424001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111843" id="30000502" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410310</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111844" id="30000510" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410311</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111845" id="30000516" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410312</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111847" id="30000522" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410313</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111848" id="30000526" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410314</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111849" id="30000531" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410410</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111850" id="30000537" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410411</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111852" id="30000539" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410412</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111851" id="30000541" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410413</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111853" id="30000543" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410414</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111854" id="30000545" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410415</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111871" id="30000657" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461030</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111872" id="30000658" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461031</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111873" id="30000659" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461032</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111874" id="30000660" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461033</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111875" id="30000661" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461034</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111876" id="30000662" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461035</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111877" id="30000663" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461036</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111878" id="30000664" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461037</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111879" id="30000665" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461038</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111880" id="30000666" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461039</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100026" id="30000862" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422010</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100034" id="30000871" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100034" id="30000881" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100026" id="30000882" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120422010</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112009" id="30000887" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410320</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112012" id="30000889" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410321</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112013" id="30000892" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410322</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112014" id="30000893" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410323</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112015" id="30000894" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410324</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112016" id="30000895" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410420</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112017" id="30000896" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410421</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112019" id="30000898" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410422</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112020" id="30000899" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410423</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112021" id="30000901" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410424</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112022" id="30000903" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120410425</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112182" id="30000982" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461201</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112183" id="30000983" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461202</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112184" id="30000984" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461203</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112185" id="30000985" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461204</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112186" id="30000986" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461205</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112187" id="30000987" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461206</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113005" id="30001011" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461207</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113006" id="30001012" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461208</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113007" id="30001013" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461209</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113803" id="30001045" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461234</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113804" id="30001046" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461235</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113805" id="30001047" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461236</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113806" id="30001048" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461237</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113807" id="30001049" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461238</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113808" id="30001050" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461239</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100043" id="30001070" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120471010</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100006" id="30001071" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120471011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100023" id="30001072" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120471012</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113879" id="30001073" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120471013</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114214" id="30001119" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114215" id="30001121" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114216" id="30001123" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114217" id="30001125" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114218" id="30001130" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114221" id="30001132" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482100</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114222" id="30001134" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482101</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114223" id="30001136" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482102</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100119" id="40000005" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100120" id="40000007" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100121" id="40000008" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100122" id="40000009" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100123" id="40000010" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100124" id="40000011" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100126" id="40000013" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100127" id="40000014" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100128" id="40000015" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100125" id="40000016" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100129" id="40000017" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100130" id="40000018" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100131" id="40000019" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100132" id="40000020" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100133" id="40000021" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100134" id="40000022" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100135" id="40000023" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100136" id="40000024" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100137" id="40000025" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100138" id="40000026" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100139" id="40000027" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100140" id="40000028" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100141" id="40000029" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100142" id="40000030" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100143" id="40000031" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100144" id="40000032" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100145" id="40000033" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100146" id="40000034" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100147" id="40000035" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100148" id="40000036" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100149" id="40000037" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100150" id="40000038" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100151" id="40000039" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100152" id="40000040" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100153" id="40000041" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100154" id="40000042" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100155" id="40000043" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100156" id="40000044" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100157" id="40000045" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100158" id="40000046" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100159" id="40000047" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100160" id="40000048" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100161" id="40000049" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100162" id="40000050" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100163" id="40000051" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100164" id="40000052" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100165" id="40000053" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100166" id="40000054" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100167" id="40000055" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100168" id="40000056" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100169" id="40000057" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100170" id="40000058" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100171" id="40000059" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100172" id="40000060" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100173" id="40000061" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100174" id="40000062" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100175" id="40000063" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100176" id="40000064" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100177" id="40000065" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120400023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111001" id="40000282" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111002" id="40000283" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111003" id="40000285" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111004" id="40000287" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111005" id="40000288" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111006" id="40000289" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100008" id="40000303" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120404013</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100021" id="40000305" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120404014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100017" id="40000309" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120404015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100027" id="40000311" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120404016</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111864" id="40000625" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461011</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111865" id="40000628" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461012</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111867" id="40000632" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461014</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111866" id="40000643" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461013</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111868" id="40000645" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461015</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150112167" id="40000678" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="300">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113558" id="40000831" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114311" id="40000879" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481000</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114315" id="40000882" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481001</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114329" id="40000884" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481002</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114326" id="40000888" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481004</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114306" id="40000891" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481005</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114312" id="40000893" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481006</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114391" id="40000895" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114392" id="40000898" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114352" id="40000902" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120481003</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113713" id="40000904" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415007</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115000" id="40000932" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482141</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100030" id="40000950" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482142</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100023" id="40000953" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482143</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115049" id="40000957" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120415008</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111058" id="50000024" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409018</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111058" id="50000028" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409019</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111060" id="50000030" joinBattleConfirm="true" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409020</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111062" id="50000032" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409021</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111063" id="50000034" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409022</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111060" id="50000036" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409023</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100229" id="50000072" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409024</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111067" id="50000077" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409026</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111064" id="50000079" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409025</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111068" id="50000080" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409027</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111069" id="50000082" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409028</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111057" id="50000084" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409029</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111074" id="50000110" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409030</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111078" id="50000111" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409031</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111080" id="50000112" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409032</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111081" id="50000115" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409034</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111084" id="50000118" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409035</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111086" id="50000120" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409036</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111815" id="50000165" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409075</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111817" id="50000169" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409076</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111816" id="50000175" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409077</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100086" id="50000176" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409078</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111822" id="50000196" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409079</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111060" id="50000276" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409083</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111984" id="50000278" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409084</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111985" id="50000279" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409085</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111988" id="50000281" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409086</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111989" id="50000283" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409087</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111990" id="50000284" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409088</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111991" id="50000285" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409089</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100222" id="50000286" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409090</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111994" id="50000288" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409091</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150111995" id="50000289" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409092</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113152" id="50000305" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461218</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113500" id="50000366" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="201">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113511" id="50000403" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461240</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113513" id="50000415" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461242</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113512" id="50000417" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461241</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113514" id="50000423" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461243</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113515" id="50000431" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461244</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113901" id="50000470" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409037</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113903" id="50000473" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409038</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113905" id="50000475" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409039</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113917" id="50000478" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409040</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113908" id="50000485" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409041</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113909" id="50000490" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409042</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113910" id="50000496" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409043</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113911" id="50000500" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409044</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113912" id="50000506" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409045</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113913" id="50000509" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409046</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150113914" id="50000512" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409047</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114001" id="50000524" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461253</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114002" id="50000526" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461254</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114003" id="50000528" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461255</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114005" id="50000533" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120461256</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114204" id="50000650" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409048</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114205" id="50000652" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409049</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114206" id="50000660" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409050</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114207" id="50000666" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409051</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114207" id="50000671" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409052</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114208" id="50000674" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409055</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150100203" id="50000683" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409053</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114212" id="50000686" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="100">
+    <battleIDs/>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114213" id="50000691" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120409054</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114229" id="50000726" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482105</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114905" id="50000744" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482131</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114906" id="50000756" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482132</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114907" id="50000765" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482133</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114908" id="50000774" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482134</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114909" id="50000789" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482135</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114902" id="50000846" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482120</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114903" id="50000856" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482121</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150114904" id="50000864" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482122</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115014" id="50000899" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482144</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115015" id="50000902" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482145</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115016" id="50000908" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482146</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115017" id="50000911" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482147</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115018" id="50000914" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482148</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115051" id="50000938" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482154</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115052" id="50000943" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482155</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115053" id="50000948" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482156</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115054" id="50000951" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482157</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115055" id="50000954" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482158</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115059" id="50000978" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482159</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115091" id="50000991" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="202">
+    <battleIDs>
+      <int>120482160</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115067" id="50000997" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482161</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115068" id="50001001" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482162</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115103" id="50001015" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482166</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115106" id="50001018" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482167</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115114" id="50001043" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482168</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115115" id="50001045" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482169</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115116" id="50001048" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482170</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115117" id="50001050" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482171</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+  <mzm.gsp.task.confbean.STaskConkillNpc allHaveTaskFight="false" contype="2" fixNPCId="150115118" id="50001052" joinBattleConfirm="false" needPersonCount="0" onlineFirst="false" pvcId="0">
+    <battleIDs>
+      <int>120482172</int>
+    </battleIDs>
+    <playerRanges/>
+  </mzm.gsp.task.confbean.STaskConkillNpc>
+</data>

@@ -1,0 +1,300 @@
+<data>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000216" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7213" loginSum="3" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7214" loginSum="7" sortId="2"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350008063" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="6584" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="6584" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="6584" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="6584" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="6584" loginSum="5" sortId="5"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000219" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7230" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7231" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7232" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7233" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7234" loginSum="5" sortId="5"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350020250" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7287" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7288" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7289" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7290" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7291" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7292" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7293" loginSum="7" sortId="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7294" loginSum="8" sortId="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7295" loginSum="9" sortId="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7296" loginSum="10" sortId="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7297" loginSum="11" sortId="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7298" loginSum="12" sortId="12"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000220" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7240" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7241" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7242" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7243" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7244" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7245" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7246" loginSum="7" sortId="7"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000222" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7260" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7261" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7262" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7263" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7264" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7265" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7266" loginSum="7" sortId="7"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000207" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7203" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7204" loginSum="3" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7205" loginSum="7" sortId="3"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000223" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7250" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7251" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7252" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7253" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7254" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7255" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7256" loginSum="7" sortId="7"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000226" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7280" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7281" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7282" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7283" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7284" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7285" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7286" loginSum="7" sortId="7"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg id="350000224" mailCfgId="340008005">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7270" loginSum="1" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7271" loginSum="2" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7272" loginSum="3" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7273" loginSum="4" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7274" loginSum="5" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7275" loginSum="6" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSumActivityAwardInfo awardCfgId="7276" loginSum="7" sortId="7"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSumActivityAwardCfg>
+</data>

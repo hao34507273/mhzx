@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="40000749" timeLimit="600" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="40000753" timeLimit="1200" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="40000757" timeLimit="1800" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="40000761" timeLimit="3600" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="50000480" timeLimit="60" timeLimitTitle="施術中" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="50000809" timeLimit="600" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="50000815" timeLimit="1200" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="50000826" timeLimit="1800" timeLimitTitle="" timeOutHandleTask="1"/>
+  <mzm.gsp.task.confbean.STaskContimeLimit contype="2" id="50000834" timeLimit="3600" timeLimitTitle="" timeOutHandleTask="1"/>
+</data>

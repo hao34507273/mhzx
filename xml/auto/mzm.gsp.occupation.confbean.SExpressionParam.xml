@@ -1,0 +1,65 @@
+<data>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddPerLevelExprImpl" id="100300000">
+    <params>
+      <float>2</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddPerLevelExprImpl" id="100300001">
+    <params>
+      <float>2</float>
+      <float>1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddPerLevelExprImpl" id="100300002">
+    <params>
+      <float>2</float>
+      <float>1</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddPerLevelExprImpl" id="100300003">
+    <params>
+      <float>2</float>
+      <float>2</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300004">
+    <params>
+      <float>0</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300005">
+    <params>
+      <float>1</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300006">
+    <params>
+      <float>2</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300007">
+    <params>
+      <float>3</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300008">
+    <params>
+      <float>4</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300009">
+    <params>
+      <float>5</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+  <mzm.gsp.occupation.confbean.SExpressionParam className="RoleBasePropertyAddNoModifyValue" id="100300010">
+    <params>
+      <float>6</float>
+    </params>
+  </mzm.gsp.occupation.confbean.SExpressionParam>
+</data>

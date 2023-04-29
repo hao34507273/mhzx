@@ -1,0 +1,10 @@
+<root>
+<row name="ITLE_TIME_INTERVAL" value="5"/>
+<row name="SESSION_PAOPAO_TIME_INTERVAL" value="5"/>
+<row name="SESSION_PAOPAO_RATE" value="5000"/>
+<row name="AUTO_AUDIO_DISTANCE" value="250"/>
+<row name="AUTO_AUDIO_INTERVAL" value="20"/>
+<row name="AUTO_AUDIO_RATE" value="5000"/>
+<row name="VELOCITY" value="180"/>
+<row name="DEFAULT_FEIJIAN_CFG_ID" value="470000100"/>
+</root>

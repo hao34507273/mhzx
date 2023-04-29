@@ -1,0 +1,31 @@
+<data>
+  <mzm.gsp.singlebattle.confbean.STSingleBattlePlayLibCfg playLibId="1">
+    <type2cfgId>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>584100000</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>586100000</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>584400000</int>
+      </entry>
+      <entry>
+        <int>4</int>
+        <int>585100000</int>
+      </entry>
+      <entry>
+        <int>5</int>
+        <int>584500000</int>
+      </entry>
+      <entry>
+        <int>6</int>
+        <int>586700000</int>
+      </entry>
+    </type2cfgId>
+  </mzm.gsp.singlebattle.confbean.STSingleBattlePlayLibCfg>
+</data>

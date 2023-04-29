@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.activity4.confbean.SBandstandActivityCfg activityId="350020028" awardId="35010" dailyAwardCount="1" npcId="150115089" serviceId="150210936">
+    <musicIds>
+      <int>963200000</int>
+    </musicIds>
+  </mzm.gsp.activity4.confbean.SBandstandActivityCfg>
+  <mzm.gsp.activity4.confbean.SBandstandActivityCfg activityId="350020029" awardId="35010" dailyAwardCount="1" npcId="150115086" serviceId="150210934">
+    <musicIds>
+      <int>963200001</int>
+    </musicIds>
+  </mzm.gsp.activity4.confbean.SBandstandActivityCfg>
+  <mzm.gsp.activity4.confbean.SBandstandActivityCfg activityId="350020030" awardId="35010" dailyAwardCount="1" npcId="150115087" serviceId="150210935">
+    <musicIds>
+      <int>963200002</int>
+    </musicIds>
+  </mzm.gsp.activity4.confbean.SBandstandActivityCfg>
+  <mzm.gsp.activity4.confbean.SBandstandActivityCfg activityId="350020031" awardId="35010" dailyAwardCount="1" npcId="150115090" serviceId="150210937">
+    <musicIds>
+      <int>963200003</int>
+    </musicIds>
+  </mzm.gsp.activity4.confbean.SBandstandActivityCfg>
+</data>

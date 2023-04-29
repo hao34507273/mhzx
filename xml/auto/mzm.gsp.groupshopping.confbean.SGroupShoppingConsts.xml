@@ -1,0 +1,8 @@
+<root>
+<row name="GROUP_SHOPPING_PLATFORM_PAGE_SIZE" value="4"/>
+<row name="MY_GROUP_SHOPPING_PAGE_SIZE" value="4"/>
+<row name="SUCCESS_MAIL_ID" value="340001114"/>
+<row name="FAIL_MAIL_ID" value="340001115"/>
+<row name="SYSTEM_FAIL_MAIL_ID" value="340001116"/>
+<row name="MAX_TASK_QUEUE_SIZE" value="500"/>
+</root>

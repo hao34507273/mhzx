@@ -1,0 +1,552 @@
+<data>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205039">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431000</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205040">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431001</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205041">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431002</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205042">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431003</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205043">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431004</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205044">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431005</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205045">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431006</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205046">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431008</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205047">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431007</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205048">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431009</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150200038">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120405000</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405001</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405002</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405003</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405004</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405005</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405006</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405007</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405008</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>120405009</int>
+        <int>1000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210113">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431010</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210114">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431011</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210115">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431012</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210116">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431013</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210117">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431014</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210118">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431015</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210119">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431016</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210120">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431018</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210121">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431017</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210122">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120431019</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205501">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412000</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205502">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412001</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205504">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412002</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205505">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412003</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205507">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412005</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150205508">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120412004</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210409">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415010</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210410">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415011</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210411">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415012</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210412">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415013</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210413">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415014</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210414">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415015</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210415">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415016</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210416">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415017</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210417">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415018</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210418">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415018</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210419">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415020</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210420">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415021</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210421">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415022</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210422">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415023</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210423">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415024</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210424">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415025</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210425">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415026</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210426">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415027</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210427">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415028</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210428">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415028</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210434">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415029</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210435">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415019</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210436">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415032</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210437">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415030</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210578">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415033</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210579">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415031</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150220210">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415035</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150220211">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415034</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+<!-- 门派宝贝 -->  
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210411">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415036</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+  <mzm.gsp.npc.confbean.SNPCTempFightCfg serviceId="150210421">
+    <fightMap>
+      <no-comparator/>
+      <entry>
+        <int>120415037</int>
+        <int>10000</int>
+      </entry>
+    </fightMap>
+  </mzm.gsp.npc.confbean.SNPCTempFightCfg>
+</data>

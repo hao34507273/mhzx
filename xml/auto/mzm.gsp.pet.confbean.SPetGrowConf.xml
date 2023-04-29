@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetGrowConf growColor="0" growStr="普通" maxGrowRate="0" minGrowRate="1999" templateId="131100000" templateName="白色"/>
+  <mzm.gsp.pet.confbean.SPetGrowConf growColor="1" growStr="優秀" maxGrowRate="2000" minGrowRate="3999" templateId="131100001" templateName="绿色"/>
+  <mzm.gsp.pet.confbean.SPetGrowConf growColor="2" growStr="精英" maxGrowRate="4000" minGrowRate="5999" templateId="131100002" templateName="蓝色"/>
+  <mzm.gsp.pet.confbean.SPetGrowConf growColor="3" growStr="卓越" maxGrowRate="6000" minGrowRate="7999" templateId="131100003" templateName="紫色"/>
+  <mzm.gsp.pet.confbean.SPetGrowConf growColor="4" growStr="完美" maxGrowRate="8000" minGrowRate="10000" templateId="131100004" templateName="橙色"/>
+</data>

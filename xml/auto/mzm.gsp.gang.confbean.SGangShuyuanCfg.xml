@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="0" levelUpNeedMin="180" levelUpNeedMoney="2004800" maintainNeedMoney="376000" maxSkillLevel="5"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="1" levelUpNeedMin="240" levelUpNeedMoney="3117600" maintainNeedMoney="408000" maxSkillLevel="10"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="2" levelUpNeedMin="300" levelUpNeedMoney="4300800" maintainNeedMoney="448000" maxSkillLevel="20"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="3" levelUpNeedMin="360" levelUpNeedMoney="5528000" maintainNeedMoney="744000" maxSkillLevel="30"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="4" levelUpNeedMin="420" levelUpNeedMoney="6837600" maintainNeedMoney="804000" maxSkillLevel="40"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="5" levelUpNeedMin="480" levelUpNeedMoney="8013600" maintainNeedMoney="1152000" maxSkillLevel="50"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="6" levelUpNeedMin="540" levelUpNeedMoney="9548800" maintainNeedMoney="1264000" maxSkillLevel="60"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="7" levelUpNeedMin="600" levelUpNeedMoney="11016000" maintainNeedMoney="1360000" maxSkillLevel="70"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="8" levelUpNeedMin="660" levelUpNeedMoney="12180000" maintainNeedMoney="1820000" maxSkillLevel="80"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="9" levelUpNeedMin="720" levelUpNeedMoney="13904000" maintainNeedMoney="1960000" maxSkillLevel="90"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="10" levelUpNeedMin="780" levelUpNeedMoney="14976000" maintainNeedMoney="2520000" maxSkillLevel="100"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="11" levelUpNeedMin="840" levelUpNeedMoney="16556800" maintainNeedMoney="2664000" maxSkillLevel="110"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="12" levelUpNeedMin="900" levelUpNeedMoney="18368000" maintainNeedMoney="2880000" maxSkillLevel="115"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="13" levelUpNeedMin="960" levelUpNeedMoney="19266000" maintainNeedMoney="3556000" maxSkillLevel="120"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="14" levelUpNeedMin="1020" levelUpNeedMoney="20876800" maintainNeedMoney="3752000" maxSkillLevel="125"/>
+  <mzm.gsp.gang.confbean.SGangShuyuanCfg level="15" levelUpNeedMin="1080" levelUpNeedMoney="22487600" maintainNeedMoney="4576000" maxSkillLevel="130"/>
+</data>

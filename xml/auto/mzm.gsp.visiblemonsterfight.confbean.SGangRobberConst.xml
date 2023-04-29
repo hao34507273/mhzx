@@ -1,0 +1,45 @@
+<root>
+<row name="ACTIVITYID" value="350000013"/>
+<row name="VISIBLE_MONSTER_ID" value="9"/>
+<row name="controlers">
+<int>701100005</int>
+<int>701100009</int>
+<int>701100010</int>
+<int>701100011</int>
+<int>701100012</int>
+</row>
+<row name="awardids">
+<int>1502</int>
+<int>1503</int>
+<int>1504</int>
+<int>1505</int>
+<int>1506</int>
+</row>
+<row name="triggerTimes">
+<int>0</int>
+<int>3</int>
+<int>6</int>
+<int>9</int>
+<int>12</int>
+</row>
+<row name="REWARD_LIMIT" value="500"/>
+<row name="AWARD_GANG_MONEY" value="1000000"/>
+<row name="GANG_AWARD_ID" value="2"/>
+<row name="monsterids">
+<int>300004000</int>
+<int>300004001</int>
+<int>300004002</int>
+<int>300004003</int>
+<int>300004004</int>
+</row>
+<row name="TEAM_GANG_MEMBER_NUM" value="3"/>
+<row name="ROBBER_COUNT_NOTIFY_INTERVAL" value="600"/>
+<row name="ROBBER_COUNT_NOTIFY_DELAY_SEC" value="1200"/>
+<row name="ROBBER_NEXT_ROUND_MINUTE" value="120"/>
+<row name="ROBBER_ROUND_INTERVAL_MINUTE" value="60"/>
+<row name="deductPerMonster" value="0"/>
+<row name="deductLimit" value="0"/>
+<row name="maxRefreshCount" value="500"/>
+<row name="refreshMonsterNumPer" value="3"/>
+<row name="deadCountCanAward" value="20"/>
+</root>

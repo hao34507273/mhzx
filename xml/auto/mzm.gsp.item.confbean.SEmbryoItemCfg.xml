@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200000" icon="59005" id="217100000" isProprietary="false" name="庭院彩蛋" namecolor="4" pilemax="99" sellSilver="1" sort="1" type="122" useLevel="30"/>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200001" icon="59005" id="217100001" isProprietary="false" name="1星庭院彩蛋" namecolor="1" pilemax="99" sellSilver="2" sort="2" type="122" useLevel="30"/>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200002" icon="59005" id="217100002" isProprietary="false" name="2星庭院彩蛋" namecolor="2" pilemax="99" sellSilver="3" sort="3" type="122" useLevel="30"/>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200003" icon="59005" id="217100003" isProprietary="false" name="3星庭院彩蛋" namecolor="3" pilemax="99" sellSilver="4" sort="4" type="122" useLevel="30"/>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200004" icon="59005" id="217100004" isProprietary="false" name="4星庭院彩蛋" namecolor="4" pilemax="99" sellSilver="5" sort="5" type="122" useLevel="30"/>
+  <mzm.gsp.item.confbean.SEmbryoItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" embryoCfgid="843200005" icon="59005" id="217100005" isProprietary="false" name="5星庭院彩蛋" namecolor="5" pilemax="99" sellSilver="6" sort="6" type="122" useLevel="30"/>
+</data>

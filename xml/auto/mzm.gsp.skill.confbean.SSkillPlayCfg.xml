@@ -1,0 +1,4856 @@
+<data>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160100000" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160200100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>  
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160100001" prepareStage="0" returnStage="0" skillPlayType="1">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160200101</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160100002" prepareStage="0" returnStage="0" skillPlayType="1">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160200102</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160100003" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160200100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160100004" prepareStage="0" returnStage="0" skillPlayType="1">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101010" prepareStage="0" returnStage="160200004" skillPlayType="2">
+      <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160201010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101020" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160201020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101021" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>	  
+    </moveStages>
+    <effectStages>
+      <int>160201021</int>
+      <int>160201022</int>
+      <int>160201023</int>	 
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101022" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>	 
+    </moveStages>
+    <effectStages>
+      <int>160201024</int>
+      <int>160201025</int>
+      <int>160201026</int>	 
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101030" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101040" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160201040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101050" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200008</int>
+    </moveStages>
+    <effectStages>
+      <int>160201050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101051" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200008</int>
+    </moveStages>
+    <effectStages>
+      <int>160201051</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160101060" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200001</int>
+      <int>160200020</int>
+      <int>160200020</int>
+    </moveStages>
+    <effectStages>
+      <int>160201060</int>
+      <int>160201060</int>
+      <int>160201060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101070" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101080" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101090" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101100" prepareStage="0" returnStage="160200004" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160101110" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160201110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102010" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102020" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102030" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102031" prepareStage="0" returnStage="0" skillPlayType="2">
+      <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202031</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160102040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202040</int>
+      <int>160202041</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102090" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202090</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160102100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103020" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160203020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103021" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203021</int>
+      <int>160203022</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103022" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203023</int>
+      <int>160203024</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103031" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203031</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103032" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103041" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103051" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203051</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103090" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203090</int>
+      <int>160203091</int>
+      <int>160203092</int>
+      <int>160203093</int>
+      <int>160203091</int>
+      <int>160203092</int>
+      <int>160203093</int>
+      <int>160203091</int>
+      <int>160203092</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160103100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="2" id="160104090" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160204090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160104100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105010" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160205010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>	  
+    </moveStages>
+    <effectStages>
+      <int>160205050</int>
+      <int>160205051</int>	  
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105090" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160205090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160105110" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106010" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200005</int>
+      <int>160200018</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>0</int>
+      <int>0</int>
+      <int>160206010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106020" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160206020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106030" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160206030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160106031" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206031</int>
+      <int>160206032</int>
+      <int>160206033</int>
+      <int>160206034</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160106032" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206035</int>
+      <int>160206036</int>
+      <int>160206037</int>
+      <int>160206038</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106040" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>160200021</int>
+      <int>160200021</int>
+      <int>160200021</int>
+      <int>160200021</int>
+    </moveStages>
+    <effectStages>
+      <int>160206040</int>
+      <int>160206040</int>
+      <int>160206040</int>
+      <int>160206040</int>
+      <int>160206040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106041" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>160200021</int>
+      <int>160200021</int>
+      <int>160200021</int>
+      <int>160200021</int>
+    </moveStages>
+    <effectStages>
+      <int>160206041</int>
+      <int>160206041</int>
+      <int>160206041</int>
+      <int>160206041</int>
+      <int>160206041</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106051" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206051</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160206080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106090" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+      <int>160200014</int>
+      <int>0</int>
+      <int>0</int>
+      <int>160200015</int>
+    </moveStages>
+    <effectStages>
+      <int>0</int>
+      <int>0</int>
+      <int>160206090</int>
+      <int>160206091</int>
+      <int>0</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160106100" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160206100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107020" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160207020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107021" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160207021</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107030" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160207030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107031" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160207031</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107100" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207100</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207102</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107110" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160107120" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207120</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160107130" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207130</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108021" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208021</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108030" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>160200002</int>
+      <int>160200002</int>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160208030</int>
+      <int>160208031</int>
+      <int>160208032</int>
+      <int>160208032</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108040" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208040</int>
+      <int>160208041</int>
+      <int>160208042</int>
+      <int>160208043</int>
+      <int>160208043</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108041" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208044</int>
+      <int>160208041</int>
+      <int>160208042</int>
+      <int>160208043</int>
+      <int>160208043</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160108100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109020" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200016</int>
+    </moveStages>
+    <effectStages>
+      <int>160209020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109030" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209030</int>
+      <int>160209031</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109031" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209032</int>
+      <int>160209033</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209040</int>
+      <int>160209050</int>
+      <int>160209051</int>
+      <int>160209052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109041" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209041</int>
+      <int>160209053</int>
+      <int>160209054</int>
+      <int>160209055</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209050</int>
+      <int>160209051</int>
+      <int>160209052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109060" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209060</int>
+      <int>160209061</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109071" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109091" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109101" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109110" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209110</int>
+      <int>160209111</int>
+      <int>160209112</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109111" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209113</int>
+      <int>160209114</int>
+      <int>160209115</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109120" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209120</int>
+      <int>160209121</int>
+      <int>160209122</int>
+      <int>160209123</int>
+      <int>160209124</int>
+      <int>160209125</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109130" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209130</int>
+      <int>160209131</int>
+      <int>160209120</int>
+      <int>160209121</int>
+      <int>160209122</int>
+      <int>160209123</int>
+      <int>160209124</int>
+      <int>160209125</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109140" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209140</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109150" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160209150</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160109160" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209160</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160109170" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160209170</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109180" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109181" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209040</int>
+      <int>160209050</int>
+      <int>160209051</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160109182" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110010" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110011" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210012</int>
+      <int>160210011</int>
+      <int>160210011</int>
+      <int>160210011</int>
+      <int>160210011</int>
+      <int>160210011</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110020" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110021" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210021</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110030" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210030</int>
+      <int>160210031</int>
+      <int>160210032</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110031" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210033</int>
+      <int>160210031</int>
+      <int>160210032</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110299" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160210331</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110300" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160210300</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110301" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110302" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160210320</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110303" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160210330</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110304" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110305" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210350</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110306" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210360</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110307" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210370</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110308" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110309" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160210390</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110311" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210314</int>
+      <int>160210315</int>
+      <int>160210316</int>
+      <int>160210317</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110312" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160210321</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110600" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210600</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110601" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210601</int>
+      <int>160210602</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110602" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210603</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110603" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210604</int>
+      <int>160210605</int>
+      <int>160210606</int>
+      <int>160210607</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110604" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210608</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110605" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210609</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110606" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210610</int>
+      <int>160210619</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110607" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210611</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110608" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210612</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210615</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210615</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110609" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160210616</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110610" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210617</int>
+      <int>160210618</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110800" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210800</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110801" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210801</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110802" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210802</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110803" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210803</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110804" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210804</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110805" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210805</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110806" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210806</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110807" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210807</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110808" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210808</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110809" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210810</int>
+      <int>160210811</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110810" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210812</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110811" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210809</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110812" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210800</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110813" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210814</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110814" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210815</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160110815" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210816</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113010" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213010</int>
+      <int>160213010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113020" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160213020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113030" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160213030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113110" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113120" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213120</int>
+      <int>160213120</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113130" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213130</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113140" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213140</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113150" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213150</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113160" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213160</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113170" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213170</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113180" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213180</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113190" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213190</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113200" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213200</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113210" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213210</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113220" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213220</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113230" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213230</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113240" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213240</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113250" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213250</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113260" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213260</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113270" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213270</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113280" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213280</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113290" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113300" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213300</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113310" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213310</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113320" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213320</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113330" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213330</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113340" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113350" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213350</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113360" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213360</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113370" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213370</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113380" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213380</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113390" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213390</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113400" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213400</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113410" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213410</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113420" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213420</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113430" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213430</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113440" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213440</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113450" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213450</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113460" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213460</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113470" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213470</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113480" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213480</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113490" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213490</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113500" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213500</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113510" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213510</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113520" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213520</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113530" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213530</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113540" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213540</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160113550" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213550</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114060" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114070" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114080" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114100" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114110" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114120" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214120</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114130" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214130</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114140" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214140</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114150" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214150</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114160" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214160</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114170" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214170</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114180" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214180</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114190" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214190</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114191" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214191</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114200" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214200</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114210" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214210</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114220" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160214220</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114230" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114240" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214240</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114250" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214250</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114260" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214260</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114270" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114280" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214280</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114290" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114300" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214300</int>
+      <int>160214301</int>
+      <int>160214303</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114310" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114320" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214310</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114330" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114340" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160214320</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114350" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114360" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>160200022</int>
+    </moveStages>
+    <effectStages>
+      <int>160214330</int>
+      <int>0</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160114370" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200013</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>0</int>
+      <int>160214340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114380" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160214343</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114390" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160214344</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114391" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160214345</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114900" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214900</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114901" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>160200021</int>
+    </moveStages>
+    <effectStages>
+      <int>160214170</int>
+      <int>160214170</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114902" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114903" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213380</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114904" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>160200022</int>
+    </moveStages>
+    <effectStages>
+      <int>160214901</int>
+      <int>0</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160114905" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214902</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115010" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160215010</int>
+      <int>160215010</int>
+      <int>160215010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115020" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160215020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115030" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160215030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115040" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160215040</int>
+      <int>160215040</int>
+      <int>160215040</int>
+      <int>160215040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115050" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160215050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115060" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160215060</int>
+      <int>160215060</int>
+      <int>160215060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115070" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200008</int>
+    </moveStages>
+    <effectStages>
+      <int>160215070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115080" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160215080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115090" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160215090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160115100" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160215100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160116010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160216010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160116020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160216020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160116030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160216030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160116110" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160216110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160117010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160117020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160117021" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160117030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160117040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160205030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160118010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160218010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160118020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160218020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160119010" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160119020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160119030" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160119040" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160119050" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160201080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120001" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120002" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120003" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120004" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160200100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120005" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120006" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120007" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120008" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120009" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120010" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160200100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120020" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120021" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120022" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160120023" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>160220004</int>
+    </moveStages>
+    <effectStages>
+      <int>160220002</int>
+      <int>160220003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120100" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120101" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120102" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120103" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120104" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120105" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120106" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120107" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240051</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120108" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160240052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120109" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160240053</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120110" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160240054</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120111" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240055</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120112" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240056</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160120113" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240057</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160120114" prepareStage="0" returnStage="160200005" skillPlayType="2">
+    <moveStages>
+      <int>160200020</int>
+    </moveStages>
+    <effectStages>
+      <int>160240058</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160120115" prepareStage="0" returnStage="160200005" skillPlayType="2">
+    <moveStages>
+      <int>160200020</int>
+    </moveStages>
+    <effectStages>
+      <int>160240059</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121001" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121002" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121003" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121004" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160121005" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160221005</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160130000" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+	  <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160230000</int>
+	  <int>160230001</int>
+	  <int>160230002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160130001" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160230001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160130002" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160230002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160131000" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160231000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160132000" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160232000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160133000" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160233000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160134000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160234000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160135000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160235000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160135001" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160235001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160136000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160236000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160137000" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160237000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160138000" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160238000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160138001" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160238000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139000" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139001" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139002" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139003" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139004" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139005" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239005</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139006" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239006</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139100" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160220000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139200" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139201" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139202" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139203" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139204" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139205" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240005</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160139206" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <!--<moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240006</int>
+      <int>160240006</int>
+      <int>160240007</int>
+      <int>160240008</int>
+      <int>160240009</int>
+      <int>160240010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>-->
+  <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>	  
+    </moveStages>
+    <effectStages>
+      <int>160201021</int>
+      <int>160201022</int>
+      <int>160201023</int>	 
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139207" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240021</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160139208" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200002</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240006</int>
+      <int>160240007</int>
+      <int>160240008</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139209" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240011</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160139210" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139211" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240012</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139212" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240013</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139213" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240014</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139214" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240015</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139215" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240016</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139216" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240017</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139217" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240018</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139218" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240019</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139219" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139220" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139221" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139300" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160239300</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139700" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160242000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139701" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160242001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139702" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160242002</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139703" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160242003</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139704" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160242004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139705" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202090</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+      <int>160202091</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139800" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213010</int>
+      <int>160213010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139801" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160213020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139802" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160213030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139803" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139804" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139805" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139806" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139807" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139808" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139809" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139810" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139811" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213120</int>
+      <int>160213120</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139812" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213130</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139813" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213140</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139814" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213150</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139815" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213160</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139816" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213170</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139817" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213180</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139818" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213190</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139819" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213200</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139820" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213210</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139821" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213220</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139822" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213230</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139823" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213240</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139824" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213250</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139825" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213260</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139826" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213270</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139827" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213280</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139828" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139829" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213300</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139830" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213310</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139831" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213320</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139832" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213330</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139833" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139834" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213350</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139835" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213360</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139836" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213370</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139837" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213380</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139838" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213390</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139839" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213400</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139840" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213410</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139841" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213420</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139842" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213430</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139843" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213440</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139844" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213450</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139845" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213460</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139846" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213470</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139847" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213480</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139848" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213490</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139849" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213500</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>	
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160139850" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213510</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>  
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190001" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190002" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>	  
+	  <int>0</int>	  
+	  <int>0</int>	  
+    </moveStages>
+    <effectStages>
+      <int>160250002</int>
+      <int>160250003</int>
+      <int>160250003</int>	 
+	  <int>160250003</int>	
+	  <int>160250003</int>	
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190003" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="2" id="160190004" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160250005</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190005" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160250007</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190006" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+	  <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250008</int>
+	  <int>160250008</int>
+	  <int>160250008</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190007" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+      <int>160207101</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190008" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207120</int>
+	  <int>160207120</int>
+	  <int>160207120</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190009" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+	  <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208040</int>
+      <int>160208041</int>
+      <int>160208042</int>
+      <int>160208043</int>
+      <int>160208041</int>
+      <int>160208042</int>
+      <int>160208043</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190010" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250017</int>
+      <int>160250018</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190011" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209051</int>
+      <int>160209051</int>
+      <int>160209051</int>
+      <int>160209052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190012" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209121</int>
+	  <int>160209122</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>  
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190013" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250019</int>
+	  <int>160250019</int>
+	  <int>160250019</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190014" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+	  <int>160210381</int>
+	  <int>160210382</int>
+	  <int>160210383</int>
+	  <int>160210384</int>
+	  <int>160210385</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190015" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210615</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210613</int>
+      <int>160210614</int>
+      <int>160210615</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190101" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190102" prepareStage="0" returnStage="160200004" skillPlayType="2">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160201010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190103" prepareStage="0" returnStage="160200005" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160240058</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190104" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+	  <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+	  <int>160209040</int>
+      <int>160209050</int>
+      <int>160209031</int>
+      <int>160209052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190105" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250023</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190106" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209140</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190107" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160209122</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190108" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160201080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190109" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200008</int>
+    </moveStages>
+    <effectStages>
+      <int>160201110</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190110" prepareStage="0" returnStage="160200004" skillPlayType="2">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160201040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190111" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190112" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160214090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190113" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190114" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160214040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190115" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213370</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190116" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240004</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190117" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250025</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190118" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190119" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160236000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190120" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213200</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190121" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213230</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190122" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240015</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190123" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160219040</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190124" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160204100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190125" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190126" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160214220</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190127" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160250026</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190128" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160201090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190129" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190130" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240001</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190131" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213410</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190132" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214290</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190133" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190134" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240016</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190135" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240017</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190136" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160213120</int>
+      <int>160250027</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190137" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160240052</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190138" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160208010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190139" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250028</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190140" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190141" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160204080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190142" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203050</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190143" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190144" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160202080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190145" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250029</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190146" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190147" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160217010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190148" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160207020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190149" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160240012</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190150" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160219030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190151" prepareStage="0" returnStage="160200004" skillPlayType="2">
+      <moveStages>
+      <int>160200002</int>
+    </moveStages>
+    <effectStages>
+      <int>160250030</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190152" prepareStage="0" returnStage="160200005" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160240058</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190153" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214020</int>
+	  <int>160214070</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190154" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+    </moveStages>
+    <effectStages>
+      <int>160215060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190155" prepareStage="0" returnStage="0" skillPlayType="1">
+      <moveStages>
+      <int>160200001</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209124</int>
+      <int>160209125</int>	 
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190156" prepareStage="0" returnStage="0" skillPlayType="1">
+    <moveStages>
+      <int>160200003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+      <int>160209122</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190157" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160203020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190158" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250031</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190159" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250032</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190160" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250033</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190161" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250034</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190162" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190163" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214100</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190164" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214090</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190165" prepareStage="0" returnStage="160200004" skillPlayType="1">
+      <moveStages>
+      <int>160200008</int>
+	  <int>160200020</int>
+	  <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160201050</int>
+	  <int>160201060</int>
+	  <int>160201010</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190166" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160250035</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190167" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160250036</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190168" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160219020</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190169" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160250038</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190170" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160210617</int>
+      <int>160210618</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190171" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160250039</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190172" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214030</int>
+	  <int>160214080</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="1" id="160190173" prepareStage="0" returnStage="0" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+	  <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160214010</int>
+	  <int>160214060</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190174" prepareStage="0" returnStage="160200004" skillPlayType="1">
+    <moveStages>
+      <int>160200001</int>
+	  <int>0</int>
+      <int>0</int>
+	  <int>0</int>
+      <int>0</int>
+	  <int>0</int>
+      <int>0</int>
+    </moveStages>
+    <effectStages>
+      <int>160230000</int>
+	  <int>160230001</int>
+	  <int>160230002</int>
+	  <int>160230000</int>
+	  <int>160230001</int>
+	  <int>160230002</int>
+	  <int>160230000</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190175" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>160200003</int>
+    </moveStages>
+    <effectStages>
+      <int>160213340</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>
+
+  <mzm.gsp.skill.confbean.SSkillPlayCfg deadStyle="3" id="160190176" prepareStage="0" returnStage="160200004" skillPlayType="2">
+    <moveStages>
+      <int>0</int>
+      <int>160200022</int>
+    </moveStages>
+    <effectStages>
+      <int>160214330</int>
+      <int>0</int>
+    </effectStages>
+  </mzm.gsp.skill.confbean.SSkillPlayCfg>  
+</data>	

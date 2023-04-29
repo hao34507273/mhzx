@@ -1,0 +1,16 @@
+<root>
+<row name="TEAM_CAPACITY" value="5"/>
+<row name="INVITE_SECONDS" value="30"/>
+<row name="APPLY_SECONDS" value="60"/>
+<row name="APPLY_CAPACITY" value="30"/>
+<row name="TEAM_STABLE_MIN_FIGHTCOUNT" value="15"/>
+<row name="CHANGE_LEADER_TIME_INTERVAL" value="5"/>
+<row name="STABLE_TEAM_BUF" value="701202000"/>
+<row name="ACTIVITY_TEAM_REFRESH_INTERVAL" value="2"/>
+<row name="ROLE_MATCH_TEAM_BUF" value="701202002"/>
+<row name="LEADERMATCH_ROLE_BUF" value="701202001"/>
+<row name="CUT_MEMBER_VIGOUR_VALUE" value="20"/>
+<row name="CUT_MEMBER_SILVER_VALUE" value="20000"/>
+<row name="CUT_LEADER_VIGOUR_VALUE" value="20"/>
+<row name="CUT_LEADER_SILVER_VALUE" value="20000"/>
+</root>

@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200000" itemid="210100017" mallType="2" maxbuynum="10" price="1"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200001" itemid="210100018" mallType="2" maxbuynum="20" price="2"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200002" itemid="210100020" mallType="2" maxbuynum="30" price="3"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200003" itemid="210100022" mallType="2" maxbuynum="40" price="4"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200004" itemid="210100023" mallType="2" maxbuynum="50" price="5"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200005" itemid="210100024" mallType="2" maxbuynum="60" price="6"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200006" itemid="210100025" mallType="2" maxbuynum="70" price="7"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200007" itemid="210100026" mallType="2" maxbuynum="80" price="8"/>
+  <mzm.gsp.mall.confbean.SLimitMallCfg id="530200008" itemid="210100027" mallType="2" maxbuynum="90" price="9"/>
+</data>

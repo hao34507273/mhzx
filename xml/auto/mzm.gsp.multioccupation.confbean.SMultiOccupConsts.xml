@@ -1,0 +1,20 @@
+<root>
+<row name="ActiveNeedGolds">
+<int>500000</int>
+<int>600000</int>
+<int>700000</int>
+<int>800000</int>
+<int>900000</int>
+<int>1000000</int>
+<int>1100000</int>
+<int>1200000</int>
+<int>1300000</int>
+<int>1400000</int>
+</row>
+<row name="SwitchNeedGold" value="100000"/>
+<row name="LevelLimit" value="70"/>
+<row name="ActiveCoolDownHours" value="0"/>
+<row name="SwitchCoolDownHours" value="0"/>
+<row name="ActiveService" value="150210350"/>
+<row name="SwitchService" value="150210351"/>
+</root>

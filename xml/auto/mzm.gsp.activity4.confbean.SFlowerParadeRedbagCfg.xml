@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.activity4.confbean.SFlowerParadeRedbagCfg countMax="200" countMin="30" countPercent="200" groupId="1" roleMaxGot="6">
+    <tipList>
+      <mzm.gsp.activity4.confbean.FlowerParadeTipBean tipId="悄悄的我走了，正如我悄悄的来，我挥一挥衣袖，留下满地的红包。"/>
+      <mzm.gsp.activity4.confbean.FlowerParadeTipBean tipId="发红包之前先定一个小目标，比如说今天我先发它一个亿吧。"/>
+      <mzm.gsp.activity4.confbean.FlowerParadeTipBean tipId="锄禾日当午，发红包好苦，发完了上午，还要发下午。"/>
+    </tipList>
+  </mzm.gsp.activity4.confbean.SFlowerParadeRedbagCfg>
+</data>

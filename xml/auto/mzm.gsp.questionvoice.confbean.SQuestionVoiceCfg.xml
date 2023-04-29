@@ -1,0 +1,43 @@
+<data>
+  <mzm.gsp.questionvoice.confbean.SQuestionVoiceCfg questionType="1">
+    <id2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>954000000</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceBean id="954000000">
+          <answerList>
+            <string>好吧你去吧，也好斷了他的念想，以后可以好好的過日子了……</string>
+            <string>不能去</string>
+          </answerList>
+        </mzm.gsp.questionvoice.confbean.SQuestionVoiceBean>
+      </entry>
+      <entry>
+        <int>954000001</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceBean id="954000001">
+          <answerList>
+            <string>因為，小櫻的媽媽，兇不（胸部）起來了！</string>
+            <string>太高深了，不知道！</string>
+          </answerList>
+        </mzm.gsp.questionvoice.confbean.SQuestionVoiceBean>
+      </entry>
+      <entry>
+        <int>954000002</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceBean id="954000002">
+          <answerList>
+            <string>你的視力還蠻好的</string>
+            <string>以后別照鏡子了。</string>
+          </answerList>
+        </mzm.gsp.questionvoice.confbean.SQuestionVoiceBean>
+      </entry>
+      <entry>
+        <int>954000003</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceBean id="954000003">
+          <answerList>
+            <string>不，你現在就要給我解釋清楚！</string>
+            <string>好吧，我晚上去。</string>
+          </answerList>
+        </mzm.gsp.questionvoice.confbean.SQuestionVoiceBean>
+      </entry>
+    </id2CfgMap>
+  </mzm.gsp.questionvoice.confbean.SQuestionVoiceCfg>
+</data>

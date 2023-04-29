@@ -1,0 +1,33 @@
+<root>
+<row name="SERVICE_OPEN_LEVEL" value="20"/>
+<row name="ONSHOW_PERSIST_TIME" value="1440"/>
+<row name="RECOMMAND_PRICE_UPDATE_INTERVAL" value="120"/>
+<row name="FREE_REFRESH_TIME_COUNTER" value="300"/>
+<row name="DEFAULT_REFRESH_INTERVAL" value="20"/>
+<row name="SELF_REFRESH_NEED_GOLD" value="100"/>
+<row name="DEFAULT_POS_NUM" value="8"/>
+<row name="EXPEND_TANWEI_NEED_YUANBAO" value="100"/>
+<row name="BAITAN_FEE_RATE" value="500"/>
+<row name="SELL_TAX_RATE" value="100"/>
+<row name="SINGLE_ADD_PRICE_RATE" value="1000"/>
+<row name="HIGH_PRICE_RATE_LIMIT" value="15000"/>
+<row name="LOW_PRICE_RATE_LIMIT" value="5000"/>
+<row name="MAX_BAITAN_GRID_LIMIT" value="21"/>
+<row name="ITEM_STOCK_NUM" value="5"/>
+<row name="TAX_TIPS" value="701603000"/>
+<row name="BATAN_COST_TIPS" value="701603001"/>
+<row name="BASE_RATE" value="10000"/>
+<row name="ROLE_LEVEL_PHASE" value="10"/>
+<row name="SUPPLY_INTERVAL" value="60"/>
+<row name="CHANNEL_SIZE" value="100"/>
+<row name="PAGE_SIZE" value="8"/>
+<row name="ITEM_DISPLAY_INIT_SERVER_LEVEL" value="37"/>
+<row name="SERVER_LEVEL_DELTA" value="0"/>
+<row name="CAN_SEE_EQUIP_LEVEL_DELTA" value="10"/>
+<row name="SHOW_EQUIP_START_LEVEL" value="30"/>
+<row name="RECYCLE_PRICE_RATE" value="11000"/>
+<row name="RECYCLE_MIN_TIME" value="16"/>
+<row name="RECYCLE_FIX_TIME" value="18"/>
+<row name="RECYCLE_FLOAT_TIME" value="10"/>
+<row name="EQUIP_SIFT_MAX_LEVEL" value="100"/>
+</root>

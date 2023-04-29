@@ -1,0 +1,41 @@
+<data>
+  <mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg createItemId="215800002" createItemNum="1" groupId="1" id="959100000" isBind="1">
+    <costItemId2costItemNum>
+      <no-comparator/>
+      <entry>
+        <int>210183100</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>210183101</int>
+        <int>1</int>
+      </entry>
+    </costItemId2costItemNum>
+  </mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg>
+  <mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg createItemId="215800003" createItemNum="1" groupId="1" id="959100001" isBind="1">
+    <costItemId2costItemNum>
+      <no-comparator/>
+      <entry>
+        <int>210183100</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>210183102</int>
+        <int>1</int>
+      </entry>
+    </costItemId2costItemNum>
+  </mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg>
+  <mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg createItemId="215800004" createItemNum="1" groupId="1" id="959100002" isBind="1">
+    <costItemId2costItemNum>
+      <no-comparator/>
+      <entry>
+        <int>210183100</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>210183103</int>
+        <int>1</int>
+      </entry>
+    </costItemId2costItemNum>
+  </mzm.gsp.midautumnholiday.confbean.SOriginalComposeCfg>
+</data>

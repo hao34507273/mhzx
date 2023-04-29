@@ -1,0 +1,20 @@
+<data>
+  <mzm.gsp.homeland.confbean.SMaidRoomCfg dayCleanCount="1" dayCutCleanliness="1" id="840500000" level="1" moneyNum="100000" moneyType="3">
+    <maidIds>
+      <int>840600000</int>
+    </maidIds>
+  </mzm.gsp.homeland.confbean.SMaidRoomCfg>
+  <mzm.gsp.homeland.confbean.SMaidRoomCfg dayCleanCount="1" dayCutCleanliness="2" id="840500001" level="2" moneyNum="1000000" moneyType="3">
+    <maidIds>
+      <int>840600000</int>
+      <int>840600001</int>
+    </maidIds>
+  </mzm.gsp.homeland.confbean.SMaidRoomCfg>
+  <mzm.gsp.homeland.confbean.SMaidRoomCfg dayCleanCount="1" dayCutCleanliness="4" id="840500002" level="3" moneyNum="5000000" moneyType="3">
+    <maidIds>
+      <int>840600000</int>
+      <int>840600001</int>
+      <int>840600002</int>
+    </maidIds>
+  </mzm.gsp.homeland.confbean.SMaidRoomCfg>
+</data>

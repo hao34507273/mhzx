@@ -1,0 +1,2500 @@
+<data>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000000" templatename="主线稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000001" templatename="支线稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000002" templatename="师门任务稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000003" templatename="藏宝图稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000004" templatename="试炼稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000005" templatename="黑龙浩劫稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000006" templatename="竞技场稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000007" templatename="镇妖活动稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000008" templatename="护送稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000009" templatename="地宫挂野稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000010" templatename="乱世妖魔稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000011" templatename="十二生肖稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000012" templatename="副本稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000013" templatename="诛仙奇缘稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000014" templatename="科举考试稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000015" templatename="决战九霄稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000016" templatename="帮派精英稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000017" templatename="门派挑战稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000018" templatename="帮派战争稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000019" templatename="幻月洞府稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000020" templatename="世界BOSS稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000021" templatename="天下会武稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000022" templatename="首席争霸稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000023" templatename="帮派强盗稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000024" templatename="妖兽突袭稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000025" templatename="单人节日活动稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000026" templatename="组队节日活动稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100001" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000027" templatename="还魂秘术稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000028" templatename="赏金稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000029" templatename="帮派周常稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000030" templatename="双飞活动稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000031" templatename="帮派篝火稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000032" templatename="赛跑稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000033" templatename="晚间答题稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000034" templatename="夫妻活动稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000035" templatename="世界答题稳定队伍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000100" templatename="主线交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000101" templatename="支线交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000102" templatename="师门任务交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000103" templatename="藏宝图交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000104" templatename="试炼交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000105" templatename="黑龙浩劫交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000106" templatename="竞技场交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000107" templatename="镇妖活动交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000108" templatename="护送交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000109" templatename="地宫挂野交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000110" templatename="乱世妖魔交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000111" templatename="十二生肖交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000112" templatename="副本交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000113" templatename="诛仙奇缘交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000114" templatename="科举考试交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000115" templatename="决战九霄交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000116" templatename="帮派精英交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000117" templatename="门派挑战交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000118" templatename="帮派战争交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000119" templatename="幻月洞府交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000120" templatename="世界BOSS交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000121" templatename="天下会武交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000122" templatename="首席争霸交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000123" templatename="帮派强盗交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000124" templatename="妖兽突袭交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000125" templatename="单人节日活动交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000126" templatename="组队节日活动交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000127" templatename="还魂秘术交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000128" templatename="赏金交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000129" templatename="帮派周常交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000130" templatename="双飞活动交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000131" templatename="帮派篝火交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000132" templatename="赛跑交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000133" templatename="晚间答题交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000134" templatename="夫妻活动交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000135" templatename="世界答题交互类buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000200" templatename="主线新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000201" templatename="支线新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000202" templatename="师门任务新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000203" templatename="藏宝图新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000204" templatename="试炼新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000205" templatename="黑龙浩劫新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000206" templatename="竞技场新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000207" templatename="镇妖活动新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000208" templatename="护送新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000209" templatename="地宫挂野新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000210" templatename="乱世妖魔新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000211" templatename="十二生肖新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000212" templatename="副本新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000213" templatename="诛仙奇缘新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000214" templatename="科举考试新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000215" templatename="决战九霄新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000216" templatename="帮派精英新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000217" templatename="门派挑战新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000218" templatename="帮派战争新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000219" templatename="幻月洞府新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000220" templatename="世界BOSS新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000221" templatename="天下会武新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000222" templatename="首席争霸新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000223" templatename="帮派强盗新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000224" templatename="妖兽突袭新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000225" templatename="单人节日活动新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000226" templatename="组队节日活动新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000227" templatename="还魂秘术新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000228" templatename="赏金新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000229" templatename="帮派周常新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000230" templatename="双飞活动新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000231" templatename="帮派篝火新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000232" templatename="赛跑新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000233" templatename="晚间答题新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000234" templatename="夫妻活动新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100201" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000235" templatename="世界答题新婚buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000300" templatename="主线新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000301" templatename="支线新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000302" templatename="师门任务新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000303" templatename="藏宝图新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000304" templatename="试炼新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000305" templatename="黑龙浩劫新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000306" templatename="竞技场新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000307" templatename="镇妖活动新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000308" templatename="护送新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000309" templatename="地宫挂野新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000310" templatename="乱世妖魔新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000311" templatename="十二生肖新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000312" templatename="副本新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000313" templatename="诛仙奇缘新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000314" templatename="科举考试新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000315" templatename="决战九霄新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000316" templatename="帮派精英新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000317" templatename="门派挑战新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000318" templatename="帮派战争新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000319" templatename="幻月洞府新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000320" templatename="世界BOSS新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000321" templatename="天下会武新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000322" templatename="首席争霸新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000323" templatename="帮派强盗新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000324" templatename="妖兽突袭新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000325" templatename="单人节日活动新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000326" templatename="组队节日活动新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000327" templatename="还魂秘术新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000328" templatename="赏金新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000329" templatename="帮派周常新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000330" templatename="双飞活动新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000331" templatename="帮派篝火新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000332" templatename="赛跑新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000333" templatename="晚间答题新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000334" templatename="夫妻活动新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100301" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000335" templatename="世界答题新婚组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="null" isEff="false"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000400" templatename="主线N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110100" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110200" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110600" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110700" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110800" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110900" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111000" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111100" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000401" templatename="支线N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110001" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110101" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110201" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110301" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110401" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110601" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110701" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110801" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110901" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111001" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111101" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000402" templatename="师门任务N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110002" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110102" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110202" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110302" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110402" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110602" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110702" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110802" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110902" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111002" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111102" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000403" templatename="藏宝图N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110003" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110103" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110203" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110303" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110403" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110603" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110703" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110803" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110903" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111003" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111103" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000404" templatename="试炼N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110004" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110104" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110204" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110304" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110404" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110604" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110704" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110804" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110904" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111004" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111104" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000405" templatename="黑龙浩劫N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110005" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110105" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110205" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110305" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110405" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110605" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110705" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110805" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110905" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111005" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111105" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000406" templatename="竞技场N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110006" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110106" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110206" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110306" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110406" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110606" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110706" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110806" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110906" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111006" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111106" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000407" templatename="镇妖活动N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110007" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110107" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110207" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110307" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110407" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110607" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110707" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110807" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110907" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111007" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111107" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000408" templatename="护送N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110008" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110108" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110208" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110308" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110408" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110608" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110708" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110808" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110908" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111008" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111108" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000409" templatename="地宫挂野N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110009" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110109" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110209" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110309" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110409" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110609" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110709" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110809" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110909" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111009" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111109" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000410" templatename="乱世妖魔N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110010" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110110" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110210" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110310" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110410" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110610" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110710" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110810" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110910" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111010" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111110" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000411" templatename="十二生肖N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110011" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110111" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110211" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110311" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110411" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110511" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110611" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110711" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110811" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110911" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111011" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111111" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000412" templatename="副本N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110012" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110112" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110212" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110312" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110412" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110512" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110612" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110712" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110812" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110912" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111012" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111112" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000413" templatename="诛仙奇缘N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110013" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110113" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110213" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110313" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110413" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110513" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110613" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110713" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110813" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110913" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111013" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111113" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000414" templatename="科举考试N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110014" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110114" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110214" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110314" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110414" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110514" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110614" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110714" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110814" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110914" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111014" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111114" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000415" templatename="决战九霄N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110015" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110115" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110215" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110315" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110415" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110515" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110615" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110715" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110815" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110915" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111015" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111115" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000416" templatename="帮派精英N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110016" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110116" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110216" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110316" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110416" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110516" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110616" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110716" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110816" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110916" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111016" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111116" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000417" templatename="门派挑战N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110017" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110117" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110217" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110317" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110417" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110517" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110617" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110717" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110817" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110917" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111017" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111117" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000418" templatename="帮派战争N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110018" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110118" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110218" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110318" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110418" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110518" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110618" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110718" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110818" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110918" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111018" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111118" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000419" templatename="幻月洞府N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110019" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110119" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110219" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110319" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110419" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110519" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110619" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110719" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110819" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110919" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111019" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111119" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000420" templatename="世界BOSSN倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110020" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110120" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110220" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110320" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110420" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110520" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110620" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110720" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110820" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110920" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111020" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111120" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000421" templatename="天下会武N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110021" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110121" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110221" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110321" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110421" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110521" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110621" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110721" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110821" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110921" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111021" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111121" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000422" templatename="首席争霸N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110022" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110122" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110222" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110322" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110422" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110522" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110622" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110722" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110822" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110922" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111022" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111122" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000423" templatename="帮派强盗N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110023" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110123" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110223" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110323" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110423" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110523" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110623" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110723" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110823" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110923" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111023" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111123" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000424" templatename="妖兽突袭N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110024" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110124" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110224" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110324" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110424" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110524" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110624" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110724" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110824" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110924" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111024" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111124" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000425" templatename="单人节日活动N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110025" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110125" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110225" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110325" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110425" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110525" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110625" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110725" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110825" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110925" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111025" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111125" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000426" templatename="组队节日活动N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110026" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110126" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110226" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110326" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110426" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110526" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110626" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110726" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110826" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110926" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111026" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111126" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000427" templatename="还魂秘术N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110027" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110127" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110227" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110327" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110427" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110527" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110627" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110727" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110827" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110927" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111027" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111127" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000428" templatename="赏金N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110028" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110128" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110228" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110328" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110428" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110528" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110628" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110728" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110828" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110928" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111028" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111128" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000429" templatename="帮派周常N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110029" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110129" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110229" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110329" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110429" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110529" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110629" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110729" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110829" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110929" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111029" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111129" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000430" templatename="双飞活动N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110030" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110130" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110230" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110330" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110430" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110530" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110630" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110730" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110830" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110930" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111030" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111130" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000431" templatename="帮派篝火N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110031" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110131" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110231" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110331" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110431" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110531" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110631" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110731" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110831" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110931" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111031" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111131" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000432" templatename="赛跑N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110032" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110132" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110232" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110332" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110432" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110532" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110632" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110732" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110832" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110932" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111032" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111132" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000433" templatename="晚间答题N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110033" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110133" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110233" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110333" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110433" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110533" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110633" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110733" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110833" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110933" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111033" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111133" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000434" templatename="夫妻活动N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110034" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110134" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110234" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110334" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110434" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110534" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110634" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110734" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110834" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110934" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111034" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111134" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000435" templatename="世界答题N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110035" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110135" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110235" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110335" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110435" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110535" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110635" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110735" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110835" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110935" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111035" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111135" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000436" templatename="青云之殇N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110036" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000499" templatename="青云志N倍buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703110099" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703110199" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703110299" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703110399" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703110499" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703110599" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703110699" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703110799" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703110899" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703110999" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703111099" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703111199" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000500" templatename="主线零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000501" templatename="支线零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000502" templatename="师门任务零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000503" templatename="藏宝图零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000504" templatename="试炼零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000505" templatename="黑龙浩劫零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000506" templatename="竞技场零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000507" templatename="镇妖活动零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000508" templatename="护送零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000509" templatename="地宫挂野零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000510" templatename="乱世妖魔零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000511" templatename="十二生肖零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000512" templatename="副本零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000513" templatename="诛仙奇缘零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000514" templatename="科举考试零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000515" templatename="决战九霄零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000516" templatename="帮派精英零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000517" templatename="门派挑战零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000518" templatename="帮派战争零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000519" templatename="幻月洞府零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000520" templatename="世界BOSS零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000521" templatename="天下会武零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000522" templatename="首席争霸零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000523" templatename="帮派强盗零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000524" templatename="妖兽突袭零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000525" templatename="单人节日活动零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000526" templatename="组队节日活动零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000527" templatename="还魂秘术零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000528" templatename="赏金零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000529" templatename="帮派周常零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000530" templatename="双飞活动零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000531" templatename="帮派篝火零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000532" templatename="赛跑零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000533" templatename="晚间答题零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000534" templatename="夫妻活动零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000535" templatename="世界答题零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000599" templatename="固定奖励零收益buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703100500" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="703100501" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="2" effConId="703100502" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="3" effConId="703100503" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="4" effConId="703100504" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="5" effConId="703100505" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="7" effConId="703100506" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="8" effConId="703100507" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="9" effConId="703100508" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="10" effConId="703100509" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="11" effConId="703100510" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="12" effConId="703100511" isEff="true"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000600" templatename="主线回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000601" templatename="支线回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000602" templatename="师门任务回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000603" templatename="藏宝图回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000604" templatename="试炼回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000605" templatename="黑龙浩劫回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000606" templatename="竞技场回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000607" templatename="镇妖活动回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000608" templatename="护送回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000609" templatename="地宫挂野回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000610" templatename="乱世妖魔回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000611" templatename="十二生肖回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000612" templatename="副本回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000613" templatename="诛仙奇缘回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000614" templatename="科举考试回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000615" templatename="决战九霄回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000616" templatename="帮派精英回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000617" templatename="门派挑战回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000618" templatename="帮派战争回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000619" templatename="幻月洞府回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000620" templatename="世界BOSS回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000621" templatename="天下会武回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000622" templatename="首席争霸回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000623" templatename="帮派强盗回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000624" templatename="妖兽突袭回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000625" templatename="单人节日活动回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000626" templatename="组队节日活动回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000627" templatename="还魂秘术回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000628" templatename="赏金回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000629" templatename="帮派周常回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000630" templatename="双飞活动回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000631" templatename="帮派篝火回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000632" templatename="赛跑回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000633" templatename="晚间答题回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000634" templatename="夫妻活动回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000635" templatename="世界答题回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000699" templatename="固定奖励回归个人buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111300" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000700" templatename="主线回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000701" templatename="支线回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000702" templatename="师门任务回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000703" templatename="藏宝图回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000704" templatename="试炼回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000705" templatename="黑龙浩劫回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000706" templatename="竞技场回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000707" templatename="镇妖活动回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000708" templatename="护送回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000709" templatename="地宫挂野回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000710" templatename="乱世妖魔回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000711" templatename="十二生肖回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000712" templatename="副本回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000713" templatename="诛仙奇缘回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000714" templatename="科举考试回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000715" templatename="决战九霄回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000716" templatename="帮派精英回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000717" templatename="门派挑战回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000718" templatename="帮派战争回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000719" templatename="幻月洞府回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000720" templatename="世界BOSS回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000721" templatename="天下会武回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000722" templatename="首席争霸回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000723" templatename="帮派强盗回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000724" templatename="妖兽突袭回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000725" templatename="单人节日活动回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000726" templatename="组队节日活动回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000727" templatename="还魂秘术回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000728" templatename="赏金回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000729" templatename="帮派周常回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000730" templatename="双飞活动回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000731" templatename="帮派篝火回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000732" templatename="赛跑回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000733" templatename="晚间答题回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000734" templatename="夫妻活动回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000735" templatename="世界答题回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+  <mzm.gsp.award.confbean.SBuffEffectCfg id="503000799" templatename="固定奖励回归组队buff生效配置">
+    <addCfgBeanList>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="1" effConId="703111400" isEff="true"/>
+      <mzm.gsp.award.confbean.AddCfgBean awardType="6" effConId="null" isEff="false"/>
+    </addCfgBeanList>
+  </mzm.gsp.award.confbean.SBuffEffectCfg>
+</data>

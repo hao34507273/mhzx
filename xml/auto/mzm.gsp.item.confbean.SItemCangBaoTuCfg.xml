@@ -1,0 +1,48 @@
+<data>
+  <mzm.gsp.item.confbean.SItemCangBaoTuCfg awardPoolId="1" awardRoleLevelMax="200" awardRoleLevelMin="50" baotutype="1" canSellAndThrow="true" icon="35" id="210800000" isProprietary="false" name="藏寶圖" namecolor="3" pilemax="99" sellSilver="10000" sort="1" type="12" useLevel="33">
+    <mapIdProp>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000000" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000001" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000003" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000007" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000009" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000011" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000013" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000015" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000005" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000008" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000002" mapProp="910"/>
+    </mapIdProp>
+  </mzm.gsp.item.confbean.SItemCangBaoTuCfg>
+  <mzm.gsp.item.confbean.SItemCangBaoTuCfg awardPoolId="500" awardRoleLevelMax="200" awardRoleLevelMin="0" baotutype="2" canSellAndThrow="true" icon="234" id="210800001" isProprietary="false" name="乾坤靈寶圖" namecolor="5" pilemax="99" sellSilver="150000" sort="2" type="12" useLevel="1">
+    <mapIdProp>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000000" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000001" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000003" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000007" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000009" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000011" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000013" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000015" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000005" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000008" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000002" mapProp="910"/>
+    </mapIdProp>
+  </mzm.gsp.item.confbean.SItemCangBaoTuCfg>
+  
+  <mzm.gsp.item.confbean.SItemCangBaoTuCfg awardPoolId="510" awardRoleLevelMax="200" awardRoleLevelMin="0" baotutype="3" canSellAndThrow="true" icon="90042" id="210800002" isProprietary="false" name="新宝图" namecolor="5" pilemax="999" sellSilver="150000" sort="3" type="12" useLevel="15">
+    <mapIdProp>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000000" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000001" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000003" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000007" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000009" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000011" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000013" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000015" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000005" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000008" mapProp="909"/>
+      <mzm.gsp.item.confbean.MapID2Prop mapId="330000002" mapProp="910"/>
+    </mapIdProp>
+  </mzm.gsp.item.confbean.SItemCangBaoTuCfg>
+</data>

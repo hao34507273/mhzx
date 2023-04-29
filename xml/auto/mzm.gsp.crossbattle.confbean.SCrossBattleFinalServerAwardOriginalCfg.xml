@@ -1,0 +1,117 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg activity_cfg_id="350020000" champion_award_item_mail_cfg_id="340010029" champion_buff_last_day="7" gift_item_min_level="90" open_interval_day_after_activity_end="7" second_place_award_item_mail_cfg_id="340010030" second_place_buff_last_day="5" third_place_award_item_mail_cfg_id="340010031" third_place_buff_last_day="3">
+    <champion_buff_list>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211313" champion_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211314" champion_buff_ratio="20000"/>
+    </champion_buff_list>
+    <champion_item_list>
+      <mzm.gsp.crossbattle.confbean.ChampionItemBean champion_item="216600001" champion_item_num="1"/>
+    </champion_item_list>
+    <second_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211315" second_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211316" second_place_buff_ratio="20000"/>
+    </second_place_buff_list>
+    <second_place_item_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceItemBean second_place_item="216600001" second_place_item_num="1"/>
+    </second_place_item_list>
+    <third_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211317" third_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211318" third_place_buff_ratio="20000"/>
+    </third_place_buff_list>
+    <third_place_item_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceItemBean third_place_item="216600001" third_place_item_num="1"/>
+    </third_place_item_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg activity_cfg_id="350020002" champion_award_item_mail_cfg_id="340010029" champion_buff_last_day="7" gift_item_min_level="90" open_interval_day_after_activity_end="7" second_place_award_item_mail_cfg_id="340010030" second_place_buff_last_day="5" third_place_award_item_mail_cfg_id="340010031" third_place_buff_last_day="3">
+    <champion_buff_list>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211313" champion_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211314" champion_buff_ratio="20000"/>
+    </champion_buff_list>
+    <champion_item_list>
+      <mzm.gsp.crossbattle.confbean.ChampionItemBean champion_item="216600001" champion_item_num="1"/>
+    </champion_item_list>
+    <second_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211315" second_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211316" second_place_buff_ratio="20000"/>
+    </second_place_buff_list>
+    <second_place_item_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceItemBean second_place_item="216600001" second_place_item_num="1"/>
+    </second_place_item_list>
+    <third_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211317" third_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211318" third_place_buff_ratio="20000"/>
+    </third_place_buff_list>
+    <third_place_item_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceItemBean third_place_item="216600001" third_place_item_num="1"/>
+    </third_place_item_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg activity_cfg_id="350010000" champion_award_item_mail_cfg_id="340010029" champion_buff_last_day="7" gift_item_min_level="90" open_interval_day_after_activity_end="7" second_place_award_item_mail_cfg_id="340010030" second_place_buff_last_day="5" third_place_award_item_mail_cfg_id="340010031" third_place_buff_last_day="3">
+    <champion_buff_list>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211313" champion_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211314" champion_buff_ratio="20000"/>
+    </champion_buff_list>
+    <champion_item_list>
+      <mzm.gsp.crossbattle.confbean.ChampionItemBean champion_item="216600001" champion_item_num="1"/>
+    </champion_item_list>
+    <second_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211315" second_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211316" second_place_buff_ratio="20000"/>
+    </second_place_buff_list>
+    <second_place_item_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceItemBean second_place_item="216600001" second_place_item_num="1"/>
+    </second_place_item_list>
+    <third_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211317" third_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211318" third_place_buff_ratio="20000"/>
+    </third_place_buff_list>
+    <third_place_item_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceItemBean third_place_item="216600001" third_place_item_num="1"/>
+    </third_place_item_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg activity_cfg_id="350020014" champion_award_item_mail_cfg_id="340010029" champion_buff_last_day="7" gift_item_min_level="90" open_interval_day_after_activity_end="7" second_place_award_item_mail_cfg_id="340010030" second_place_buff_last_day="5" third_place_award_item_mail_cfg_id="340010031" third_place_buff_last_day="3">
+    <champion_buff_list>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211313" champion_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211314" champion_buff_ratio="20000"/>
+    </champion_buff_list>
+    <champion_item_list>
+      <mzm.gsp.crossbattle.confbean.ChampionItemBean champion_item="216600001" champion_item_num="1"/>
+    </champion_item_list>
+    <second_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211315" second_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211316" second_place_buff_ratio="20000"/>
+    </second_place_buff_list>
+    <second_place_item_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceItemBean second_place_item="216600001" second_place_item_num="1"/>
+    </second_place_item_list>
+    <third_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211317" third_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211318" third_place_buff_ratio="20000"/>
+    </third_place_buff_list>
+    <third_place_item_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceItemBean third_place_item="216600001" third_place_item_num="1"/>
+    </third_place_item_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg activity_cfg_id="350020451" champion_award_item_mail_cfg_id="340010029" champion_buff_last_day="7" gift_item_min_level="90" open_interval_day_after_activity_end="7" second_place_award_item_mail_cfg_id="340010030" second_place_buff_last_day="5" third_place_award_item_mail_cfg_id="340010031" third_place_buff_last_day="3">
+    <champion_buff_list>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211313" champion_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ChampionBuffBean champion_buff="701211314" champion_buff_ratio="20000"/>
+    </champion_buff_list>
+    <champion_item_list>
+      <mzm.gsp.crossbattle.confbean.ChampionItemBean champion_item="216600001" champion_item_num="1"/>
+    </champion_item_list>
+    <second_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211315" second_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceBuffBean second_place_buff="701211316" second_place_buff_ratio="20000"/>
+    </second_place_buff_list>
+    <second_place_item_list>
+      <mzm.gsp.crossbattle.confbean.SecondPlaceItemBean second_place_item="216600001" second_place_item_num="1"/>
+    </second_place_item_list>
+    <third_place_buff_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211317" third_place_buff_ratio="20000"/>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceBuffBean third_place_buff="701211318" third_place_buff_ratio="20000"/>
+    </third_place_buff_list>
+    <third_place_item_list>
+      <mzm.gsp.crossbattle.confbean.ThirdPlaceItemBean third_place_item="216600001" third_place_item_num="1"/>
+    </third_place_item_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalServerAwardOriginalCfg>
+</data>

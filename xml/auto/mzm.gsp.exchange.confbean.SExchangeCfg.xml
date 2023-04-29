@@ -1,0 +1,534 @@
+<data>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000389" moduleid="250">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80701" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309847</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309847" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80702" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309850</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309850" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80703" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309851</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309851" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80704" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="4">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309852</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309852" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80705" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="5">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309853</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309853" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80706" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="6">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309854</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309854" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80707" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="7">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309855</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309855" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80708" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="8">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309856</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309856" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80709" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="9">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>214309857</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309857" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000390" moduleid="251">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80801" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159014</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159029</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159033</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80802" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159014</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159029</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159033</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="80803" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159014</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159029</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+            </entry>
+            <entry>
+              <int>210159033</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000391" moduleid="252">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6100" exchange_type="1" is_open="true" max_exchange_num="1" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101011</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101011" item_num="99"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6101" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101011</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101011" item_num="99"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000611" moduleid="335">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6102" exchange_type="1" is_open="true" max_exchange_num="30" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140477</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="3"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6101" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140477</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="7"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6104" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140477</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000380" moduleid="381">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6103" exchange_type="1" is_open="true" max_exchange_num="10" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140479</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="25"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6103" exchange_type="1" is_open="true" max_exchange_num="10" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140479</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="50"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6103" exchange_type="1" is_open="true" max_exchange_num="10" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140479</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="75"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6103" exchange_type="1" is_open="true" max_exchange_num="10" sort_id="4">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210140479</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="100"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000393" moduleid="254">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="6170" exchange_type="2" is_open="true" max_exchange_num="1" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210206104</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210206104" item_num="99"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000394" moduleid="255">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11050" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11051" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11052" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="9200" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="4">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="9201" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="5">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="9202" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="6">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11017" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="7">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11018" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="8">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="11019" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="9">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210101043</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+  <mzm.gsp.exchange.confbean.SExchangeCfg id="350000714" moduleid="557">
+    <exchange_award_info_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70500" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="1">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159005</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159005" item_num="100"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70501" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="2">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159006</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159006" item_num="10"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70502" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="3">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159007</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70503" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="4">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159007</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70504" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="5">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159007</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70505" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="6">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159007</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70506" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="7">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159007</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.exchange.confbean.ExchangeAwardInfo award_cfg_id="70507" exchange_type="1" is_open="true" max_exchange_num="0" sort_id="8">
+          <need_item_info_map>
+            <no-comparator/>
+            <entry>
+              <int>210159006</int>
+              <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159006" item_num="1"/>
+            </entry>
+          </need_item_info_map>
+        </mzm.gsp.exchange.confbean.ExchangeAwardInfo>
+      </entry>
+    </exchange_award_info_map>
+  </mzm.gsp.exchange.confbean.SExchangeCfg>
+</data>

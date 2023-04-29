@@ -1,0 +1,47 @@
+<data>
+  <mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeManualRefreshCostCfg manualRefreshCostTypeId="1">
+    <index2refreshCostInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="1" moneyCount="0" moneyType="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="2" moneyCount="0" moneyType="0"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="3" moneyCount="1000" moneyType="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="4" moneyCount="1000" moneyType="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="5" moneyCount="1000" moneyType="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="6" moneyCount="100" moneyType="1"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="7" moneyCount="1000" moneyType="1"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="8" moneyCount="3" moneyType="4"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="9" moneyCount="0" moneyType="0"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.activitypointexchange.confbean.RefreshCostInfo index="10" moneyCount="2000" moneyType="1"/>
+      </entry>
+    </index2refreshCostInfo>
+  </mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeManualRefreshCostCfg>
+</data>

@@ -1,0 +1,2239 @@
+<data>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700800008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700800009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700800010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800011">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800017">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800018">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800019">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800021">
+    <params>
+      <float>0</float>
+      <float>5.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700800022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700830000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800028">
+    <params>
+      <float>0</float>
+      <float>2.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800029">
+    <params>
+      <float>0</float>
+      <float>3.1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800030">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800031">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800032">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800033">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700800034">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700800035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0.3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800036">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800037">
+    <params>
+      <float>0</float>
+      <float>0.029</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800038">
+    <params>
+      <float>0</float>
+      <float>0.029</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800039">
+    <params>
+      <float>0</float>
+      <float>0.028</float>
+      <float>1</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800040">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800042">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800045">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800145">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>4</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800047">
+    <params>
+      <float>0</float>
+      <float>0.033</float>
+      <float>1</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800049">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800053">
+    <params>
+      <float>0</float>
+      <float>0.02</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800055">
+    <params>
+      <float>0</float>
+      <float>0.0332</float>
+      <float>1</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800056">
+    <params>
+      <float>0</float>
+      <float>0.02</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800057">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800058">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800059">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800060">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800061">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800062">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800063">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800064">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800065">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800066">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800067">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800068">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700800069">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700800070">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700800071">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700800072">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800073">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700800100">
+    <params>
+      <float>0</float>
+      <float>0.01667</float>
+      <float>2</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700801000">
+    <params>
+      <float>0</float>
+      <float>0.01667</float>
+      <float>2</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801001">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801002">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801003">
+    <params>
+      <float>0</float>
+      <float>4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700801004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700801005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700801006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700801007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700801014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700801015">
+    <params>
+      <float>0</float>
+      <float>0.01667</float>
+      <float>3</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801016">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801017">
+    <params>
+      <float>0</float>
+      <float>2.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801018">
+    <params>
+      <float>0</float>
+      <float>2.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801019">
+    <params>
+      <float>0</float>
+      <float>2.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801020">
+    <params>
+      <float>0</float>
+      <float>2.2</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801021">
+    <params>
+      <float>0</float>
+      <float>2</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700801100">
+    <params>
+      <float>0</float>
+      <float>0.3334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700801101">
+    <params>
+      <float>0</float>
+      <float>0.3334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700801102">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700801103">
+    <params>
+      <float>0</float>
+      <float>0.3334</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801104">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700801105">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700801106">
+    <params>
+      <float>0</float>
+      <float>0.2</float>
+      <float>1</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801107">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700801108">
+    <params>
+      <float>0</float>
+      <float>4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700802011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>99</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700803010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700804001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700830001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805001">
+    <params>
+      <float>0</float>
+      <float>2.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805002">
+    <params>
+      <float>0</float>
+      <float>3.1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805003">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805004">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805005">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700805006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805007">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805008">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805009">
+    <params>
+      <float>0</float>
+      <float>6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805010">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805011">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805012">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805013">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700805014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700805015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1250</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805016">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805017">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805018">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805019">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805020">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700805021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700805022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805023">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805024">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805025">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805026">
+    <params>
+      <float>0</float>
+      <float>3.1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805027">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700805028">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700805029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700805030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805031">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805032">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805033">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805034">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805035">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805036">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805037">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805038">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805039">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805040">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700805041">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700805042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805053">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805070">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805071">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805072">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805073">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805074">
+    <params>
+      <float>0</float>
+      <float>3.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805075">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805076">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805077">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805078">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805080">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805081">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805082">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805084">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805085">
+    <params>
+      <float>0</float>
+      <float>6.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805086">
+    <params>
+      <float>0</float>
+      <float>4.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805087">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805088">
+    <params>
+      <float>0</float>
+      <float>3.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805089">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805090">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805091">
+    <params>
+      <float>0</float>
+      <float>3.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700805092">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806001">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806002">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="3" id="700806003">
+    <params>
+      <float>0</float>
+      <float>6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="4" id="700806004">
+    <params>
+      <float>0</float>
+      <float>0.029</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806005">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806006">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806007">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806008">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806009">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806010">
+    <params>
+      <float>0</float>
+      <float>0.01667</float>
+      <float>2</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_FighterLV" formulatype="1" id="700806011">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806012">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700806017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>35</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>80</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>90</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>120</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>125</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>130</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>135</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700807014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700807015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700807016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>80</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>72</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>64</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>56</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>48</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700807022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="RandomRangeSKillLVFormula" formulatype="4" id="700808000">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9300</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9500</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9700</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9900</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4700</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3500</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2900</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2300</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>101</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>201</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>301</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>401</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>501</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>601</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>701</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>801</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>901</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700820029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1001</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="2" id="700820039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3800</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3600</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3400</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3200</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonFighterLVFormula" formulatype="2" id="700820049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700898000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="3" id="700898001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>99</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899003">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899004">
+    <params>
+      <float>0</float>
+      <float>0.33334</float>
+      <float>3</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899005">
+    <params>
+      <float>0</float>
+      <float>0.33334</float>
+      <float>3</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899006">
+    <params>
+      <float>0</float>
+      <float>0.33334</float>
+      <float>2</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899007">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899008">
+    <params>
+      <float>0</float>
+      <float>0.03334</float>
+      <float>3</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="701800019">
+    <params>
+      <float>0</float>
+      <float>4.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899101">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899102">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899103">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899104">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899105">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899106">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899107">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899108">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899109">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9</float>
+      <float>9</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="TargetNumFormula_SkillLV" formulatype="1" id="700899110">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899201">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899202">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899203">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899204">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899205">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899210">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+  <mzm.gsp.skill.confbean.SSkillFormula className="CommonSKillLVFormula" formulatype="4" id="700899299">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>99</float>
+    </params>
+  </mzm.gsp.skill.confbean.SSkillFormula>
+</data>

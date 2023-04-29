@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.ballbattle.confbean.SBallBattleLevelCfg id="965100000">
+    <levels>
+      <mzm.gsp.ballbattle.confbean.SBallBattleLevelBean providedGene="2" providedScore="1" radius="20" requiredGene="2" speedOffset="0"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleLevelBean providedGene="4" providedScore="2" radius="38" requiredGene="4" speedOffset="-10"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleLevelBean providedGene="6" providedScore="3" radius="58" requiredGene="6" speedOffset="-20"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleLevelBean providedGene="8" providedScore="4" radius="71" requiredGene="8" speedOffset="-30"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleLevelBean providedGene="10" providedScore="5" radius="96" requiredGene="10" speedOffset="-35"/>
+    </levels>
+  </mzm.gsp.ballbattle.confbean.SBallBattleLevelCfg>
+</data>

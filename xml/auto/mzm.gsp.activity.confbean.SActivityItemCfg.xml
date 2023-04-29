@@ -1,0 +1,27 @@
+<data>
+  <mzm.gsp.activity.confbean.SActivityItemCfg activityId="350000007" id="350700000" templatename="宝图上限">
+    <itemId2MaxNumMap>
+      <no-comparator/>
+      <entry>
+        <int>210800000</int>
+        <int>10</int>
+      </entry>
+      <entry>
+        <int>210800001</int>
+        <int>0</int>
+      </entry>
+      <entry>
+        <int>210800002</int>
+        <int>0</int>
+      </entry>
+      <entry>
+        <int>210800003</int>
+        <int>0</int>
+      </entry>
+      <entry>
+        <int>210800004</int>
+        <int>0</int>
+      </entry>
+    </itemId2MaxNumMap>
+  </mzm.gsp.activity.confbean.SActivityItemCfg>
+</data>

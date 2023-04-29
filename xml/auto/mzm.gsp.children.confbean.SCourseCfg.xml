@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="1" moneyType="2" name="勞作" studyTime="60" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="1" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="2" moneyType="2" name="劍術" studyTime="180" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="2" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="3" moneyType="2" name="詩歌" studyTime="180" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="3" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="4" moneyType="2" name="騎射" studyTime="30" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="4" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="5" moneyType="2" name="丹青" studyTime="30" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="5" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+  <mzm.gsp.children.confbean.SCourseCfg cost="10000" courseType="6" moneyType="2" name="琴藝" studyTime="60" vigor="100">
+    <interests>
+      <mzm.gsp.children.confbean.CourseEffectInfo critValue="2" interestType="6" interestValue="2"/>
+    </interests>
+  </mzm.gsp.children.confbean.SCourseCfg>
+</data>

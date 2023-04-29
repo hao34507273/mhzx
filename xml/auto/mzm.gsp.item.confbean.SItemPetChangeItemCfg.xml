@@ -1,0 +1,1699 @@
+﻿<data>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300000" isProprietary="false" modelFigureCfgId="0" modelId="700301002" name="菜刀兔绘卷" namecolor="3" pilemax="99" sellSilver="11111" sort="1" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101000</int>
+      <int>130102000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300001" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="兜兜绘卷" namecolor="3" pilemax="99" sellSilver="11112" sort="2" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300002" isProprietary="false" modelFigureCfgId="0" modelId="700301062" name="魔音娃娃绘卷" namecolor="3" pilemax="99" sellSilver="11113" sort="3" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101002</int>
+      <int>130102002</int>
+      <int>130190001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300003" isProprietary="false" modelFigureCfgId="0" modelId="700300133" name="爱心兔绘卷" namecolor="3" pilemax="99" sellSilver="11114" sort="4" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101005</int>
+      <int>130102005</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300004" isProprietary="false" modelFigureCfgId="0" modelId="700301004" name="花魅绘卷" namecolor="3" pilemax="99" sellSilver="11115" sort="5" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101006</int>
+      <int>130102006</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300005" isProprietary="false" modelFigureCfgId="0" modelId="700301005" name="女贼绘卷" namecolor="3" pilemax="99" sellSilver="11116" sort="6" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101007</int>
+      <int>130102007</int>
+      <int>130191000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300006" isProprietary="false" modelFigureCfgId="0" modelId="700301035" name="三眼灵猴绘卷" namecolor="3" pilemax="99" sellSilver="11117" sort="7" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101008</int>
+      <int>130102008</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300007" isProprietary="false" modelFigureCfgId="0" modelId="700301007" name="横行蟹绘卷" namecolor="3" pilemax="99" sellSilver="11118" sort="8" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101009</int>
+      <int>130102009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300008" isProprietary="false" modelFigureCfgId="0" modelId="700301006" name="铁钳虾绘卷" namecolor="3" pilemax="99" sellSilver="11119" sort="9" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101010</int>
+      <int>130102010</int>
+      <int>130191001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300009" isProprietary="false" modelFigureCfgId="0" modelId="700301013" name="凶灵绘卷" namecolor="3" pilemax="99" sellSilver="11120" sort="10" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101011</int>
+      <int>130102011</int>
+      <int>130191002</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300010" isProprietary="false" modelFigureCfgId="0" modelId="700301015" name="通灵师绘卷" namecolor="3" pilemax="99" sellSilver="11121" sort="11" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101012</int>
+      <int>130102012</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300011" isProprietary="false" modelFigureCfgId="0" modelId="700301020" name="冰女绘卷" namecolor="3" pilemax="99" sellSilver="11122" sort="12" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101013</int>
+      <int>130102013</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300012" isProprietary="false" modelFigureCfgId="0" modelId="700301080" name="守灵女弟子绘卷" namecolor="3" pilemax="99" sellSilver="11123" sort="13" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101014</int>
+      <int>130102014</int>
+      <int>130191003</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300013" isProprietary="false" modelFigureCfgId="0" modelId="700301016" name="幻月仙子绘卷" namecolor="3" pilemax="99" sellSilver="11124" sort="14" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101015</int>
+      <int>130102015</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300014" isProprietary="false" modelFigureCfgId="0" modelId="700301017" name="火鳞兽绘卷" namecolor="3" pilemax="99" sellSilver="11125" sort="15" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101016</int>
+      <int>130102016</int>
+      <int>130191004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300015" isProprietary="false" modelFigureCfgId="0" modelId="700301019" name="御魔镜绘卷" namecolor="3" pilemax="99" sellSilver="11126" sort="16" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101017</int>
+      <int>130102017</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300016" isProprietary="false" modelFigureCfgId="0" modelId="700301028" name="死灵巫师绘卷" namecolor="3" pilemax="99" sellSilver="11127" sort="17" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101018</int>
+      <int>130102018</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300017" isProprietary="false" modelFigureCfgId="0" modelId="700301076" name="吸血妖人绘卷" namecolor="3" pilemax="99" sellSilver="11128" sort="18" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101019</int>
+      <int>130102019</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300018" isProprietary="false" modelFigureCfgId="0" modelId="700301021" name="虎人战士绘卷" namecolor="3" pilemax="99" sellSilver="11129" sort="19" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101020</int>
+      <int>130102020</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300019" isProprietary="false" modelFigureCfgId="0" modelId="700301018" name="冰灵兽绘卷" namecolor="3" pilemax="99" sellSilver="11130" sort="20" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101021</int>
+      <int>130102021</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300020" isProprietary="false" modelFigureCfgId="0" modelId="700301022" name="九天灵鸟绘卷" namecolor="3" pilemax="99" sellSilver="11131" sort="21" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101022</int>
+      <int>130102022</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300021" isProprietary="false" modelFigureCfgId="0" modelId="700301026" name="刺空之矛绘卷" namecolor="3" pilemax="99" sellSilver="11132" sort="22" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101023</int>
+      <int>130102023</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300022" isProprietary="false" modelFigureCfgId="0" modelId="700301044" name="天狼绘卷" namecolor="3" pilemax="99" sellSilver="11133" sort="23" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101024</int>
+      <int>130102024</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300023" isProprietary="false" modelFigureCfgId="0" modelId="700301024" name="剑魔绘卷" namecolor="3" pilemax="99" sellSilver="11134" sort="24" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101025</int>
+      <int>130102025</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300024" isProprietary="false" modelFigureCfgId="0" modelId="700301032" name="制裁之剑绘卷" namecolor="3" pilemax="99" sellSilver="11135" sort="25" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101026</int>
+      <int>130102026</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300025" isProprietary="false" modelFigureCfgId="0" modelId="700301025" name="鬼巫绘卷" namecolor="3" pilemax="99" sellSilver="11136" sort="26" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101027</int>
+      <int>130102027</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300026" isProprietary="false" modelFigureCfgId="0" modelId="700301031" name="死神绘卷" namecolor="3" pilemax="99" sellSilver="11137" sort="27" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101028</int>
+      <int>130102028</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300027" isProprietary="false" modelFigureCfgId="0" modelId="700301098" name="帝炎龙绘卷" namecolor="3" pilemax="99" sellSilver="11138" sort="28" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101029</int>
+      <int>130102029</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300028" isProprietary="false" modelFigureCfgId="0" modelId="700301099" name="撒旦之魂绘卷" namecolor="3" pilemax="99" sellSilver="11139" sort="29" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101030</int>
+      <int>130102030</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300029" isProprietary="false" modelFigureCfgId="0" modelId="700301119" name="弑魂神枪绘卷" namecolor="3" pilemax="99" sellSilver="11140" sort="30" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101031</int>
+      <int>130102031</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300030" isProprietary="false" modelFigureCfgId="0" modelId="700301045" name="小山狐绘卷" namecolor="3" pilemax="99" sellSilver="11141" sort="31" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101080</int>
+      <int>130102080</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300031" isProprietary="false" modelFigureCfgId="0" modelId="700301042" name="魔蝎绘卷" namecolor="3" pilemax="99" sellSilver="11142" sort="32" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101081</int>
+      <int>130102081</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300032" isProprietary="false" modelFigureCfgId="0" modelId="700301040" name="小海魂绘卷" namecolor="3" pilemax="99" sellSilver="11143" sort="33" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101082</int>
+      <int>130102082</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430201" icon="897" id="215300033" isProprietary="false" modelFigureCfgId="0" modelId="700301002" name="变异菜刀兔绘卷" namecolor="4" pilemax="99" sellSilver="11144" sort="34" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101000</int>
+      <int>130102000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430001" icon="897" id="215300034" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="变异兜兜绘卷" namecolor="4" pilemax="99" sellSilver="11145" sort="35" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430301" icon="897" id="215300035" isProprietary="false" modelFigureCfgId="0" modelId="700301062" name="变异魔音娃娃绘卷" namecolor="4" pilemax="99" sellSilver="11146" sort="36" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101002</int>
+      <int>130102002</int>
+      <int>130190001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433401" icon="897" id="215300036" isProprietary="false" modelFigureCfgId="0" modelId="700300133" name="变异爱心兔绘卷" namecolor="4" pilemax="99" sellSilver="11147" sort="37" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101005</int>
+      <int>130102005</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430401" icon="897" id="215300037" isProprietary="false" modelFigureCfgId="0" modelId="700301004" name="变异花魅绘卷" namecolor="4" pilemax="99" sellSilver="11148" sort="38" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101006</int>
+      <int>130102006</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430501" icon="897" id="215300038" isProprietary="false" modelFigureCfgId="0" modelId="700301005" name="变异女贼绘卷" namecolor="4" pilemax="99" sellSilver="11149" sort="39" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101007</int>
+      <int>130102007</int>
+      <int>130191000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440001" icon="897" id="215300039" isProprietary="false" modelFigureCfgId="0" modelId="700301035" name="变异三眼灵猴绘卷" namecolor="4" pilemax="99" sellSilver="11150" sort="40" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101008</int>
+      <int>130102008</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430601" icon="897" id="215300040" isProprietary="false" modelFigureCfgId="0" modelId="700301007" name="变异横行蟹绘卷" namecolor="4" pilemax="99" sellSilver="11151" sort="41" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101009</int>
+      <int>130102009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430801" icon="897" id="215300041" isProprietary="false" modelFigureCfgId="0" modelId="700301006" name="变异铁钳虾绘卷" namecolor="4" pilemax="99" sellSilver="11152" sort="42" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101010</int>
+      <int>130102010</int>
+      <int>130191001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431301" icon="897" id="215300042" isProprietary="false" modelFigureCfgId="0" modelId="700301013" name="变异凶灵绘卷" namecolor="4" pilemax="99" sellSilver="11153" sort="43" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101011</int>
+      <int>130102011</int>
+      <int>130191002</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433901" icon="897" id="215300043" isProprietary="false" modelFigureCfgId="0" modelId="700301015" name="变异通灵师绘卷" namecolor="4" pilemax="99" sellSilver="11154" sort="44" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101012</int>
+      <int>130102012</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432001" icon="897" id="215300044" isProprietary="false" modelFigureCfgId="0" modelId="700301020" name="变异冰女绘卷" namecolor="4" pilemax="99" sellSilver="11155" sort="45" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101013</int>
+      <int>130102013</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431001" icon="897" id="215300045" isProprietary="false" modelFigureCfgId="0" modelId="700301080" name="变异守灵女弟子绘卷" namecolor="4" pilemax="99" sellSilver="11156" sort="46" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101014</int>
+      <int>130102014</int>
+      <int>130191003</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431501" icon="897" id="215300046" isProprietary="false" modelFigureCfgId="0" modelId="700301016" name="变异幻月仙子绘卷" namecolor="4" pilemax="99" sellSilver="11157" sort="47" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101015</int>
+      <int>130102015</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431601" icon="897" id="215300047" isProprietary="false" modelFigureCfgId="0" modelId="700301017" name="变异火鳞兽绘卷" namecolor="4" pilemax="99" sellSilver="11158" sort="48" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101016</int>
+      <int>130102016</int>
+      <int>130191004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431901" icon="897" id="215300048" isProprietary="false" modelFigureCfgId="0" modelId="700301019" name="变异御魔镜绘卷" namecolor="4" pilemax="99" sellSilver="11159" sort="49" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101017</int>
+      <int>130102017</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432801" icon="897" id="215300049" isProprietary="false" modelFigureCfgId="0" modelId="700301028" name="变异死灵巫师绘卷" namecolor="4" pilemax="99" sellSilver="11160" sort="50" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101018</int>
+      <int>130102018</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431401" icon="897" id="215300050" isProprietary="false" modelFigureCfgId="0" modelId="700301076" name="变异吸血妖人绘卷" namecolor="4" pilemax="99" sellSilver="11161" sort="51" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101019</int>
+      <int>130102019</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432101" icon="897" id="215300051" isProprietary="false" modelFigureCfgId="0" modelId="700301021" name="变异虎人战士绘卷" namecolor="4" pilemax="99" sellSilver="11162" sort="52" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101020</int>
+      <int>130102020</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701431801" icon="897" id="215300052" isProprietary="false" modelFigureCfgId="0" modelId="700301018" name="变异冰灵兽绘卷" namecolor="4" pilemax="99" sellSilver="11163" sort="53" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101021</int>
+      <int>130102021</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432201" icon="897" id="215300053" isProprietary="false" modelFigureCfgId="0" modelId="700301022" name="变异九天灵鸟绘卷" namecolor="4" pilemax="99" sellSilver="11164" sort="54" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101022</int>
+      <int>130102022</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432601" icon="897" id="215300054" isProprietary="false" modelFigureCfgId="0" modelId="700301026" name="变异刺空之矛绘卷" namecolor="4" pilemax="99" sellSilver="11165" sort="55" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101023</int>
+      <int>130102023</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432301" icon="897" id="215300055" isProprietary="false" modelFigureCfgId="0" modelId="700301044" name="变异天狼绘卷" namecolor="4" pilemax="99" sellSilver="11166" sort="56" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101024</int>
+      <int>130102024</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432401" icon="897" id="215300056" isProprietary="false" modelFigureCfgId="0" modelId="700301024" name="变异剑魔绘卷" namecolor="4" pilemax="99" sellSilver="11167" sort="57" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101025</int>
+      <int>130102025</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433201" icon="897" id="215300057" isProprietary="false" modelFigureCfgId="0" modelId="700301032" name="变异制裁之剑绘卷" namecolor="4" pilemax="99" sellSilver="11168" sort="58" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101026</int>
+      <int>130102026</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701432501" icon="897" id="215300058" isProprietary="false" modelFigureCfgId="0" modelId="700301025" name="变异鬼巫绘卷" namecolor="4" pilemax="99" sellSilver="11169" sort="59" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101027</int>
+      <int>130102027</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433101" icon="897" id="215300059" isProprietary="false" modelFigureCfgId="0" modelId="700301031" name="变异死神绘卷" namecolor="4" pilemax="99" sellSilver="11170" sort="60" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101028</int>
+      <int>130102028</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470041" icon="897" id="215300060" isProprietary="false" modelFigureCfgId="0" modelId="700301098" name="变异帝炎龙绘卷" namecolor="4" pilemax="99" sellSilver="11171" sort="61" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101029</int>
+      <int>130102029</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470055" icon="897" id="215300061" isProprietary="false" modelFigureCfgId="0" modelId="700301099" name="变异撒旦之魂绘卷" namecolor="4" pilemax="99" sellSilver="11172" sort="62" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101030</int>
+      <int>130102030</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470066" icon="897" id="215300062" isProprietary="false" modelFigureCfgId="0" modelId="700301119" name="变异弑魂神枪绘卷" namecolor="4" pilemax="99" sellSilver="11173" sort="63" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101031</int>
+      <int>130102031</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701434201" icon="897" id="215300063" isProprietary="false" modelFigureCfgId="0" modelId="700301045" name="变异小山狐绘卷" namecolor="4" pilemax="99" sellSilver="11174" sort="64" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101080</int>
+      <int>130102080</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433501" icon="897" id="215300064" isProprietary="false" modelFigureCfgId="0" modelId="700301042" name="变异魔蝎绘卷" namecolor="4" pilemax="99" sellSilver="11175" sort="65" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101081</int>
+      <int>130102081</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701433301" icon="897" id="215300065" isProprietary="false" modelFigureCfgId="0" modelId="700301040" name="变异小海魂绘卷" namecolor="4" pilemax="99" sellSilver="11176" sort="66" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101082</int>
+      <int>130102082</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430003" icon="897" id="215300066" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-红绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="67" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430004" icon="897" id="215300067" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-橙绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="68" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430005" icon="897" id="215300068" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-黄绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="69" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430006" icon="897" id="215300069" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-绿绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="70" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430007" icon="897" id="215300070" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-青绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="71" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430008" icon="897" id="215300071" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-蓝绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="72" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430009" icon="897" id="215300072" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="彩虹兜兜-紫绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="73" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300073" isProprietary="false" modelFigureCfgId="0" modelId="700301068" name="西瓜猫绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="74" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+      <int>130101091</int>
+      <int>130101092</int>
+      <int>130101093</int>
+      <int>130101094</int>
+      <int>130101095</int>
+      <int>130101096</int>
+      <int>130101001</int>
+      <int>130102001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300074" isProprietary="false" modelFigureCfgId="0" modelId="700301049" name="小灰绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="75" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300075" isProprietary="false" modelFigureCfgId="0" modelId="700301039" name="日精灵绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="76" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300076" isProprietary="false" modelFigureCfgId="0" modelId="700301107" name="傀儡师绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="77" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110002</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300077" isProprietary="false" modelFigureCfgId="0" modelId="700301037" name="青龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="78" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112000</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300078" isProprietary="false" modelFigureCfgId="0" modelId="700301033" name="白虎绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="79" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300079" isProprietary="false" modelFigureCfgId="0" modelId="700301034" name="朱雀绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="80" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112002</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300080" isProprietary="false" modelFigureCfgId="0" modelId="700301038" name="玄武绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="81" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112003</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300081" isProprietary="false" modelFigureCfgId="0" modelId="700301078" name="龟仙人绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="82" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300082" isProprietary="false" modelFigureCfgId="0" modelId="700301096" name="喵太郎绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="83" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112005</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300083" isProprietary="false" modelFigureCfgId="0" modelId="700301067" name="黑竹精绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="84" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130124511</int>
+      <int>130124512</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470013" icon="897" id="215300084" isProprietary="false" modelFigureCfgId="0" modelId="700301067" name="变异黑竹精绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="85" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130124512</int>
+      <int>130124511</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300085" isProprietary="false" modelFigureCfgId="0" modelId="700301066" name="稻草人绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="86" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130125511</int>
+      <int>130125512</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470023" icon="897" id="215300086" isProprietary="false" modelFigureCfgId="0" modelId="700301066" name="变异稻草人绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="87" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130125512</int>
+      <int>130125511</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300087" isProprietary="false" modelFigureCfgId="0" modelId="700301058" name="彩蝶依依绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="88" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130126511</int>
+      <int>130126512</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470031" icon="897" id="215300088" isProprietary="false" modelFigureCfgId="0" modelId="700301058" name="变异彩蝶依依绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="89" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130126512</int>
+      <int>130126511</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300089" isProprietary="false" modelFigureCfgId="0" modelId="700301062" name="魔音娃娃绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="90" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130190001</int>
+      <int>130101002</int>
+      <int>130102002</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300090" isProprietary="false" modelFigureCfgId="0" modelId="700301001" name="黄金兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="91" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130190011</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300091" isProprietary="false" modelFigureCfgId="0" modelId="700301036" name="小兜妹绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="92" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130190012</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300092" isProprietary="false" modelFigureCfgId="0" modelId="700301070" name="煎蛋鸟绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="93" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130190013</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300093" isProprietary="false" modelFigureCfgId="0" modelId="700301005" name="女贼绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="94" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130191000</int>
+      <int>130101007</int>
+      <int>130102007</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300094" isProprietary="false" modelFigureCfgId="0" modelId="700301006" name="铁钳虾绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="95" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130191001</int>
+      <int>130101010</int>
+      <int>130102010</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300095" isProprietary="false" modelFigureCfgId="0" modelId="700301013" name="凶灵绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="96" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130191002</int>
+      <int>130101011</int>
+      <int>130102011</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300096" isProprietary="false" modelFigureCfgId="0" modelId="700301080" name="守灵女弟子绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="97" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130191003</int>
+      <int>130101014</int>
+      <int>130102014</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300097" isProprietary="false" modelFigureCfgId="0" modelId="700301017" name="火麟兽宝宝绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="98" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130191004</int>
+      <int>130101016</int>
+      <int>130102016</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300098" isProprietary="false" modelFigureCfgId="0" modelId="700301124" name="年兽绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="99" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130112006</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300099" isProprietary="false" modelFigureCfgId="0" modelId="700301058" name="彩蝶依依绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="100" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110003</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215300100" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="包子脸星人绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="100" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301000" isProprietary="false" modelFigureCfgId="0" modelId="700301115" name="福纸童子绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="101" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301001" isProprietary="false" modelFigureCfgId="0" modelId="700301072" name="拈花菩萨绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301002" isProprietary="false" modelFigureCfgId="0" modelId="700300107" name="烛龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301003" isProprietary="false" modelFigureCfgId="0" modelId="700300111" name="黄鸟绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301004" isProprietary="false" modelFigureCfgId="0" modelId="700300110" name="夔牛绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301005" isProprietary="false" modelFigureCfgId="0" modelId="700300108" name="饕餮绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430003" icon="897" id="215301006" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="红色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101090</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430004" icon="897" id="215301007" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="橙色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101091</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430005" icon="897" id="215301008" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="黄色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101092</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430006" icon="897" id="215301009" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="绿色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101093</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430007" icon="897" id="215301010" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="青色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101094</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430008" icon="897" id="215301011" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="蓝色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101095</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430009" icon="897" id="215301012" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="紫色兜兜绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101096</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430003" icon="897" id="215301013" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="红色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430004" icon="897" id="215301014" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="橙色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430005" icon="897" id="215301015" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="黄色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430006" icon="897" id="215301016" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="绿色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430007" icon="897" id="215301017" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="青色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430008" icon="897" id="215301018" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="蓝色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430009" icon="897" id="215301019" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="紫色包子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215301020" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430004" icon="897" id="215301021" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="橙色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430005" icon="897" id="215301022" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="黄色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430006" icon="897" id="215301023" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="绿色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430007" icon="897" id="215301024" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="青色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430008" icon="897" id="215301025" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="蓝色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701430009" icon="897" id="215301026" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="紫色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470073" icon="897" id="215301027" isProprietary="false" modelFigureCfgId="0" modelId="700301212" name="黑色戴森球绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="102" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302000" isProprietary="false" modelFigureCfgId="0" modelId="700301127" name="虚空魔镜绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="103" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101032</int>
+      <int>130102032</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302001" isProprietary="false" modelFigureCfgId="0" modelId="700301129" name="画中仙绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="104" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101033</int>
+      <int>130102033</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302002" isProprietary="false" modelFigureCfgId="0" modelId="700301130" name="巨灵神绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="105" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101034</int>
+      <int>130102034</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302003" isProprietary="false" modelFigureCfgId="0" modelId="700301150" name="堕落天使绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="106" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101035</int>
+      <int>130102035</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302004" isProprietary="false" modelFigureCfgId="0" modelId="700301151" name="赤炎魔灵绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="107" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101036</int>
+      <int>130102036</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302005" isProprietary="false" modelFigureCfgId="0" modelId="700301149" name="笔仙绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="108" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101037</int>
+      <int>130102037</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302006" isProprietary="false" modelFigureCfgId="0" modelId="700300147" name="枭绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="106" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101038</int>
+      <int>130102038</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302007" isProprietary="false" modelFigureCfgId="0" modelId="700300148" name="X博士绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="107" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101039</int>
+      <int>130102039</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215302008" isProprietary="false" modelFigureCfgId="0" modelId="700301224" name="机械姬绘卷" namecolor="3" pilemax="99" sellSilver="10000" sort="108" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101040</int>
+      <int>130102040</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470073" icon="897" id="215303000" isProprietary="false" modelFigureCfgId="0" modelId="700301127" name="变异虚空魔镜绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="109" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101032</int>
+      <int>130102032</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470091" icon="897" id="215303001" isProprietary="false" modelFigureCfgId="0" modelId="700301129" name="变异画中仙绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="110" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101033</int>
+      <int>130102033</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470082" icon="897" id="215303002" isProprietary="false" modelFigureCfgId="0" modelId="700301130" name="变异巨灵神绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="111" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101034</int>
+      <int>130102034</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470122" icon="897" id="215303003" isProprietary="false" modelFigureCfgId="0" modelId="700301150" name="变异堕落天使绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="112" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101035</int>
+      <int>130102035</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470132" icon="897" id="215303004" isProprietary="false" modelFigureCfgId="0" modelId="700301151" name="变异赤炎魔灵绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="113" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101036</int>
+      <int>130102036</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470101" icon="897" id="215303005" isProprietary="false" modelFigureCfgId="0" modelId="700301149" name="变异笔仙绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="114" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101037</int>
+      <int>130102037</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470122" icon="897" id="215303006" isProprietary="false" modelFigureCfgId="0" modelId="700300147" name="变异枭绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="112" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101038</int>
+      <int>130102038</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470132" icon="897" id="215303007" isProprietary="false" modelFigureCfgId="0" modelId="700300148" name="变异X博士绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="113" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101039</int>
+      <int>130102039</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470101" icon="897" id="215303008" isProprietary="false" modelFigureCfgId="0" modelId="700301224" name="变异机械姬绘卷" namecolor="4" pilemax="99" sellSilver="10000" sort="114" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130101040</int>
+      <int>130102040</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304000" isProprietary="false" modelFigureCfgId="0" modelId="700301125" name="齐天大圣绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110005</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701492507" icon="897" id="215304001" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="116" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130104001</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304002" isProprietary="false" modelFigureCfgId="0" modelId="700309070" name="北斗神驴绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="117" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110006</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304003" isProprietary="false" modelFigureCfgId="0" modelId="700301185" name="熊滚滚绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="118" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130104003</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304004" isProprietary="false" modelFigureCfgId="0" modelId="700309075" name="白羽绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="119" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110008</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304005" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="120" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304006" isProprietary="false" modelFigureCfgId="0" modelId="700309076" name="森林之子绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="121" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110007</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470140" icon="91347" id="215304007" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="红色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="122" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470141" icon="91348" id="215304008" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="粉色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="123" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470142" icon="91349" id="215304009" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="紫色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="124" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470143" icon="91350" id="215304010" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="蓝色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="125" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470144" icon="91351" id="215304011" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="黄色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="126" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470145" icon="91352" id="215304012" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="橙色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="127" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470146" icon="91353" id="215304013" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="白色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="128" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470147" icon="91354" id="215304014" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="黑色皮皮龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="129" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110009</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304015" isProprietary="false" modelFigureCfgId="0" modelId="700301213" name="大天狗绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110010</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304016" isProprietary="false" modelFigureCfgId="0" modelId="700301225" name="小浣熊绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110011</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470140" icon="897" id="215304017" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="红色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="122" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470141" icon="897" id="215304018" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="粉色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="123" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470142" icon="897" id="215304019" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="紫色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="124" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470143" icon="897" id="215304020" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="蓝色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="125" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470144" icon="897" id="215304021" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="黄色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="126" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470145" icon="897" id="215304022" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="橙色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="127" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470146" icon="897" id="215304023" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="白色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="128" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470147" icon="897" id="215304024" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="黑色小团酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="129" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304025" isProprietary="false" modelFigureCfgId="0" modelId="700300153" name="武士汪绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110012</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304026" isProprietary="false" modelFigureCfgId="0" modelId="700309071" name="神风兔绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110013</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304027" isProprietary="false" modelFigureCfgId="0" modelId="700300167" name="小桃儿绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130104004</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304028" isProprietary="false" modelFigureCfgId="0" modelId="700300177" name="寒冰绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110014</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304029" isProprietary="false" modelFigureCfgId="0" modelId="700300176" name="墨雪绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110015</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304030" isProprietary="false" modelFigureCfgId="0" modelId="700300172" name="吴钩绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110016</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304031" isProprietary="false" modelFigureCfgId="0" modelId="700300171" name="天琊绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110017</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304032" isProprietary="false" modelFigureCfgId="0" modelId="700300175" name="赤炎绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110018</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304033" isProprietary="false" modelFigureCfgId="0" modelId="700300173" name="斩龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110019</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304034" isProprietary="false" modelFigureCfgId="0" modelId="700300174" name="轩辕绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110020</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304035" isProprietary="false" modelFigureCfgId="0" modelId="700300158" name="怒目金刚绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110021</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304036" isProprietary="false" modelFigureCfgId="0" modelId="700300190" name="喵喵酱绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110022</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215304037" isProprietary="false" modelFigureCfgId="0" modelId="700300154" name="提线木偶绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="115" type="93" useLevel="0">
+    <cannotUseList>
+      <int>130110023</int>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305000" isProprietary="false" modelFigureCfgId="0" modelId="700301207" name="南瓜头绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305001" isProprietary="false" modelFigureCfgId="0" modelId="700301210" name="魔女绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305002" isProprietary="false" modelFigureCfgId="0" modelId="700301202" name="小鬼魂绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305003" isProprietary="false" modelFigureCfgId="0" modelId="700301205" name="僵尸绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305004" isProprietary="false" modelFigureCfgId="0" modelId="700301217" name="白鹿原绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305005" isProprietary="false" modelFigureCfgId="0" modelId="700301221" name="白小虎绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305006" isProprietary="false" modelFigureCfgId="0" modelId="700301222" name="白小猛绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305007" isProprietary="false" modelFigureCfgId="0" modelId="700301218" name="白小狐绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305008" isProprietary="false" modelFigureCfgId="0" modelId="700301219" name="白小龙绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305009" isProprietary="false" modelFigureCfgId="0" modelId="700301220" name="白小熊绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305010" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305011" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305012" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305013" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305014" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305015" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305016" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305020" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470150" icon="897" id="215305021" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470151" icon="897" id="215305022" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470152" icon="897" id="215305023" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470153" icon="897" id="215305024" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470154" icon="897" id="215305025" isProprietary="false" modelFigureCfgId="0" modelId="700301260" name="七宗罪·暴食绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305030" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470160" icon="897" id="215305031" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470161" icon="897" id="215305032" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470162" icon="897" id="215305033" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470163" icon="897" id="215305034" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470164" icon="897" id="215305035" isProprietary="false" modelFigureCfgId="0" modelId="700301263" name="七宗罪·妩媚绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305040" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470170" icon="897" id="215305041" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470171" icon="897" id="215305042" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470172" icon="897" id="215305043" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470173" icon="897" id="215305044" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470174" icon="897" id="215305045" isProprietary="false" modelFigureCfgId="0" modelId="700301257" name="七宗罪·贪婪绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305050" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470180" icon="897" id="215305051" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470181" icon="897" id="215305052" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470182" icon="897" id="215305053" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470183" icon="897" id="215305054" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470184" icon="897" id="215305055" isProprietary="false" modelFigureCfgId="0" modelId="700301259" name="七宗罪·愤怒绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305060" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470190" icon="897" id="215305061" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470191" icon="897" id="215305062" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470192" icon="897" id="215305063" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470193" icon="897" id="215305064" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470194" icon="897" id="215305065" isProprietary="false" modelFigureCfgId="0" modelId="700301261" name="七宗罪·嫉妒绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305070" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470200" icon="897" id="215305071" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470201" icon="897" id="215305072" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470202" icon="897" id="215305073" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470203" icon="897" id="215305074" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470204" icon="897" id="215305075" isProprietary="false" modelFigureCfgId="0" modelId="700301262" name="七宗罪·懒惰绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305080" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470210" icon="897" id="215305081" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷（红）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470211" icon="897" id="215305082" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷（绿）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470212" icon="897" id="215305083" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷（蓝）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470213" icon="897" id="215305084" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷（白）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701470214" icon="897" id="215305085" isProprietary="false" modelFigureCfgId="0" modelId="700301258" name="七宗罪·傲慢绘卷（黑）" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305086" isProprietary="false" modelFigureCfgId="0" modelId="700301286" name="哼唧熊绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305087" isProprietary="false" modelFigureCfgId="0" modelId="700301287" name="羊羊羊绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305088" isProprietary="false" modelFigureCfgId="0" modelId="700301270" name="刺猬小卷绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305089" isProprietary="false" modelFigureCfgId="0" modelId="700300157" name="机甲雪人绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215305090" isProprietary="false" modelFigureCfgId="0" modelId="700300158" name="泰坦绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440106" icon="897" id="215306001" isProprietary="false" modelFigureCfgId="0" modelId="700301002" name="菜刀兔飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440107" icon="897" id="215306002" isProprietary="false" modelFigureCfgId="0" modelId="700301062" name="魔音娃娃飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440108" icon="897" id="215306003" isProprietary="false" modelFigureCfgId="0" modelId="700300133" name="爱心兔飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440109" icon="897" id="215306004" isProprietary="false" modelFigureCfgId="0" modelId="700301004" name="花魅飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440110" icon="897" id="215306005" isProprietary="false" modelFigureCfgId="0" modelId="700301005" name="女贼飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440111" icon="897" id="215306006" isProprietary="false" modelFigureCfgId="0" modelId="700301035" name="三眼灵猴飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440112" icon="897" id="215306007" isProprietary="false" modelFigureCfgId="0" modelId="700301007" name="横行蟹飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440113" icon="897" id="215306008" isProprietary="false" modelFigureCfgId="0" modelId="700301006" name="铁钳虾飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440114" icon="897" id="215306009" isProprietary="false" modelFigureCfgId="0" modelId="700301013" name="凶灵飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440115" icon="897" id="215306010" isProprietary="false" modelFigureCfgId="0" modelId="700301015" name="通灵师飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440116" icon="897" id="215306011" isProprietary="false" modelFigureCfgId="0" modelId="700301020" name="冰女飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440117" icon="897" id="215306012" isProprietary="false" modelFigureCfgId="0" modelId="700301080" name="守灵女弟子飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440118" icon="897" id="215306013" isProprietary="false" modelFigureCfgId="0" modelId="700301016" name="幻月仙子飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440119" icon="897" id="215306014" isProprietary="false" modelFigureCfgId="0" modelId="700301017" name="火鳞兽飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440120" icon="897" id="215306015" isProprietary="false" modelFigureCfgId="0" modelId="700301019" name="御魔镜飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440121" icon="897" id="215306016" isProprietary="false" modelFigureCfgId="0" modelId="700301028" name="死灵巫师飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440122" icon="897" id="215306017" isProprietary="false" modelFigureCfgId="0" modelId="700301076" name="吸血妖人飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440123" icon="897" id="215306018" isProprietary="false" modelFigureCfgId="0" modelId="700301021" name="虎人战士飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440124" icon="897" id="215306019" isProprietary="false" modelFigureCfgId="0" modelId="700301018" name="冰灵兽飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440125" icon="897" id="215306020" isProprietary="false" modelFigureCfgId="0" modelId="700301022" name="九天灵鸟飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440126" icon="897" id="215306021" isProprietary="false" modelFigureCfgId="0" modelId="700301026" name="刺空之矛飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440127" icon="897" id="215306022" isProprietary="false" modelFigureCfgId="0" modelId="700301044" name="天狼飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440128" icon="897" id="215306023" isProprietary="false" modelFigureCfgId="0" modelId="700301024" name="剑魔飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440129" icon="897" id="215306024" isProprietary="false" modelFigureCfgId="0" modelId="700301032" name="制裁之剑飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440130" icon="897" id="215306025" isProprietary="false" modelFigureCfgId="0" modelId="700301025" name="鬼巫飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440131" icon="897" id="215306026" isProprietary="false" modelFigureCfgId="0" modelId="700301031" name="死神飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440132" icon="897" id="215306027" isProprietary="false" modelFigureCfgId="0" modelId="700301098" name="帝炎龙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440133" icon="897" id="215306028" isProprietary="false" modelFigureCfgId="0" modelId="700301099" name="撒旦之魂飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440134" icon="897" id="215306029" isProprietary="false" modelFigureCfgId="0" modelId="700301119" name="弑魂神枪飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440135" icon="897" id="215306030" isProprietary="false" modelFigureCfgId="0" modelId="700301127" name="虚空魔镜飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440136" icon="897" id="215306031" isProprietary="false" modelFigureCfgId="0" modelId="700301129" name="画中仙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440137" icon="897" id="215306032" isProprietary="false" modelFigureCfgId="0" modelId="700301130" name="巨灵神飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440138" icon="897" id="215306033" isProprietary="false" modelFigureCfgId="0" modelId="700301150" name="堕落天使飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440139" icon="897" id="215306034" isProprietary="false" modelFigureCfgId="0" modelId="700301151" name="赤炎魔灵飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440140" icon="897" id="215306035" isProprietary="false" modelFigureCfgId="0" modelId="700301149" name="笔仙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440141" icon="897" id="215306036" isProprietary="false" modelFigureCfgId="0" modelId="700300147" name="枭飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440142" icon="897" id="215306037" isProprietary="false" modelFigureCfgId="0" modelId="700300148" name="X博士飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440143" icon="897" id="215306038" isProprietary="false" modelFigureCfgId="0" modelId="700301224" name="机械姬飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440144" icon="897" id="215306039" isProprietary="false" modelFigureCfgId="0" modelId="700301045" name="小山狐飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440145" icon="897" id="215306040" isProprietary="false" modelFigureCfgId="0" modelId="700301042" name="魔蝎飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440146" icon="897" id="215306041" isProprietary="false" modelFigureCfgId="0" modelId="700301040" name="小海魂飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440147" icon="897" id="215306042" isProprietary="false" modelFigureCfgId="0" modelId="700301004" name="神兽飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440148" icon="897" id="215306043" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="小团酱飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440149" icon="897" id="215306044" isProprietary="false" modelFigureCfgId="0" modelId="700301153" name="小团酱飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440150" icon="897" id="215306045" isProprietary="false" modelFigureCfgId="0" modelId="700301185" name="熊滚滚飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440151" icon="897" id="215306046" isProprietary="false" modelFigureCfgId="0" modelId="700300167" name="小桃儿飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440152" icon="897" id="215306047" isProprietary="false" modelFigureCfgId="0" modelId="700301049" name="小灰飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440153" icon="897" id="215306048" isProprietary="false" modelFigureCfgId="0" modelId="700301039" name="日精灵飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440154" icon="897" id="215306049" isProprietary="false" modelFigureCfgId="0" modelId="700301107" name="傀儡师飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440155" icon="897" id="215306050" isProprietary="false" modelFigureCfgId="0" modelId="700301058" name="彩蝶依依飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440156" icon="897" id="215306051" isProprietary="false" modelFigureCfgId="0" modelId="700301146" name="包子脸星人飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440157" icon="897" id="215306052" isProprietary="false" modelFigureCfgId="0" modelId="700301125" name="齐天大圣飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440158" icon="897" id="215306053" isProprietary="false" modelFigureCfgId="0" modelId="700309070" name="北斗神驴飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440159" icon="897" id="215306054" isProprietary="false" modelFigureCfgId="0" modelId="700309076" name="森林之子飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440160" icon="897" id="215306055" isProprietary="false" modelFigureCfgId="0" modelId="700309075" name="羽化仙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440161" icon="897" id="215306056" isProprietary="false" modelFigureCfgId="0" modelId="700301206" name="皮皮龙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440162" icon="897" id="215306057" isProprietary="false" modelFigureCfgId="0" modelId="700301213" name="大天狗飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440163" icon="897" id="215306058" isProprietary="false" modelFigureCfgId="0" modelId="700301225" name="小浣熊飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440164" icon="897" id="215306059" isProprietary="false" modelFigureCfgId="0" modelId="700300153" name="武士汪飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440165" icon="897" id="215306060" isProprietary="false" modelFigureCfgId="0" modelId="700309071" name="神风兔飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440166" icon="897" id="215306061" isProprietary="false" modelFigureCfgId="0" modelId="700300177" name="寒冰飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440167" icon="897" id="215306062" isProprietary="false" modelFigureCfgId="0" modelId="700300176" name="墨雪飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440168" icon="897" id="215306063" isProprietary="false" modelFigureCfgId="0" modelId="700300172" name="吴钩飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440169" icon="897" id="215306064" isProprietary="false" modelFigureCfgId="0" modelId="700300171" name="天琊飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440170" icon="897" id="215306065" isProprietary="false" modelFigureCfgId="0" modelId="700300175" name="赤炎飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440171" icon="897" id="215306066" isProprietary="false" modelFigureCfgId="0" modelId="700300173" name="斩龙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440172" icon="897" id="215306067" isProprietary="false" modelFigureCfgId="0" modelId="700300174" name="轩辕飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440173" icon="897" id="215306068" isProprietary="false" modelFigureCfgId="0" modelId="700300158" name="怒目金刚飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440174" icon="897" id="215306069" isProprietary="false" modelFigureCfgId="0" modelId="700301037" name="青龙飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440175" icon="897" id="215306070" isProprietary="false" modelFigureCfgId="0" modelId="700301033" name="白虎飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440176" icon="897" id="215306071" isProprietary="false" modelFigureCfgId="0" modelId="700301034" name="朱雀飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440177" icon="897" id="215306072" isProprietary="false" modelFigureCfgId="0" modelId="700301038" name="玄武飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440178" icon="897" id="215306073" isProprietary="false" modelFigureCfgId="0" modelId="700301078" name="龟仙人飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440179" icon="897" id="215306074" isProprietary="false" modelFigureCfgId="0" modelId="700301096" name="喵太郎飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440180" icon="897" id="215306075" isProprietary="false" modelFigureCfgId="0" modelId="700301124" name="年兽飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440181" icon="897" id="215306076" isProprietary="false" modelFigureCfgId="0" modelId="700301067" name="黑竹精飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440182" icon="897" id="215306077" isProprietary="false" modelFigureCfgId="0" modelId="700301066" name="稻草人飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440183" icon="897" id="215306078" isProprietary="false" modelFigureCfgId="0" modelId="700301058" name="彩蝶依依飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440184" icon="897" id="215306079" isProprietary="false" modelFigureCfgId="0" modelId="700301001" name="黄金兜兜飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440185" icon="897" id="215306080" isProprietary="false" modelFigureCfgId="0" modelId="700301036" name="小兜妹飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440186" icon="897" id="215306081" isProprietary="false" modelFigureCfgId="0" modelId="700301070" name="煎蛋鸟飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440187" icon="897" id="215306082" isProprietary="false" modelFigureCfgId="0" modelId="700301000" name="兜兜飞升绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307001" isProprietary="false" modelFigureCfgId="0" modelId="700300181" name="司魂鬼刃绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307002" isProprietary="false" modelFigureCfgId="0" modelId="700300182" name="罗刹女绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307003" isProprietary="false" modelFigureCfgId="0" modelId="700300185" name="青狐假面绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307004" isProprietary="false" modelFigureCfgId="0" modelId="700300186" name="炽焰麒麟绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307005" isProprietary="false" modelFigureCfgId="0" modelId="700300187" name="竹姬绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="0" icon="897" id="215307006" isProprietary="false" modelFigureCfgId="0" modelId="700300188" name="自然之力绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440160" icon="897" id="215307007" isProprietary="false" modelFigureCfgId="0" modelId="700301189" name="自然之力绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>  
+  <mzm.gsp.item.confbean.SItemPetChangeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" colorId="701440160" icon="897" id="215307008" isProprietary="false" modelFigureCfgId="0" modelId="700301190" name="自然之力绘卷" namecolor="5" pilemax="99" sellSilver="10000" sort="130" type="93" useLevel="0">
+    <cannotUseList>
+    </cannotUseList>
+  </mzm.gsp.item.confbean.SItemPetChangeItemCfg>    
+</data>

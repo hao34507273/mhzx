@@ -1,0 +1,14 @@
+<root>
+<row name="ACTIVITY_CFG_ID" value="350000041"/>
+<row name="NPC_CFG_ID" value="150111043"/>
+<row name="SERVER_LEVEL_LIMIT" value="65"/>
+<row name="ROLE_LEVEL_RANK_INDEX" value="100"/>
+<row name="RANGE_LEVEL" value="3"/>
+<row name="AWARD_CFG_ID" value="6600"/>
+<row name="MAIL_CFG_ID" value="340001113"/>
+<row name="TASK_ICON_ID" value="50000019"/>
+<row name="MAX_GRID" value="10"/>
+<row name="TASK_PERIOD" value="24"/>
+<row name="NPC_GET_TASK_SERVICE_ID" value="150200102"/>
+<row name="MIN_LEVEL" value="60"/>
+</root>

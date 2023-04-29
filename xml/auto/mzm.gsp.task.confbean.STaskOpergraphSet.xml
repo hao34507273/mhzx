@@ -1,0 +1,47 @@
+<data>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000201" operType="2" teamType="3">
+    <graphIds>
+      <int>10000017</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000203" operType="2" teamType="3">
+    <graphIds>
+      <int>10000007</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000202" operType="2" teamType="3">
+    <graphIds>
+      <int>10000018</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000205" operType="2" teamType="3">
+    <graphIds>
+      <int>10000009</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="20000204" operType="2" teamType="3">
+    <graphIds>
+      <int>20000003</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000204" operType="2" teamType="3">
+    <graphIds>
+      <int>10000008</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="40000536" operType="1" teamType="3">
+    <graphIds>
+      <int>40000003</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="10000206" operType="2" teamType="3">
+    <graphIds>
+      <int>10000010</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+  <mzm.gsp.task.confbean.STaskOpergraphSet id="40000537" operType="2" teamType="3">
+    <graphIds>
+      <int>40000003</int>
+    </graphIds>
+  </mzm.gsp.task.confbean.STaskOpergraphSet>
+</data>

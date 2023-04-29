@@ -1,0 +1,262 @@
+﻿<data>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000001" canAIMatch="true" id="341900000" matchType="2" name="鎮妖活動" newGuyNum="1" occupationFristCount="1" templatename="镇妖活动">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000001" activityId="350000010" canAIMatch="false" id="341900001" matchType="2" name="亂世妖魔" newGuyNum="0" occupationFristCount="1" templatename="乱世妖魔">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000000" activityId="350000008" canAIMatch="true" id="341900002" matchType="2" name="混沌時空" newGuyNum="1" occupationFristCount="1" templatename="混沌时空">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000011" canAIMatch="false" id="341900004" matchType="2" name="十二生肖" newGuyNum="0" occupationFristCount="1" templatename="十二生肖">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000012" canAIMatch="false" id="341900005" matchType="2" name="妖獸突襲" newGuyNum="0" occupationFristCount="1" templatename="妖兽突袭">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000015" canAIMatch="false" id="341900006" matchType="2" name="門派挑戰" newGuyNum="0" occupationFristCount="1" templatename="门派挑战">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000016" canAIMatch="false" id="341900007" matchType="2" name="幻月洞府" newGuyNum="0" occupationFristCount="1" templatename="幻月洞府">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000017" canAIMatch="false" id="341900008" matchType="2" name="決戰九霄" newGuyNum="0" occupationFristCount="1" templatename="决战九霄">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000002" activityId="0" canAIMatch="false" id="341900009" matchType="1" name="主線" newGuyNum="0" occupationFristCount="1" templatename="主线">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350020026" canAIMatch="false" id="341900010" matchType="2" name="秋日驅魔" newGuyNum="0" occupationFristCount="1" templatename="节日活动">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000004" activityId="350000026" canAIMatch="false" id="341900011" matchType="2" name="青雲志-精英" newGuyNum="0" occupationFristCount="1" templatename="青云志精英">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000006" activityId="350000320" canAIMatch="false" id="341900012" matchType="2" name="青云志-英雄" newGuyNum="0" occupationFristCount="1" templatename="青云志精英">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350020034" canAIMatch="false" id="341900013" matchType="2" name="馬戲團大作戰" newGuyNum="0" occupationFristCount="1" templatename="节日活动">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000306" canAIMatch="false" id="341900100" matchType="2" name="七脈會武" newGuyNum="0" occupationFristCount="1" templatename="七脉会武">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000036" canAIMatch="false" id="341900101" matchType="2" name="精英九霄" newGuyNum="0" occupationFristCount="1" templatename="精英九霄">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="342000005" activityId="350000040" canAIMatch="false" id="341900102" matchType="2" name="上古戰場" newGuyNum="0" occupationFristCount="1" templatename="跨服天梯">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350009002" canAIMatch="false" id="341900103" matchType="2" name="云霄飛舟" newGuyNum="0" occupationFristCount="1" templatename="云霄飞舟">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350020001" canAIMatch="false" id="341900105" matchType="2" name="回歸專屬任務" newGuyNum="0" occupationFristCount="1" templatename="回归专属任务">
+    <occupationFristList>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000007" canAIMatch="false" id="341901000" matchType="2" name="45普通副本" newGuyNum="0" occupationFristCount="1" templatename="45普通副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000030" canAIMatch="false" id="341901001" matchType="2" name="45精英副本" newGuyNum="0" occupationFristCount="1" templatename="45精英副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000031" canAIMatch="false" id="341901002" matchType="2" name="60普通副本" newGuyNum="0" occupationFristCount="1" templatename="58普通副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000032" canAIMatch="false" id="341901003" matchType="2" name="60精英副本" newGuyNum="0" occupationFristCount="1" templatename="58精英副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000034" canAIMatch="false" id="341901004" matchType="2" name="75普通副本" newGuyNum="0" occupationFristCount="1" templatename="75普通副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000035" canAIMatch="false" id="341901005" matchType="2" name="75精英副本" newGuyNum="0" occupationFristCount="1" templatename="75精英副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000624" canAIMatch="false" id="341901006" matchType="2" name="85英雄副本" newGuyNum="0" occupationFristCount="1" templatename="85英雄副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+  <mzm.gsp.team.confbean.STeamPlatformMomCfg activityCfgId="0" activityId="350000627" canAIMatch="false" id="341901007" matchType="2" name="95英雄副本" newGuyNum="0" occupationFristCount="1" templatename="95英雄副本">
+    <occupationFristList>
+      <int>1</int>
+      <int>6</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </occupationFristList>
+  </mzm.gsp.team.confbean.STeamPlatformMomCfg>
+</data>

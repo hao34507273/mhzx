@@ -1,0 +1,1798 @@
+<data>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="1" dropLibId="1" dropRate="5000" id="504000000">
+    <intervals>
+      <int>351700610</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="2" dropLibId="2" dropRate="10000" id="504000001">
+    <intervals>
+      <int>351700611</int>
+      <int>351700612</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="3" dropLibId="3" dropRate="2000" id="504000002">
+    <intervals>
+      <int>351700613</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="4" dropLibId="4" dropRate="5000" id="504000003">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="5" dropLibId="4" dropRate="457" id="504000004">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="6" dropLibId="4" dropRate="457" id="504000005">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="7" dropLibId="4" dropRate="457" id="504000006">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="8" dropLibId="4" dropRate="457" id="504000007">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="9" dropLibId="4" dropRate="457" id="504000008">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="10" dropLibId="4" dropRate="914" id="504000009">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="11" dropLibId="4" dropRate="761" id="504000010">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="12" dropLibId="4" dropRate="761" id="504000011">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="13" dropLibId="4" dropRate="761" id="504000012">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="14" dropLibId="4" dropRate="761" id="504000013">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="15" dropLibId="4" dropRate="761" id="504000014">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="16" dropLibId="4" dropRate="761" id="504000015">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="17" dropLibId="4" dropRate="457" id="504000016">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="18" dropLibId="4" dropRate="457" id="504000017">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="19" dropLibId="4" dropRate="457" id="504000018">
+    <intervals>
+      <int>351700614</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="40" dropLibId="5" dropRate="10000" id="504000019">
+    <intervals>
+      <int>351708402</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="81" dropLibId="6" dropRate="10000" id="504000020">
+    <intervals>
+      <int>351708402</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="82" dropLibId="6" dropRate="10000" id="504000021">
+    <intervals>
+      <int>351708402</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="81" dropLibId="7" dropRate="10000" id="504000022">
+    <intervals>
+      <int>351709252</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="82" dropLibId="7" dropRate="10000" id="504000023">
+    <intervals>
+      <int>351709252</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="40" dropLibId="8" dropRate="10000" id="504000024">
+    <intervals>
+      <int>351709252</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="83" dropLibId="8" dropRate="10000" id="504000025">
+    <intervals>
+      <int>351709252</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="84" dropLibId="8" dropRate="10000" id="504000026">
+    <intervals>
+      <int>351709252</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="20" dropLibId="100" dropRate="10000" id="504000100">
+    <intervals>
+      <int>351700616</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="21" dropLibId="100" dropRate="200" id="504000101">
+    <intervals>
+      <int>351700616</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="22" dropLibId="200" dropRate="10000" id="504000200">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="23" dropLibId="200" dropRate="600" id="504000201">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="24" dropLibId="200" dropRate="2500" id="504000202">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="25" dropLibId="200" dropRate="1000" id="504000203">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="26" dropLibId="200" dropRate="1000" id="504000204">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="27" dropLibId="200" dropRate="1000" id="504000205">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="28" dropLibId="200" dropRate="1000" id="504000206">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="29" dropLibId="200" dropRate="1000" id="504000207">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="30" dropLibId="200" dropRate="2000" id="504000208">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="31" dropLibId="200" dropRate="1666" id="504000209">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="32" dropLibId="200" dropRate="1666" id="504000210">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="33" dropLibId="200" dropRate="1666" id="504000211">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="34" dropLibId="200" dropRate="1666" id="504000212">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="35" dropLibId="200" dropRate="1666" id="504000213">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="36" dropLibId="200" dropRate="1666" id="504000214">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="37" dropLibId="200" dropRate="1000" id="504000215">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="38" dropLibId="200" dropRate="1000" id="504000216">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="39" dropLibId="200" dropRate="1000" id="504000217">
+    <intervals>
+      <int>351700620</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="40" dropLibId="300" dropRate="10000" id="504000300">
+    <intervals>
+      <int>351700622</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="41" dropLibId="300" dropRate="2000" id="504000301">
+    <intervals>
+      <int>351700622</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="400" dropRate="8000" id="504000302">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="400" dropRate="4000" id="504000303">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="300" dropRate="2000" id="504000304">
+    <intervals>
+      <int>351700622</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="400" dropRate="4000" id="504000305">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="400" dropRate="2000" id="504000306">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="47" dropLibId="400" dropRate="4000" id="504000307">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="400" dropRate="4000" id="504000308">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="400" dropRate="3332" id="504000309">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="400" dropRate="3332" id="504000310">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="400" dropRate="3332" id="504000311">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="400" dropRate="3332" id="504000312">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="400" dropRate="3332" id="504000313">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="400" dropRate="5000" id="504000314">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="55" dropLibId="400" dropRate="4000" id="504000315">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="56" dropLibId="400" dropRate="2000" id="504000316">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="57" dropLibId="400" dropRate="4000" id="504000317">
+    <intervals>
+      <int>351708086</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="58" dropLibId="300" dropRate="1500" id="504000318">
+    <intervals>
+      <int>351700622</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="59" dropLibId="500" dropRate="5000" id="504000400">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="60" dropLibId="500" dropRate="10000" id="504000401">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="61" dropLibId="500" dropRate="10000" id="504000402">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="62" dropLibId="500" dropRate="10000" id="504000403">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="63" dropLibId="500" dropRate="10000" id="504000404">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="64" dropLibId="500" dropRate="10000" id="504000405">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="65" dropLibId="500" dropRate="4000" id="504000406">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="66" dropLibId="500" dropRate="10000" id="504000407">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="67" dropLibId="500" dropRate="10000" id="504000408">
+    <intervals>
+      <int>351702063</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="40" dropLibId="510" dropRate="10000" id="504000410">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="82" dropLibId="511" dropRate="10000" id="504000411">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="66" dropLibId="512" dropRate="10000" id="504000412">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="67" dropLibId="512" dropRate="10000" id="504000413">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="60" dropLibId="513" dropRate="10000" id="504000414">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="61" dropLibId="513" dropRate="10000" id="504000415">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="62" dropLibId="513" dropRate="10000" id="504000416">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="63" dropLibId="513" dropRate="10000" id="504000417">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="64" dropLibId="513" dropRate="10000" id="504000418">
+    <intervals>
+      <int>351710051</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="900" dropRate="2250" id="504000900">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="900" dropRate="900" id="504000901">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="900" dropRate="1000" id="504000902">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="900" dropRate="1125" id="504000903">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="900" dropRate="1125" id="504000904">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="900" dropRate="10000" id="504000905">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="900" dropRate="2250" id="504000906">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="900" dropRate="1500" id="504000907">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="900" dropRate="1500" id="504000908">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="900" dropRate="1500" id="504000909">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="900" dropRate="1500" id="504000910">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="900" dropRate="1500" id="504000911">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="900" dropRate="1500" id="504000912">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="900" dropRate="10000" id="504000913">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="900" dropRate="10000" id="504000914">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="900" dropRate="10000" id="504000915">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="900" dropRate="1250" id="504000916">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="900" dropRate="1250" id="504000917">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="900" dropRate="1250" id="504000918">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="900" dropRate="1250" id="504000919">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="900" dropRate="1250" id="504000920">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="900" dropRate="1250" id="504000921">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="900" dropRate="1250" id="504000922">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="900" dropRate="1250" id="504000923">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="900" dropRate="1250" id="504000924">
+    <intervals>
+      <int>351708201</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1000" dropRate="2250" id="504001000">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1000" dropRate="900" id="504001001">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1000" dropRate="1000" id="504001002">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1000" dropRate="1125" id="504001003">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1000" dropRate="1125" id="504001004">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1000" dropRate="10000" id="504001005">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1000" dropRate="2250" id="504001006">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1000" dropRate="1500" id="504001007">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1000" dropRate="1500" id="504001008">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1000" dropRate="1500" id="504001009">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1000" dropRate="1500" id="504001010">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1000" dropRate="1500" id="504001011">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1000" dropRate="1500" id="504001012">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1000" dropRate="10000" id="504001013">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1000" dropRate="10000" id="504001014">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1000" dropRate="10000" id="504001015">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1000" dropRate="1250" id="504001016">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1000" dropRate="1250" id="504001017">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1000" dropRate="1250" id="504001018">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1000" dropRate="1250" id="504001019">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1000" dropRate="1250" id="504001020">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1000" dropRate="1250" id="504001021">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1000" dropRate="1250" id="504001022">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1000" dropRate="1250" id="504001023">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1000" dropRate="1250" id="504001024">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1000" dropRate="2250" id="504001025">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1000" dropRate="900" id="504001026">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1000" dropRate="1000" id="504001027">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1000" dropRate="1125" id="504001028">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1000" dropRate="1125" id="504001029">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1000" dropRate="10000" id="504001030">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1000" dropRate="2250" id="504001031">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1000" dropRate="1500" id="504001032">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1000" dropRate="1500" id="504001033">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1000" dropRate="1500" id="504001034">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1000" dropRate="1500" id="504001035">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1000" dropRate="1500" id="504001036">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1000" dropRate="1500" id="504001037">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1000" dropRate="10000" id="504001038">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1000" dropRate="10000" id="504001039">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1000" dropRate="10000" id="504001040">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1000" dropRate="1250" id="504001041">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1000" dropRate="1250" id="504001042">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1000" dropRate="1250" id="504001043">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1000" dropRate="1250" id="504001044">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1000" dropRate="1250" id="504001045">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1000" dropRate="1250" id="504001046">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1000" dropRate="1250" id="504001047">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1000" dropRate="1250" id="504001048">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1000" dropRate="1250" id="504001049">
+    <intervals>
+      <int>351708200</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1100" dropRate="2000" id="504001100">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1100" dropRate="2000" id="504001101">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1100" dropRate="2000" id="504001102">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1100" dropRate="2000" id="504001103">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1100" dropRate="2000" id="504001104">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1100" dropRate="10000" id="504001105">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1100" dropRate="2000" id="504001106">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1100" dropRate="2000" id="504001107">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1100" dropRate="2000" id="504001108">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1100" dropRate="2000" id="504001109">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1100" dropRate="2000" id="504001110">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1100" dropRate="2000" id="504001111">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1100" dropRate="2000" id="504001112">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1100" dropRate="10000" id="504001113">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1100" dropRate="10000" id="504001114">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1100" dropRate="10000" id="504001115">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1100" dropRate="2000" id="504001116">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1100" dropRate="2000" id="504001117">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1100" dropRate="2000" id="504001118">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1100" dropRate="2000" id="504001119">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1100" dropRate="2000" id="504001120">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1100" dropRate="2000" id="504001121">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1100" dropRate="2000" id="504001122">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1100" dropRate="2000" id="504001123">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1100" dropRate="2000" id="504001124">
+    <intervals>
+      <int>351708206</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1200" dropRate="2000" id="504001200">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1200" dropRate="2000" id="504001201">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1200" dropRate="2000" id="504001202">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1200" dropRate="2000" id="504001203">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1200" dropRate="2000" id="504001204">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1200" dropRate="10000" id="504001205">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1200" dropRate="2000" id="504001206">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1200" dropRate="2000" id="504001207">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1200" dropRate="2000" id="504001208">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1200" dropRate="2000" id="504001209">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1200" dropRate="2000" id="504001210">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1200" dropRate="2000" id="504001211">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1200" dropRate="2000" id="504001212">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1200" dropRate="10000" id="504001213">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1200" dropRate="10000" id="504001214">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1200" dropRate="10000" id="504001215">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1200" dropRate="2000" id="504001216">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1200" dropRate="2000" id="504001217">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1200" dropRate="2000" id="504001218">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1200" dropRate="2000" id="504001219">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1200" dropRate="2000" id="504001220">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1200" dropRate="2000" id="504001221">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1200" dropRate="2000" id="504001222">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1200" dropRate="2000" id="504001223">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1200" dropRate="2000" id="504001224">
+    <intervals>
+      <int>351708214</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1300" dropRate="2000" id="504001300">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1300" dropRate="2000" id="504001301">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1300" dropRate="2000" id="504001302">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1300" dropRate="2000" id="504001303">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1300" dropRate="2000" id="504001304">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1300" dropRate="10000" id="504001305">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1300" dropRate="2000" id="504001306">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1300" dropRate="2000" id="504001307">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1300" dropRate="2000" id="504001308">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1300" dropRate="2000" id="504001309">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1300" dropRate="2000" id="504001310">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1300" dropRate="2000" id="504001311">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1300" dropRate="2000" id="504001312">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1300" dropRate="10000" id="504001313">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1300" dropRate="10000" id="504001314">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1300" dropRate="10000" id="504001315">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1300" dropRate="2000" id="504001316">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1300" dropRate="2000" id="504001317">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1300" dropRate="2000" id="504001318">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1300" dropRate="2000" id="504001319">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1300" dropRate="2000" id="504001320">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1300" dropRate="2000" id="504001321">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1300" dropRate="2000" id="504001322">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1300" dropRate="2000" id="504001323">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1300" dropRate="2000" id="504001324">
+    <intervals>
+      <int>351708315</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1400" dropRate="2000" id="504001400">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1400" dropRate="2000" id="504001401">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1400" dropRate="2000" id="504001402">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1400" dropRate="2000" id="504001403">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1400" dropRate="2000" id="504001404">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1400" dropRate="10000" id="504001405">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1400" dropRate="2000" id="504001406">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1400" dropRate="2000" id="504001407">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1400" dropRate="2000" id="504001408">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1400" dropRate="2000" id="504001409">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1400" dropRate="2000" id="504001410">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1400" dropRate="2000" id="504001411">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1400" dropRate="2000" id="504001412">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1400" dropRate="10000" id="504001413">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1400" dropRate="10000" id="504001414">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1400" dropRate="10000" id="504001415">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1400" dropRate="2000" id="504001416">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1400" dropRate="2000" id="504001417">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1400" dropRate="2000" id="504001418">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1400" dropRate="2000" id="504001419">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1400" dropRate="2000" id="504001420">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1400" dropRate="2000" id="504001421">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1400" dropRate="2000" id="504001422">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1400" dropRate="2000" id="504001423">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1400" dropRate="2000" id="504001424">
+    <intervals>
+      <int>351708414</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1500" dropRate="2250" id="504001500">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1500" dropRate="900" id="504001501">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1500" dropRate="1000" id="504001502">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1500" dropRate="1125" id="504001503">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1500" dropRate="1125" id="504001504">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1500" dropRate="10000" id="504001505">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1500" dropRate="2250" id="504001506">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1500" dropRate="1500" id="504001507">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1500" dropRate="1500" id="504001508">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1500" dropRate="1500" id="504001509">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1500" dropRate="1500" id="504001510">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1500" dropRate="1500" id="504001511">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1500" dropRate="1500" id="504001512">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1500" dropRate="10000" id="504001513">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1500" dropRate="10000" id="504001514">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1500" dropRate="10000" id="504001515">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1500" dropRate="1250" id="504001516">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1500" dropRate="1250" id="504001517">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1500" dropRate="1250" id="504001518">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1500" dropRate="1250" id="504001519">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1500" dropRate="1250" id="504001520">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1500" dropRate="1250" id="504001521">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1500" dropRate="1250" id="504001522">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1500" dropRate="1250" id="504001523">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1500" dropRate="1250" id="504001524">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1600" dropRate="2000" id="504001600">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1600" dropRate="2000" id="504001601">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1600" dropRate="2000" id="504001602">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1600" dropRate="2000" id="504001603">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1600" dropRate="2000" id="504001604">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1600" dropRate="10000" id="504001605">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1600" dropRate="2000" id="504001606">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1600" dropRate="2000" id="504001607">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1600" dropRate="2000" id="504001608">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1600" dropRate="2000" id="504001609">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1600" dropRate="2000" id="504001610">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1600" dropRate="2000" id="504001611">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1600" dropRate="2000" id="504001612">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1600" dropRate="10000" id="504001613">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1600" dropRate="10000" id="504001614">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1600" dropRate="10000" id="504001615">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1600" dropRate="2000" id="504001616">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1600" dropRate="2000" id="504001617">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1600" dropRate="2000" id="504001618">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1600" dropRate="2000" id="504001619">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1600" dropRate="2000" id="504001620">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1600" dropRate="2000" id="504001621">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1600" dropRate="2000" id="504001622">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1600" dropRate="2000" id="504001623">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1600" dropRate="2000" id="504001624">
+    <intervals>
+      <int>351710017</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1700" dropRate="2000" id="504001700">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1700" dropRate="2000" id="504001701">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1700" dropRate="2000" id="504001702">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1700" dropRate="2000" id="504001703">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1700" dropRate="2000" id="504001704">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1700" dropRate="10000" id="504001705">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1700" dropRate="2000" id="504001706">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1700" dropRate="2000" id="504001707">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1700" dropRate="2000" id="504001708">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1700" dropRate="2000" id="504001709">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1700" dropRate="2000" id="504001710">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1700" dropRate="2000" id="504001711">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1700" dropRate="2000" id="504001712">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1700" dropRate="10000" id="504001713">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1700" dropRate="10000" id="504001714">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1700" dropRate="10000" id="504001715">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1700" dropRate="2000" id="504001716">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1700" dropRate="2000" id="504001717">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1700" dropRate="2000" id="504001718">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1700" dropRate="2000" id="504001719">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1700" dropRate="2000" id="504001720">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1700" dropRate="2000" id="504001721">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1700" dropRate="2000" id="504001722">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1700" dropRate="2000" id="504001723">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1700" dropRate="2000" id="504001724">
+    <intervals>
+      <int>351710022</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="42" dropLibId="1200" dropRate="2000" id="504080000">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="43" dropLibId="1200" dropRate="2000" id="504080001">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="44" dropLibId="1200" dropRate="2000" id="504080002">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="45" dropLibId="1200" dropRate="2000" id="504080003">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="46" dropLibId="1200" dropRate="2000" id="504080004">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="68" dropLibId="1200" dropRate="10000" id="504080005">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="48" dropLibId="1200" dropRate="2000" id="504080006">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="49" dropLibId="1200" dropRate="2000" id="504080007">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="50" dropLibId="1200" dropRate="2000" id="504080008">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="51" dropLibId="1200" dropRate="2000" id="504080009">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="52" dropLibId="1200" dropRate="2000" id="504080010">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="53" dropLibId="1200" dropRate="2000" id="504080011">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="54" dropLibId="1200" dropRate="2000" id="504080012">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="69" dropLibId="1200" dropRate="10000" id="504080013">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="70" dropLibId="1200" dropRate="10000" id="504080014">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="71" dropLibId="1200" dropRate="10000" id="504080015">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="72" dropLibId="1200" dropRate="2000" id="504080016">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="73" dropLibId="1200" dropRate="2000" id="504080017">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="74" dropLibId="1200" dropRate="2000" id="504080018">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="75" dropLibId="1200" dropRate="2000" id="504080019">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="76" dropLibId="1200" dropRate="2000" id="504080020">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="77" dropLibId="1200" dropRate="2000" id="504080021">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="78" dropLibId="1200" dropRate="2000" id="504080022">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="79" dropLibId="1200" dropRate="2000" id="504080023">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+  <mzm.gsp.award.confbean.STimeDropCfg awardDropLibId="80" dropLibId="1200" dropRate="2000" id="504080024">
+    <intervals>
+      <int>351709250</int>
+    </intervals>
+  </mzm.gsp.award.confbean.STimeDropCfg>
+</data>

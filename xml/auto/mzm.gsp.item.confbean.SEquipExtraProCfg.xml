@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.item.confbean.SEquipExtraProCfg id="220100000" templatename="测试附加属性">
+    <extraProMap>
+      <no-comparator/>
+      <entry>
+        <int>220200000</int>
+        <int>10000</int>
+      </entry>
+    </extraProMap>
+  </mzm.gsp.item.confbean.SEquipExtraProCfg>
+</data>

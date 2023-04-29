@@ -1,0 +1,101 @@
+<data>
+  <mzm.gsp.activity4.confbean.SBandstandMusicCfg id="963200000">
+    <fragments>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="1" musicTime="36000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="2" musicTime="15000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="3" musicTime="15000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="4" musicTime="15000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="5" musicTime="15000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="6" musicTime="21000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="7" musicTime="23000"/>
+    </fragments>
+    <fragmentIndexesWithLyric>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+    </fragmentIndexesWithLyric>
+  </mzm.gsp.activity4.confbean.SBandstandMusicCfg>
+  <mzm.gsp.activity4.confbean.SBandstandMusicCfg id="963200001">
+    <fragments>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="1" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="2" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="3" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="4" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="5" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="6" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="7" musicTime="14000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="8" musicTime="26000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="9" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="10" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="11" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="12" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="13" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="14" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="15" musicTime="31000"/>
+    </fragments>
+    <fragmentIndexesWithLyric>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>7</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+      <int>13</int>
+      <int>14</int>
+    </fragmentIndexesWithLyric>
+  </mzm.gsp.activity4.confbean.SBandstandMusicCfg>
+  <mzm.gsp.activity4.confbean.SBandstandMusicCfg id="963200002">
+    <fragments>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="1" musicTime="40000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="2" musicTime="26000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="3" musicTime="30000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="4" musicTime="26000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="5" musicTime="27000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="6" musicTime="28000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="7" musicTime="13000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="8" musicTime="32000"/>
+    </fragments>
+    <fragmentIndexesWithLyric>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>6</int>
+      <int>7</int>
+      <int>8</int>
+    </fragmentIndexesWithLyric>
+  </mzm.gsp.activity4.confbean.SBandstandMusicCfg>
+  <mzm.gsp.activity4.confbean.SBandstandMusicCfg id="963200003">
+    <fragments>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="1" musicTime="30000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="2" musicTime="20000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="3" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="4" musicTime="21000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="5" musicTime="18000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="6" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="7" musicTime="20000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="8" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="9" musicTime="20000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="10" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="11" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="4" fragmentType="1" index="12" musicTime="19000"/>
+      <mzm.gsp.activity4.confbean.SBandstandFragmentInfo answerNum="0" fragmentType="2" index="13" musicTime="27000"/>
+    </fragments>
+    <fragmentIndexesWithLyric>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>7</int>
+      <int>8</int>
+      <int>9</int>
+      <int>10</int>
+      <int>12</int>
+    </fragmentIndexesWithLyric>
+  </mzm.gsp.activity4.confbean.SBandstandMusicCfg>
+</data>

@@ -1,0 +1,8 @@
+<root>
+	<row name="friendCountMax" value="100"/>
+	<row name="applyCountMax" value="100"/>
+	<row name="applyTimeMax" value="72"/>
+	<row name="valuePerbattle" value="1"/>
+	<row name="maxBattlePerDay" value="700"/>
+	<row name="maxQinMiDu" value="100000"/>
+</root>

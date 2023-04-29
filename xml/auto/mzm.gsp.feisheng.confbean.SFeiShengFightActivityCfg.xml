@@ -1,0 +1,35 @@
+<data>
+  <mzm.gsp.feisheng.confbean.SFeiShengFightActivityCfg activity_cfg_id="350000045" award_id="7400" daily_get_team_member_award_max_times="3" moduleid="274" npc_id="150113869" npc_service_id="150200080" serverlevel="115">
+    <fight_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471000" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471001" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471002" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471004" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471005" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471003" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.feisheng.confbean.SFeiShengFightInfo fight_cfg_id="120471006" team_leader_award_id="7401" team_member_award_id="7402"/>
+      </entry>
+    </fight_infos>
+  </mzm.gsp.feisheng.confbean.SFeiShengFightActivityCfg>
+</data>

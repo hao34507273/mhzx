@@ -1,0 +1,28 @@
+<data>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白银1段" levelDownScoreMin="1025" levelUpScoreMin="600" loseToken="0" reductionRate="8000" sort="1" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白银2段" levelDownScoreMin="1075" levelUpScoreMin="1050" loseToken="0" reductionRate="8000" sort="2" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白银3段" levelDownScoreMin="1125" levelUpScoreMin="1100" loseToken="0" reductionRate="8000" sort="3" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白银4段" levelDownScoreMin="1175" levelUpScoreMin="1150" loseToken="0" reductionRate="8000" sort="4" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白银5段" levelDownScoreMin="1225" levelUpScoreMin="1200" loseToken="0" reductionRate="8000" sort="5" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="5402" honorName="黄金1段" levelDownScoreMin="1275" levelUpScoreMin="1250" loseToken="0" reductionRate="8000" sort="6" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="黄金2段" levelDownScoreMin="1325" levelUpScoreMin="1300" loseToken="0" reductionRate="8000" sort="7" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="黄金3段" levelDownScoreMin="1375" levelUpScoreMin="1350" loseToken="0" reductionRate="8000" sort="8" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="黄金4段" levelDownScoreMin="1425" levelUpScoreMin="1400" loseToken="0" reductionRate="8000" sort="9" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="黄金5段" levelDownScoreMin="1475" levelUpScoreMin="1450" loseToken="0" reductionRate="8000" sort="10" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="5403" honorName="白金1段" levelDownScoreMin="1525" levelUpScoreMin="1500" loseToken="0" reductionRate="8000" sort="11" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白金2段" levelDownScoreMin="1575" levelUpScoreMin="1550" loseToken="0" reductionRate="8000" sort="12" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白金3段" levelDownScoreMin="1625" levelUpScoreMin="1600" loseToken="0" reductionRate="8000" sort="13" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白金4段" levelDownScoreMin="1675" levelUpScoreMin="1650" loseToken="0" reductionRate="8000" sort="14" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="白金5段" levelDownScoreMin="1725" levelUpScoreMin="1700" loseToken="0" reductionRate="8000" sort="15" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="5404" honorName="钻石1段" levelDownScoreMin="1775" levelUpScoreMin="1750" loseToken="0" reductionRate="8000" sort="16" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="钻石2段" levelDownScoreMin="1825" levelUpScoreMin="1800" loseToken="0" reductionRate="8000" sort="17" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="钻石3段" levelDownScoreMin="1875" levelUpScoreMin="1850" loseToken="0" reductionRate="8000" sort="18" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="钻石4段" levelDownScoreMin="1925" levelUpScoreMin="1900" loseToken="0" reductionRate="8000" sort="19" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="钻石5段" levelDownScoreMin="1975" levelUpScoreMin="1950" loseToken="0" reductionRate="8000" sort="20" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="5405" honorName="大师1段" levelDownScoreMin="2025" levelUpScoreMin="2000" loseToken="0" reductionRate="8000" sort="21" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="大师2段" levelDownScoreMin="2075" levelUpScoreMin="2050" loseToken="0" reductionRate="8000" sort="22" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="大师3段" levelDownScoreMin="2125" levelUpScoreMin="2100" loseToken="0" reductionRate="8000" sort="23" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="大师4段" levelDownScoreMin="2175" levelUpScoreMin="2150" loseToken="0" reductionRate="8000" sort="24" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="0" honorName="大师5段" levelDownScoreMin="2225" levelUpScoreMin="2200" loseToken="0" reductionRate="8000" sort="25" winToken="15"/>
+  <mzm.gsp.ladder.confbean.SLadderHonorStageCfg awardid="5406" honorName="王者" levelDownScoreMin="99999" levelUpScoreMin="2250" loseToken="0" reductionRate="8000" sort="26" winToken="15"/>
+</data>

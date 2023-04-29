@@ -1,0 +1,43 @@
+<data>
+  <mzm.gsp.activity4.confbean.SFlowerParadeOcpGroupCfg groupId="1">
+    <ocpPradCfg>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115019" ocpRole2="150115020" radius="500"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115021" ocpRole2="150115022" radius="500"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115023" ocpRole2="150115024" radius="500"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115025" ocpRole2="150115026" radius="500"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115027" ocpRole2="150115028" radius="500"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115029" ocpRole2="150115030" radius="500"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115031" ocpRole2="150115032" radius="500"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115033" ocpRole2="150115034" radius="500"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.activity4.confbean.SFlowerParadeOcpCfg chosenTime="1" ocpRole1="150115035" ocpRole2="150115036" radius="500"/>
+      </entry>
+    </ocpPradCfg>
+  </mzm.gsp.activity4.confbean.SFlowerParadeOcpGroupCfg>
+</data>

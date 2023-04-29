@@ -1,0 +1,3125 @@
+<data>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008201" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22403" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22404" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22405" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22406" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22407" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22408" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22409" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008221" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22965" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22966" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22967" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22968" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22969" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22970" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22971" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22972" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008223" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22978" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22979" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22980" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22981" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22982" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22983" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22984" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008222" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22973" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22974" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22975" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22976" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22977" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008213" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22423" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22424" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22425" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22426" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22427" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22428" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22429" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008212" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22415" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22416" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22417" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22418" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22419" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22420" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22421" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22422" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008215" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22437" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22438" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008214" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22430" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22431" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22432" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22433" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22434" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22435" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22436" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008238" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23016" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23017" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23018" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23019" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23020" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23021" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23022" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23023" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008239" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23024" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23025" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23026" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23027" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23028" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23029" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23030" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23031" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23032" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23033" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008224" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22985" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22986" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22987" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22988" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22989" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22990" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22991" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008225" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22992" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22993" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008255" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22451" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22452" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22453" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22454" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22455" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22456" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22457" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008242" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23048" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23049" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008241" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23041" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23042" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23043" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23044" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23045" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23046" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23047" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008240" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23034" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23035" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23036" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23037" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23038" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23039" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23040" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008268" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23088" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23089" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23090" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23091" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23092" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23093" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23094" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23095" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23096" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23097" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23098" save_amt_cond="50000" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008270" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23110" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23111" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23112" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23113" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23114" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23115" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23116" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008271" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23117" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23118" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23119" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23120" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23121" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23122" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23123" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000376" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8750" save_amt_cond="60" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8751" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8752" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8753" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8754" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8755" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8756" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8757" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008256" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22465" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22466" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22467" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22468" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22469" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22470" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22471" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22472" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008258" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22458" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22459" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22460" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22461" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22462" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22463" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22464" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008259" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22473" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22474" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22475" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22476" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22477" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22478" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22479" save_amt_cond="5000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22480" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22481" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22482" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008002" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21106" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21107" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21108" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21109" save_amt_cond="2500" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21110" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008273" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23131" save_amt_cond="1000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23132" save_amt_cond="2000" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23133" save_amt_cond="3000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23134" save_amt_cond="5000" sort_id="4"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008003" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21111" save_amt_cond="68" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21112" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21113" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21114" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21115" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21116" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21117" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21118" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008272" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23124" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23125" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23126" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23127" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23128" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23129" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23130" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008000" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21000" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21001" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21002" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21003" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21004" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21005" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008274" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23137" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23138" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008303" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23228" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23229" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23230" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23231" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23232" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23233" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23234" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23235" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23236" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23237" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008292" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23203" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23204" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23205" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23206" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23207" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23208" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23209" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008293" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23210" save_amt_cond="1000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23211" save_amt_cond="2000" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23212" save_amt_cond="3000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23213" save_amt_cond="5000" sort_id="4"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008290" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23189" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23190" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23191" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23192" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23193" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23194" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23195" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008291" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23196" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23197" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23198" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23199" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23200" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23201" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23202" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008288" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23168" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23169" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23170" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23171" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23172" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23173" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23174" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23175" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23176" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23177" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008310" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23288" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23289" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008309" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23281" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23282" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23283" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23284" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23285" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23286" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23287" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008308" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23274" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23275" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23276" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23277" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23278" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23279" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23280" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008307" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23267" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23268" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23269" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23270" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23271" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23272" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23273" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008306" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23260" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23261" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23262" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23263" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23264" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23265" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23266" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008069" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21575" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21576" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21577" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21578" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21579" save_amt_cond="3000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21580" save_amt_cond="5000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008071" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21587" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21588" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21589" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21590" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21591" save_amt_cond="3000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21592" save_amt_cond="5000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008070" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21581" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21582" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21583" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21584" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21585" save_amt_cond="3000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21586" save_amt_cond="5000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008081" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21756" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21757" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21758" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21759" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21760" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008082" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21761" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21762" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21763" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21764" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21765" save_amt_cond="3000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21766" save_amt_cond="5000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008083" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21767" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21768" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21769" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21770" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21771" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21772" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21773" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21774" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008092" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21819" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21820" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21821" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21822" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21823" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008093" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21824" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21825" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21826" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21827" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21828" save_amt_cond="3000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21829" save_amt_cond="5000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21830" save_amt_cond="10000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008094" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21831" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21832" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21833" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21834" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21835" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21836" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008099" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21869" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21870" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21871" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21872" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21873" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21874" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008098" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21863" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21864" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21865" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21866" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21867" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21868" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008097" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21857" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21858" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21859" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21860" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21861" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21862" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008107" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21908" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21909" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21910" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21911" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21912" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21913" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008106" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21901" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21902" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21903" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21904" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21905" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21906" save_amt_cond="7000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21907" save_amt_cond="10000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008110" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21926" save_amt_cond="1" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21927" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21928" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21929" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21930" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21931" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21932" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="21933" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008122" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22051" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22052" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008123" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22017" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22018" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22019" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22020" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22021" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22022" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22023" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008124" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22024" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22025" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22026" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22027" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22028" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22029" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22030" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008125" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22031" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22032" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22033" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22034" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22035" save_amt_cond="4000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22036" save_amt_cond="6000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008129" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22061" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22062" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22063" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22064" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22065" save_amt_cond="4000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22066" save_amt_cond="6000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008128" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22053" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22054" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22055" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22056" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22057" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22058" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22059" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22060" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008131" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22074" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22075" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22076" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22077" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22078" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22079" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22080" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008130" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22067" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22068" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22069" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22070" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22071" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22072" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22073" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008141" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22051" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22052" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008143" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22099" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22100" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22101" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22102" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22103" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22104" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22105" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008142" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22093" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22094" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22095" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22096" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22097" save_amt_cond="4000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22098" save_amt_cond="6000" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000716" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8760" save_amt_cond="60" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8761" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8762" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8763" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8764" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8765" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8766" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8767" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008144" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22106" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22107" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22108" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22109" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22110" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22111" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22112" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008156" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22208" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22207" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008157" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22171" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22172" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22173" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22174" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22175" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22176" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22177" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008158" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22178" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22179" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22180" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22181" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22182" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22183" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22184" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000225" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8730" save_amt_cond="60" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8731" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8732" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8733" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8734" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8735" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8736" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8737" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008159" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22185" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22186" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22187" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22188" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22189" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22190" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22191" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008155" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22163" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22164" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22165" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22166" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22167" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22168" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22169" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22170" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000228" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8740" save_amt_cond="60" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8741" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8742" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8743" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8744" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8745" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8746" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8747" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000217" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8720" save_amt_cond="60" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8721" save_amt_cond="300" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8722" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8723" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8724" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8725" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8726" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008342" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23409" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23410" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23411" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23412" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23413" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23414" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23415" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23416" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23417" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23418" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008174" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22257" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22258" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22259" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22260" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22261" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22262" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22263" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008340" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23384" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23385" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23386" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23387" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23388" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008173" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22252" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22253" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22254" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22255" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22256" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000211" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8714" save_amt_cond="980" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008172" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22245" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22246" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22247" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22248" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22249" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22250" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22251" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000212" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8715" save_amt_cond="980" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008171" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22238" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22239" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22240" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22241" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22242" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22243" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22244" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008338" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23456" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23457" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008339" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23377" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23378" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23379" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23380" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23381" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23382" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23383" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008170" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22229" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22230" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22231" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22232" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22233" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22234" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22235" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22236" save_amt_cond="35000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22237" save_amt_cond="50000" sort_id="9"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008335" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23370" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23371" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23372" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23373" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23374" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23375" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23376" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008334" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23363" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23364" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23365" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23366" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23367" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23368" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23369" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000200" send_award_mail_cfgid="0">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8889" save_amt_cond="1000000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8890" save_amt_cond="5000000" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8891" save_amt_cond="25000000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8892" save_amt_cond="50000000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8893" save_amt_cond="100000000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8894" save_amt_cond="250000000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8895" save_amt_cond="500000000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8896" save_amt_cond="1000000000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8897" save_amt_cond="2000000000" sort_id="9"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000203" send_award_mail_cfgid="0">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8887" save_amt_cond="300" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350000202" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="8713" save_amt_cond="980" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008332" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23399" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23400" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23401" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23402" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23403" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23404" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23405" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23406" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23407" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23408" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008330" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23356" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23357" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23358" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23359" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23360" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23361" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23362" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008329" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23454" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23455" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008326" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23351" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23352" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23353" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23354" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23355" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008325" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23389" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23390" save_amt_cond="200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23391" save_amt_cond="500" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23392" save_amt_cond="1000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23393" save_amt_cond="2000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23394" save_amt_cond="3000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23395" save_amt_cond="6000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23396" save_amt_cond="10000" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23397" save_amt_cond="20000" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23398" save_amt_cond="30000" sort_id="10"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008188" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22312" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22313" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22314" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22315" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22316" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22317" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22318" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008324" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23344" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23345" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23346" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23347" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23348" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23349" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23350" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008189" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22319" save_amt_cond="3000" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22320" save_amt_cond="6000" sort_id="2"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008323" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23337" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23338" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23339" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23340" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23341" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23342" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="23343" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008186" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22297" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22298" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22299" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22300" save_amt_cond="2000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22301" save_amt_cond="5000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22302" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22303" save_amt_cond="20000" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22304" save_amt_cond="50000" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+  <mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg id="350008187" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22305" save_amt_cond="100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22306" save_amt_cond="500" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22307" save_amt_cond="1000" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22308" save_amt_cond="3000" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22309" save_amt_cond="6000" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22310" save_amt_cond="10000" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SSaveAmtActivityAwardInfo award_cfg_id="22311" save_amt_cond="15000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SSaveAmtAwardCfg>
+</data>

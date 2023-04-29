@@ -1,0 +1,22 @@
+<root>
+<row name="activityId" value="350000305"/>
+<row name="activityBroadcastTime" value="5"/>
+<row name="activityStartRate" value="3000"/>
+<row name="activityBroadcastTimeInterval" value="1"/>
+<row name="commonRewardId" value="400"/>
+<row name="topRewardId" value="401"/>
+<row name="commonRewardRate" value="9800"/>
+<row name="topRewardRate" value="100"/>
+<row name="nullRewardRate" value="100"/>
+<row name="endGetRedgiftTime" value="30"/>
+<row name="serverEndGetRedgiftTime" value="45"/>
+<row name="activityTime1" value="350299100"/>
+<row name="activityTime2" value="350299101"/>
+<row name="activityTime3" value="350299102"/>
+<row name="activityTime4" value="350299103"/>
+<row name="activityTime5" value="350299104"/>
+<row name="activityTime6" value="350299105"/>
+<row name="highStartRate" value="10000"/>
+<row name="highStartRateId1" value="350299100"/>
+<row name="highStartRateId2" value="350299104"/>
+</root>

@@ -1,0 +1,1068 @@
+<data>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200000" templatename="0级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200001" templatename="0级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200002" templatename="0级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200003" templatename="0级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200004" templatename="0级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600200005" templatename="0级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600300508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201000" templatename="10级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201001" templatename="10级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201002" templatename="10级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201003" templatename="10级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201004" templatename="10级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600201005" templatename="10级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600301508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202000" templatename="20级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202001" templatename="20级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202002" templatename="20级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202003" templatename="20级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202004" templatename="20级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600202005" templatename="20级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600302508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203000" templatename="30级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203001" templatename="30级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203002" templatename="30级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203003" templatename="30级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203004" templatename="30级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600203005" templatename="30级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600303508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204000" templatename="40级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204001" templatename="40级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204002" templatename="40级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204003" templatename="40级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204004" templatename="40级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600204005" templatename="40级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600304508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205000" templatename="50级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205001" templatename="50级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205002" templatename="50级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205003" templatename="50级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205004" templatename="50级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600205005" templatename="50级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600305508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206000" templatename="60级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206001" templatename="60级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206002" templatename="60级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206003" templatename="60级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206004" templatename="60级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600206005" templatename="60级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600306508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207000" templatename="70级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207001" templatename="70级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207002" templatename="70级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207003" templatename="70级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207004" templatename="70级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600207005" templatename="70级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600307508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208000" templatename="80级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208001" templatename="80级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208002" templatename="80级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208003" templatename="80级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208004" templatename="80级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600208005" templatename="80级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600308508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209000" templatename="90级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209001" templatename="90级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209002" templatename="90级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209003" templatename="90级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209004" templatename="90级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600209005" templatename="90级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600309508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210000" templatename="100级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210001" templatename="100级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210002" templatename="100级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210003" templatename="100级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210004" templatename="100级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600210005" templatename="100级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600310508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211000" templatename="110级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211001" templatename="110级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211002" templatename="110级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211003" templatename="110级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211004" templatename="110级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600211005" templatename="110级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600311508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212000" templatename="120级武器">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312000" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312001" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312002" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312003" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312004" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312005" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312006" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312007" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312008" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212001" templatename="120级衣服">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312100" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312101" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312102" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312103" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312104" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312105" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312106" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312107" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312108" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312109" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212002" templatename="120级帽子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312200" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312201" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312202" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312203" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312204" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312205" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312206" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312207" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312208" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212003" templatename="120级护腕">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312300" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312301" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312302" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312303" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312304" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312305" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312306" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312307" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312308" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312309" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312310" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212004" templatename="120级腰带">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312400" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312401" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312402" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312403" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312404" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312405" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312406" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312407" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312408" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312409" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+  <mzm.gsp.common.confbean.SProRandomCountCfg id="600212005" templatename="120级鞋子">
+    <proRates>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312500" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312501" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312502" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312503" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312504" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312505" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312506" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312507" proRate="10000"/>
+      <mzm.gsp.common.confbean.ProRatebean proCfgId="600312508" proRate="10000"/>
+    </proRates>
+  </mzm.gsp.common.confbean.SProRandomCountCfg>
+</data>

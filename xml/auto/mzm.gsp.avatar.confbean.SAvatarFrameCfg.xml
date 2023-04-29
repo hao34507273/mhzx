@@ -1,0 +1,605 @@
+﻿<data>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100000" name="系统默认头像框">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100001" name="测试">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100002" name="爱境">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100003" name="小雪人">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100004" name="兔耳朵">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100005" name="丘比特">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100006" name="寿司宝宝">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100007" name="大鱼海塘">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100008" name="樱花雪">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100009" name="云天门">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100010" name="荷花">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100011" name="狐狸">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100012" name="离火">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100013" name="蓝鸟">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100014" name="龙翼">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100015" name="鸟居">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100016" name="舞狮">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100017" name="水墨">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100018" name="藤蔓">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100019" name="祥瑞">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100020" name="爱心">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100021" name="皇冠">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100022" name="玫瑰">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100023" name="幸运草">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100024" name="圣诞">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100025" name="潜龙">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100026" name="冬梅">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100027" name="踏浪">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100028" name="云中雀">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100029" name="春思">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100030" name="追忆">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100031" name="仙宫">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100032" name="鹊桥临门">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100033" name="雪人">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100034" name="凤羽花">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100035" name="桃花">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100036" name="康乃馨">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100037" name="牵牛花">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100038" name="桃花香">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100039" name="花语绵绵">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100040" name="花语轻轻">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100041" name="气球">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100042" name="火车呜呜">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100043" name="维尼熊">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100044" name="星月">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100045" name="小黄鸭">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100046" name="追梦">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100047" name="大力神">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100048" name="鹊栖月下">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100049" name="锦鲤">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100050" name="浓情圣诞">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100051" name="金龙boss">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100052" name="章鱼boss">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100053" name="祭典">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100054" name="情投意盒">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100055" name="影含松">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100056" name="元宵">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100057" name="春节">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100058" name="纸鸢寄情">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100059" name="春天">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100060" name="叠叠猫">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100061" name="比心墙">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100062" name="瑞雪">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100063" name="迎新">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100065" name="状元">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100066" name="榜眼">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+  <mzm.gsp.avatar.confbean.SAvatarFrameCfg factionLimit="0" genderLimit="0" id="104100067" name="探花">
+    <properties>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+      <mzm.gsp.avatar.confbean.PropertyBean property="0" value="0"/>
+    </properties>
+  </mzm.gsp.avatar.confbean.SAvatarFrameCfg>
+</data>

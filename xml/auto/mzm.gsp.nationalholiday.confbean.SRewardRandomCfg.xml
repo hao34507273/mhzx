@@ -1,0 +1,31 @@
+<data>
+  <mzm.gsp.nationalholiday.confbean.SRewardRandomCfg groupId="1" randomType="1" sumWight="30210">
+    <cfgId2randomWight>
+      <no-comparator/>
+      <entry>
+        <int>958700000</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>958700001</int>
+        <int>20000</int>
+      </entry>
+      <entry>
+        <int>958700002</int>
+        <int>30000</int>
+      </entry>
+      <entry>
+        <int>958700003</int>
+        <int>30100</int>
+      </entry>
+      <entry>
+        <int>958700004</int>
+        <int>30200</int>
+      </entry>
+      <entry>
+        <int>958700005</int>
+        <int>30210</int>
+      </entry>
+    </cfgId2randomWight>
+  </mzm.gsp.nationalholiday.confbean.SRewardRandomCfg>
+</data>

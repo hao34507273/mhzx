@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000025" awardId="9900" id="560000000" levelLow="0" levelUp="200" num="1" rank="1" targetDes="完成%1$s次還魂秘術" targetType="1" templateName="完成还魂秘术" weight="1000"/>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000000" awardId="9902" id="560000002" levelLow="0" levelUp="200" num="10" rank="3" targetDes="完成%1$s次師門任務" targetType="3" templateName="完成师门任务" weight="1000"/>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000001" awardId="9903" id="560000003" levelLow="0" levelUp="200" num="20" rank="4" targetDes="鎮妖任務的勝利戰鬥中擊殺%1$s只怪" targetType="4" templateName="镇妖杀怪" weight="1000"/>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000002" awardId="9904" id="560000004" levelLow="0" levelUp="200" num="10" rank="5" targetDes="使用藏寶圖完成%1$s次挖寶" targetType="5" templateName="使用藏宝图" weight="1000"/>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000005" awardId="9905" id="560000005" levelLow="0" levelUp="200" num="3" rank="6" targetDes="完成%1$s次金瓶兒護送" targetType="6" templateName="完成护送" weight="1000"/>
+  <mzm.gsp.grow.confbean.SEveryDayTargetCfg activityId="350000009" awardId="9907" id="560000007" levelLow="0" levelUp="200" num="3" rank="8" targetDes="誅仙奇緣至少答對%1$s道題" targetType="8" templateName="诛仙奇缘答对题目" weight="1000"/>
+</data>

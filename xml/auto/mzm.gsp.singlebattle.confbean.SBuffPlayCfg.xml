@@ -1,0 +1,27 @@
+<data>
+  <mzm.gsp.singlebattle.confbean.SBuffPlayCfg disappear_interval_in_minute="1" id="584500000" max_refresh_interval_in_minute="4" min_refresh_interval_in_minute="2">
+    <buff_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.singlebattle.confbean.BuffInfo buff_info_cfg_id="585000000" radius="80" x="2524" y="1963"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.singlebattle.confbean.BuffInfo buff_info_cfg_id="584800000" radius="80" x="4452" y="1813"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.singlebattle.confbean.BuffInfo buff_info_cfg_id="584800000" radius="80" x="1435" y="1634"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.singlebattle.confbean.BuffInfo buff_info_cfg_id="584900000" radius="80" x="2550" y="2806"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.singlebattle.confbean.BuffInfo buff_info_cfg_id="584900000" radius="80" x="2249" y="1155"/>
+      </entry>
+    </buff_infos>
+  </mzm.gsp.singlebattle.confbean.SBuffPlayCfg>
+</data>

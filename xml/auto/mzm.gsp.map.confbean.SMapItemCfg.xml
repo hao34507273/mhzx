@@ -1,0 +1,876 @@
+<data>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="血脂草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="血脂草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="0" dailyMaxGatherLimit="0" fixAwardId="3" gatherInterval="0" handlerType="0" id="320000001" isTeamMemberCanOpen="false" maxCount="1" maxLevel="200" minLevel="10" minNum="3" modelId="700309002" name="修煉寶箱" needItemId="210100024" needItemNum="2" openCostGold="500" openCostSilver="50000" openCostYuanBao="1" pveFightCfgid="0" radius="100" survivalTime="0" templatename="修炼宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000002" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="埋藏點" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="埋藏地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000003" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="黑節竹" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="黑节竹">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000004" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="靈草茶" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="灵草茶">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000005" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="驅瘴草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="驱瘴草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000006" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309002" name="珍珠寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="大贝珍珠">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000007" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309011" name="硫磺菇" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="硫磺菇">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000008" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309012" name="青雲秘印" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="青云秘印">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000009" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="寒冰魄" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="寒冰魄">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000010" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="紫衫草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="紫衫草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000011" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309022" name="輪迴果" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="轮回果">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000012" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309021" name="紅繩" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="红绳">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000013" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309024" name="水晶棺" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="水晶棺">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100017" costTime="2" dailyMaxGatherLimit="10" fixAwardId="7300" gatherInterval="1" handlerType="0" id="320000014" isTeamMemberCanOpen="true" maxCount="4" maxLevel="200" minLevel="30" minNum="1" modelId="700309046" name="一堆雪" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="2016堆雪人京城">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100017" costTime="2" dailyMaxGatherLimit="10" fixAwardId="7300" gatherInterval="1" handlerType="0" id="320000015" isTeamMemberCanOpen="true" maxCount="4" maxLevel="200" minLevel="30" minNum="1" modelId="700309046" name="一堆雪" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="2016堆雪人河阳">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000016" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309047" name="夜明珠" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000017" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309045" name="礦石" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000018" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309046" name="雪堆" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000019" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309025" name="芝草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000020" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309053" name="黃玫瑰" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000021" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309014" name="行李箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="春光熙熙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100024" costTime="2" dailyMaxGatherLimit="0" fixAwardId="8220" gatherInterval="0" handlerType="0" id="320000022" isTeamMemberCanOpen="true" maxCount="1" maxLevel="119" minLevel="119" minNum="1" modelId="700309062" name="辟法水晶" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞升活动">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="300" buffid="0" controllerId="701100200" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000100" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309014" name="銅寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帮战铜宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="301" buffid="0" controllerId="701100201" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000101" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309015" name="銀寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帮战银宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="302" buffid="0" controllerId="701100202" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320000102" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309002" name="金寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帮战金宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="10" minNum="1" modelId="700309008" name="火堆" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="师门火堆">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="5" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002001" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="10" minNum="1" modelId="700309007" name="祈福" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="师门祈福">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002002" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="10" minNum="1" modelId="700309010" name="魚簍" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="师门鱼篓">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="5" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002003" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="10" minNum="1" modelId="700309009" name="封印" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="师门解除封印">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002004" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309019" name="聖骨石" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣骨石">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002005" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309016" name="火焰草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="火焰草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002006" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309017" name="聖象骨" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣象骨">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002007" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="黑美人西瓜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="黑美人西瓜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002008" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="早春紅玉西瓜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="早春红玉西瓜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002009" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="特小鳳西瓜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="特小凤西瓜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002010" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="花皮西瓜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="花皮西瓜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320002011" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="麒麟西瓜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="麒麟西瓜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104000" costTime="2" dailyMaxGatherLimit="0" fixAwardId="3300" gatherInterval="0" handlerType="0" id="320003000" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="喜糖" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="7200" templatename="喜糖">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104001" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003001" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104002" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003002" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104003" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003003" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104004" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003004" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104005" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003005" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104006" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003006" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104007" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003007" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104008" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003008" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104009" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003009" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104010" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003010" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104011" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003011" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104012" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003012" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104013" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003013" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104014" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003014" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104015" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003015" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104016" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003016" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104017" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003017" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104018" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003018" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104019" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003019" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104020" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003020" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104021" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003021" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104022" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003022" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104023" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003023" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104101" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003101" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104102" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003102" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104103" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003103" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104104" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003104" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104105" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003105" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104106" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003106" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104107" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003107" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104108" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003108" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104109" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003109" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104110" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003110" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104111" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003111" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104112" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003112" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701104113" costTime="2" dailyMaxGatherLimit="10" fixAwardId="311" gatherInterval="0" handlerType="0" id="320003113" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="飞行游街地面物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309000" name="藥草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="药草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004001" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309006" name="山泉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="山泉">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004002" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309002" name="貨物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="货物">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004003" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309006" name="黑節竹" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="黑节竹">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004004" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309007" name="祈福" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="祈福">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004005" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309010" name="魚幹" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="鱼干">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004006" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309006" name="井水" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="井水">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004007" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309008" name="火種" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="火种">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004008" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309009" name="封印" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="封印">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320004009" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309016" name="醒神香" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="醒神香">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100003" costTime="0" dailyMaxGatherLimit="2" fixAwardId="3" gatherInterval="10" handlerType="0" id="320004010" isTeamMemberCanOpen="false" maxCount="1" maxLevel="200" minLevel="10" minNum="3" modelId="700309002" name="修煉寶箱1" needItemId="210100024" needItemNum="2" openCostGold="500" openCostSilver="50000" openCostYuanBao="1" pveFightCfgid="0" radius="100" survivalTime="30" templatename="修炼宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100003" costTime="0" dailyMaxGatherLimit="2" fixAwardId="3" gatherInterval="10" handlerType="0" id="320004011" isTeamMemberCanOpen="false" maxCount="1" maxLevel="200" minLevel="10" minNum="1" modelId="700309002" name="修煉寶箱2" needItemId="210100024" needItemNum="2" openCostGold="500" openCostSilver="50000" openCostYuanBao="1" pveFightCfgid="0" radius="100" survivalTime="30" templatename="修炼宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320005000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309023" name="菩提子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="菩提子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320005001" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309023" name="菩提子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="菩提子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701105500" costTime="2" dailyMaxGatherLimit="10" fixAwardId="51200" gatherInterval="0" handlerType="0" id="320005500" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309002" name="有福同享大寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="有福同享大宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701105600" costTime="2" dailyMaxGatherLimit="10" fixAwardId="51201" gatherInterval="0" handlerType="0" id="320005600" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309015" name="有福同享中寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="有福同享中宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701105700" costTime="2" dailyMaxGatherLimit="10" fixAwardId="51202" gatherInterval="0" handlerType="0" id="320005700" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309014" name="有福同享小寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="有福同享小宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="701204221" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="20" minNum="1" modelId="700309006" name="山泉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="萌食店山泉">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006001" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="20" minNum="1" modelId="700309000" name="當歸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="120400082" radius="100" survivalTime="0" templatename="萌食店当归">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="701204222" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006002" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="20" minNum="1" modelId="700309010" name="海鮮" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="120400081" radius="100" survivalTime="0" templatename="萌食店海鲜">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006003" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309003" name="月老食譜" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="月老食谱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006004" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309008" name="淬火精鐵" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="淬火精铁">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006005" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309024" name="雕花酒" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="雕花酒">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006006" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="玉米" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="玉米">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320006007" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309012" name="誅仙劍碎片" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="诛仙剑碎片">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109000" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007000" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309028" name="牛肉拌面" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109001" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007001" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309029" name="鐵板拌飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109002" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007002" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309030" name="孜然香腸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109003" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007003" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309031" name="水果沙拉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109004" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007004" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309032" name="千層雪山糕" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109005" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007005" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309033" name="人參香菇鍋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109006" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007006" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309034" name="檸檬鳳翅" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109007" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007007" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309035" name="花開人間" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109008" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007008" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309036" name="紅燒乳鴿" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109009" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007009" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309037" name="靈珊羊排" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109010" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007010" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309038" name="仙靈貓飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109011" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007011" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309039" name="百花爭豔" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109012" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007012" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309040" name="麻辣小龍蝦" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109013" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007013" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309041" name="吉祥壽司" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109014" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007014" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309042" name="百靈混拼" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109015" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007015" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309043" name="帝王燒烤" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320007016" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="海底珍珠" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="海底珍珠">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109000" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007100" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309028" name="牛肉拌面" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109001" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007101" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309029" name="鐵板拌飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109002" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007102" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309030" name="孜然香腸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109003" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007103" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309031" name="水果沙拉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109004" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007104" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309032" name="千層雪山糕" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109005" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007105" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309033" name="人參香菇鍋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109006" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007106" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309034" name="檸檬鳳翅" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109007" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007107" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309035" name="花開人間" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109008" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007108" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309036" name="紅燒乳鴿" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109009" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007109" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309037" name="靈珊羊排" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109010" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007110" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309038" name="仙靈貓飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109011" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007111" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309039" name="百花爭艷" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109012" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007112" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309040" name="麻辣小龍蝦" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109013" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007113" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309041" name="吉祥壽司" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109014" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007114" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309042" name="百靈混拼" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109015" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007115" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309043" name="帝王燒烤" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109000" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007200" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309028" name="牛肉拌面" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109001" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007201" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309029" name="鐵板拌飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109002" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007202" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309030" name="孜然香腸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109003" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007203" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309031" name="水果沙拉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109004" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007204" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309032" name="千層雪山糕" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109005" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007205" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309033" name="人參香菇鍋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109006" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007206" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309034" name="檸檬鳳翅" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109007" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007207" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309035" name="花開人間" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109008" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007208" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309036" name="紅燒乳鴿" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109009" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007209" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309037" name="靈珊羊排" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109010" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007210" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309038" name="仙靈貓飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109011" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007211" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309039" name="百花爭艷" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109012" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007212" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309040" name="麻辣小龍蝦" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109013" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007213" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309041" name="吉祥壽司" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109014" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007214" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309042" name="百靈混拼" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109015" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007215" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309043" name="帝王燒烤" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109000" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007300" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309028" name="牛肉拌面" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109001" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007301" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309029" name="鐵板拌飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109002" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007302" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309030" name="孜然香腸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6100" buffid="0" controllerId="701109003" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007303" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309031" name="水果沙拉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="普通菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109004" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007304" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309032" name="千層雪山糕" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109005" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007305" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309033" name="人參香菇鍋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109006" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007306" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309034" name="檸檬鳳翅" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6101" buffid="0" controllerId="701109007" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007307" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309035" name="花開人間" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="豪华菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109008" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007308" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309036" name="紅燒乳鴿" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109009" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007309" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309037" name="靈珊羊排" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109010" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007310" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309038" name="仙靈貓飯" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6102" buffid="0" controllerId="701109011" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007311" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309039" name="百花爭艷" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="皇家菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109012" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007312" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309040" name="麻辣小龍蝦" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109013" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007313" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309041" name="吉祥壽司" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109014" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007314" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309042" name="百靈混拼" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="6103" buffid="0" controllerId="701109015" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="1" id="320007315" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309043" name="帝王燒烤" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="帝王菜肴4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320008000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309027" name="萌食店" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="萌食店故事墙">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108109" costTime="0" dailyMaxGatherLimit="8" fixAwardId="3301" gatherInterval="0" handlerType="0" id="320008001" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="喜糖" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼喜糖">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108110" costTime="0" dailyMaxGatherLimit="8" fixAwardId="3301" gatherInterval="0" handlerType="0" id="320008002" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="喜糖" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼喜糖">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108111" costTime="0" dailyMaxGatherLimit="8" fixAwardId="311" gatherInterval="0" handlerType="0" id="320008003" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼红包">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108203" costTime="0" dailyMaxGatherLimit="8" fixAwardId="311" gatherInterval="0" handlerType="0" id="320008004" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼红包">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108203" costTime="0" dailyMaxGatherLimit="8" fixAwardId="311" gatherInterval="0" handlerType="0" id="320008005" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼红包">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701108203" costTime="0" dailyMaxGatherLimit="8" fixAwardId="311" gatherInterval="0" handlerType="0" id="320008006" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309018" name="紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="集体婚礼红包">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109103" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008010" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="京城-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109104" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008011" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="京城-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008012" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="大王村-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008013" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="大王村-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008014" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="南疆-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008015" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="南疆-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008016" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="小池镇-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008017" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="小池镇翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109103" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008018" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="河阳-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109104" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008019" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="河阳-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008020" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="流波山-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008021" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="流波山-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008022" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="死亡沼泽-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008023" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="死亡沼泽-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008024" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="蛮荒-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008025" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="蛮荒-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109101" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="3" id="320008026" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309048" name="福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="十万大山-福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109102" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="2" id="320008027" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309049" name="翡翠福袋" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="十万大山-翡翠福袋">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="3" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009000" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309007" name="祈福" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="子女生产-祈福">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="3" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009001" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309055" name="熱水" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="子女生产-热水">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="3" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009002" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309056" name="毛巾" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="子女生产-毛巾">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="3" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009003" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309054" name="剪刀" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="子女生产-剪刀">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009100" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="千年醉" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="埋藏地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009101" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309001" name="爬地菊" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="爬地菊">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009102" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309059" name="翡翠念珠碎片" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="翡翠念珠碎片">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009103" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309003" name="女兒紅" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="女儿红">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009104" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309008" name="赤炎" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="赤炎">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009105" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309060" name="控妖笛" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="控妖笛">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009106" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="作案地點" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="作案地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109109" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009107" isTeamMemberCanOpen="false" maxCount="0" maxLevel="200" minLevel="150" minNum="1" modelId="700309065" name="[ffffff][-]" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="鲜花底座">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109111" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009108" isTeamMemberCanOpen="false" maxCount="0" maxLevel="200" minLevel="150" minNum="1" modelId="700309068" name="[ffffff][-]" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="鲜花底座">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009109" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309011" name="硫磺菇" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="硫磺菇">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109107" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009200" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="京城-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009202" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="大王村-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009204" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="南疆-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009206" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="小池镇-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109107" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009208" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="河阳-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009210" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="流波山-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009212" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="死亡沼泽-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009214" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="蛮荒-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109106" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="4" id="320009216" isTeamMemberCanOpen="true" maxCount="10000" maxLevel="200" minLevel="30" minNum="1" modelId="700309063" name="福緣寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="十万大山-福缘宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009217" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="猴兒酒埋藏點" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="埋藏地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009218" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="藏寶地點" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="藏宝地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009219" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="神奇藥草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="神奇药草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109207" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009300" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309014" name="銅寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="跨服帮战铜宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109206" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009301" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309015" name="銀寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="跨服帮战银宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109205" costTime="0" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009302" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="0" minNum="1" modelId="700309002" name="金寶箱" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="跨服帮战金宝箱">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009400" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="琉璃心" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="诞辰祈福物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009401" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309017" name="千年沉香木" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="诞辰祈福物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009402" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309045" name="硫磺礦" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="诞辰祈福物品">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009403" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="笑笑草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="笑笑草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009404" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309002" name="沖虛丸" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="冲虚丸">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009405" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309010" name="寐魚" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="寐鱼">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009406" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="藏寶地點" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="藏宝地点">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009407" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309000" name="神奇藥草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="神奇药草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100026" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009500" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100027" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009501" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100028" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009502" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100029" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009503" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100030" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009504" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100031" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009505" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车玉清宫红包6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100032" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009506" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100033" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009507" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100034" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009508" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100035" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009509" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100036" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009510" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100037" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009511" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车大王村红包6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100038" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009512" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100039" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009513" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100040" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009514" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100041" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009515" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100042" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009516" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100043" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009517" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车南疆红包6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100044" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009518" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100045" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009519" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100046" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009520" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100047" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009521" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100048" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009522" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100049" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009523" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车河阳6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100050" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009524" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100051" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009525" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100052" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009526" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100053" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009527" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100054" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009528" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100055" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009529" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小池镇6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100056" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009530" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100057" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009531" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100058" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009532" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100059" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009533" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100060" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009534" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100061" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009535" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车死亡沼泽6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100062" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009536" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100063" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009537" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100064" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009538" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100065" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009539" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100066" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009540" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701100067" costTime="0" dailyMaxGatherLimit="6" fixAwardId="8352" gatherInterval="0" handlerType="100" id="320009541" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700309018" name="花車紅包" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="20" templatename="周年花车小竹峰6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109214" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="101" id="320009542" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301200" name="煙花筒" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="120" templatename="烟花筒">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109217" costTime="2" dailyMaxGatherLimit="0" fixAwardId="6456" gatherInterval="0" handlerType="102" id="320009543" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301199" name="高級調料" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="120" templatename="高级调料">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="103" id="320009544" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309016" name="紫焰草" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="紫焰草">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="104" id="320009545" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="30" minNum="1" modelId="700309047" name="東海珍珠" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="东海珍珠">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109231" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009550" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109232" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009551" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物2">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109233" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009552" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物3">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109234" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009553" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物4">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109236" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009554" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物5">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109237" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009555" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物6">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109238" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009556" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物7">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109239" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009557" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物8">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109240" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009558" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物9">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109241" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009559" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物10">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109242" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009560" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物11">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109243" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="105" id="320009561" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301236" name="圣誕禮物" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞礼物12">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="3605" buffid="0" controllerId="701109235" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="106" id="320009700" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301235" name="圣誕襪子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞袜子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="3605" buffid="0" controllerId="701109235" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="106" id="320009701" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301235" name="圣誕襪子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞袜子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="3605" buffid="0" controllerId="701109235" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="106" id="320009702" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301235" name="圣誕襪子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞袜子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="3605" buffid="0" controllerId="701109235" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="106" id="320009703" isTeamMemberCanOpen="true" maxCount="1" maxLevel="200" minLevel="30" minNum="1" modelId="700301235" name="圣誕襪子" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="圣诞袜子">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="0" costTime="2" dailyMaxGatherLimit="0" fixAwardId="0" gatherInterval="0" handlerType="0" id="320009999" isTeamMemberCanOpen="true" maxCount="0" maxLevel="200" minLevel="0" minNum="1" modelId="700309006" name="滿月古井" needItemId="0" needItemNum="0" openCostGold="0" openCostSilver="0" openCostYuanBao="0" pveFightCfgid="0" radius="100" survivalTime="0" templatename="满月古井">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>
+
+  <mzm.gsp.map.confbean.SMapItemCfg awardPoolId="0" buffid="0" controllerId="701109109" costTime="2" dailyMaxGatherLimit="9" fixAwardId="70405" gatherInterval="0" handlerType="0" id="320008101" isTeamMemberCanOpen="true" maxCount="9999" maxLevel="200" minLevel="30" minNum="1" modelId="700305177" name="[ffffff][-]" needItemId="210159075" needItemNum="9" openCostGold="0" openCostSilver="0" openCostYuanBao="90000" pveFightCfgid="0" radius="100" survivalTime="0" templatename="炼丹炉1">
+    <costMoney/>
+  </mzm.gsp.map.confbean.SMapItemCfg>  
+</data>

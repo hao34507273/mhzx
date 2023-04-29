@@ -1,0 +1,1585 @@
+<data>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200000" name="武器打造符">
+    <itemids>
+      <int>210500000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200001" name="天枢石">
+    <itemids>
+      <int>210500001</int>
+      <int>210500000</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200002" name="天璇石">
+    <itemids>
+      <int>210500002</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200003" name="天玑石">
+    <itemids>
+      <int>210500003</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200004" name="天权石">
+    <itemids>
+      <int>210500004</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200005" name="玉衡石">
+    <itemids>
+      <int>210500005</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200006" name="开阳石">
+    <itemids>
+      <int>210500006</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200007" name="摇光石">
+    <itemids>
+      <int>210500007</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200008" name="天关石">
+    <itemids>
+      <int>210500008</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200009" name="隐元石">
+    <itemids>
+      <int>210500009</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200010" name="防具打造符">
+    <itemids>
+      <int>210500010</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200011" name="天枢魄">
+    <itemids>
+      <int>210500011</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200012" name="天璇魄">
+    <itemids>
+      <int>210500012</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200013" name="天玑魄">
+    <itemids>
+      <int>210500013</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200014" name="天权魄">
+    <itemids>
+      <int>210500014</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200015" name="玉衡魄">
+    <itemids>
+      <int>210500015</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200016" name="开阳魄">
+    <itemids>
+      <int>210500016</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200017" name="摇光魄">
+    <itemids>
+      <int>210500017</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200018" name="天关魄">
+    <itemids>
+      <int>210500018</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200019" name="隐元魄">
+    <itemids>
+      <int>210500019</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200020" name="血脉符文">
+    <itemids>
+      <int>210500020</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200021" name="魔灵符文">
+    <itemids>
+      <int>210500021</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200022" name="破敌符文">
+    <itemids>
+      <int>210500022</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200023" name="妙灵符文">
+    <itemids>
+      <int>210500023</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200024" name="坚韧符文">
+    <itemids>
+      <int>210500024</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200025" name="防护符文">
+    <itemids>
+      <int>210500025</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200026" name="敏疾符文">
+    <itemids>
+      <int>210500026</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200027" name="威力符文">
+    <itemids>
+      <int>210500027</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200028" name="法伤符文">
+    <itemids>
+      <int>210500028</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200029" name="花枝丸子">
+    <itemids>
+      <int>210500029</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200030" name="腊八粥">
+    <itemids>
+      <int>210500030</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200031" name="八宝鸭">
+    <itemids>
+      <int>210500031</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200032" name="桂花糕">
+    <itemids>
+      <int>210500032</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200033" name="蜜饯桂圆">
+    <itemids>
+      <int>210500033</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200034" name="银鱼蒸蛋">
+    <itemids>
+      <int>210500034</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200035" name="西湖牛肉羹">
+    <itemids>
+      <int>210500035</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200036" name="醉梦罗汉">
+    <itemids>
+      <int>210500036</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200037" name="女儿红">
+    <itemids>
+      <int>210500037</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200038" name="酒酿圆子">
+    <itemids>
+      <int>210500038</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200039" name="止血药">
+    <itemids>
+      <int>210400000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200040" name="大黄丹">
+    <itemids>
+      <int>210400001</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200041" name="补灵丹">
+    <itemids>
+      <int>210400002</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200042" name="檀香散">
+    <itemids>
+      <int>210400003</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200043" name="小还丹">
+    <itemids>
+      <int>210400004</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200044" name="雪魄精">
+    <itemids>
+      <int>210400005</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200045" name="三花玉露">
+    <itemids>
+      <int>210400006</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200046" name="菩提冰露">
+    <itemids>
+      <int>210400007</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200047" name="天仙玉露">
+    <itemids>
+      <int>210400008</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200048" name="还魂丹">
+    <itemids>
+      <int>210400009</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200049" name="聚魂散">
+    <itemids>
+      <int>210400010</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200050" name="地灵救心丸">
+    <itemids>
+      <int>210400011</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200051" name="麝香归气散">
+    <itemids>
+      <int>210400012</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200052" name="七叶莲">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200053" name="北沙参">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200054" name="连钱草">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200055" name="天南星">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200056" name="百里香">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200057" name="千日红">
+    <itemids>
+      <int>210100000</int>
+      <int>210500001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200058" name="环鸣刃">
+    <itemids>
+      <int>220000000</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200059" name="碎玉刀">
+    <itemids>
+      <int>220000001</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200060" name="冥血刀">
+    <itemids>
+      <int>220000002</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200061" name="紫金刃">
+    <itemids>
+      <int>220000003</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200062" name="血饮刀">
+    <itemids>
+      <int>220000004</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200063" name="罗刹刃">
+    <itemids>
+      <int>220000005</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200064" name="修罗刀">
+    <itemids>
+      <int>220000006</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200065" name="蓝魔飞月">
+    <itemids>
+      <int>220000007</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200066" name="鸿鸣百辟">
+    <itemids>
+      <int>220000008</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200067" name="天河中断">
+    <itemids>
+      <int>220000009</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200068" name="断龙绝麟">
+    <itemids>
+      <int>220000010</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200069" name="啸天斩">
+    <itemids>
+      <int>220000011</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200070" name="横笑残刃">
+    <itemids>
+      <int>220000012</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200071" name="铁痕爪">
+    <itemids>
+      <int>220000013</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200072" name="青冥爪">
+    <itemids>
+      <int>220000014</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200073" name="冰魄爪">
+    <itemids>
+      <int>220000015</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200074" name="焱狱爪">
+    <itemids>
+      <int>220000016</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200075" name="紫鸢勾爪">
+    <itemids>
+      <int>220000017</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200076" name="凌寒爪">
+    <itemids>
+      <int>220000018</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200077" name="忘情爪">
+    <itemids>
+      <int>220000019</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200078" name="花魂破">
+    <itemids>
+      <int>220000020</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200079" name="飞燕破空">
+    <itemids>
+      <int>220000021</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200080" name="琉璃碧鸾">
+    <itemids>
+      <int>220000022</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200081" name="凤凰天舞">
+    <itemids>
+      <int>220000023</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200082" name="龙趾骨">
+    <itemids>
+      <int>220000024</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200083" name="闻毒爪">
+    <itemids>
+      <int>220000025</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200084" name="松纹剑">
+    <itemids>
+      <int>220000026</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200085" name="青龙剑">
+    <itemids>
+      <int>220000027</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200086" name="绝尘剑">
+    <itemids>
+      <int>220000028</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200087" name="飞虹剑">
+    <itemids>
+      <int>220000029</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200088" name="承影剑">
+    <itemids>
+      <int>220000030</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200089" name="夏禹剑">
+    <itemids>
+      <int>220000031</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200090" name="太阿剑">
+    <itemids>
+      <int>220000032</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200091" name="赤霄剑">
+    <itemids>
+      <int>220000033</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200092" name="七星龙渊">
+    <itemids>
+      <int>220000034</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200093" name="湛泸">
+    <itemids>
+      <int>220000035</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200094" name="刑天">
+    <itemids>
+      <int>220000036</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200095" name="逐年剑">
+    <itemids>
+      <int>220000037</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200096" name="千字剑">
+    <itemids>
+      <int>220000038</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200097" name="青钢对剑">
+    <itemids>
+      <int>220000039</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200098" name="炫落双剑">
+    <itemids>
+      <int>220000040</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200099" name="映水对剑">
+    <itemids>
+      <int>220000041</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200100" name="雌雄双剑">
+    <itemids>
+      <int>220000042</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200101" name="两仪对剑">
+    <itemids>
+      <int>220000043</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200102" name="龙凤对剑">
+    <itemids>
+      <int>220000044</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200103" name="九曲对剑">
+    <itemids>
+      <int>220000045</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200104" name="追魂双剑">
+    <itemids>
+      <int>220000046</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200105" name="天光云影">
+    <itemids>
+      <int>220000047</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200106" name="干将莫邪">
+    <itemids>
+      <int>220000048</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200107" name="万仞·断寒">
+    <itemids>
+      <int>220000049</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200108" name="游龙戏凤">
+    <itemids>
+      <int>220000050</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200109" name="流水落花">
+    <itemids>
+      <int>220000051</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200110" name="梨花枪">
+    <itemids>
+      <int>220000052</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200111" name="六合枪">
+    <itemids>
+      <int>220000053</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200112" name="点金枪">
+    <itemids>
+      <int>220000054</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200113" name="定心枪">
+    <itemids>
+      <int>220000055</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200114" name="丈八蛇矛">
+    <itemids>
+      <int>220000056</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200115" name="方天画戟">
+    <itemids>
+      <int>220000057</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200116" name="天魂枪">
+    <itemids>
+      <int>220000058</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200117" name="月影龙牙">
+    <itemids>
+      <int>220000059</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200118" name="神威离火枪">
+    <itemids>
+      <int>220000060</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200119" name="龙胆沥泉枪">
+    <itemids>
+      <int>220000061</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200120" name="长星扫九州">
+    <itemids>
+      <int>220000062</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200121" name="碎魂枪">
+    <itemids>
+      <int>220000063</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200122" name="凤翔究火">
+    <itemids>
+      <int>220000064</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200123" name="晓月环">
+    <itemids>
+      <int>220000065</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200124" name="离情环">
+    <itemids>
+      <int>220000066</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200125" name="长歌环">
+    <itemids>
+      <int>220000067</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200126" name="乾坤环">
+    <itemids>
+      <int>220000068</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200127" name="连理环">
+    <itemids>
+      <int>220000069</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200128" name="风火轮">
+    <itemids>
+      <int>220000070</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200129" name="金刚圈">
+    <itemids>
+      <int>220000071</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200130" name="翡玉紫金环">
+    <itemids>
+      <int>220000072</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200131" name="天心月轮">
+    <itemids>
+      <int>220000073</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200132" name="太乙明轮">
+    <itemids>
+      <int>220000074</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200133" name="前尘忆梦">
+    <itemids>
+      <int>220000075</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200134" name="阴阳轮">
+    <itemids>
+      <int>220000076</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200135" name="净水环">
+    <itemids>
+      <int>220000077</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200136" name="云竹杖">
+    <itemids>
+      <int>220000078</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200137" name="秘法杖">
+    <itemids>
+      <int>220000079</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200138" name="水火杖">
+    <itemids>
+      <int>220000080</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200139" name="入定禅杖">
+    <itemids>
+      <int>220000081</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200140" name="圣象杖">
+    <itemids>
+      <int>220000082</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200141" name="珈蓝杖">
+    <itemids>
+      <int>220000083</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200142" name="盘龙杖">
+    <itemids>
+      <int>220000084</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200143" name="御魄神杖">
+    <itemids>
+      <int>220000085</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200144" name="天心一动">
+    <itemids>
+      <int>220000086</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200145" name="女娲神石杖">
+    <itemids>
+      <int>220000087</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200146" name="不周天柱">
+    <itemids>
+      <int>220000088</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200147" name="救苦藤">
+    <itemids>
+      <int>220000089</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200148" name="转世三生杖">
+    <itemids>
+      <int>220000090</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200149" name="七霞菱">
+    <itemids>
+      <int>220000091</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200150" name="霞光缎带">
+    <itemids>
+      <int>220000092</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200151" name="凝玉缎带">
+    <itemids>
+      <int>220000093</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200152" name="混天绫">
+    <itemids>
+      <int>220000094</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200153" name="灵柔缎带">
+    <itemids>
+      <int>220000095</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200154" name="沧海缎带">
+    <itemids>
+      <int>220000096</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200155" name="痴情缎带">
+    <itemids>
+      <int>220000097</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200156" name="七彩飘仙绫">
+    <itemids>
+      <int>220000098</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200157" name="日照虹霓">
+    <itemids>
+      <int>220000099</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200158" name="春意阑珊">
+    <itemids>
+      <int>220000100</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200159" name="慕雪梨花绫">
+    <itemids>
+      <int>220000101</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200160" name="前世缎丝">
+    <itemids>
+      <int>220000102</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200161" name="止水三丝">
+    <itemids>
+      <int>220000103</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200162" name="清风扇">
+    <itemids>
+      <int>220000104</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200163" name="暮云扇">
+    <itemids>
+      <int>220000105</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200164" name="铁镰扇">
+    <itemids>
+      <int>220000106</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200165" name="悲喜扇">
+    <itemids>
+      <int>220000107</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200166" name="鹰羽扇">
+    <itemids>
+      <int>220000108</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200167" name="阴风扇">
+    <itemids>
+      <int>220000109</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200168" name="芭蕉扇">
+    <itemids>
+      <int>220000110</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200169" name="九曜星芒">
+    <itemids>
+      <int>220000111</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200170" name="凌御风行扇">
+    <itemids>
+      <int>220000112</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200171" name="罗神大焰扇">
+    <itemids>
+      <int>220000113</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200172" name="朱雀血羽">
+    <itemids>
+      <int>220000114</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200173" name="九香扇">
+    <itemids>
+      <int>220000115</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200174" name="七海展图">
+    <itemids>
+      <int>220000116</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200175" name="荆棘鞭">
+    <itemids>
+      <int>220000117</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200176" name="豹尾鞭">
+    <itemids>
+      <int>220000118</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200177" name="赤练鞭">
+    <itemids>
+      <int>220000119</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200178" name="锁心鞭">
+    <itemids>
+      <int>220000120</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200179" name="狼牙鞭">
+    <itemids>
+      <int>220000121</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200180" name="风痕鞭">
+    <itemids>
+      <int>220000122</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200181" name="影牢鞭">
+    <itemids>
+      <int>220000123</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200182" name="碎梦鞭">
+    <itemids>
+      <int>220000124</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200183" name="蚀骨情丝">
+    <itemids>
+      <int>220000125</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200184" name="七星斗魁">
+    <itemids>
+      <int>220000126</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200185" name="冥王化生">
+    <itemids>
+      <int>220000127</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200186" name="七寸游蛇">
+    <itemids>
+      <int>220000128</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200187" name="阴阳丝">
+    <itemids>
+      <int>220000129</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200188" name="紫檀锤">
+    <itemids>
+      <int>220000130</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200189" name="狼齿锤">
+    <itemids>
+      <int>220000131</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200190" name="破骨锤">
+    <itemids>
+      <int>220000132</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200191" name="巨螺锤">
+    <itemids>
+      <int>220000133</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200192" name="暗鳞锤">
+    <itemids>
+      <int>220000134</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200193" name="镇妖锤">
+    <itemids>
+      <int>220000135</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200194" name="破狱锤">
+    <itemids>
+      <int>220000136</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200195" name="撼海锤">
+    <itemids>
+      <int>220000137</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200196" name="雷霆方至">
+    <itemids>
+      <int>220000138</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200197" name="邪王离世">
+    <itemids>
+      <int>220000139</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200198" name="镇古降魔">
+    <itemids>
+      <int>220000140</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200199" name="碎天裂地">
+    <itemids>
+      <int>220000141</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200200" name="山崩锤">
+    <itemids>
+      <int>220000142</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200201" name="竹节杖">
+    <itemids>
+      <int>220000143</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200202" name="鸡毛掸子">
+    <itemids>
+      <int>220000144</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200203" name="木马">
+    <itemids>
+      <int>220000145</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200204" name="棒棒糖">
+    <itemids>
+      <int>220000146</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200205" name="咸鱼">
+    <itemids>
+      <int>220000147</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200206" name="甜筒">
+    <itemids>
+      <int>220000148</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200207" name="拨浪鼓">
+    <itemids>
+      <int>220000149</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200208" name="平底锅">
+    <itemids>
+      <int>220000150</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200209" name="修罗假面">
+    <itemids>
+      <int>220000151</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200210" name="狼牙棒">
+    <itemids>
+      <int>220000152</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200211" name="嗜萝狂兔">
+    <itemids>
+      <int>220000153</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200212" name="幽冥铃铛">
+    <itemids>
+      <int>220000154</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200213" name="秘术傀儡">
+    <itemids>
+      <int>220000155</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200214" name="粗布衣">
+    <itemids>
+      <int>220000156</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200215" name="武勇袍">
+    <itemids>
+      <int>220000157</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200216" name="镶皮甲">
+    <itemids>
+      <int>220000158</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200217" name="精钢铠">
+    <itemids>
+      <int>220000159</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200218" name="金丝软甲">
+    <itemids>
+      <int>220000160</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200219" name="玄铁战甲">
+    <itemids>
+      <int>220000161</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200220" name="流云战袍">
+    <itemids>
+      <int>220000162</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200221" name="破军铠">
+    <itemids>
+      <int>220000163</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200222" name="魔尊铠">
+    <itemids>
+      <int>220000164</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200223" name="龙鳞铠">
+    <itemids>
+      <int>220000165</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200224" name="武神铠">
+    <itemids>
+      <int>220000166</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200225" name="刀锋铠">
+    <itemids>
+      <int>220000167</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200226" name="雷鸣甲">
+    <itemids>
+      <int>220000168</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200227" name="粗布裙">
+    <itemids>
+      <int>220000169</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200228" name="巾帼袍">
+    <itemids>
+      <int>220000170</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200229" name="狐裘袄">
+    <itemids>
+      <int>220000171</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200230" name="流云纱衣">
+    <itemids>
+      <int>220000172</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200231" name="天蚕丝衣">
+    <itemids>
+      <int>220000173</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200232" name="雾隐长裙">
+    <itemids>
+      <int>220000174</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200233" name="霓裳羽衣">
+    <itemids>
+      <int>220000175</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200234" name="婆娑云裳">
+    <itemids>
+      <int>220000176</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200235" name="金蝉仙衣">
+    <itemids>
+      <int>220000177</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200236" name="凤凰羽衣">
+    <itemids>
+      <int>220000178</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200237" name="无暇天衣">
+    <itemids>
+      <int>220000179</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200238" name="飘渺麟衣">
+    <itemids>
+      <int>220000180</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200239" name="落雁裙摆">
+    <itemids>
+      <int>220000181</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200240" name="布帽">
+    <itemids>
+      <int>220000182</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200241" name="武勇帽">
+    <itemids>
+      <int>220000183</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200242" name="油皮帽">
+    <itemids>
+      <int>220000184</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200243" name="熟铁盔">
+    <itemids>
+      <int>220000185</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200244" name="錾金盔">
+    <itemids>
+      <int>220000186</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200245" name="玄铁盔">
+    <itemids>
+      <int>220000187</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200246" name="流云冠">
+    <itemids>
+      <int>220000188</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200247" name="破军盔">
+    <itemids>
+      <int>220000189</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200248" name="魔尊盔">
+    <itemids>
+      <int>220000190</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200249" name="龙鳞盔">
+    <itemids>
+      <int>220000191</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200250" name="武神冠">
+    <itemids>
+      <int>220000192</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200251" name="旭日冠宇">
+    <itemids>
+      <int>220000193</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200252" name="乾坤顶">
+    <itemids>
+      <int>220000194</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200253" name="布巾">
+    <itemids>
+      <int>220000195</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200254" name="巾帼帽">
+    <itemids>
+      <int>220000196</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200255" name="玉钗">
+    <itemids>
+      <int>220000197</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200256" name="珍珠钗">
+    <itemids>
+      <int>220000198</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200257" name="蚕丝帽">
+    <itemids>
+      <int>220000199</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200258" name="雾隐面纱">
+    <itemids>
+      <int>220000200</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200259" name="雪羽帽">
+    <itemids>
+      <int>220000201</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200260" name="彩云丝冠">
+    <itemids>
+      <int>220000202</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200261" name="碧玉仙簪">
+    <itemids>
+      <int>220000203</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200262" name="凤羽冠">
+    <itemids>
+      <int>220000204</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200263" name="天女冠">
+    <itemids>
+      <int>220000205</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200264" name="百鸟朝凤">
+    <itemids>
+      <int>220000206</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200265" name="雀羽凤凰">
+    <itemids>
+      <int>220000207</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200266" name="青布护腕">
+    <itemids>
+      <int>220000208</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200267" name="皮护腕">
+    <itemids>
+      <int>220000209</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200268" name="赤铜护腕">
+    <itemids>
+      <int>220000210</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200269" name="凝霜护腕">
+    <itemids>
+      <int>220000211</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200270" name="阳炎护腕">
+    <itemids>
+      <int>220000212</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200271" name="玄灵护臂">
+    <itemids>
+      <int>220000213</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200272" name="乾元护臂">
+    <itemids>
+      <int>220000214</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200273" name="冲霄护臂">
+    <itemids>
+      <int>220000215</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200274" name="流火护臂">
+    <itemids>
+      <int>220000216</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200275" name="英魂护臂">
+    <itemids>
+      <int>220000217</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200276" name="洪荒护臂">
+    <itemids>
+      <int>220000218</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200277" name="聚魂护手">
+    <itemids>
+      <int>220000219</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200278" name="七曜暗护手">
+    <itemids>
+      <int>220000220</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200279" name="布鞋">
+    <itemids>
+      <int>220000221</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200280" name="牛皮靴">
+    <itemids>
+      <int>220000222</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200281" name="侠客靴">
+    <itemids>
+      <int>220000223</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200282" name="逐日靴">
+    <itemids>
+      <int>220000224</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200283" name="炽焰靴">
+    <itemids>
+      <int>220000225</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200284" name="步云履">
+    <itemids>
+      <int>220000226</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200285" name="凌波履">
+    <itemids>
+      <int>220000227</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200286" name="御风履">
+    <itemids>
+      <int>220000228</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200287" name="乌光神靴">
+    <itemids>
+      <int>220000229</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200288" name="钧天履">
+    <itemids>
+      <int>220000230</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200289" name="踏火风轮">
+    <itemids>
+      <int>220000231</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200290" name="举步千里靴">
+    <itemids>
+      <int>220000232</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200291" name="神行魔足">
+    <itemids>
+      <int>220000233</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200292" name="软皮带">
+    <itemids>
+      <int>220000234</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200293" name="硬皮护腰">
+    <itemids>
+      <int>220000235</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200294" name="镶金腰带">
+    <itemids>
+      <int>220000236</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200295" name="坠玉腰带">
+    <itemids>
+      <int>220000237</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200296" name="火云鳞带">
+    <itemids>
+      <int>220000238</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200297" name="水晶腰带">
+    <itemids>
+      <int>220000239</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200298" name="鲲鹏护腰">
+    <itemids>
+      <int>220000240</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200299" name="七煞护腰">
+    <itemids>
+      <int>220000241</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200300" name="星云护腰">
+    <itemids>
+      <int>220000242</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200301" name="修罗护腰">
+    <itemids>
+      <int>220000243</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200302" name="九幽护腰">
+    <itemids>
+      <int>220000244</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200303" name="刀伤护腰">
+    <itemids>
+      <int>220000245</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+  <mzm.gsp.item.confbean.SSamePriceItemCfg id="210200304" name="威震八方护腰">
+    <itemids>
+      <int>220000246</int>
+    </itemids>
+  </mzm.gsp.item.confbean.SSamePriceItemCfg>
+</data>

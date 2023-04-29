@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.drawcarnival.confbean.SDrawCarnivalPassTypeCfg baseRatePerPass="2000" drawCountPerPass="1" extraRatePerPass="0" freePassCountPerDay="1" freePassLotteryViewCfgId="510705500" freePassResetTime="350299000" passLotteryViewCfgId="510705600" passTypeId="1" useFreePassPointCount="1" usePassPointCount="1" yuanBaoPrice="1000000"/>
+  <mzm.gsp.drawcarnival.confbean.SDrawCarnivalPassTypeCfg baseRatePerPass="2000" drawCountPerPass="2" extraRatePerPass="0" freePassCountPerDay="0" freePassLotteryViewCfgId="510705500" freePassResetTime="350299000" passLotteryViewCfgId="510705600" passTypeId="2" useFreePassPointCount="2" usePassPointCount="2" yuanBaoPrice="2000000"/>
+  <mzm.gsp.drawcarnival.confbean.SDrawCarnivalPassTypeCfg baseRatePerPass="2000" drawCountPerPass="3" extraRatePerPass="0" freePassCountPerDay="0" freePassLotteryViewCfgId="510705500" freePassResetTime="350299000" passLotteryViewCfgId="510705600" passTypeId="3" useFreePassPointCount="3" usePassPointCount="3" yuanBaoPrice="3000000"/>
+</data>

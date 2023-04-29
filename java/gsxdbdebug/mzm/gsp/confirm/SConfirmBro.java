@@ -1,0 +1,111 @@
+/*     */ package mzm.gsp.confirm;
+/*     */ 
+/*     */ import com.goldhuman.Common.Marshal.MarshalException;
+/*     */ import com.goldhuman.Common.Marshal.OctetsStream;
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ public class SConfirmBro
+/*     */   extends __SConfirmBro__
+/*     */ {
+/*     */   public static final int PROTOCOL_TYPE = 12617985;
+/*     */   public int confirmtype;
+/*     */   public long memberid;
+/*     */   public int reply;
+/*     */   
+/*     */   protected void process() {}
+/*     */   
+/*     */   public int getType()
+/*     */   {
+/*  27 */     return 12617985;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public SConfirmBro() {}
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public SConfirmBro(int _confirmtype_, long _memberid_, int _reply_)
+/*     */   {
+/*  38 */     this.confirmtype = _confirmtype_;
+/*  39 */     this.memberid = _memberid_;
+/*  40 */     this.reply = _reply_;
+/*     */   }
+/*     */   
+/*     */   public final boolean _validator_() {
+/*  44 */     return true;
+/*     */   }
+/*     */   
+/*     */   public OctetsStream marshal(OctetsStream _os_) {
+/*  48 */     _os_.marshal(this.confirmtype);
+/*  49 */     _os_.marshal(this.memberid);
+/*  50 */     _os_.marshal(this.reply);
+/*  51 */     return _os_;
+/*     */   }
+/*     */   
+/*     */   public OctetsStream unmarshal(OctetsStream _os_) throws MarshalException {
+/*  55 */     this.confirmtype = _os_.unmarshal_int();
+/*  56 */     this.memberid = _os_.unmarshal_long();
+/*  57 */     this.reply = _os_.unmarshal_int();
+/*  58 */     if (!_validator_()) {
+/*  59 */       throw new VerifyError("validator failed");
+/*     */     }
+/*  61 */     return _os_;
+/*     */   }
+/*     */   
+/*     */   public boolean equals(Object _o1_) {
+/*  65 */     if (_o1_ == this) return true;
+/*  66 */     if ((_o1_ instanceof SConfirmBro)) {
+/*  67 */       SConfirmBro _o_ = (SConfirmBro)_o1_;
+/*  68 */       if (this.confirmtype != _o_.confirmtype) return false;
+/*  69 */       if (this.memberid != _o_.memberid) return false;
+/*  70 */       if (this.reply != _o_.reply) return false;
+/*  71 */       return true;
+/*     */     }
+/*  73 */     return false;
+/*     */   }
+/*     */   
+/*     */   public int hashCode() {
+/*  77 */     int _h_ = 0;
+/*  78 */     _h_ += this.confirmtype;
+/*  79 */     _h_ += (int)this.memberid;
+/*  80 */     _h_ += this.reply;
+/*  81 */     return _h_;
+/*     */   }
+/*     */   
+/*     */   public String toString() {
+/*  85 */     StringBuilder _sb_ = new StringBuilder();
+/*  86 */     _sb_.append("(");
+/*  87 */     _sb_.append(this.confirmtype).append(",");
+/*  88 */     _sb_.append(this.memberid).append(",");
+/*  89 */     _sb_.append(this.reply).append(",");
+/*  90 */     _sb_.append(")");
+/*  91 */     return _sb_.toString();
+/*     */   }
+/*     */   
+/*     */   public int compareTo(SConfirmBro _o_) {
+/*  95 */     if (_o_ == this) return 0;
+/*  96 */     int _c_ = 0;
+/*  97 */     _c_ = this.confirmtype - _o_.confirmtype;
+/*  98 */     if (0 != _c_) return _c_;
+/*  99 */     _c_ = Long.signum(this.memberid - _o_.memberid);
+/* 100 */     if (0 != _c_) return _c_;
+/* 101 */     _c_ = this.reply - _o_.reply;
+/* 102 */     if (0 != _c_) return _c_;
+/* 103 */     return _c_;
+/*     */   }
+/*     */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\confirm\SConfirmBro.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

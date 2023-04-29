@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalSpreadWealthCfg awardPoolYuanBaoCountMin="100000" chestContainMoneyCount="15000" chestCountMax="50" chestCountMin="10" moneyExchangeRate="100" randomTypeCfgId="56010" reduceAwardPoolYuanBaoRate="300" spreadWealthControllerId="701105500"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalSpreadWealthCfg awardPoolYuanBaoCountMin="50000" chestContainMoneyCount="10000" chestCountMax="50" chestCountMin="10" moneyExchangeRate="100" randomTypeCfgId="56020" reduceAwardPoolYuanBaoRate="200" spreadWealthControllerId="701105600"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalSpreadWealthCfg awardPoolYuanBaoCountMin="20000" chestContainMoneyCount="5000" chestCountMax="50" chestCountMin="10" moneyExchangeRate="100" randomTypeCfgId="56030" reduceAwardPoolYuanBaoRate="100" spreadWealthControllerId="701105700"/>
+</data>

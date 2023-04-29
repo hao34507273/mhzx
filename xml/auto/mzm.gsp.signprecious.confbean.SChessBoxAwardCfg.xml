@@ -1,0 +1,70 @@
+<data>
+  <mzm.gsp.signprecious.confbean.SChessBoxAwardCfg arrive_cost_yuan_bao="38" arrive_rate="1500" cell_award_type="2" cell_num="6" gold_precious_cfg_id="510702100" normal_arrive_lucky_rate="10000" yuan_bao_arrive_lucky_rate="0">
+    <lucky_gold_percious_random_map>
+      <no-comparator/>
+      <entry>
+        <int>3333</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="3" cost_yuan_bao="8" lucky_gold_precious_cfg_id="510702200"/>
+      </entry>
+      <entry>
+        <int>6666</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="2" cost_yuan_bao="28" lucky_gold_precious_cfg_id="510702100"/>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="1" cost_yuan_bao="168" lucky_gold_precious_cfg_id="510702000"/>
+      </entry>
+    </lucky_gold_percious_random_map>
+  </mzm.gsp.signprecious.confbean.SChessBoxAwardCfg>
+  <mzm.gsp.signprecious.confbean.SChessBoxAwardCfg arrive_cost_yuan_bao="10" arrive_rate="2500" cell_award_type="3" cell_num="14" gold_precious_cfg_id="510702200" normal_arrive_lucky_rate="10000" yuan_bao_arrive_lucky_rate="0">
+    <lucky_gold_percious_random_map>
+      <no-comparator/>
+      <entry>
+        <int>3333</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="3" cost_yuan_bao="8" lucky_gold_precious_cfg_id="510702200"/>
+      </entry>
+      <entry>
+        <int>6666</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="2" cost_yuan_bao="28" lucky_gold_precious_cfg_id="510702100"/>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="1" cost_yuan_bao="168" lucky_gold_precious_cfg_id="510702000"/>
+      </entry>
+    </lucky_gold_percious_random_map>
+  </mzm.gsp.signprecious.confbean.SChessBoxAwardCfg>
+  <mzm.gsp.signprecious.confbean.SChessBoxAwardCfg arrive_cost_yuan_bao="38" arrive_rate="1500" cell_award_type="2" cell_num="22" gold_precious_cfg_id="510702100" normal_arrive_lucky_rate="10000" yuan_bao_arrive_lucky_rate="0">
+    <lucky_gold_percious_random_map>
+      <no-comparator/>
+      <entry>
+        <int>3333</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="3" cost_yuan_bao="8" lucky_gold_precious_cfg_id="510702200"/>
+      </entry>
+      <entry>
+        <int>6666</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="2" cost_yuan_bao="28" lucky_gold_precious_cfg_id="510702100"/>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="1" cost_yuan_bao="168" lucky_gold_precious_cfg_id="510702000"/>
+      </entry>
+    </lucky_gold_percious_random_map>
+  </mzm.gsp.signprecious.confbean.SChessBoxAwardCfg>
+  <mzm.gsp.signprecious.confbean.SChessBoxAwardCfg arrive_cost_yuan_bao="218" arrive_rate="600" cell_award_type="1" cell_num="30" gold_precious_cfg_id="510702000" normal_arrive_lucky_rate="10000" yuan_bao_arrive_lucky_rate="0">
+    <lucky_gold_percious_random_map>
+      <no-comparator/>
+      <entry>
+        <int>3333</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="3" cost_yuan_bao="8" lucky_gold_precious_cfg_id="510702200"/>
+      </entry>
+      <entry>
+        <int>6666</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="2" cost_yuan_bao="28" lucky_gold_precious_cfg_id="510702100"/>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <mzm.gsp.signprecious.confbean.LuckyGoldPerciousBean box_award_type="1" cost_yuan_bao="168" lucky_gold_precious_cfg_id="510702000"/>
+      </entry>
+    </lucky_gold_percious_random_map>
+  </mzm.gsp.signprecious.confbean.SChessBoxAwardCfg>
+</data>

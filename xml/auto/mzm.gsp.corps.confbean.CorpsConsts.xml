@@ -1,0 +1,28 @@
+<root>
+<row name="NPC_ID" value="150114106"/>
+<row name="SERVICE_ID" value="150210606"/>
+<row name="OPEN_CORPS_SERVICE_ID" value="150210607"/>
+<row name="CAPACITY" value="8"/>
+<row name="SAFE_CAPACITY" value="10"/>
+<row name="MIN_GUY_NUM" value="2"/>
+<row name="MIN_LEVEL" value="70"/>
+<row name="CORPS_NAME_MAX_LENGTH" value="7"/>
+<row name="CORPS_NAME_MIN_LENGTH" value="1"/>
+<row name="CORPS_DECLARATION_MAX_LENGTH" value="50"/>
+<row name="CORPS_DECLARATION_MIN_LENGTH" value="1"/>
+<row name="CREATE_CORPS_COST_GOLD_NUM" value="100000"/>
+<row name="CORPS_APPELLATION_ID" value="490193015"/>
+<row name="INVITE_INTERVAL" value="30"/>
+<row name="CREATE_CONFIRM_INTERVAL" value="30"/>
+<row name="HISTORY_MAX" value="50"/>
+<row name="RENAME_CORPS_COST_GOLD_NUM" value="50000"/>
+<row name="REPLACE_BADGE_COST_GOLD_NUM" value="50000"/>
+<row name="CREATE_MAIL_ID" value="340009085"/>
+<row name="NEW_JOIN_TO_ORG_MEMBER_MAIL_ID" value="340009086"/>
+<row name="NEW_JOIN_TO_NEW_MEMBER_MAIL_ID" value="340009087"/>
+<row name="CHANGE_LEADER_TO_MEMBER_MAIL_ID" value="340009088"/>
+<row name="CHANGE_LEADER_TO_NEW_LEADER_MAIL_ID" value="340009089"/>
+<row name="FIRE_TO_MEMBER_MAIL_ID" value="340009090"/>
+<row name="FIRE_TO_ACCUSED_MAIL_ID" value="340009091"/>
+<row name="ACTIVE_LEAVE_TO_MEMBERS_MAIL_ID" value="340009100"/>
+</root>

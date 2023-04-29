@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="5" id="351200000" lowTeamAverageLevel="-5" modifyValueTableId="501402000" templatename="生肖正常差"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="15" id="351200001" lowTeamAverageLevel="6" modifyValueTableId="501402001" templatename="生肖人高6到15级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="-6" id="351200002" lowTeamAverageLevel="-15" modifyValueTableId="501402002" templatename="生肖人低6到15级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="30" id="351200003" lowTeamAverageLevel="16" modifyValueTableId="501402003" templatename="生肖人高16到30级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="-16" id="351200004" lowTeamAverageLevel="-30" modifyValueTableId="501402004" templatename="生肖人低16到30级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="50" id="351200005" lowTeamAverageLevel="31" modifyValueTableId="501402005" templatename="生肖人高31到50级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="-31" id="351200006" lowTeamAverageLevel="-50" modifyValueTableId="501402006" templatename="生肖人低31到50级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="150" id="351200007" lowTeamAverageLevel="51" modifyValueTableId="501402007" templatename="生肖人高50级以上"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SShengXiaoFightRewardModify highTeamAverageLevel="-51" id="351200008" lowTeamAverageLevel="-150" modifyValueTableId="501402008" templatename="生肖人低50级以上"/>
+</data>

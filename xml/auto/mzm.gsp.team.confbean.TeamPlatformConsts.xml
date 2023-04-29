@@ -1,0 +1,25 @@
+<root>
+<row name="SLECET_NEW__LEVEL" value="40"/>
+<row name="SLECET_NEW__CHANGE_LEVEL" value="0"/>
+<row name="TEAM_SHOW__NUM" value="5"/>
+<row name="LEVEL_LITTLE_FLOOR" value="-5"/>
+<row name="LEVEL_LITTLE_TOP" value="5"/>
+<row name="LEVEL_BIG_FLOOR" value="-10"/>
+<row name="LEVEL_BIG_TOP" value="10"/>
+<row name="ACTIV_COUNT" value="1"/>
+<row name="IGNORE_OCCUPATION_SEC" value="10"/>
+<row name="EXPAND_LEVEL_SEC" value="10"/>
+<row name="HINT_BE_LEADER_SEC" value="30"/>
+<row name="HINT_ROLE_REIN_SEC" value="300"/>
+<row name="HINT_LEADER_REIN_SEC" value="300"/>
+<row name="MSG_IN_SEC" value="10"/>
+<row name="LET_GO_SEC" value="600"/>
+<row name="BE_NORMAL_SEC" value="60"/>
+<row name="NEW_GUY_SERVER_LEVEL_LOW" value="5"/>
+<row name="ZHEN_YAO_MATCH_ID" value="341900000"/>
+<row name="MATCH_INTERVAL" value="3"/>
+<row name="NEW_GUY_LEVEL__DIFF" value="10"/>
+<row name="BRO_2_ALL__BAN_INTERVAL" value="30"/>
+<row name="EASY_BRO_TIME_INTERVAL" value="30"/>
+<row name="EASY_BRO_VIGOUR_COST" value="10"/>
+</root>

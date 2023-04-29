@@ -1,0 +1,21 @@
+<root>
+<row name="ACTIVITY_ID" value="350000425"/>
+<row name="NPCID" value="150113601"/>
+<row name="NPC_SERVICE" value="150210020"/>
+<row name="PREPARE_MAP_ID" value="330000902"/>
+<row name="MAP_ID" value="330000925"/>
+<row name="PREPARE_MINUTES" value="10"/>
+<row name="EXP_RAIN_AWARD_ID" value="6800"/>
+<row name="EXP_RAIN_INTERVAL_SECONDS" value="90"/>
+<row name="DOUDOU_STAY_MINUTES" value="4"/>
+<row name="DOUDOU_DELETE_MINUTES" value="1"/>
+<row name="KILL_POINT" value="100"/>
+<row name="KILL_AWARD_ID" value="0"/>
+<row name="CUT_POINT" value="100"/>
+<row name="MIN_DELETE_NUM" value="3"/>
+<row name="TOTAL_TURNS" value="8"/>
+<row name="MONSTER_COUNT_EVERY_TURN" value="25"/>
+<row name="DOUDOU_CAPACITY" value="64"/>
+<row name="NPC_CONTROLLER" value="701108005"/>
+<row name="EXIT_MAP_ID" value="330000001"/>
+</root>

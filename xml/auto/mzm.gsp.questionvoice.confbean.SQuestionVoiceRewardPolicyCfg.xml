@@ -1,0 +1,20 @@
+<data>
+  <mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyCfg groupId="1" policyType="1">
+    <id2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>954200000</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyBean awardId="3204" awardType="1" id="954200000" param_1="0" param_2="0" param_3="0" param_4="0" param_5="0"/>
+      </entry>
+    </id2CfgMap>
+  </mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyCfg>
+  <mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyCfg groupId="2" policyType="2">
+    <id2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>954200001</int>
+        <mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyBean awardId="3205" awardType="1" id="954200001" param_1="0" param_2="0" param_3="0" param_4="0" param_5="0"/>
+      </entry>
+    </id2CfgMap>
+  </mzm.gsp.questionvoice.confbean.SQuestionVoiceRewardPolicyCfg>
+</data>

@@ -1,0 +1,50 @@
+<data>
+  <mzm.gsp.homeland.confbean.SHomelandStyleCfg id="841000000">
+    <furnitureNum2point>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="5" point="10"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="10" point="20"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="15" point="30"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="20" point="40"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="25" point="50"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="30" point="60"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="35" point="70"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="100" point="80"/>
+    </furnitureNum2point>
+  </mzm.gsp.homeland.confbean.SHomelandStyleCfg>
+  <mzm.gsp.homeland.confbean.SHomelandStyleCfg id="841000001">
+    <furnitureNum2point>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="3" point="10"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="5" point="20"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="8" point="30"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="12" point="40"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="50" point="50"/>
+    </furnitureNum2point>
+  </mzm.gsp.homeland.confbean.SHomelandStyleCfg>
+  <mzm.gsp.homeland.confbean.SHomelandStyleCfg id="841000002">
+    <furnitureNum2point>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="3" point="10"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="5" point="20"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="8" point="30"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="12" point="40"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="50" point="50"/>
+    </furnitureNum2point>
+  </mzm.gsp.homeland.confbean.SHomelandStyleCfg>
+  <mzm.gsp.homeland.confbean.SHomelandStyleCfg id="841000003">
+    <furnitureNum2point>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="3" point="10"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="5" point="20"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="8" point="30"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="12" point="40"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="50" point="50"/>
+    </furnitureNum2point>
+  </mzm.gsp.homeland.confbean.SHomelandStyleCfg>
+  <mzm.gsp.homeland.confbean.SHomelandStyleCfg id="841000004">
+    <furnitureNum2point>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="3" point="10"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="5" point="20"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="8" point="30"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="12" point="40"/>
+      <mzm.gsp.homeland.confbean.FurnitureNum2Point num="50" point="50"/>
+    </furnitureNum2point>
+  </mzm.gsp.homeland.confbean.SHomelandStyleCfg>
+</data>

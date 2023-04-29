@@ -1,0 +1,62 @@
+<data>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350000434" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="大樹" activity_type="1" add_point_max_times="3" desc="您施肥了一次，小樹長得更茂盛了" id="294700000" moduleid="233" name="植树节" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="1" section_modle_id="40953" section_name="樹苗" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609925">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="長蟲"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350000434" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="大樹" activity_type="1" add_point_max_times="3" desc="您施肥了一次，小樹長得更茂盛了" id="294700001" moduleid="233" name="植树节" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="2" section_modle_id="40953" section_name="樹苗" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609925">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="長蟲"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350000434" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="大樹" activity_type="1" add_point_max_times="3" desc="您施肥了一次，小樹長得更茂盛了" id="294700002" moduleid="233" name="植树节" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="3" section_modle_id="40954" section_name="小樹" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609925">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="長蟲"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350000434" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="大樹" activity_type="1" add_point_max_times="3" desc="您施肥了一次，小樹長得更茂盛了" id="294700003" moduleid="233" name="植树节" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="4" section_modle_id="40954" section_name="小樹" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609925">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="長蟲"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350000434" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="大樹" activity_type="1" add_point_max_times="3" desc="您施肥了一次，小樹長得更茂盛了" id="294700004" moduleid="233" name="植树节" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="5" section_modle_id="40954" section_name="小樹" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609925">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="長蟲"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350008199" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="月餅" activity_type="1" add_point_max_times="3" desc="您烘焙了一次，月餅距離完成又近了一步" id="294700100" moduleid="319" name="半年庆" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="1" section_modle_id="90040" section_name="月餅" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609935">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="缺面"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350008199" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="月餅" activity_type="1" add_point_max_times="3" desc="您烘焙了一次，月餅距離完成又近了一步" id="294700101" moduleid="319" name="半年庆" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="2" section_modle_id="90040" section_name="月餅" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609935">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="缺面"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350008199" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="月餅" activity_type="1" add_point_max_times="3" desc="您烘焙了一次，月餅距離完成又近了一步" id="294700102" moduleid="319" name="半年庆" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="3" section_modle_id="90039" section_name="月餅" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609935">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="缺面"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350008199" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="月餅" activity_type="1" add_point_max_times="3" desc="您烘焙了一次，月餅距離完成又近了一步" id="294700103" moduleid="319" name="半年庆" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="4" section_modle_id="90039" section_name="月餅" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609935">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="缺面"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+  <mzm.gsp.planttree.confbean.PlantTreeCfgOriginal activity_cfg_id="350008199" activity_complete_award_id="7301" activity_complete_modle_id="90038" activity_complete_name="月餅" activity_type="1" add_point_max_times="3" desc="您烘焙了一次，月餅距離完成又近了一步" id="294700104" moduleid="319" name="半年庆" online_reward_max_point="30" online_unit_interval="300" remove_special_state_award_max_times="5" remove_special_state_awardid="7302" section_complete_award_id="7300" section_id="5" section_modle_id="90039" section_name="月餅" section_num="5" section_total_point="30" special_state_refresh_interval="30" tips_content_id="701609935">
+    <special_state_infos>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="1" special_state_name="缺水"/>
+      <mzm.gsp.planttree.confbean.SpecialStateInfo special_state_index="2" special_state_name="缺面"/>
+    </special_state_infos>
+  </mzm.gsp.planttree.confbean.PlantTreeCfgOriginal>
+</data>

@@ -1,0 +1,27 @@
+<root>
+<row name="RECALL_MIN_OffLINE_TIME" value="7"/>
+<row name="RECALL_MIN_ROLE_LEVEL" value="70"/>
+<row name="PERIOD_TIME" value="7"/>
+<row name="RECALL_PERIOD_TIME" value="7"/>
+<row name="ONE_PERIOD_BE_RECALL_TIMES" value="2"/>
+<row name="MAX_RECALL_TIMES_EVERY_DAY" value="5"/>
+<row name="BIG_GIFT_RECALL_AWARD_ID" value="3820"/>
+<row name="RECALL_FRIEND_DESCRIPTION" value="701609919"/>
+<row name="RECALL_FRIEND_BACK_NOTIFY_MAIL_ID" value="340008200"/>
+<row name="RECALL_FRIEND_BIG_GIFT_COMPENSATE_MAIL_ID" value="340008201"/>
+<row name="RECALL_FRIEND_FIX_AWARD_ID" value="300"/>
+<row name="BACK_BIND_FRIEND_NOTIFY_MAIL_CFG_ID" value="340008202"/>
+<row name="RECALL_BIND_FRIEND_NOTIFY_MAIL_CFG_ID" value="340008203"/>
+<row name="BIND_VITALITY" value="60"/>
+<row name="BIND_PERIOD_IN_HOUR" value="24"/>
+<row name="BIND_FRIEND_NUM" value="3"/>
+<row name="REBATE_PERIOD" value="30"/>
+<row name="YUAN_BAO_POLL_MAX" value="10000"/>
+<row name="YUAN_BAO_DRAW" value="200"/>
+<row name="YUAN_BAO_MIN_LEVEL" value="70"/>
+<row name="RECHARGE_REBATE_PERCENT" value="5"/>
+<row name="BE_BIND_FRIEND_NUM" value="3"/>
+<row name="BINDED_MAX_NUM" value="2"/>
+<row name="RECHARGE_REBATE_MAX" value="1000"/>
+<row name="BIND_FRIEND_AWARD_CFG_ID" value="8355"/>
+</root>

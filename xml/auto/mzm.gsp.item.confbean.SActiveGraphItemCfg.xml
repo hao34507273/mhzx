@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.item.confbean.SActiveGraphItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" dayUseCount="0" globalActiveCount="1" graphId="20000075" icon="1" id="216700000" isProprietary="true" limitDayUseCount="false" limitGlobalActiveCount="true" name="測試道具" namecolor="5" pilemax="1" sellSilver="1" sort="1" type="116" useLevel="30" useType="1"/>
+  <mzm.gsp.item.confbean.SActiveGraphItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" dayUseCount="2" globalActiveCount="1" graphId="50000041" icon="1" id="216700001" isProprietary="true" limitDayUseCount="true" limitGlobalActiveCount="true" name="測試道具" namecolor="5" pilemax="1" sellSilver="1" sort="1" type="116" useLevel="30" useType="1"/>
+  <mzm.gsp.item.confbean.SActiveGraphItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" dayUseCount="1" globalActiveCount="5" graphId="50000029" icon="1" id="216700002" isProprietary="true" limitDayUseCount="true" limitGlobalActiveCount="true" name="測試道具2" namecolor="5" pilemax="1" sellSilver="1" sort="1" type="116" useLevel="30" useType="1"/>
+</data>

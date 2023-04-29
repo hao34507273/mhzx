@@ -1,0 +1,58 @@
+<data>
+  <mzm.gsp.homeland.confbean.STBRankCalCfg deshesLibId="1" dishesController="701109000" rank="1" scoreHigh="150" scoreLow="0">
+    <mapItemCfgIds>
+      <int>320007001</int>
+      <int>320007000</int>
+      <int>320007003</int>
+      <int>320007002</int>
+    </mapItemCfgIds>
+    <controllerIds>
+      <int>701109000</int>
+      <int>701109001</int>
+      <int>701109002</int>
+      <int>701109003</int>
+    </controllerIds>
+  </mzm.gsp.homeland.confbean.STBRankCalCfg>
+  <mzm.gsp.homeland.confbean.STBRankCalCfg deshesLibId="2" dishesController="701109001" rank="2" scoreHigh="250" scoreLow="151">
+    <mapItemCfgIds>
+      <int>320007005</int>
+      <int>320007004</int>
+      <int>320007007</int>
+      <int>320007006</int>
+    </mapItemCfgIds>
+    <controllerIds>
+      <int>701109004</int>
+      <int>701109005</int>
+      <int>701109006</int>
+      <int>701109007</int>
+    </controllerIds>
+  </mzm.gsp.homeland.confbean.STBRankCalCfg>
+  <mzm.gsp.homeland.confbean.STBRankCalCfg deshesLibId="3" dishesController="701109002" rank="3" scoreHigh="350" scoreLow="251">
+    <mapItemCfgIds>
+      <int>320007010</int>
+      <int>320007011</int>
+      <int>320007008</int>
+      <int>320007009</int>
+    </mapItemCfgIds>
+    <controllerIds>
+      <int>701109009</int>
+      <int>701109008</int>
+      <int>701109011</int>
+      <int>701109010</int>
+    </controllerIds>
+  </mzm.gsp.homeland.confbean.STBRankCalCfg>
+  <mzm.gsp.homeland.confbean.STBRankCalCfg deshesLibId="4" dishesController="701109003" rank="4" scoreHigh="9999" scoreLow="351">
+    <mapItemCfgIds>
+      <int>320007014</int>
+      <int>320007015</int>
+      <int>320007012</int>
+      <int>320007013</int>
+    </mapItemCfgIds>
+    <controllerIds>
+      <int>701109013</int>
+      <int>701109012</int>
+      <int>701109015</int>
+      <int>701109014</int>
+    </controllerIds>
+  </mzm.gsp.homeland.confbean.STBRankCalCfg>
+</data>

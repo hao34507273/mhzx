@@ -1,0 +1,42 @@
+<data>
+  <mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal courdyard_aesthetics_degree="0" id="298500000">
+    <probability_infos>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700000" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700001" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700002" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700003" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298800000" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298900000" probability="2000"/>
+    </probability_infos>
+  </mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal>
+  <mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal courdyard_aesthetics_degree="150" id="298500001">
+    <probability_infos>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700000" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700001" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700002" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700003" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298800000" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298900000" probability="2000"/>
+    </probability_infos>
+  </mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal>
+  <mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal courdyard_aesthetics_degree="200" id="298500002">
+    <probability_infos>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700000" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700001" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700002" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700003" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298800000" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298900000" probability="2000"/>
+    </probability_infos>
+  </mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal>
+  <mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal courdyard_aesthetics_degree="300" id="298500003">
+    <probability_infos>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700000" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700001" probability="1000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700002" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298700003" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298800000" probability="2000"/>
+      <mzm.gsp.homeland.confbean.ProbabilityInfo mystery_visitor_cfg_id="298900000" probability="2000"/>
+    </probability_infos>
+  </mzm.gsp.homeland.confbean.MysteryVisitorProbabilityCfgOriginal>
+</data>

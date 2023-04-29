@@ -1,0 +1,19 @@
+<root>
+<row name="CONTENT_MAX_LEN" value="30"/>
+<row name="RELEASE_INTERVAL" value="180"/>
+<row name="REFRESH_INTERVAL" value="5"/>
+<row name="PAGE_SIZE" value="4"/>
+<row name="VALID_MAX_TIME" value="720"/>
+<row name="ALL_SUB_TYPE_ID" value="103100000"/>
+<row name="DESIRE_MASTER_SUB_TYPE_ID" value="103100002"/>
+<row name="CONTENT_MIN_LEN" value="2"/>
+<row name="OPEN_LEVEL" value="25"/>
+<row name="DEFAULT_HEAD_IMAGE" value="102300006"/>
+<row name="MALE_ICON_ID" value="Img_Boy"/>
+<row name="FEMALE_ICON_ID" value="Img_Girl"/>
+<row name="UNKNOWN_GENDER_ICON_ID" value="Img_NoSex"/>
+<row name="SEARCH_QUEUE_SIZE" value="200"/>
+<row name="ROLE_LEVEL_INTERVAL" value="10"/>
+<row name="ACTIVE_ROLE_MAX" value="10000"/>
+<row name="SEARCH_CACHE_SIZE" value="100"/>
+</root>

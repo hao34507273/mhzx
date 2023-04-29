@@ -1,0 +1,3 @@
+<data>
+  <mzm.gsp.activity3.confbean.SChessGameCfg chessBoardMaxColumn="6" chessBoardMaxRow="6" chessBoardType="1" chessPieceType="1" drawRoundCount="20" durationAfterMove="1.5" durationAfterMoveAttack="3" durationAfterTurnAttack="4.5" durationAfterTurnBeAttacked="3.5" id="952800000" maxRoundCount="100" noOperateLoseRoundCount="5" roundTimeLimit="15" surrenderRoundCount="10"/>
+</data>

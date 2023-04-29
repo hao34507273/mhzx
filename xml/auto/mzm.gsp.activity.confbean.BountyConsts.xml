@@ -1,0 +1,24 @@
+<root>
+<row name="ACTIVITYID" value="350000003"/>
+<row name="NPC_ID" value="150111157"/>
+<row name="TASK_GRAPH_ID_1" value="20000044"/>
+<row name="TASK_GRAPH_ID_2" value="20000045"/>
+<row name="TASK_GRAPH_ID_3" value="20000046"/>
+<row name="TASK_GRAPH_ID_4" value="20000047"/>
+<row name="GUIDE_GRAPH_ID" value="30000027"/>
+<row name="DAY_UPPER_LIMIT" value="5"/>
+<row name="FLUSH_ITEM_ID" value="210100052"/>
+<row name="STORE_EXCHANGE_RATE" value="5000"/>
+<row name="BASE_AWARD_ID" value="2300"/>
+<row name="ONE_AWARD_ID" value="2300"/>
+<row name="TWO_AWARD_ID" value="2301"/>
+<row name="THREE_AWARD_ID" value="2302"/>
+<row name="FOUR_AWARD_ID" value="2303"/>
+<row name="FIVE_AWARD_ID" value="2306"/>
+<row name="REFRESH_ITEM_MAX" value="60"/>
+<row name="FREE_COUNT_MAX" value="20"/>
+<row name="FRIST_REFRESH_ITEM_MAX" value="6"/>
+<row name="FRIST_FREE_COUNT_MAX" value="2"/>
+<row name="FRIST_BAO_DI_COUNT" value="2"/>
+<row name="PROBABILITY_TIP_ID" value="701609938"/>
+</root>

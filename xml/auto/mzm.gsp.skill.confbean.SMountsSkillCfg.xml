@@ -1,0 +1,51 @@
+<data>
+  <mzm.gsp.skill.confbean.SMountsSkillCfg mountsSkillClassid="1">
+    <mountsSkillMap>
+      <no-comparator/>
+      <entry>
+        <int>110021002</int>
+        <int>500</int>
+      </entry>
+    </mountsSkillMap>
+  </mzm.gsp.skill.confbean.SMountsSkillCfg>
+  <mzm.gsp.skill.confbean.SMountsSkillCfg mountsSkillClassid="2">
+    <mountsSkillMap>
+      <no-comparator/>
+      <entry>
+        <int>110021003</int>
+        <int>500</int>
+      </entry>
+    </mountsSkillMap>
+  </mzm.gsp.skill.confbean.SMountsSkillCfg>
+  <mzm.gsp.skill.confbean.SMountsSkillCfg mountsSkillClassid="3">
+    <mountsSkillMap>
+      <no-comparator/>
+      <entry>
+        <int>110021000</int>
+        <int>500</int>
+      </entry>
+    </mountsSkillMap>
+  </mzm.gsp.skill.confbean.SMountsSkillCfg>
+  <mzm.gsp.skill.confbean.SMountsSkillCfg mountsSkillClassid="4">
+    <mountsSkillMap>
+      <no-comparator/>
+      <entry>
+        <int>110021004</int>
+        <int>500</int>
+      </entry>
+    </mountsSkillMap>
+  </mzm.gsp.skill.confbean.SMountsSkillCfg>
+  <mzm.gsp.skill.confbean.SMountsSkillCfg mountsSkillClassid="5">
+    <mountsSkillMap>
+      <no-comparator/>
+      <entry>
+        <int>110021004</int>
+        <int>500</int>
+      </entry>
+      <entry>
+        <int>110021001</int>
+        <int>500</int>
+      </entry>
+    </mountsSkillMap>
+  </mzm.gsp.skill.confbean.SMountsSkillCfg>
+</data>

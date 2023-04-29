@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.friend.confbean.SFriendValueLimitCfg dayLimit="50" totalLimit="9999" valueFrom="1"/>
+  <mzm.gsp.friend.confbean.SFriendValueLimitCfg dayLimit="0" totalLimit="9999" valueFrom="2"/>
+  <mzm.gsp.friend.confbean.SFriendValueLimitCfg dayLimit="0" totalLimit="9999" valueFrom="3"/>
+  <mzm.gsp.friend.confbean.SFriendValueLimitCfg dayLimit="0" totalLimit="0" valueFrom="4"/>
+</data>

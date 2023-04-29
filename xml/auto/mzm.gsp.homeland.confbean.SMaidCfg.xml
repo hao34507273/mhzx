@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.homeland.confbean.SMaidCfg addCleanliness="15" cleanMoneyNum="10000" cleanMoneyType="3" id="840600000" maidName="年長老僕" maidNpc="150113001" moneyNum="100000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SMaidCfg addCleanliness="40" cleanMoneyNum="10000" cleanMoneyType="3" id="840600001" maidName="少年僕人" maidNpc="150113002" moneyNum="100000" moneyType="2"/>
+  <mzm.gsp.homeland.confbean.SMaidCfg addCleanliness="75" cleanMoneyNum="10000" cleanMoneyType="3" id="840600002" maidName="魔法女僕" maidNpc="150113003" moneyNum="1000" moneyType="1"/>
+</data>

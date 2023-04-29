@@ -1,0 +1,518 @@
+<data>
+<!-- 超星妖兽 -->
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350000426" id="292000000" monster_kill_award_id="6700" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>117</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 天罡地煞 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350000443" id="292000001" monster_kill_award_id="6710" monster_kill_award_num="5" monster_type="2" next_controller_need_kill_num="50">
+    <monster_category_id_list>
+      <int>83210</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108024" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108024" triggerMonsterId="83217"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350000443" id="292000002" monster_kill_award_id="6711" monster_kill_award_num="5" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83217</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 南风贤者 --> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099900" id="292000003" monster_kill_award_id="6712" monster_kill_award_num="1" monster_type="4" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83220</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 寒潭章鱼 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099901" id="292000004" monster_kill_award_id="6713" monster_kill_award_num="5" monster_type="5" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83221</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 生命之神 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099902" id="292000005" monster_kill_award_id="6714" monster_kill_award_num="9999" monster_type="6" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83222</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 寒冰剑 --> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099903" id="292000001" monster_kill_award_id="6715" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83223</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108041" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108041" triggerMonsterId="83250"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099903" id="292000002" monster_kill_award_id="6750" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83250</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108042" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108042" triggerMonsterId="83251"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099903" id="292000003" monster_kill_award_id="6751" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83251</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+
+<!-- 墨雪剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099904" id="292000001" monster_kill_award_id="6716" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83224</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108043" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108043" triggerMonsterId="83252"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099904" id="292000002" monster_kill_award_id="6752" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83252</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108044" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108044" triggerMonsterId="83253"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099904" id="292000003" monster_kill_award_id="6753" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83253</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+<!-- 吴钩剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099905" id="292000001" monster_kill_award_id="6717" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83225</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108045" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108045" triggerMonsterId="83254"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099905" id="292000002" monster_kill_award_id="6754" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83254</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108046" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108046" triggerMonsterId="83255"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099905" id="292000003" monster_kill_award_id="6755" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83255</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+<!-- 天琊剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099906" id="292000001" monster_kill_award_id="6718" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83226</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108047" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108047" triggerMonsterId="83256"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099906" id="292000002" monster_kill_award_id="6756" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83256</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108048" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108048" triggerMonsterId="83257"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099906" id="292000003" monster_kill_award_id="6757" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83257</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+<!-- 赤炎剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099907" id="292000001" monster_kill_award_id="6719" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83227</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108049" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108049" triggerMonsterId="83258"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099907" id="292000002" monster_kill_award_id="6758" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83258</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108050" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108050" triggerMonsterId="83259"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099907" id="292000003" monster_kill_award_id="6759" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83259</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+<!-- 斩龙剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099908" id="292000001" monster_kill_award_id="6720" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83228</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108051" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108051" triggerMonsterId="83260"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099908" id="292000002" monster_kill_award_id="6760" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83260</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108052" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108052" triggerMonsterId="83261"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099908" id="292000003" monster_kill_award_id="6761" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83261</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+<!-- 轩辕剑 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099909" id="292000001" monster_kill_award_id="6721" monster_kill_award_num="5" monster_type="1" next_controller_need_kill_num="5">
+    <monster_category_id_list>
+      <int>83229</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108053" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108053" triggerMonsterId="83262"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099909" id="292000002" monster_kill_award_id="6762" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83262</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108054" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108054" triggerMonsterId="83263"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099909" id="292000003" monster_kill_award_id="6763" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83263</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 美猴王（真） -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099910" id="292000013" monster_kill_award_id="6722" monster_kill_award_num="999" monster_type="13" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83230</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 美猴王（假） -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099911" id="292000014" monster_kill_award_id="6723" monster_kill_award_num="999" monster_type="14" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83231</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 七宗罪 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099912" id="292000015" monster_kill_award_id="6724" monster_kill_award_num="7" monster_type="15" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83232</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 五行卫 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099913" id="292000016" monster_kill_award_id="6725" monster_kill_award_num="10" monster_type="16" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83233</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  
+<!-- 万兽妖谷 -->  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000017" monster_kill_award_id="6726" monster_kill_award_num="3" monster_type="1" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83234</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83235"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000018" monster_kill_award_id="6727" monster_kill_award_num="3" monster_type="2" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83235</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83236"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000019" monster_kill_award_id="6728" monster_kill_award_num="3" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83236</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83237"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000020" monster_kill_award_id="6729" monster_kill_award_num="3" monster_type="4" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83237</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83238"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000021" monster_kill_award_id="6730" monster_kill_award_num="3" monster_type="5" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83238</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83239"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>   
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000022" monster_kill_award_id="6731" monster_kill_award_num="3" monster_type="6" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83239</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108039" triggerMonsterId="83240"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099914" id="292000023" monster_kill_award_id="6732" monster_kill_award_num="3" monster_type="7" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83240</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+
+<!-- 九霄玲珑塔 -->
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000024" monster_kill_award_id="6733" monster_kill_award_num="1" monster_type="1" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83241</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83242"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000025" monster_kill_award_id="6734" monster_kill_award_num="1" monster_type="2" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83242</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83243"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000026" monster_kill_award_id="6735" monster_kill_award_num="1" monster_type="3" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83243</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83244"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000027" monster_kill_award_id="6736" monster_kill_award_num="1" monster_type="4" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83244</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83245"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>    
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000028" monster_kill_award_id="6737" monster_kill_award_num="1" monster_type="5" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83245</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83246"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>   
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000029" monster_kill_award_id="6738" monster_kill_award_num="1" monster_type="6" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83246</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83247"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000030" monster_kill_award_id="6739" monster_kill_award_num="1" monster_type="7" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83247</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83248"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000031" monster_kill_award_id="6740" monster_kill_award_num="1" monster_type="8" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83248</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108040" triggerMonsterId="83249"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099915" id="292000032" monster_kill_award_id="6741" monster_kill_award_num="1" monster_type="9" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83249</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>   
+<!-- 四凶兽、魔王、魔后 --> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099916" id="292000001" monster_kill_award_id="6771" monster_kill_award_num="16" monster_type="1" next_controller_need_kill_num="4">
+    <monster_category_id_list>
+      <int>83271</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108056" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108056" triggerMonsterId="83272"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099916" id="292000002" monster_kill_award_id="6772" monster_kill_award_num="3" monster_type="2" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83272</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108057" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108057" triggerMonsterId="83273"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>  
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099916" id="292000003" monster_kill_award_id="6773" monster_kill_award_num="3" monster_type="3" next_controller_need_kill_num="1">
+    <monster_category_id_list>
+      <int>83273</int>
+    </monster_category_id_list>
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108058" refreshSeconds="-1"/>
+    </controller_id_list>
+    <controller_trigger_monster_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Monster controllerId="701108058" triggerMonsterId="83274"/>
+    </controller_trigger_monster_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg activity_cfg_id="350099916" id="292000004" monster_kill_award_id="6774" monster_kill_award_num="3" monster_type="4" next_controller_need_kill_num="-1">
+    <monster_category_id_list>
+      <int>83274</int>
+    </monster_category_id_list>
+    <controller_id_list/>
+    <controller_trigger_monster_id_list/>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterKillMonsterTriggerOriginalCfg>
+</data>

@@ -1,0 +1,110 @@
+<data>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400000" levelId="190000000" stepId="1">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400001" levelId="190000000" stepId="2">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400002" levelId="190000000" stepId="3">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400003" levelId="190000000" stepId="4">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400004" levelId="190000001" stepId="1">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400005" levelId="190000001" stepId="2">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400006" levelId="190000001" stepId="3">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400007" levelId="190000001" stepId="4">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400008" levelId="190000002" stepId="1">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400009" levelId="190000002" stepId="2">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400010" levelId="190000002" stepId="3">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+  <mzm.gsp.marriage.confbean.SWeddingPlayCfg id="190400011" levelId="190000002" stepId="4">
+    <actionlist>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="2000" unitStartTime="0"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="4000" unitStartTime="2000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="8000" unitStartTime="4000"/>
+      <mzm.gsp.marriage.confbean.WeddingActionTime unitEndTime="12000" unitStartTime="8000"/>
+    </actionlist>
+  </mzm.gsp.marriage.confbean.SWeddingPlayCfg>
+</data>

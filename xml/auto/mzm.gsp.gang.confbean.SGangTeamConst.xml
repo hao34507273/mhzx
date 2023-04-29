@@ -1,0 +1,14 @@
+<root>
+<row name="GangTeamInviteSeconds" value="30"/>
+<row name="GangTeamBuffid" value="701203140"/>
+<row name="GangTeamBuffNeedNumber" value="2"/>
+<row name="GangTeamNameLength" value="8"/>
+<row name="JoinTeamMailToOthers" value="340010000"/>
+<row name="JoinTeamMailToSelf" value="340010001"/>
+<row name="ChangeTeamLeaderMail" value="340010002"/>
+<row name="ChangeTeamLeaderByLeaveTeamMail" value="340010003"/>
+<row name="LeaveTeamMail" value="340010004"/>
+<row name="KickedByTeamLeaderMail" value="340010005"/>
+<row name="LeaveTeamByLeaveGangMail" value="340010006"/>
+<row name="CreateCoolDownMinutes" value="10"/>
+</root>

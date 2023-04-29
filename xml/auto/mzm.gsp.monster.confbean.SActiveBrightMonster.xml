@@ -1,0 +1,3 @@
+<data>
+  <mzm.gsp.monster.confbean.SActiveBrightMonster attackRadius="100" attackTimeInterval="10" controllerId="701100000" enterFightLevelType="3" enterFightMaxLevel="1" enterFightMaxRoleNum="1" enterFightMinLevel="1" enterFightMinRoleNum="1" id="300100000" isDieVanish="true" isInAir="false" killedEffect="0" maxKilledTimes="0" monsterFightTableId="120450000" monsterModelTableId="700300000" name="強盜" templatename="主动测试明怪（）" velocity="210"/>
+</data>

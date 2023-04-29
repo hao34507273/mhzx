@@ -1,0 +1,478 @@
+<data>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800000" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="主线">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000000"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000100"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000200"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000300"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000400"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000500"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000600"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000700"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800001" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="支线">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000001"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000101"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000201"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000301"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000401"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000501"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000601"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000701"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800002" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="师门任务">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000002"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000102"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000202"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000302"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000402"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000502"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000602"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000702"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800003" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="藏宝图">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000003"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000103"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000203"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000303"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000403"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000503"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000603"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000703"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800004" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="试炼">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000004"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000104"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000204"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000304"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000404"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000504"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000604"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000704"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800005" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="黑龙浩劫">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000005"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000105"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000205"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000305"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000405"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000505"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000605"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000705"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800006" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="竞技场">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000006"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000106"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000206"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000306"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000406"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000506"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000606"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000706"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800007" isDoubleExpAddEffect="true" isDoubleItemRateModEffect="true" isDoublesilverAddEffect="true" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="镇妖活动">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000007"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000107"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000207"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000307"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000407"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000507"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000607"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000707"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800008" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="护送">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000008"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000108"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000208"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000308"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000408"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000508"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000608"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000708"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800009" isDoubleExpAddEffect="true" isDoubleItemRateModEffect="true" isDoublesilverAddEffect="true" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="true" isTeamsilverAddEffect="true" templatename="地宫挂野">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000009"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000109"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000209"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000309"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000409"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000509"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000609"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000709"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800010" isDoubleExpAddEffect="true" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="true" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="true" isTeamsilverAddEffect="true" templatename="乱世妖魔">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000010"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000110"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000210"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000310"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000410"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000510"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000610"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000710"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800011" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="true" isTeamsilverAddEffect="true" templatename="十二生肖">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000011"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000111"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000211"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000311"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000411"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000511"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000611"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000711"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800012" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="副本">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000012"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000112"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000212"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000312"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000412"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000512"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000612"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000712"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800013" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="诛仙奇缘">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000013"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000113"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000213"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000313"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000413"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000513"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000613"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000713"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800014" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="科举考试">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000014"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000114"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000214"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000314"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000414"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000514"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000614"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000714"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800015" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="决战九霄">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000015"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000115"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000215"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000315"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000415"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000515"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000615"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000715"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800016" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="帮派精英">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000016"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000116"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000216"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000316"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000416"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000516"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000616"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000716"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800017" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="门派挑战">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000017"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000117"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000217"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000317"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000417"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000517"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000617"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000717"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800018" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="帮派战争">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000018"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000118"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000218"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000318"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000418"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000518"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000618"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000718"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800019" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="true" isDoublesilverAddEffect="false" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="幻月洞府">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000019"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000119"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000219"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000319"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000419"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000519"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000619"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000719"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800020" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="世界BOSS">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000020"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000120"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000220"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000320"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000420"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000520"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000620"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000720"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800021" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="天下会武">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000021"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000121"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000221"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000321"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000421"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000521"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000621"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000721"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800022" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="首席争霸">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000022"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000122"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000222"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000322"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000422"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000522"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000622"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000722"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800023" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="帮派强盗">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000023"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000123"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000223"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000323"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000423"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000523"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000623"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000723"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800024" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="true" isTeamsilverAddEffect="true" templatename="妖兽突袭">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000024"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000124"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000224"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000324"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000424"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000524"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000624"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000724"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800025" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="单人节日活动">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000025"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000125"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000225"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000325"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000425"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000525"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000625"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000725"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800026" isDoubleExpAddEffect="true" isDoubleItemRateModEffect="true" isDoublesilverAddEffect="true" isGangExpAddEffect="true" isGangsilverAddEffect="true" isLeaderExpAddEffect="true" isLeadersilverAddEffect="true" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="true" isStableTeamsilverAddEffect="true" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="组队节日活动">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000026"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000126"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000226"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000326"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000426"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000526"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000626"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000726"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800027" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="还魂秘术">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000027"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000127"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000227"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000327"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000427"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000527"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000627"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000727"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800028" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="赏金">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000028"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000128"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000228"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000328"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000428"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000528"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000628"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000728"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800029" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="帮派周常">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000029"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000129"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000229"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000329"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000429"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000529"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000629"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000729"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800030" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="双飞活动">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000030"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000130"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000230"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000330"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000430"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000530"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000630"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000730"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800031" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="帮派篝火/经验道具相关">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000031"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000131"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000231"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000331"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000431"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000531"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000631"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000731"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800032" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="赛跑">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000032"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000132"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000232"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000332"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000432"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000532"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000632"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000732"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800033" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="晚间答题">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000033"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000133"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000233"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000333"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000433"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000533"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000633"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000733"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800034" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="true" isNewMarriageTeamExpAddEffect="true" isNewMarriageTeamsilverAddEffect="true" isNewMarriagesilverAddEffect="true" isRelationExpAddEffect="true" isRelationsilverAddEffect="true" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="夫妻活动">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000034"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000134"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000234"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000334"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000434"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000534"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000634"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000734"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800035" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="true" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="世界答题">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000035"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000135"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000235"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000335"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000435"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000535"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000635"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000735"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800036" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="true" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="true" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="灵气封印经验">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000031"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000131"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000231"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000331"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000431"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000531"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000631"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000731"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800098" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="false" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="青云志N倍配置">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000499"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000599"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="null"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="null"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800099" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="false" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="固定奖励零收益配置">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000599"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="null"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="null"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800101" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="false" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="青云之殇">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000436"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+  <mzm.gsp.award.confbean.SAddModEffect id="500800102" isDoubleExpAddEffect="false" isDoubleItemRateModEffect="false" isDoublesilverAddEffect="false" isGangExpAddEffect="false" isGangsilverAddEffect="false" isLeaderExpAddEffect="false" isLeadersilverAddEffect="false" isNewMarriageExpAddEffect="false" isNewMarriageTeamExpAddEffect="false" isNewMarriageTeamsilverAddEffect="false" isNewMarriagesilverAddEffect="false" isRelationExpAddEffect="false" isRelationsilverAddEffect="false" isServerLevelExpAddEffect="false" isServerLevelExpCutEffect="false" isStableTeamExpAddEffect="false" isStableTeamsilverAddEffect="false" isStoreExpEffect="false" isTeamExpAddEffect="false" isTeamsilverAddEffect="false" templatename="合服经验球奖励修正">
+    <AwardBuffCfgList>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="1" buffEffId="503000000"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="2" buffEffId="503000100"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="3" buffEffId="503000200"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="4" buffEffId="503000300"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="5" buffEffId="503000400"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="6" buffEffId="503000500"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="7" buffEffId="503000600"/>
+      <mzm.gsp.award.confbean.AwardBuffCfg awardBuffType="8" buffEffId="503000700"/>
+    </AwardBuffCfgList>
+  </mzm.gsp.award.confbean.SAddModEffect>
+</data>

@@ -1,0 +1,363 @@
+<data>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100000" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="1" equipType="1" icon="142" id="230000000" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="一級項圈" namecolor="2" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="3500" sort="1" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100001" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="2" equipType="1" icon="143" id="230000001" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="二級項圈" namecolor="3" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="8500" sort="2" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100002" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="1" icon="144" id="230000002" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="三級項圈" namecolor="4" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="20000" sort="3" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100003" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="1" icon="145" id="230000003" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="四級項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="50000" sort="4" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101000" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="1" equipType="0" icon="138" id="230000004" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="一級頭盔" namecolor="2" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="3500" sort="5" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101001" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="2" equipType="0" icon="139" id="230000005" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="二級頭盔" namecolor="3" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="8500" sort="6" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101002" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="0" icon="140" id="230000006" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="三級頭盔" namecolor="4" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="20000" sort="7" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101003" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="0" icon="141" id="230000007" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="四級頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="50000" sort="8" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="1" equipType="2" icon="134" id="230000008" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500001" name="一級護符" namecolor="2" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="5000" sellSilver="7000" sort="9" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500001" monster2SkillProb="10000" monsterSkillId="110500001" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="2" equipType="2" icon="135" id="230000009" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500001" name="二級護符" namecolor="3" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="4000" sellSilver="17000" sort="10" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="10000" monsterSkillId="110500001" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="110500002" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="2" icon="136" id="230000010" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500002" name="三級護符" namecolor="4" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="3000" sellSilver="40000" sort="11" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="8000" monsterSkillId="110500002" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500004" monster2SkillProb="2000" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="2" icon="137" id="230000011" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500003" name="四級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="3000" sellSilver="100000" sort="12" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="8000" monsterSkillId="110500002" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500004" monster2SkillProb="2000" monsterSkillId="110500003" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="2" icon="137" id="230000012" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="110500003" name="四級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="100000" sort="13" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="8000" monsterSkillId="110500002" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500004" monster2SkillProb="2000" monsterSkillId="110500003" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="2" equipType="2" icon="135" id="230000100" initSkillID1="110630012" initSkillID2="110650013" isMerge="false" isProprietary="false" monsterSkillId="110500001" name="二級護符" namecolor="3" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="4000" sellSilver="17000" sort="14" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="10000" monsterSkillId="110500001" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="110500002" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100002" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="1" icon="144" id="230000101" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="true" monsterSkillId="0" name="三級項圈" namecolor="4" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="20000" sort="15" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101002" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="0" icon="140" id="230000102" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="true" monsterSkillId="0" name="三級頭盔" namecolor="4" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="20000" sort="16" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100003" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="1" icon="145" id="230000103" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="true" monsterSkillId="0" name="四級項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="50000" sort="17" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101003" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="0" icon="141" id="230000104" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="true" monsterSkillId="0" name="四級頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="50000" sort="18" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="4" equipType="2" icon="137" id="230000105" initSkillID1="110630013" initSkillID2="110650014" isMerge="false" isProprietary="true" monsterSkillId="110500003" name="四級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="3000" sellSilver="100000" sort="19" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="8000" monsterSkillId="110500002" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500004" monster2SkillProb="2000" monsterSkillId="110500003" monsterSkillProb="5000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="3" equipType="2" icon="136" id="230000106" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="true" monsterSkillId="110500002" name="三級護符" namecolor="4" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="40000" sort="20" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500002" monster2SkillProb="8000" monsterSkillId="110500002" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500004" monster2SkillProb="2000" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100004" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="5" equipType="1" icon="676" id="230000200" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="五級項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="100000" sort="21" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101004" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="5" equipType="0" icon="677" id="230000201" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="五級頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="100000" sort="22" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="5" equipType="2" icon="678" id="230000202" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500003" name="五級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="3000" sellSilver="200000" sort="23" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500003" monster2SkillProb="10000" monsterSkillId="110500003" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="5" equipType="2" icon="678" id="230000203" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="110500003" name="五級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="200000" sort="24" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500003" monster2SkillProb="10000" monsterSkillId="110500003" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100005" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="6" equipType="1" icon="679" id="230000300" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="六級項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="25" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101005" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="6" equipType="0" icon="680" id="230000301" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="六級頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="26" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="6" equipType="2" icon="681" id="230000302" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="110500202" name="六級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="3000" sellSilver="400000" sort="27" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500003" monster2SkillProb="10000" monsterSkillId="110500202" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="6" equipType="2" icon="681" id="230000303" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="110500202" name="六級護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="400000" sort="28" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="110500003" monster2SkillProb="10000" monsterSkillId="110500202" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <!-- 7-10级宝宝装备 -->
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100006" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="7" equipType="0" icon="679" id="230000304" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="25" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101006" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="7" equipType="1" icon="680" id="230000305" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="26" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>  
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="7" equipType="2" icon="681" id="230000306" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="110500203" name="七级護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="400000" sort="28" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="111500003" monster2SkillProb="10000" monsterSkillId="110500203" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>  
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100007" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="8" equipType="0" icon="679" id="230000308" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="25" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101007" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="8" equipType="1" icon="680" id="230000307" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="26" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>  
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="8" equipType="2" icon="681" id="230000309" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="110500203" name="七级護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="400000" sort="28" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="111500004" monster2SkillProb="10000" monsterSkillId="110500203" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>   
+<mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100008" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="9" equipType="0" icon="679" id="230000311" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="25" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101008" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="9" equipType="1" icon="680" id="230000310" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="七级頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="26" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>  
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="9" equipType="2" icon="681" id="230000312" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="111593057" name="七级護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="400000" sort="28" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="111593058" monster2SkillProb="10000" monsterSkillId="111593057" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>   
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230100009" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="10" equipType="1" icon="680" id="230000313" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="十级項圈" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="26" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>  
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="230101009" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="10" equipType="0" icon="679" id="230000314" initSkillID1="0" initSkillID2="0" isMerge="true" isProprietary="false" monsterSkillId="0" name="十级頭盔" namecolor="5" pilemax="1" property1Rate="10000" property2Rate="0" random1Skil2Prop="0" sellSilver="200000" sort="25" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>
+  <mzm.gsp.petequip.confbean.SPetEquipItem PetPropertyTableId="0" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" equipLevel="10" equipType="2" icon="681" id="230000315" initSkillID1="0" initSkillID2="0" isMerge="false" isProprietary="false" monsterSkillId="111593105" name="七级護符" namecolor="5" pilemax="1" property1Rate="0" property2Rate="0" random1Skil2Prop="10000" sellSilver="400000" sort="28" type="3" useLevel="0">
+    <monsterSkillPropList>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="111593106" monster2SkillProb="10000" monsterSkillId="111593105" monsterSkillProb="10000"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+      <mzm.gsp.petequip.confbean.MonsterSkill2Prop monster2SkillId="0" monster2SkillProb="0" monsterSkillId="0" monsterSkillProb="0"/>
+    </monsterSkillPropList>
+  </mzm.gsp.petequip.confbean.SPetEquipItem>   
+</data>

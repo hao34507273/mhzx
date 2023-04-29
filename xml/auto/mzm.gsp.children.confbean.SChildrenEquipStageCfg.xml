@@ -1,0 +1,175 @@
+<data>
+  <mzm.gsp.children.confbean.SChildrenEquipStageCfg stageTypeid="1">
+    <stage2EquipStageBean>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="1" needLevel="10">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="3" needLevel="20">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="5" needLevel="30">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="7" needLevel="40">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="9" needLevel="50">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140421" needItemNum="11" needLevel="60">
+          <subItemids>
+            <int>210140422</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="14" needLevel="70">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="18" needLevel="80">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="23" needLevel="90">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="28" needLevel="100">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="35" needLevel="110">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="45" needLevel="120">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="60" needLevel="130">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="75" needLevel="140">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="90" needLevel="150">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="105" needLevel="160">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="135" needLevel="180">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="120" needLevel="170">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="165" needLevel="200">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="150" needLevel="190">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.children.confbean.ChildrenEquipStageBean mainItemid="210140423" needItemNum="180" needLevel="200">
+          <subItemids>
+            <int>210140424</int>
+          </subItemids>
+        </mzm.gsp.children.confbean.ChildrenEquipStageBean>
+      </entry>
+    </stage2EquipStageBean>
+  </mzm.gsp.children.confbean.SChildrenEquipStageCfg>
+</data>

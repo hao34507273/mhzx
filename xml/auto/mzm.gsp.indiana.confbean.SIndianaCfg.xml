@@ -1,0 +1,674 @@
+<data>
+  <mzm.gsp.indiana.confbean.SIndianaCfg activity_cfg_id="350020302" lottery_item_cfg_id="210183105">
+    <turn_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510401300" diaplay_turn="1" end_timestamp="1510404840">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50222" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="1125" fix_award_id="50223" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50224" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510404900" diaplay_turn="2" end_timestamp="1510408440">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50225" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50226" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50227" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510408500" diaplay_turn="3" end_timestamp="1510412040">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50228" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50229" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50230" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510487700" diaplay_turn="1" end_timestamp="1510491240">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="2250" fix_award_id="50231" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50232" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50233" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510491300" diaplay_turn="2" end_timestamp="1510494840">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="2250" fix_award_id="50234" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50235" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50236" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510494900" diaplay_turn="3" end_timestamp="1510498440">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="2250" fix_award_id="50237" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50238" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50239" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510574100" diaplay_turn="1" end_timestamp="1510577640">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50240" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50241" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50242" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510577700" diaplay_turn="2" end_timestamp="1510581240">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50243" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50244" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50245" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1510581300" diaplay_turn="3" end_timestamp="1510584840">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="750" fix_award_id="50246" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="375" fix_award_id="50247" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50248" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+    </turn_infos>
+    <turn_time_infos>
+      <no-comparator/>
+      <entry>
+        <int>1510401300</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>1510404900</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1510408500</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>1510487700</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>1510491300</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>1510494900</int>
+        <int>6</int>
+      </entry>
+      <entry>
+        <int>1510574100</int>
+        <int>7</int>
+      </entry>
+      <entry>
+        <int>1510577700</int>
+        <int>8</int>
+      </entry>
+      <entry>
+        <int>1510581300</int>
+        <int>9</int>
+      </entry>
+    </turn_time_infos>
+  </mzm.gsp.indiana.confbean.SIndianaCfg>
+  <mzm.gsp.indiana.confbean.SIndianaCfg activity_cfg_id="350020301" lottery_item_cfg_id="210183105">
+    <turn_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509796500" diaplay_turn="1" end_timestamp="1509800040">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50195" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="50" fix_award_id="50196" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="5" fix_award_id="50197" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509800100" diaplay_turn="2" end_timestamp="1509803640">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50198" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="50" fix_award_id="50199" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="5" fix_award_id="50200" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509803700" diaplay_turn="3" end_timestamp="1509807240">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50201" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="50" fix_award_id="50202" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="5" fix_award_id="50203" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509882900" diaplay_turn="1" end_timestamp="1509886440">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="800" fix_award_id="50204" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="400" fix_award_id="50205" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50206" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509886500" diaplay_turn="2" end_timestamp="1509890040">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="800" fix_award_id="50207" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="400" fix_award_id="50208" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50209" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509890100" diaplay_turn="3" end_timestamp="1509893640">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="800" fix_award_id="50210" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="400" fix_award_id="50211" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50212" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509969300" diaplay_turn="1" end_timestamp="1509972840">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="1125" fix_award_id="50213" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="800" fix_award_id="50214" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50215" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509972900" diaplay_turn="2" end_timestamp="1509976440">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="1125" fix_award_id="50216" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="800" fix_award_id="50217" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50218" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1509976500" diaplay_turn="3" end_timestamp="1509980040">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="2250" fix_award_id="50219" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="400" fix_award_id="50220" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="75" fix_award_id="50221" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="10"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+    </turn_infos>
+    <turn_time_infos>
+      <no-comparator/>
+      <entry>
+        <int>1509796500</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>1509800100</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1509803700</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>1509882900</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>1509886500</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>1509890100</int>
+        <int>6</int>
+      </entry>
+      <entry>
+        <int>1509969300</int>
+        <int>7</int>
+      </entry>
+      <entry>
+        <int>1509972900</int>
+        <int>8</int>
+      </entry>
+      <entry>
+        <int>1509976500</int>
+        <int>9</int>
+      </entry>
+    </turn_time_infos>
+  </mzm.gsp.indiana.confbean.SIndianaCfg>
+  <mzm.gsp.indiana.confbean.SIndianaCfg activity_cfg_id="350020300" lottery_item_cfg_id="210183105">
+    <turn_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508587200" diaplay_turn="1" end_timestamp="1508590740">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50161" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="100000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50162" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50163" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508590800" diaplay_turn="2" end_timestamp="1508594340">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50164" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="5000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50165" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50166" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508594400" diaplay_turn="3" end_timestamp="1508597940">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50167" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="1000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50168" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="10" fix_award_id="50169" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508673600" diaplay_turn="1" end_timestamp="1508677140">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50170" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="3000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50171" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50172" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508677200" diaplay_turn="2" end_timestamp="1508680740">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50173" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="2000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50174" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50175" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508680800" diaplay_turn="3" end_timestamp="1508684340">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50176" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="1000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50177" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="10" fix_award_id="50178" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508760000" diaplay_turn="1" end_timestamp="1508763540">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50179" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="2000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50180" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50181" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508763600" diaplay_turn="2" end_timestamp="1508767140">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50182" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="1000"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50183" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="100" fix_award_id="50184" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.indiana.confbean.SIndianaTurnInfo begin_timestamp="1508767200" diaplay_turn="3" end_timestamp="1508770740">
+          <award_infos>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="3000" fix_award_id="50185" init_award_num="1" need_bulletin="true" need_log="true" special_number_need_yuanbao_num="500"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="500" fix_award_id="50186" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.indiana.confbean.SIndianaAwardInfo attend_fix_award_id="50160" cost_money_num="10" cost_money_type="1" extra_award_need_num="10" fix_award_id="50187" init_award_num="1" need_bulletin="false" need_log="false" special_number_need_yuanbao_num="0"/>
+            </entry>
+          </award_infos>
+        </mzm.gsp.indiana.confbean.SIndianaTurnInfo>
+      </entry>
+    </turn_infos>
+    <turn_time_infos>
+      <no-comparator/>
+      <entry>
+        <int>1508587200</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>1508590800</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1508594400</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>1508673600</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>1508677200</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>1508680800</int>
+        <int>6</int>
+      </entry>
+      <entry>
+        <int>1508760000</int>
+        <int>7</int>
+      </entry>
+      <entry>
+        <int>1508763600</int>
+        <int>8</int>
+      </entry>
+      <entry>
+        <int>1508767200</int>
+        <int>9</int>
+      </entry>
+    </turn_time_infos>
+  </mzm.gsp.indiana.confbean.SIndianaCfg>
+</data>

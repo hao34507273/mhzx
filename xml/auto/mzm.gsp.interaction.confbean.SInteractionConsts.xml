@@ -1,0 +1,7 @@
+<root>
+<row name="OPEN_LEVEL" value="20"/>
+<row name="CONFIRM_COUNTDOWN" value="30"/>
+<row name="INVITE_FAIL_BAN_TIMES" value="3"/>
+<row name="INVITE_FAIL_DETERMINE_DURATION" value="2"/>
+<row name="INVITE_FAIL_BAN_DURATION" value="30"/>
+</root>

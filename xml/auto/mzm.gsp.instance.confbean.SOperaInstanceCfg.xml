@@ -1,0 +1,82 @@
+<data>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000007" awardpoolid="1100" confirmType="8" disType="1" instanceid="520000002" taskGraph="30000003">
+    <awarditems>
+      <int>210110046</int>
+      <int>210110053</int>
+      <int>210110040</int>
+      <int>210110044</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000030" awardpoolid="2000" confirmType="9" disType="2" instanceid="520000003" taskGraph="30000004">
+    <awarditems>
+      <int>213900011</int>
+      <int>210110046</int>
+      <int>210110053</int>
+      <int>210110044</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000031" awardpoolid="1000" confirmType="8" disType="1" instanceid="520000004" taskGraph="30000020">
+    <awarditems>
+      <int>210110046</int>
+      <int>210110063</int>
+      <int>210110022</int>
+      <int>210110023</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000032" awardpoolid="2000" confirmType="9" disType="2" instanceid="520000005" taskGraph="30000021">
+    <awarditems>
+      <int>213900011</int>
+      <int>210110025</int>
+      <int>210131005</int>
+      <int>210110065</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000034" awardpoolid="1200" confirmType="8" disType="1" instanceid="520000006" taskGraph="30000028">
+    <awarditems>
+      <int>210110046</int>
+      <int>210110064</int>
+      <int>210110022</int>
+      <int>210110023</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000035" awardpoolid="2200" confirmType="9" disType="2" instanceid="520000007" taskGraph="30000029">
+    <awarditems>
+      <int>213900011</int>
+      <int>210110025</int>
+      <int>210131005</int>
+      <int>210110066</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000624" awardpoolid="2300" confirmType="10" disType="3" instanceid="520000012" taskGraph="40000022">
+    <awarditems>
+      <int>213900011</int>
+      <int>210107203</int>
+      <int>210131006</int>
+      <int>214302003</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000625" awardpoolid="2200" confirmType="8" disType="4" instanceid="520000013" taskGraph="40000023">
+    <awarditems>
+      <int>213900011</int>
+      <int>210110025</int>
+      <int>210131005</int>
+      <int>210110066</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000626" awardpoolid="2200" confirmType="8" disType="5" instanceid="520000014" taskGraph="40000024">
+    <awarditems>
+      <int>213900011</int>
+      <int>210110025</int>
+      <int>210131005</int>
+      <int>210110066</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+  <mzm.gsp.instance.confbean.SOperaInstanceCfg activityid="350000627" awardpoolid="2400" confirmType="10" disType="3" instanceid="520000015" taskGraph="20000067">
+    <awarditems>
+      <int>213900011</int>
+      <int>210107203</int>
+      <int>210131006</int>
+      <int>214302003</int>
+    </awarditems>
+  </mzm.gsp.instance.confbean.SOperaInstanceCfg>
+</data>

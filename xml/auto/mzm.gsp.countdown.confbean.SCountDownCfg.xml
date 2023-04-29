@@ -1,0 +1,86 @@
+<data>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200006" festival_effect_play_time="15" festival_timestamp="1514736000" red_packet_award_id="7406" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005705" send_mail_timestamp="1514649600"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200004" festival_effect_play_time="15" festival_timestamp="1509465600" red_packet_award_id="7404" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005704" send_mail_timestamp="1509379200"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200005" festival_effect_play_time="10" festival_timestamp="1514131200" red_packet_award_id="7405" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005700" send_mail_timestamp="1514044800"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200002" festival_effect_play_time="15" festival_timestamp="1485532800" red_packet_award_id="7402" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005702" send_mail_timestamp="1485446400"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200003" festival_effect_play_time="15" festival_timestamp="1486742400" red_packet_award_id="7403" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005703" send_mail_timestamp="1486656000"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200000" festival_effect_play_time="10" festival_timestamp="1482595200" red_packet_award_id="7400" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005700" send_mail_timestamp="1482508800"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+  <mzm.gsp.countdown.confbean.SCountDownCfg cfg_id="348200001" festival_effect_play_time="15" festival_timestamp="1483200000" red_packet_award_id="7401" red_packet_valid_time="86400" thank_mail_valid_time="86400">
+    <remind_mail_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.countdown.confbean.MailInfo mail_cfg_id="340005701" send_mail_timestamp="1483113600"/>
+      </entry>
+    </remind_mail_infos>
+    <thank_mail_infos>
+      <no-comparator/>
+    </thank_mail_infos>
+  </mzm.gsp.countdown.confbean.SCountDownCfg>
+</data>

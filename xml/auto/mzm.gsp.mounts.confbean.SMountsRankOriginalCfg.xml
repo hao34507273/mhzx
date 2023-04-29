@@ -1,0 +1,765 @@
+<data>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200000" mountsCfgId="920100000" mountsRank="1" needRoleLevel="73" rankUpConvertScore="100" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="214600000" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="108"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="1" id="920200001" mountsCfgId="920100000" mountsRank="2" needRoleLevel="73" rankUpConvertScore="200" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="220" unlockItemId="214600001" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="216"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="1" id="920200002" mountsCfgId="920100000" mountsRank="3" needRoleLevel="73" rankUpConvertScore="400" rankUpCostItemId="210140122" rankUpCostItemIdNum="5" rankUpCostMountsNum="2" rankUpNeedScoreNum="200" rankUpcostItemType="87" speed="230" unlockItemId="214600002" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="324"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="2" id="920200003" mountsCfgId="920100000" mountsRank="4" needRoleLevel="73" rankUpConvertScore="800" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="2" rankUpNeedScoreNum="400" rankUpcostItemType="87" speed="240" unlockItemId="214600003" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="432"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="2" id="920200004" mountsCfgId="920100000" mountsRank="5" needRoleLevel="73" rankUpConvertScore="1600" rankUpCostItemId="210140122" rankUpCostItemIdNum="20" rankUpCostMountsNum="2" rankUpNeedScoreNum="800" rankUpcostItemType="87" speed="250" unlockItemId="214600004" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="540"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="3" id="920200005" mountsCfgId="920100000" mountsRank="6" needRoleLevel="73" rankUpConvertScore="3200" rankUpCostItemId="210140122" rankUpCostItemIdNum="50" rankUpCostMountsNum="2" rankUpNeedScoreNum="1600" rankUpcostItemType="87" speed="260" unlockItemId="214600005" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="648"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="3" id="920200006" mountsCfgId="920100000" mountsRank="7" needRoleLevel="73" rankUpConvertScore="8000" rankUpCostItemId="210140122" rankUpCostItemIdNum="100" rankUpCostMountsNum="2" rankUpNeedScoreNum="4800" rankUpcostItemType="87" speed="265" unlockItemId="214600006" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="756"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="4" id="920200007" mountsCfgId="920100000" mountsRank="8" needRoleLevel="73" rankUpConvertScore="22400" rankUpCostItemId="210140122" rankUpCostItemIdNum="200" rankUpCostMountsNum="2" rankUpNeedScoreNum="14400" rankUpcostItemType="87" speed="270" unlockItemId="214600007" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="864"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200010" mountsCfgId="920100001" mountsRank="1" needRoleLevel="73" rankUpConvertScore="100" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="214600010" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="1" id="920200011" mountsCfgId="920100001" mountsRank="2" needRoleLevel="73" rankUpConvertScore="200" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="220" unlockItemId="214600011" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="1" id="920200012" mountsCfgId="920100001" mountsRank="3" needRoleLevel="73" rankUpConvertScore="400" rankUpCostItemId="210140122" rankUpCostItemIdNum="5" rankUpCostMountsNum="2" rankUpNeedScoreNum="200" rankUpcostItemType="87" speed="230" unlockItemId="214600012" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="2" id="920200013" mountsCfgId="920100001" mountsRank="4" needRoleLevel="73" rankUpConvertScore="800" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="2" rankUpNeedScoreNum="400" rankUpcostItemType="87" speed="240" unlockItemId="214600013" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="2" id="920200014" mountsCfgId="920100001" mountsRank="5" needRoleLevel="73" rankUpConvertScore="1600" rankUpCostItemId="210140122" rankUpCostItemIdNum="20" rankUpCostMountsNum="2" rankUpNeedScoreNum="800" rankUpcostItemType="87" speed="250" unlockItemId="214600014" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="3" id="920200015" mountsCfgId="920100001" mountsRank="6" needRoleLevel="73" rankUpConvertScore="3200" rankUpCostItemId="210140122" rankUpCostItemIdNum="50" rankUpCostMountsNum="2" rankUpNeedScoreNum="1600" rankUpcostItemType="87" speed="260" unlockItemId="214600015" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="3" id="920200016" mountsCfgId="920100001" mountsRank="7" needRoleLevel="73" rankUpConvertScore="8000" rankUpCostItemId="210140122" rankUpCostItemIdNum="100" rankUpCostMountsNum="2" rankUpNeedScoreNum="4800" rankUpcostItemType="87" speed="265" unlockItemId="214600016" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="4" id="920200017" mountsCfgId="920100001" mountsRank="8" needRoleLevel="73" rankUpConvertScore="22400" rankUpCostItemId="210140122" rankUpCostItemIdNum="200" rankUpCostMountsNum="2" rankUpNeedScoreNum="14400" rankUpcostItemType="87" speed="270" unlockItemId="214600017" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200020" mountsCfgId="920100002" mountsRank="1" needRoleLevel="73" rankUpConvertScore="100" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="214600020" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="1" id="920200021" mountsCfgId="920100002" mountsRank="2" needRoleLevel="73" rankUpConvertScore="200" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="220" unlockItemId="214600021" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="1" id="920200022" mountsCfgId="920100002" mountsRank="3" needRoleLevel="73" rankUpConvertScore="400" rankUpCostItemId="210140122" rankUpCostItemIdNum="5" rankUpCostMountsNum="2" rankUpNeedScoreNum="200" rankUpcostItemType="87" speed="230" unlockItemId="214600022" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="2" id="920200023" mountsCfgId="920100002" mountsRank="4" needRoleLevel="73" rankUpConvertScore="800" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="2" rankUpNeedScoreNum="400" rankUpcostItemType="87" speed="240" unlockItemId="214600023" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="2" id="920200024" mountsCfgId="920100002" mountsRank="5" needRoleLevel="73" rankUpConvertScore="1600" rankUpCostItemId="210140122" rankUpCostItemIdNum="20" rankUpCostMountsNum="2" rankUpNeedScoreNum="800" rankUpcostItemType="87" speed="250" unlockItemId="214600024" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="3" id="920200025" mountsCfgId="920100002" mountsRank="6" needRoleLevel="73" rankUpConvertScore="3200" rankUpCostItemId="210140122" rankUpCostItemIdNum="50" rankUpCostMountsNum="2" rankUpNeedScoreNum="1600" rankUpcostItemType="87" speed="260" unlockItemId="214600025" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="3" id="920200026" mountsCfgId="920100002" mountsRank="7" needRoleLevel="73" rankUpConvertScore="8000" rankUpCostItemId="210140122" rankUpCostItemIdNum="100" rankUpCostMountsNum="2" rankUpNeedScoreNum="4800" rankUpcostItemType="87" speed="265" unlockItemId="214600026" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="4" id="920200027" mountsCfgId="920100002" mountsRank="8" needRoleLevel="73" rankUpConvertScore="22400" rankUpCostItemId="210140122" rankUpCostItemIdNum="200" rankUpCostMountsNum="2" rankUpNeedScoreNum="14400" rankUpcostItemType="87" speed="270" unlockItemId="214600027" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200030" mountsCfgId="920100003" mountsRank="1" needRoleLevel="73" rankUpConvertScore="100" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="214600030" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="1" id="920200031" mountsCfgId="920100003" mountsRank="2" needRoleLevel="73" rankUpConvertScore="200" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="220" unlockItemId="214600031" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="40"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="1" id="920200032" mountsCfgId="920100003" mountsRank="3" needRoleLevel="73" rankUpConvertScore="400" rankUpCostItemId="210140122" rankUpCostItemIdNum="5" rankUpCostMountsNum="2" rankUpNeedScoreNum="200" rankUpcostItemType="87" speed="230" unlockItemId="214600032" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="2" id="920200033" mountsCfgId="920100003" mountsRank="4" needRoleLevel="73" rankUpConvertScore="800" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="2" rankUpNeedScoreNum="400" rankUpcostItemType="87" speed="240" unlockItemId="214600033" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="80"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="2" id="920200034" mountsCfgId="920100003" mountsRank="5" needRoleLevel="73" rankUpConvertScore="1600" rankUpCostItemId="210140122" rankUpCostItemIdNum="20" rankUpCostMountsNum="2" rankUpNeedScoreNum="800" rankUpcostItemType="87" speed="250" unlockItemId="214600034" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="100"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="3" id="920200035" mountsCfgId="920100003" mountsRank="6" needRoleLevel="73" rankUpConvertScore="3200" rankUpCostItemId="210140122" rankUpCostItemIdNum="50" rankUpCostMountsNum="2" rankUpNeedScoreNum="1600" rankUpcostItemType="87" speed="260" unlockItemId="214600035" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="3" id="920200036" mountsCfgId="920100003" mountsRank="7" needRoleLevel="73" rankUpConvertScore="8000" rankUpCostItemId="210140122" rankUpCostItemIdNum="100" rankUpCostMountsNum="2" rankUpNeedScoreNum="4800" rankUpcostItemType="87" speed="265" unlockItemId="214600036" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="140"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="4" id="920200037" mountsCfgId="920100003" mountsRank="8" needRoleLevel="73" rankUpConvertScore="22400" rankUpCostItemId="210140122" rankUpCostItemIdNum="200" rankUpCostMountsNum="2" rankUpNeedScoreNum="14400" rankUpcostItemType="87" speed="270" unlockItemId="214600037" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="160"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200040" mountsCfgId="920100004" mountsRank="1" needRoleLevel="73" rankUpConvertScore="100" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="214600040" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="1" id="920200041" mountsCfgId="920100004" mountsRank="2" needRoleLevel="73" rankUpConvertScore="200" rankUpCostItemId="210140122" rankUpCostItemIdNum="1" rankUpCostMountsNum="2" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="220" unlockItemId="214600041" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="1" id="920200042" mountsCfgId="920100004" mountsRank="3" needRoleLevel="73" rankUpConvertScore="400" rankUpCostItemId="210140122" rankUpCostItemIdNum="5" rankUpCostMountsNum="2" rankUpNeedScoreNum="200" rankUpcostItemType="87" speed="230" unlockItemId="214600042" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="45"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="2" id="920200043" mountsCfgId="920100004" mountsRank="4" needRoleLevel="73" rankUpConvertScore="800" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="2" rankUpNeedScoreNum="400" rankUpcostItemType="87" speed="240" unlockItemId="214600043" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="60"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="2" id="920200044" mountsCfgId="920100004" mountsRank="5" needRoleLevel="73" rankUpConvertScore="1600" rankUpCostItemId="210140122" rankUpCostItemIdNum="20" rankUpCostMountsNum="2" rankUpNeedScoreNum="800" rankUpcostItemType="87" speed="250" unlockItemId="214600044" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="75"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="3" id="920200045" mountsCfgId="920100004" mountsRank="6" needRoleLevel="73" rankUpConvertScore="3200" rankUpCostItemId="210140122" rankUpCostItemIdNum="50" rankUpCostMountsNum="2" rankUpNeedScoreNum="1600" rankUpcostItemType="87" speed="260" unlockItemId="214600045" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="90"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="3" id="920200046" mountsCfgId="920100004" mountsRank="7" needRoleLevel="73" rankUpConvertScore="8000" rankUpCostItemId="210140122" rankUpCostItemIdNum="100" rankUpCostMountsNum="2" rankUpNeedScoreNum="4800" rankUpcostItemType="87" speed="265" unlockItemId="214600046" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="105"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="210"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="4" id="920200047" mountsCfgId="920100004" mountsRank="8" needRoleLevel="73" rankUpConvertScore="22400" rankUpCostItemId="210140122" rankUpCostItemIdNum="200" rankUpCostMountsNum="2" rankUpNeedScoreNum="14400" rankUpcostItemType="87" speed="270" unlockItemId="214600047" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="120"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200200" mountsCfgId="920100100" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="1" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200202" mountsCfgId="920100101" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="2" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200203" mountsCfgId="920100102" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="3" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200204" mountsCfgId="920100103" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="4" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200205" mountsCfgId="920100104" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="5" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200206" mountsCfgId="920100105" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="6" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200207" mountsCfgId="920100106" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="7" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200208" mountsCfgId="920100107" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="8" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200209" mountsCfgId="920100108" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="9" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200210" mountsCfgId="920100109" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="10" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200211" mountsCfgId="920100110" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="240" unlockItemId="11" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200212" mountsCfgId="920100111" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="12" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200213" mountsCfgId="920100112" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="13" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200214" mountsCfgId="920100113" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="14" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200215" mountsCfgId="920100114" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="15" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="20"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200216" mountsCfgId="920100115" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="16" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200217" mountsCfgId="920100116" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="17" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200218" mountsCfgId="920100117" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="18" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200219" mountsCfgId="920100118" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="19" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="8" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="10" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200220" mountsCfgId="920100119" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="20" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="500"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200221" mountsCfgId="920100120" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="21" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200222" mountsCfgId="920100121" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="22" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200223" mountsCfgId="920100122" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="23" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="500"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200224" mountsCfgId="920100123" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="260" unlockItemId="24" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200226" mountsCfgId="920100125" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="26" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="8" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="10" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200227" mountsCfgId="920100126" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="27" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200227" mountsCfgId="920100126" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="28" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200227" mountsCfgId="920100126" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="29" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="10"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200225" mountsCfgId="920100124" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="25" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="500"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200234" mountsCfgId="920100132" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="33" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200235" mountsCfgId="920100133" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="34" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200236" mountsCfgId="920100134" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="35" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200237" mountsCfgId="920100135" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="35" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="15"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="0" activeSkillLevel="0" id="920200232" mountsCfgId="920100130" mountsRank="1" needRoleLevel="73" rankUpConvertScore="40" rankUpCostItemId="210140122" rankUpCostItemIdNum="10" rankUpCostMountsNum="0" rankUpNeedScoreNum="100" rankUpcostItemType="87" speed="210" unlockItemId="31" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="8" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="10" provalue="30"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  
+<!-- 新增等级 -->  
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="4" id="920200007" mountsCfgId="920100000" mountsRank="9" needRoleLevel="73" rankUpConvertScore="65600" rankUpCostItemId="210140122" rankUpCostItemIdNum="300" rankUpCostMountsNum="2" rankUpNeedScoreNum="43200" rankUpcostItemType="87" speed="290" unlockItemId="214600008" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="972"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="240"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>  
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021001" activeSkillLevel="4" id="920200007" mountsCfgId="920100000" mountsRank="10" needRoleLevel="73" rankUpConvertScore="108800" rankUpCostItemId="210140122" rankUpCostItemIdNum="400" rankUpCostMountsNum="2" rankUpNeedScoreNum="72000" rankUpcostItemType="87" speed="300" unlockItemId="214600009" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="1" provalue="1080"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="87" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>  
+
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="4" id="920200017" mountsCfgId="920100001" mountsRank="9" needRoleLevel="73" rankUpConvertScore="65600" rankUpCostItemId="210140122" rankUpCostItemIdNum="300" rankUpCostMountsNum="2" rankUpNeedScoreNum="43200" rankUpcostItemType="87" speed="290" unlockItemId="214600018" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021002" activeSkillLevel="4" id="920200017" mountsCfgId="920100001" mountsRank="10" needRoleLevel="73" rankUpConvertScore="108800" rankUpCostItemId="210140122" rankUpCostItemIdNum="400" rankUpCostMountsNum="2" rankUpNeedScoreNum="72000" rankUpcostItemType="87" speed="300" unlockItemId="214600019" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="7" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="85" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg> 
+  
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="4" id="920200027" mountsCfgId="920100002" mountsRank="9" needRoleLevel="73" rankUpConvertScore="65600" rankUpCostItemId="210140122" rankUpCostItemIdNum="300" rankUpCostMountsNum="2" rankUpNeedScoreNum="43200" rankUpcostItemType="87" speed="290" unlockItemId="214600028" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021003" activeSkillLevel="4" id="920200027" mountsCfgId="920100002" mountsRank="10" needRoleLevel="73" rankUpConvertScore="108800" rankUpCostItemId="210140122" rankUpCostItemIdNum="400" rankUpCostMountsNum="2" rankUpNeedScoreNum="72000" rankUpcostItemType="87" speed="300" unlockItemId="214600029" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="9" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="86" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="4" id="920200037" mountsCfgId="920100003" mountsRank="9" needRoleLevel="73" rankUpConvertScore="65600" rankUpCostItemId="210140122" rankUpCostItemIdNum="300" rankUpCostMountsNum="2" rankUpNeedScoreNum="43200" rankUpcostItemType="87" speed="290" unlockItemId="214600038" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="180"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021000" activeSkillLevel="4" id="920200037" mountsCfgId="920100003" mountsRank="10" needRoleLevel="73" rankUpConvertScore="108800" rankUpCostItemId="210140122" rankUpCostItemIdNum="400" rankUpCostMountsNum="2" rankUpNeedScoreNum="72000" rankUpcostItemType="87" speed="300" unlockItemId="214600039" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="24" provalue="200"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="16" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="4" id="920200047" mountsCfgId="920100004" mountsRank="9" needRoleLevel="73" rankUpConvertScore="65600" rankUpCostItemId="210140122" rankUpCostItemIdNum="300" rankUpCostMountsNum="2" rankUpNeedScoreNum="43200" rankUpcostItemType="87" speed="290" unlockItemId="214600048" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="135"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="270"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  <mzm.gsp.mounts.confbean.SMountsRankOriginalCfg activeSkillCfgId="110021004" activeSkillLevel="4" id="920200047" mountsCfgId="920100004" mountsRank="10" needRoleLevel="73" rankUpConvertScore="108800" rankUpCostItemId="210140122" rankUpCostItemIdNum="400" rankUpCostMountsNum="2" rankUpNeedScoreNum="72000" rankUpcostItemType="87" speed="300" unlockItemId="214600049" unlockItemIdNum="1">
+    <proList>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="17" provalue="150"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="88" provalue="300"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+      <mzm.gsp.mounts.confbean.Pro2Value protype="0" provalue="0"/>
+    </proList>
+  </mzm.gsp.mounts.confbean.SMountsRankOriginalCfg>
+  
+</data>

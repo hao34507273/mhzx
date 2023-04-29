@@ -1,0 +1,24 @@
+<data>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="497" desc="購買立即返還" id="480700000" level_cond="0" name="立即返还" serviceId="21" sort_id="1"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="490" desc="等級達到30級即可領取" id="480700001" level_cond="30" name="成长基金188" serviceId="21" sort_id="2"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="491" desc="等級達到40級即可領取" id="480700002" level_cond="40" name="成长基金288" serviceId="21" sort_id="3"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="492" desc="等級達到45級即可領取" id="480700003" level_cond="45" name="成长基金328" serviceId="21" sort_id="4"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="493" desc="等級達到50級即可領取" id="480700004" level_cond="50" name="成长基金388" serviceId="21" sort_id="5"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="494" desc="等級達到55級即可領取" id="480700005" level_cond="55" name="成长基金488" serviceId="21" sort_id="6"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="495" desc="等級達到60級即可領取" id="480700006" level_cond="60" name="成长基金588" serviceId="21" sort_id="7"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000100" award_cfg_id="496" desc="等級達到65級即可領取" id="480700007" level_cond="65" name="成长基金688" serviceId="21" sort_id="8"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="393" desc="購買立即返還" id="480700010" level_cond="70" name="立即返还" serviceId="22" sort_id="1"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="380" desc="等級達到70級即可領取" id="480700011" level_cond="70" name="变强基金188" serviceId="22" sort_id="2"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="381" desc="等級達到75級即可領取" id="480700012" level_cond="75" name="变强基金228" serviceId="22" sort_id="3"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="382" desc="等級達到80級即可領取" id="480700013" level_cond="80" name="变强基金288" serviceId="22" sort_id="4"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="383" desc="等級達到85級即可領取" id="480700014" level_cond="85" name="变强基金328" serviceId="22" sort_id="5"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="384" desc="等級達到88級即可領取" id="480700015" level_cond="88" name="变强基金388" serviceId="22" sort_id="6"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="385" desc="等級達到90級即可領取" id="480700016" level_cond="90" name="变强基金428" serviceId="22" sort_id="7"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="386" desc="等級達到92級即可領取" id="480700017" level_cond="92" name="变强基金488" serviceId="22" sort_id="8"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="387" desc="等級達到94級即可領取" id="480700018" level_cond="94" name="变强基金528" serviceId="22" sort_id="9"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="388" desc="等級達到95級即可領取" id="480700019" level_cond="95" name="变强基金588" serviceId="22" sort_id="10"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="389" desc="等級達到96級即可領取" id="480700020" level_cond="96" name="变强基金628" serviceId="22" sort_id="11"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="390" desc="等級達到97級即可領取" id="480700021" level_cond="97" name="变强基金688" serviceId="22" sort_id="12"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="391" desc="等級達到98級即可領取" id="480700022" level_cond="98" name="变强基金728" serviceId="22" sort_id="13"/>
+  <mzm.gsp.qingfu.confbean.LevelGrowthFundOriginalCfg activity_cfg_id="350000099" award_cfg_id="392" desc="等級達到99級即可領取" id="480700023" level_cond="99" name="变强基金788" serviceId="22" sort_id="14"/>
+</data>

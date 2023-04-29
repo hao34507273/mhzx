@@ -1,0 +1,638 @@
+<data>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="1">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800000" needExp="236" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800001" needExp="354" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800002" needExp="444" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800003" needExp="666" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800004" needExp="996" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800005" needExp="1494" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800006" needExp="2270" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800007" needExp="2790" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800008" needExp="5000" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800009" needExp="6650" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800010" needExp="9840" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800011" needExp="12280" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800012" needExp="17820" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800013" needExp="29070" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800014" needExp="46840" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800015" needExp="62120" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800016" needExp="73850" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800017" needExp="83600" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800018" needExp="96800" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800019" needExp="193600" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+	  <!--角色攻法21到25-->
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800020" needExp="300000" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800021" needExp="400000" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800022" needExp="500000" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800023" needExp="600000" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111800024" needExp="700000" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="2">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801000" needExp="79" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801001" needExp="118" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801002" needExp="148" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801003" needExp="222" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801004" needExp="332" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801005" needExp="498" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801006" needExp="757" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801007" needExp="930" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801008" needExp="1667" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801009" needExp="2217" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801010" needExp="3280" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801011" needExp="4094" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801012" needExp="5940" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801013" needExp="9690" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801014" needExp="15614" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801015" needExp="20707" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801016" needExp="24617" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801017" needExp="27867" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801018" needExp="32267" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801019" needExp="64534" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+      <!--角色其他21到25-->
+	  <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801020" needExp="84534" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+	  <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801021" needExp="104534" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+	  <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801022" needExp="124534" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+	  <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801023" needExp="144534" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+	  <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111801024" needExp="244534" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="3">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802000" needExp="177" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802001" needExp="266" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802002" needExp="333" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802003" needExp="500" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802004" needExp="747" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802005" needExp="1121" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802006" needExp="1703" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802007" needExp="2093" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802008" needExp="3750" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802009" needExp="4988" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802010" needExp="7380" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802011" needExp="9210" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802012" needExp="13365" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802013" needExp="21803" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802014" needExp="35130" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802015" needExp="46590" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802016" needExp="55388" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802017" needExp="62700" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802018" needExp="72600" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802019" needExp="145200" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+	  <!--宠物攻法21到25-->
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802020" needExp="215200" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802021" needExp="285200" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802022" needExp="355200" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802023" needExp="425200" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111802024" needExp="495200" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="4">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803000" needExp="89" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803001" needExp="133" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803002" needExp="167" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803003" needExp="250" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803004" needExp="374" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803005" needExp="561" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803006" needExp="852" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803007" needExp="1047" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803008" needExp="1875" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803009" needExp="2494" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803010" needExp="3690" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803011" needExp="4605" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803012" needExp="6683" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803013" needExp="10902" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803014" needExp="17565" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803015" needExp="23295" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803016" needExp="27694" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803017" needExp="31350" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803018" needExp="36300" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803019" needExp="72600" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+	  <!--宠物双防21到25-->
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803020" needExp="102600" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803021" needExp="132600" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803022" needExp="162600" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803023" needExp="192600" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111803024" needExp="212600" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="5">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804000" needExp="236" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804001" needExp="354" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804002" needExp="444" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804003" needExp="666" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804004" needExp="996" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804005" needExp="1494" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804006" needExp="2270" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804007" needExp="2790" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804008" needExp="5000" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804009" needExp="6650" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804010" needExp="9840" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804011" needExp="12280" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804012" needExp="17820" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804013" needExp="29070" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804014" needExp="46840" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804015" needExp="62120" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804016" needExp="73850" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804017" needExp="83600" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804018" needExp="96800" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804019" needExp="193600" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+	  <!--伙伴综合21到25-->
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804020" needExp="293600" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804021" needExp="393600" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804022" needExp="493600" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804023" needExp="593600" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111804024" needExp="693600" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+  <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg type="6">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805000" needExp="236" needRoleLevel="35" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805001" needExp="354" needRoleLevel="40" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805002" needExp="444" needRoleLevel="45" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805003" needExp="666" needRoleLevel="45" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805004" needExp="996" needRoleLevel="50" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805005" needExp="1494" needRoleLevel="50" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805006" needExp="2270" needRoleLevel="55" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805007" needExp="2790" needRoleLevel="55" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805008" needExp="5000" needRoleLevel="60" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805009" needExp="6650" needRoleLevel="65" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805010" needExp="9840" needRoleLevel="70" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805011" needExp="12280" needRoleLevel="75" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805012" needExp="17820" needRoleLevel="80" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805013" needExp="29070" needRoleLevel="85" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805014" needExp="46840" needRoleLevel="90" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805015" needExp="62120" needRoleLevel="95" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805016" needExp="73850" needRoleLevel="100" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805017" needExp="83600" needRoleLevel="105" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805018" needExp="96800" needRoleLevel="110" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805019" needExp="193600" needRoleLevel="115" skillbaglevel="20"/>
+      </entry>
+	  <!--子女综合21到25-->
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805020" needExp="293600" needRoleLevel="115" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805021" needExp="393600" needRoleLevel="115" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805022" needExp="493600" needRoleLevel="115" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805023" needExp="593600" needRoleLevel="115" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfgInfo id="111805024" needExp="693600" needRoleLevel="115" skillbaglevel="25"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STXiuLianSkillBagLevelUpCfg>
+</data>

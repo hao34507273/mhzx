@@ -1,0 +1,16 @@
+<data>
+  <mzm.gsp.item.confbean.SRidderDyeItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="237" id="213300000" isProprietary="false" name="彩虹石" namecolor="5" pilemax="20" sellSilver="20000" sort="1" type="48" useLevel="0">
+    <dyeids>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445000" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445001" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445002" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445003" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445004" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445005" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445006" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445007" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445008" rate="1000"/>
+      <mzm.gsp.item.confbean.Dyeid2Rate dyeid="701445009" rate="1000"/>
+    </dyeids>
+  </mzm.gsp.item.confbean.SRidderDyeItem>
+</data>

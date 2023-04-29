@@ -1,0 +1,72 @@
+<data>
+  <mzm.gsp.mibao.confbean.SMiBaoLotteryCfg costCurrencyNum="10" costCurrencyType="1" id="481500000" itemId="214200000" itemNum="-1" randomItemSize="10">
+    <randomItemList>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131995" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131996" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131997" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131998" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131999" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132000" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132001" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132002" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132003" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132004" randomItemIdChance="1000"/>
+    </randomItemList>
+  </mzm.gsp.mibao.confbean.SMiBaoLotteryCfg>
+  <mzm.gsp.mibao.confbean.SMiBaoLotteryCfg costCurrencyNum="10" costCurrencyType="2" id="481500001" itemId="214200000" itemNum="-1" randomItemSize="10">
+    <randomItemList>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131995" randomItemIdChance="5000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131996" randomItemIdChance="4000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131997" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131998" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210131999" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132000" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132001" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132002" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132003" randomItemIdChance="125"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210132004" randomItemIdChance="125"/>
+    </randomItemList>
+  </mzm.gsp.mibao.confbean.SMiBaoLotteryCfg>
+  <mzm.gsp.mibao.confbean.SMiBaoLotteryCfg costCurrencyNum="10" costCurrencyType="1" id="481500002" itemId="214200000" itemNum="-1" randomItemSize="1">
+    <randomItemList>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101001" randomItemIdChance="10000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+    </randomItemList>
+  </mzm.gsp.mibao.confbean.SMiBaoLotteryCfg>
+  <mzm.gsp.mibao.confbean.SMiBaoLotteryCfg costCurrencyNum="10" costCurrencyType="1" id="481500003" itemId="214200000" itemNum="-1" randomItemSize="2">
+    <randomItemList>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101001" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101002" randomItemIdChance="9000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+    </randomItemList>
+  </mzm.gsp.mibao.confbean.SMiBaoLotteryCfg>
+  <mzm.gsp.mibao.confbean.SMiBaoLotteryCfg costCurrencyNum="10" costCurrencyType="1" id="481500004" itemId="214200000" itemNum="-1" randomItemSize="3">
+    <randomItemList>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101001" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101002" randomItemIdChance="1000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="210101003" randomItemIdChance="8000"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+      <mzm.gsp.mibao.confbean.RandomItemBean randomItemId="0" randomItemIdChance="0"/>
+    </randomItemList>
+  </mzm.gsp.mibao.confbean.SMiBaoLotteryCfg>
+</data>

@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="40" addVigorNum="40" dayCutCleanliness="1" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200000" level="1" moneyNum="100000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="50" addVigorNum="45" dayCutCleanliness="1" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200001" level="2" moneyNum="200000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="60" addVigorNum="50" dayCutCleanliness="1" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200002" level="3" moneyNum="500000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="70" addVigorNum="55" dayCutCleanliness="2" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200003" level="4" moneyNum="800000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="80" addVigorNum="60" dayCutCleanliness="2" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200004" level="5" moneyNum="1100000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="90" addVigorNum="65" dayCutCleanliness="2" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200005" level="6" moneyNum="1400000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="100" addVigorNum="70" dayCutCleanliness="3" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200006" level="7" moneyNum="1800000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="110" addVigorNum="75" dayCutCleanliness="3" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200007" level="8" moneyNum="2200000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="120" addVigorNum="80" dayCutCleanliness="3" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200008" level="9" moneyNum="2700000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="130" addVigorNum="85" dayCutCleanliness="4" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200009" level="10" moneyNum="3100000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="140" addVigorNum="90" dayCutCleanliness="4" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200010" level="11" moneyNum="3600000" moneyType="3"/>
+  <mzm.gsp.homeland.confbean.SBedRoomCfg addSatiationNum="150" addVigorNum="95" dayCutCleanliness="4" dayRestoreSatiationCount="2" dayRestoreVigorCount="2" id="840200011" level="12" moneyNum="4100000" moneyType="3"/>
+</data>

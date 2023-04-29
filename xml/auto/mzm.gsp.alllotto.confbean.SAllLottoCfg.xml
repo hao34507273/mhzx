@@ -1,0 +1,2502 @@
+<data>
+  <mzm.gsp.alllotto.confbean.SAllLottoCfg activity_cfg_id="350020401" award_mail_cfg_id="340010026" server_level_limit="60">
+    <warm_up_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1508583000" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1508669400" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1508842200" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1508928600" warm_up_fix_award_id="303"/>
+      </entry>
+    </warm_up_infos>
+    <turn_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508583600"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508584200"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508584800"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508585400"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508586000"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508586600"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14007" timestamp="1508587200"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508587800"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508588400"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508589000"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508589600"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508590200"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508590800"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508591400"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508592000"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508592600"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508593200"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508593800"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508594400"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508595000"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508595600"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508596200"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508596800"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508597400"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508598000"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508670000"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508670600"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508671200"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508671800"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508672400"/>
+      </entry>
+      <entry>
+        <int>31</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508673000"/>
+      </entry>
+      <entry>
+        <int>32</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14007" timestamp="1508673600"/>
+      </entry>
+      <entry>
+        <int>33</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508674200"/>
+      </entry>
+      <entry>
+        <int>34</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508674800"/>
+      </entry>
+      <entry>
+        <int>35</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508675400"/>
+      </entry>
+      <entry>
+        <int>36</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508676000"/>
+      </entry>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508676600"/>
+      </entry>
+      <entry>
+        <int>38</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508677200"/>
+      </entry>
+      <entry>
+        <int>39</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508677800"/>
+      </entry>
+      <entry>
+        <int>40</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508678400"/>
+      </entry>
+      <entry>
+        <int>41</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508679000"/>
+      </entry>
+      <entry>
+        <int>42</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508679600"/>
+      </entry>
+      <entry>
+        <int>43</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508680200"/>
+      </entry>
+      <entry>
+        <int>44</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508680800"/>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508681400"/>
+      </entry>
+      <entry>
+        <int>46</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508682000"/>
+      </entry>
+      <entry>
+        <int>47</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508682600"/>
+      </entry>
+      <entry>
+        <int>48</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508683200"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508683800"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508684400"/>
+      </entry>
+      <entry>
+        <int>51</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508842800"/>
+      </entry>
+      <entry>
+        <int>52</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508843400"/>
+      </entry>
+      <entry>
+        <int>53</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508844000"/>
+      </entry>
+      <entry>
+        <int>54</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508844600"/>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508845200"/>
+      </entry>
+      <entry>
+        <int>56</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508845800"/>
+      </entry>
+      <entry>
+        <int>57</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14007" timestamp="1508846400"/>
+      </entry>
+      <entry>
+        <int>58</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508847000"/>
+      </entry>
+      <entry>
+        <int>59</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508847600"/>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508848200"/>
+      </entry>
+      <entry>
+        <int>61</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508848800"/>
+      </entry>
+      <entry>
+        <int>62</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508849400"/>
+      </entry>
+      <entry>
+        <int>63</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508850000"/>
+      </entry>
+      <entry>
+        <int>64</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508850600"/>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508851200"/>
+      </entry>
+      <entry>
+        <int>66</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508851800"/>
+      </entry>
+      <entry>
+        <int>67</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508852400"/>
+      </entry>
+      <entry>
+        <int>68</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508853000"/>
+      </entry>
+      <entry>
+        <int>69</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508853600"/>
+      </entry>
+      <entry>
+        <int>70</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508854200"/>
+      </entry>
+      <entry>
+        <int>71</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508854800"/>
+      </entry>
+      <entry>
+        <int>72</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508855400"/>
+      </entry>
+      <entry>
+        <int>73</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508856000"/>
+      </entry>
+      <entry>
+        <int>74</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508856600"/>
+      </entry>
+      <entry>
+        <int>75</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508857200"/>
+      </entry>
+      <entry>
+        <int>76</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508929200"/>
+      </entry>
+      <entry>
+        <int>77</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508929800"/>
+      </entry>
+      <entry>
+        <int>78</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508930400"/>
+      </entry>
+      <entry>
+        <int>79</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508931000"/>
+      </entry>
+      <entry>
+        <int>80</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508931600"/>
+      </entry>
+      <entry>
+        <int>81</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508932200"/>
+      </entry>
+      <entry>
+        <int>82</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14007" timestamp="1508932800"/>
+      </entry>
+      <entry>
+        <int>83</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508933400"/>
+      </entry>
+      <entry>
+        <int>84</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508934000"/>
+      </entry>
+      <entry>
+        <int>85</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508934600"/>
+      </entry>
+      <entry>
+        <int>86</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508935200"/>
+      </entry>
+      <entry>
+        <int>87</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508935800"/>
+      </entry>
+      <entry>
+        <int>88</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508936400"/>
+      </entry>
+      <entry>
+        <int>89</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508937000"/>
+      </entry>
+      <entry>
+        <int>90</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508937600"/>
+      </entry>
+      <entry>
+        <int>91</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508938200"/>
+      </entry>
+      <entry>
+        <int>92</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508938800"/>
+      </entry>
+      <entry>
+        <int>93</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508939400"/>
+      </entry>
+      <entry>
+        <int>94</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508940000"/>
+      </entry>
+      <entry>
+        <int>95</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14002" timestamp="1508940600"/>
+      </entry>
+      <entry>
+        <int>96</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14003" timestamp="1508941200"/>
+      </entry>
+      <entry>
+        <int>97</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14004" timestamp="1508941800"/>
+      </entry>
+      <entry>
+        <int>98</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14005" timestamp="1508942400"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14006" timestamp="1508943000"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14001" timestamp="1508943600"/>
+      </entry>
+    </turn_infos>
+    <turn_time_infos>
+      <no-comparator/>
+      <entry>
+        <int>1508583600</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>1508584200</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1508584800</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>1508585400</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>1508586000</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>1508586600</int>
+        <int>6</int>
+      </entry>
+      <entry>
+        <int>1508587200</int>
+        <int>7</int>
+      </entry>
+      <entry>
+        <int>1508587800</int>
+        <int>8</int>
+      </entry>
+      <entry>
+        <int>1508588400</int>
+        <int>9</int>
+      </entry>
+      <entry>
+        <int>1508589000</int>
+        <int>10</int>
+      </entry>
+      <entry>
+        <int>1508589600</int>
+        <int>11</int>
+      </entry>
+      <entry>
+        <int>1508590200</int>
+        <int>12</int>
+      </entry>
+      <entry>
+        <int>1508590800</int>
+        <int>13</int>
+      </entry>
+      <entry>
+        <int>1508591400</int>
+        <int>14</int>
+      </entry>
+      <entry>
+        <int>1508592000</int>
+        <int>15</int>
+      </entry>
+      <entry>
+        <int>1508592600</int>
+        <int>16</int>
+      </entry>
+      <entry>
+        <int>1508593200</int>
+        <int>17</int>
+      </entry>
+      <entry>
+        <int>1508593800</int>
+        <int>18</int>
+      </entry>
+      <entry>
+        <int>1508594400</int>
+        <int>19</int>
+      </entry>
+      <entry>
+        <int>1508595000</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>1508595600</int>
+        <int>21</int>
+      </entry>
+      <entry>
+        <int>1508596200</int>
+        <int>22</int>
+      </entry>
+      <entry>
+        <int>1508596800</int>
+        <int>23</int>
+      </entry>
+      <entry>
+        <int>1508597400</int>
+        <int>24</int>
+      </entry>
+      <entry>
+        <int>1508598000</int>
+        <int>25</int>
+      </entry>
+      <entry>
+        <int>1508670000</int>
+        <int>26</int>
+      </entry>
+      <entry>
+        <int>1508670600</int>
+        <int>27</int>
+      </entry>
+      <entry>
+        <int>1508671200</int>
+        <int>28</int>
+      </entry>
+      <entry>
+        <int>1508671800</int>
+        <int>29</int>
+      </entry>
+      <entry>
+        <int>1508672400</int>
+        <int>30</int>
+      </entry>
+      <entry>
+        <int>1508673000</int>
+        <int>31</int>
+      </entry>
+      <entry>
+        <int>1508673600</int>
+        <int>32</int>
+      </entry>
+      <entry>
+        <int>1508674200</int>
+        <int>33</int>
+      </entry>
+      <entry>
+        <int>1508674800</int>
+        <int>34</int>
+      </entry>
+      <entry>
+        <int>1508675400</int>
+        <int>35</int>
+      </entry>
+      <entry>
+        <int>1508676000</int>
+        <int>36</int>
+      </entry>
+      <entry>
+        <int>1508676600</int>
+        <int>37</int>
+      </entry>
+      <entry>
+        <int>1508677200</int>
+        <int>38</int>
+      </entry>
+      <entry>
+        <int>1508677800</int>
+        <int>39</int>
+      </entry>
+      <entry>
+        <int>1508678400</int>
+        <int>40</int>
+      </entry>
+      <entry>
+        <int>1508679000</int>
+        <int>41</int>
+      </entry>
+      <entry>
+        <int>1508679600</int>
+        <int>42</int>
+      </entry>
+      <entry>
+        <int>1508680200</int>
+        <int>43</int>
+      </entry>
+      <entry>
+        <int>1508680800</int>
+        <int>44</int>
+      </entry>
+      <entry>
+        <int>1508681400</int>
+        <int>45</int>
+      </entry>
+      <entry>
+        <int>1508682000</int>
+        <int>46</int>
+      </entry>
+      <entry>
+        <int>1508682600</int>
+        <int>47</int>
+      </entry>
+      <entry>
+        <int>1508683200</int>
+        <int>48</int>
+      </entry>
+      <entry>
+        <int>1508683800</int>
+        <int>49</int>
+      </entry>
+      <entry>
+        <int>1508684400</int>
+        <int>50</int>
+      </entry>
+      <entry>
+        <int>1508842800</int>
+        <int>51</int>
+      </entry>
+      <entry>
+        <int>1508843400</int>
+        <int>52</int>
+      </entry>
+      <entry>
+        <int>1508844000</int>
+        <int>53</int>
+      </entry>
+      <entry>
+        <int>1508844600</int>
+        <int>54</int>
+      </entry>
+      <entry>
+        <int>1508845200</int>
+        <int>55</int>
+      </entry>
+      <entry>
+        <int>1508845800</int>
+        <int>56</int>
+      </entry>
+      <entry>
+        <int>1508846400</int>
+        <int>57</int>
+      </entry>
+      <entry>
+        <int>1508847000</int>
+        <int>58</int>
+      </entry>
+      <entry>
+        <int>1508847600</int>
+        <int>59</int>
+      </entry>
+      <entry>
+        <int>1508848200</int>
+        <int>60</int>
+      </entry>
+      <entry>
+        <int>1508848800</int>
+        <int>61</int>
+      </entry>
+      <entry>
+        <int>1508849400</int>
+        <int>62</int>
+      </entry>
+      <entry>
+        <int>1508850000</int>
+        <int>63</int>
+      </entry>
+      <entry>
+        <int>1508850600</int>
+        <int>64</int>
+      </entry>
+      <entry>
+        <int>1508851200</int>
+        <int>65</int>
+      </entry>
+      <entry>
+        <int>1508851800</int>
+        <int>66</int>
+      </entry>
+      <entry>
+        <int>1508852400</int>
+        <int>67</int>
+      </entry>
+      <entry>
+        <int>1508853000</int>
+        <int>68</int>
+      </entry>
+      <entry>
+        <int>1508853600</int>
+        <int>69</int>
+      </entry>
+      <entry>
+        <int>1508854200</int>
+        <int>70</int>
+      </entry>
+      <entry>
+        <int>1508854800</int>
+        <int>71</int>
+      </entry>
+      <entry>
+        <int>1508855400</int>
+        <int>72</int>
+      </entry>
+      <entry>
+        <int>1508856000</int>
+        <int>73</int>
+      </entry>
+      <entry>
+        <int>1508856600</int>
+        <int>74</int>
+      </entry>
+      <entry>
+        <int>1508857200</int>
+        <int>75</int>
+      </entry>
+      <entry>
+        <int>1508929200</int>
+        <int>76</int>
+      </entry>
+      <entry>
+        <int>1508929800</int>
+        <int>77</int>
+      </entry>
+      <entry>
+        <int>1508930400</int>
+        <int>78</int>
+      </entry>
+      <entry>
+        <int>1508931000</int>
+        <int>79</int>
+      </entry>
+      <entry>
+        <int>1508931600</int>
+        <int>80</int>
+      </entry>
+      <entry>
+        <int>1508932200</int>
+        <int>81</int>
+      </entry>
+      <entry>
+        <int>1508932800</int>
+        <int>82</int>
+      </entry>
+      <entry>
+        <int>1508933400</int>
+        <int>83</int>
+      </entry>
+      <entry>
+        <int>1508934000</int>
+        <int>84</int>
+      </entry>
+      <entry>
+        <int>1508934600</int>
+        <int>85</int>
+      </entry>
+      <entry>
+        <int>1508935200</int>
+        <int>86</int>
+      </entry>
+      <entry>
+        <int>1508935800</int>
+        <int>87</int>
+      </entry>
+      <entry>
+        <int>1508936400</int>
+        <int>88</int>
+      </entry>
+      <entry>
+        <int>1508937000</int>
+        <int>89</int>
+      </entry>
+      <entry>
+        <int>1508937600</int>
+        <int>90</int>
+      </entry>
+      <entry>
+        <int>1508938200</int>
+        <int>91</int>
+      </entry>
+      <entry>
+        <int>1508938800</int>
+        <int>92</int>
+      </entry>
+      <entry>
+        <int>1508939400</int>
+        <int>93</int>
+      </entry>
+      <entry>
+        <int>1508940000</int>
+        <int>94</int>
+      </entry>
+      <entry>
+        <int>1508940600</int>
+        <int>95</int>
+      </entry>
+      <entry>
+        <int>1508941200</int>
+        <int>96</int>
+      </entry>
+      <entry>
+        <int>1508941800</int>
+        <int>97</int>
+      </entry>
+      <entry>
+        <int>1508942400</int>
+        <int>98</int>
+      </entry>
+      <entry>
+        <int>1508943000</int>
+        <int>99</int>
+      </entry>
+      <entry>
+        <int>1508943600</int>
+        <int>100</int>
+      </entry>
+    </turn_time_infos>
+    <condition_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="1" condition_value="50"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="2" condition_value="1000"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="3" condition_value="30"/>
+      </entry>
+    </condition_infos>
+  </mzm.gsp.alllotto.confbean.SAllLottoCfg>
+  <mzm.gsp.alllotto.confbean.SAllLottoCfg activity_cfg_id="350020400" award_mail_cfg_id="340010020" server_level_limit="60">
+    <warm_up_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1509360600" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1509447000" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1509965400" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1510051800" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1510570200" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1510656600" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1511175000" warm_up_fix_award_id="303"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoWarmUpInfo timestamp="1511261400" warm_up_fix_award_id="303"/>
+      </entry>
+    </warm_up_infos>
+    <turn_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1509361200"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509361800"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509362400"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509363000"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509363600"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509364200"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1509364800"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509365400"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509366000"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509366600"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509367200"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509367800"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1509368400"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509369000"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509369600"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509370200"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509370800"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509371400"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1509372000"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509372600"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509373200"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509373800"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509374400"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509375000"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1509375600"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1509447600"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509448200"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509448800"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509449400"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509450000"/>
+      </entry>
+      <entry>
+        <int>31</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509450600"/>
+      </entry>
+      <entry>
+        <int>32</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1509451200"/>
+      </entry>
+      <entry>
+        <int>33</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509451800"/>
+      </entry>
+      <entry>
+        <int>34</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509452400"/>
+      </entry>
+      <entry>
+        <int>35</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509453000"/>
+      </entry>
+      <entry>
+        <int>36</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509453600"/>
+      </entry>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509454200"/>
+      </entry>
+      <entry>
+        <int>38</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1509454800"/>
+      </entry>
+      <entry>
+        <int>39</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509455400"/>
+      </entry>
+      <entry>
+        <int>40</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509456000"/>
+      </entry>
+      <entry>
+        <int>41</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509456600"/>
+      </entry>
+      <entry>
+        <int>42</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509457200"/>
+      </entry>
+      <entry>
+        <int>43</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509457800"/>
+      </entry>
+      <entry>
+        <int>44</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1509458400"/>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509459000"/>
+      </entry>
+      <entry>
+        <int>46</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509459600"/>
+      </entry>
+      <entry>
+        <int>47</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509460200"/>
+      </entry>
+      <entry>
+        <int>48</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509460800"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509461400"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1509462000"/>
+      </entry>
+      <entry>
+        <int>51</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1509966000"/>
+      </entry>
+      <entry>
+        <int>52</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509966600"/>
+      </entry>
+      <entry>
+        <int>53</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509967200"/>
+      </entry>
+      <entry>
+        <int>54</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509967800"/>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509968400"/>
+      </entry>
+      <entry>
+        <int>56</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509969000"/>
+      </entry>
+      <entry>
+        <int>57</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1509969600"/>
+      </entry>
+      <entry>
+        <int>58</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509970200"/>
+      </entry>
+      <entry>
+        <int>59</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509970800"/>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509971400"/>
+      </entry>
+      <entry>
+        <int>61</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509972000"/>
+      </entry>
+      <entry>
+        <int>62</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509972600"/>
+      </entry>
+      <entry>
+        <int>63</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1509973200"/>
+      </entry>
+      <entry>
+        <int>64</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509973800"/>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1509974400"/>
+      </entry>
+      <entry>
+        <int>66</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509975000"/>
+      </entry>
+      <entry>
+        <int>67</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1509975600"/>
+      </entry>
+      <entry>
+        <int>68</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1509976200"/>
+      </entry>
+      <entry>
+        <int>69</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1509976800"/>
+      </entry>
+      <entry>
+        <int>70</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1509977400"/>
+      </entry>
+      <entry>
+        <int>71</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1509978000"/>
+      </entry>
+      <entry>
+        <int>72</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1509978600"/>
+      </entry>
+      <entry>
+        <int>73</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1509979200"/>
+      </entry>
+      <entry>
+        <int>74</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1509979800"/>
+      </entry>
+      <entry>
+        <int>75</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1509980400"/>
+      </entry>
+      <entry>
+        <int>76</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1510052400"/>
+      </entry>
+      <entry>
+        <int>77</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510053000"/>
+      </entry>
+      <entry>
+        <int>78</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510053600"/>
+      </entry>
+      <entry>
+        <int>79</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510054200"/>
+      </entry>
+      <entry>
+        <int>80</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510054800"/>
+      </entry>
+      <entry>
+        <int>81</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510055400"/>
+      </entry>
+      <entry>
+        <int>82</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1510056000"/>
+      </entry>
+      <entry>
+        <int>83</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510056600"/>
+      </entry>
+      <entry>
+        <int>84</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510057200"/>
+      </entry>
+      <entry>
+        <int>85</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510057800"/>
+      </entry>
+      <entry>
+        <int>86</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510058400"/>
+      </entry>
+      <entry>
+        <int>87</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510059000"/>
+      </entry>
+      <entry>
+        <int>88</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1510059600"/>
+      </entry>
+      <entry>
+        <int>89</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510060200"/>
+      </entry>
+      <entry>
+        <int>90</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510060800"/>
+      </entry>
+      <entry>
+        <int>91</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510061400"/>
+      </entry>
+      <entry>
+        <int>92</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510062000"/>
+      </entry>
+      <entry>
+        <int>93</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510062600"/>
+      </entry>
+      <entry>
+        <int>94</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1510063200"/>
+      </entry>
+      <entry>
+        <int>95</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510063800"/>
+      </entry>
+      <entry>
+        <int>96</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510064400"/>
+      </entry>
+      <entry>
+        <int>97</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510065000"/>
+      </entry>
+      <entry>
+        <int>98</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510065600"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510066200"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1510066800"/>
+      </entry>
+      <entry>
+        <int>101</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1510570800"/>
+      </entry>
+      <entry>
+        <int>102</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510571400"/>
+      </entry>
+      <entry>
+        <int>103</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510572000"/>
+      </entry>
+      <entry>
+        <int>104</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510572600"/>
+      </entry>
+      <entry>
+        <int>105</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510573200"/>
+      </entry>
+      <entry>
+        <int>106</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510573800"/>
+      </entry>
+      <entry>
+        <int>107</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1510574400"/>
+      </entry>
+      <entry>
+        <int>108</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510575000"/>
+      </entry>
+      <entry>
+        <int>109</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510575600"/>
+      </entry>
+      <entry>
+        <int>110</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510576200"/>
+      </entry>
+      <entry>
+        <int>111</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510576800"/>
+      </entry>
+      <entry>
+        <int>112</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510577400"/>
+      </entry>
+      <entry>
+        <int>113</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1510578000"/>
+      </entry>
+      <entry>
+        <int>114</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510578600"/>
+      </entry>
+      <entry>
+        <int>115</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510579200"/>
+      </entry>
+      <entry>
+        <int>116</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510579800"/>
+      </entry>
+      <entry>
+        <int>117</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510580400"/>
+      </entry>
+      <entry>
+        <int>118</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510581000"/>
+      </entry>
+      <entry>
+        <int>119</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1510581600"/>
+      </entry>
+      <entry>
+        <int>120</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510582200"/>
+      </entry>
+      <entry>
+        <int>121</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510582800"/>
+      </entry>
+      <entry>
+        <int>122</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510583400"/>
+      </entry>
+      <entry>
+        <int>123</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510584000"/>
+      </entry>
+      <entry>
+        <int>124</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510584600"/>
+      </entry>
+      <entry>
+        <int>125</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1510585200"/>
+      </entry>
+      <entry>
+        <int>126</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1510657200"/>
+      </entry>
+      <entry>
+        <int>127</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510657800"/>
+      </entry>
+      <entry>
+        <int>128</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510658400"/>
+      </entry>
+      <entry>
+        <int>129</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510659000"/>
+      </entry>
+      <entry>
+        <int>130</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510659600"/>
+      </entry>
+      <entry>
+        <int>131</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510660200"/>
+      </entry>
+      <entry>
+        <int>132</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1510660800"/>
+      </entry>
+      <entry>
+        <int>133</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510661400"/>
+      </entry>
+      <entry>
+        <int>134</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510662000"/>
+      </entry>
+      <entry>
+        <int>135</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510662600"/>
+      </entry>
+      <entry>
+        <int>136</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510663200"/>
+      </entry>
+      <entry>
+        <int>137</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510663800"/>
+      </entry>
+      <entry>
+        <int>138</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1510664400"/>
+      </entry>
+      <entry>
+        <int>139</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510665000"/>
+      </entry>
+      <entry>
+        <int>140</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1510665600"/>
+      </entry>
+      <entry>
+        <int>141</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510666200"/>
+      </entry>
+      <entry>
+        <int>142</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1510666800"/>
+      </entry>
+      <entry>
+        <int>143</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1510667400"/>
+      </entry>
+      <entry>
+        <int>144</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1510668000"/>
+      </entry>
+      <entry>
+        <int>145</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1510668600"/>
+      </entry>
+      <entry>
+        <int>146</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1510669200"/>
+      </entry>
+      <entry>
+        <int>147</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1510669800"/>
+      </entry>
+      <entry>
+        <int>148</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1510670400"/>
+      </entry>
+      <entry>
+        <int>149</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1510671000"/>
+      </entry>
+      <entry>
+        <int>150</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1510671600"/>
+      </entry>
+      <entry>
+        <int>151</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1511175600"/>
+      </entry>
+      <entry>
+        <int>152</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511176200"/>
+      </entry>
+      <entry>
+        <int>153</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1511176800"/>
+      </entry>
+      <entry>
+        <int>154</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511177400"/>
+      </entry>
+      <entry>
+        <int>155</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1511178000"/>
+      </entry>
+      <entry>
+        <int>156</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511178600"/>
+      </entry>
+      <entry>
+        <int>157</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1511179200"/>
+      </entry>
+      <entry>
+        <int>158</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511179800"/>
+      </entry>
+      <entry>
+        <int>159</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1511180400"/>
+      </entry>
+      <entry>
+        <int>160</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511181000"/>
+      </entry>
+      <entry>
+        <int>161</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1511181600"/>
+      </entry>
+      <entry>
+        <int>162</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511182200"/>
+      </entry>
+      <entry>
+        <int>163</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1511182800"/>
+      </entry>
+      <entry>
+        <int>164</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511183400"/>
+      </entry>
+      <entry>
+        <int>165</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1511184000"/>
+      </entry>
+      <entry>
+        <int>166</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511184600"/>
+      </entry>
+      <entry>
+        <int>167</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1511185200"/>
+      </entry>
+      <entry>
+        <int>168</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511185800"/>
+      </entry>
+      <entry>
+        <int>169</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1511186400"/>
+      </entry>
+      <entry>
+        <int>170</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511187000"/>
+      </entry>
+      <entry>
+        <int>171</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1511187600"/>
+      </entry>
+      <entry>
+        <int>172</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511188200"/>
+      </entry>
+      <entry>
+        <int>173</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1511188800"/>
+      </entry>
+      <entry>
+        <int>174</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511189400"/>
+      </entry>
+      <entry>
+        <int>175</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1511190000"/>
+      </entry>
+      <entry>
+        <int>176</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14014" timestamp="1511262000"/>
+      </entry>
+      <entry>
+        <int>177</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511262600"/>
+      </entry>
+      <entry>
+        <int>178</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1511263200"/>
+      </entry>
+      <entry>
+        <int>179</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511263800"/>
+      </entry>
+      <entry>
+        <int>180</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1511264400"/>
+      </entry>
+      <entry>
+        <int>181</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511265000"/>
+      </entry>
+      <entry>
+        <int>182</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14015" timestamp="1511265600"/>
+      </entry>
+      <entry>
+        <int>183</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511266200"/>
+      </entry>
+      <entry>
+        <int>184</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1511266800"/>
+      </entry>
+      <entry>
+        <int>185</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511267400"/>
+      </entry>
+      <entry>
+        <int>186</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1511268000"/>
+      </entry>
+      <entry>
+        <int>187</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511268600"/>
+      </entry>
+      <entry>
+        <int>188</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14016" timestamp="1511269200"/>
+      </entry>
+      <entry>
+        <int>189</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511269800"/>
+      </entry>
+      <entry>
+        <int>190</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14019" timestamp="1511270400"/>
+      </entry>
+      <entry>
+        <int>191</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511271000"/>
+      </entry>
+      <entry>
+        <int>192</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14012" timestamp="1511271600"/>
+      </entry>
+      <entry>
+        <int>193</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14008" timestamp="1511272200"/>
+      </entry>
+      <entry>
+        <int>194</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14017" timestamp="1511272800"/>
+      </entry>
+      <entry>
+        <int>195</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14009" timestamp="1511273400"/>
+      </entry>
+      <entry>
+        <int>196</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14020" timestamp="1511274000"/>
+      </entry>
+      <entry>
+        <int>197</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14010" timestamp="1511274600"/>
+      </entry>
+      <entry>
+        <int>198</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14013" timestamp="1511275200"/>
+      </entry>
+      <entry>
+        <int>199</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14011" timestamp="1511275800"/>
+      </entry>
+      <entry>
+        <int>200</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoTurnInfo fix_award_id="14018" timestamp="1511276400"/>
+      </entry>
+    </turn_infos>
+    <turn_time_infos>
+      <no-comparator/>
+      <entry>
+        <int>1509361200</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>1509361800</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1509362400</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>1509363000</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>1509363600</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>1509364200</int>
+        <int>6</int>
+      </entry>
+      <entry>
+        <int>1509364800</int>
+        <int>7</int>
+      </entry>
+      <entry>
+        <int>1509365400</int>
+        <int>8</int>
+      </entry>
+      <entry>
+        <int>1509366000</int>
+        <int>9</int>
+      </entry>
+      <entry>
+        <int>1509366600</int>
+        <int>10</int>
+      </entry>
+      <entry>
+        <int>1509367200</int>
+        <int>11</int>
+      </entry>
+      <entry>
+        <int>1509367800</int>
+        <int>12</int>
+      </entry>
+      <entry>
+        <int>1509368400</int>
+        <int>13</int>
+      </entry>
+      <entry>
+        <int>1509369000</int>
+        <int>14</int>
+      </entry>
+      <entry>
+        <int>1509369600</int>
+        <int>15</int>
+      </entry>
+      <entry>
+        <int>1509370200</int>
+        <int>16</int>
+      </entry>
+      <entry>
+        <int>1509370800</int>
+        <int>17</int>
+      </entry>
+      <entry>
+        <int>1509371400</int>
+        <int>18</int>
+      </entry>
+      <entry>
+        <int>1509372000</int>
+        <int>19</int>
+      </entry>
+      <entry>
+        <int>1509372600</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>1509373200</int>
+        <int>21</int>
+      </entry>
+      <entry>
+        <int>1509373800</int>
+        <int>22</int>
+      </entry>
+      <entry>
+        <int>1509374400</int>
+        <int>23</int>
+      </entry>
+      <entry>
+        <int>1509375000</int>
+        <int>24</int>
+      </entry>
+      <entry>
+        <int>1509375600</int>
+        <int>25</int>
+      </entry>
+      <entry>
+        <int>1509447600</int>
+        <int>26</int>
+      </entry>
+      <entry>
+        <int>1509448200</int>
+        <int>27</int>
+      </entry>
+      <entry>
+        <int>1509448800</int>
+        <int>28</int>
+      </entry>
+      <entry>
+        <int>1509449400</int>
+        <int>29</int>
+      </entry>
+      <entry>
+        <int>1509450000</int>
+        <int>30</int>
+      </entry>
+      <entry>
+        <int>1509450600</int>
+        <int>31</int>
+      </entry>
+      <entry>
+        <int>1509451200</int>
+        <int>32</int>
+      </entry>
+      <entry>
+        <int>1509451800</int>
+        <int>33</int>
+      </entry>
+      <entry>
+        <int>1509452400</int>
+        <int>34</int>
+      </entry>
+      <entry>
+        <int>1509453000</int>
+        <int>35</int>
+      </entry>
+      <entry>
+        <int>1509453600</int>
+        <int>36</int>
+      </entry>
+      <entry>
+        <int>1509454200</int>
+        <int>37</int>
+      </entry>
+      <entry>
+        <int>1509454800</int>
+        <int>38</int>
+      </entry>
+      <entry>
+        <int>1509455400</int>
+        <int>39</int>
+      </entry>
+      <entry>
+        <int>1509456000</int>
+        <int>40</int>
+      </entry>
+      <entry>
+        <int>1509456600</int>
+        <int>41</int>
+      </entry>
+      <entry>
+        <int>1509457200</int>
+        <int>42</int>
+      </entry>
+      <entry>
+        <int>1509457800</int>
+        <int>43</int>
+      </entry>
+      <entry>
+        <int>1509458400</int>
+        <int>44</int>
+      </entry>
+      <entry>
+        <int>1509459000</int>
+        <int>45</int>
+      </entry>
+      <entry>
+        <int>1509459600</int>
+        <int>46</int>
+      </entry>
+      <entry>
+        <int>1509460200</int>
+        <int>47</int>
+      </entry>
+      <entry>
+        <int>1509460800</int>
+        <int>48</int>
+      </entry>
+      <entry>
+        <int>1509461400</int>
+        <int>49</int>
+      </entry>
+      <entry>
+        <int>1509462000</int>
+        <int>50</int>
+      </entry>
+      <entry>
+        <int>1509966000</int>
+        <int>51</int>
+      </entry>
+      <entry>
+        <int>1509966600</int>
+        <int>52</int>
+      </entry>
+      <entry>
+        <int>1509967200</int>
+        <int>53</int>
+      </entry>
+      <entry>
+        <int>1509967800</int>
+        <int>54</int>
+      </entry>
+      <entry>
+        <int>1509968400</int>
+        <int>55</int>
+      </entry>
+      <entry>
+        <int>1509969000</int>
+        <int>56</int>
+      </entry>
+      <entry>
+        <int>1509969600</int>
+        <int>57</int>
+      </entry>
+      <entry>
+        <int>1509970200</int>
+        <int>58</int>
+      </entry>
+      <entry>
+        <int>1509970800</int>
+        <int>59</int>
+      </entry>
+      <entry>
+        <int>1509971400</int>
+        <int>60</int>
+      </entry>
+      <entry>
+        <int>1509972000</int>
+        <int>61</int>
+      </entry>
+      <entry>
+        <int>1509972600</int>
+        <int>62</int>
+      </entry>
+      <entry>
+        <int>1509973200</int>
+        <int>63</int>
+      </entry>
+      <entry>
+        <int>1509973800</int>
+        <int>64</int>
+      </entry>
+      <entry>
+        <int>1509974400</int>
+        <int>65</int>
+      </entry>
+      <entry>
+        <int>1509975000</int>
+        <int>66</int>
+      </entry>
+      <entry>
+        <int>1509975600</int>
+        <int>67</int>
+      </entry>
+      <entry>
+        <int>1509976200</int>
+        <int>68</int>
+      </entry>
+      <entry>
+        <int>1509976800</int>
+        <int>69</int>
+      </entry>
+      <entry>
+        <int>1509977400</int>
+        <int>70</int>
+      </entry>
+      <entry>
+        <int>1509978000</int>
+        <int>71</int>
+      </entry>
+      <entry>
+        <int>1509978600</int>
+        <int>72</int>
+      </entry>
+      <entry>
+        <int>1509979200</int>
+        <int>73</int>
+      </entry>
+      <entry>
+        <int>1509979800</int>
+        <int>74</int>
+      </entry>
+      <entry>
+        <int>1509980400</int>
+        <int>75</int>
+      </entry>
+      <entry>
+        <int>1510052400</int>
+        <int>76</int>
+      </entry>
+      <entry>
+        <int>1510053000</int>
+        <int>77</int>
+      </entry>
+      <entry>
+        <int>1510053600</int>
+        <int>78</int>
+      </entry>
+      <entry>
+        <int>1510054200</int>
+        <int>79</int>
+      </entry>
+      <entry>
+        <int>1510054800</int>
+        <int>80</int>
+      </entry>
+      <entry>
+        <int>1510055400</int>
+        <int>81</int>
+      </entry>
+      <entry>
+        <int>1510056000</int>
+        <int>82</int>
+      </entry>
+      <entry>
+        <int>1510056600</int>
+        <int>83</int>
+      </entry>
+      <entry>
+        <int>1510057200</int>
+        <int>84</int>
+      </entry>
+      <entry>
+        <int>1510057800</int>
+        <int>85</int>
+      </entry>
+      <entry>
+        <int>1510058400</int>
+        <int>86</int>
+      </entry>
+      <entry>
+        <int>1510059000</int>
+        <int>87</int>
+      </entry>
+      <entry>
+        <int>1510059600</int>
+        <int>88</int>
+      </entry>
+      <entry>
+        <int>1510060200</int>
+        <int>89</int>
+      </entry>
+      <entry>
+        <int>1510060800</int>
+        <int>90</int>
+      </entry>
+      <entry>
+        <int>1510061400</int>
+        <int>91</int>
+      </entry>
+      <entry>
+        <int>1510062000</int>
+        <int>92</int>
+      </entry>
+      <entry>
+        <int>1510062600</int>
+        <int>93</int>
+      </entry>
+      <entry>
+        <int>1510063200</int>
+        <int>94</int>
+      </entry>
+      <entry>
+        <int>1510063800</int>
+        <int>95</int>
+      </entry>
+      <entry>
+        <int>1510064400</int>
+        <int>96</int>
+      </entry>
+      <entry>
+        <int>1510065000</int>
+        <int>97</int>
+      </entry>
+      <entry>
+        <int>1510065600</int>
+        <int>98</int>
+      </entry>
+      <entry>
+        <int>1510066200</int>
+        <int>99</int>
+      </entry>
+      <entry>
+        <int>1510066800</int>
+        <int>100</int>
+      </entry>
+      <entry>
+        <int>1510570800</int>
+        <int>101</int>
+      </entry>
+      <entry>
+        <int>1510571400</int>
+        <int>102</int>
+      </entry>
+      <entry>
+        <int>1510572000</int>
+        <int>103</int>
+      </entry>
+      <entry>
+        <int>1510572600</int>
+        <int>104</int>
+      </entry>
+      <entry>
+        <int>1510573200</int>
+        <int>105</int>
+      </entry>
+      <entry>
+        <int>1510573800</int>
+        <int>106</int>
+      </entry>
+      <entry>
+        <int>1510574400</int>
+        <int>107</int>
+      </entry>
+      <entry>
+        <int>1510575000</int>
+        <int>108</int>
+      </entry>
+      <entry>
+        <int>1510575600</int>
+        <int>109</int>
+      </entry>
+      <entry>
+        <int>1510576200</int>
+        <int>110</int>
+      </entry>
+      <entry>
+        <int>1510576800</int>
+        <int>111</int>
+      </entry>
+      <entry>
+        <int>1510577400</int>
+        <int>112</int>
+      </entry>
+      <entry>
+        <int>1510578000</int>
+        <int>113</int>
+      </entry>
+      <entry>
+        <int>1510578600</int>
+        <int>114</int>
+      </entry>
+      <entry>
+        <int>1510579200</int>
+        <int>115</int>
+      </entry>
+      <entry>
+        <int>1510579800</int>
+        <int>116</int>
+      </entry>
+      <entry>
+        <int>1510580400</int>
+        <int>117</int>
+      </entry>
+      <entry>
+        <int>1510581000</int>
+        <int>118</int>
+      </entry>
+      <entry>
+        <int>1510581600</int>
+        <int>119</int>
+      </entry>
+      <entry>
+        <int>1510582200</int>
+        <int>120</int>
+      </entry>
+      <entry>
+        <int>1510582800</int>
+        <int>121</int>
+      </entry>
+      <entry>
+        <int>1510583400</int>
+        <int>122</int>
+      </entry>
+      <entry>
+        <int>1510584000</int>
+        <int>123</int>
+      </entry>
+      <entry>
+        <int>1510584600</int>
+        <int>124</int>
+      </entry>
+      <entry>
+        <int>1510585200</int>
+        <int>125</int>
+      </entry>
+      <entry>
+        <int>1510657200</int>
+        <int>126</int>
+      </entry>
+      <entry>
+        <int>1510657800</int>
+        <int>127</int>
+      </entry>
+      <entry>
+        <int>1510658400</int>
+        <int>128</int>
+      </entry>
+      <entry>
+        <int>1510659000</int>
+        <int>129</int>
+      </entry>
+      <entry>
+        <int>1510659600</int>
+        <int>130</int>
+      </entry>
+      <entry>
+        <int>1510660200</int>
+        <int>131</int>
+      </entry>
+      <entry>
+        <int>1510660800</int>
+        <int>132</int>
+      </entry>
+      <entry>
+        <int>1510661400</int>
+        <int>133</int>
+      </entry>
+      <entry>
+        <int>1510662000</int>
+        <int>134</int>
+      </entry>
+      <entry>
+        <int>1510662600</int>
+        <int>135</int>
+      </entry>
+      <entry>
+        <int>1510663200</int>
+        <int>136</int>
+      </entry>
+      <entry>
+        <int>1510663800</int>
+        <int>137</int>
+      </entry>
+      <entry>
+        <int>1510664400</int>
+        <int>138</int>
+      </entry>
+      <entry>
+        <int>1510665000</int>
+        <int>139</int>
+      </entry>
+      <entry>
+        <int>1510665600</int>
+        <int>140</int>
+      </entry>
+      <entry>
+        <int>1510666200</int>
+        <int>141</int>
+      </entry>
+      <entry>
+        <int>1510666800</int>
+        <int>142</int>
+      </entry>
+      <entry>
+        <int>1510667400</int>
+        <int>143</int>
+      </entry>
+      <entry>
+        <int>1510668000</int>
+        <int>144</int>
+      </entry>
+      <entry>
+        <int>1510668600</int>
+        <int>145</int>
+      </entry>
+      <entry>
+        <int>1510669200</int>
+        <int>146</int>
+      </entry>
+      <entry>
+        <int>1510669800</int>
+        <int>147</int>
+      </entry>
+      <entry>
+        <int>1510670400</int>
+        <int>148</int>
+      </entry>
+      <entry>
+        <int>1510671000</int>
+        <int>149</int>
+      </entry>
+      <entry>
+        <int>1510671600</int>
+        <int>150</int>
+      </entry>
+      <entry>
+        <int>1511175600</int>
+        <int>151</int>
+      </entry>
+      <entry>
+        <int>1511176200</int>
+        <int>152</int>
+      </entry>
+      <entry>
+        <int>1511176800</int>
+        <int>153</int>
+      </entry>
+      <entry>
+        <int>1511177400</int>
+        <int>154</int>
+      </entry>
+      <entry>
+        <int>1511178000</int>
+        <int>155</int>
+      </entry>
+      <entry>
+        <int>1511178600</int>
+        <int>156</int>
+      </entry>
+      <entry>
+        <int>1511179200</int>
+        <int>157</int>
+      </entry>
+      <entry>
+        <int>1511179800</int>
+        <int>158</int>
+      </entry>
+      <entry>
+        <int>1511180400</int>
+        <int>159</int>
+      </entry>
+      <entry>
+        <int>1511181000</int>
+        <int>160</int>
+      </entry>
+      <entry>
+        <int>1511181600</int>
+        <int>161</int>
+      </entry>
+      <entry>
+        <int>1511182200</int>
+        <int>162</int>
+      </entry>
+      <entry>
+        <int>1511182800</int>
+        <int>163</int>
+      </entry>
+      <entry>
+        <int>1511183400</int>
+        <int>164</int>
+      </entry>
+      <entry>
+        <int>1511184000</int>
+        <int>165</int>
+      </entry>
+      <entry>
+        <int>1511184600</int>
+        <int>166</int>
+      </entry>
+      <entry>
+        <int>1511185200</int>
+        <int>167</int>
+      </entry>
+      <entry>
+        <int>1511185800</int>
+        <int>168</int>
+      </entry>
+      <entry>
+        <int>1511186400</int>
+        <int>169</int>
+      </entry>
+      <entry>
+        <int>1511187000</int>
+        <int>170</int>
+      </entry>
+      <entry>
+        <int>1511187600</int>
+        <int>171</int>
+      </entry>
+      <entry>
+        <int>1511188200</int>
+        <int>172</int>
+      </entry>
+      <entry>
+        <int>1511188800</int>
+        <int>173</int>
+      </entry>
+      <entry>
+        <int>1511189400</int>
+        <int>174</int>
+      </entry>
+      <entry>
+        <int>1511190000</int>
+        <int>175</int>
+      </entry>
+      <entry>
+        <int>1511262000</int>
+        <int>176</int>
+      </entry>
+      <entry>
+        <int>1511262600</int>
+        <int>177</int>
+      </entry>
+      <entry>
+        <int>1511263200</int>
+        <int>178</int>
+      </entry>
+      <entry>
+        <int>1511263800</int>
+        <int>179</int>
+      </entry>
+      <entry>
+        <int>1511264400</int>
+        <int>180</int>
+      </entry>
+      <entry>
+        <int>1511265000</int>
+        <int>181</int>
+      </entry>
+      <entry>
+        <int>1511265600</int>
+        <int>182</int>
+      </entry>
+      <entry>
+        <int>1511266200</int>
+        <int>183</int>
+      </entry>
+      <entry>
+        <int>1511266800</int>
+        <int>184</int>
+      </entry>
+      <entry>
+        <int>1511267400</int>
+        <int>185</int>
+      </entry>
+      <entry>
+        <int>1511268000</int>
+        <int>186</int>
+      </entry>
+      <entry>
+        <int>1511268600</int>
+        <int>187</int>
+      </entry>
+      <entry>
+        <int>1511269200</int>
+        <int>188</int>
+      </entry>
+      <entry>
+        <int>1511269800</int>
+        <int>189</int>
+      </entry>
+      <entry>
+        <int>1511270400</int>
+        <int>190</int>
+      </entry>
+      <entry>
+        <int>1511271000</int>
+        <int>191</int>
+      </entry>
+      <entry>
+        <int>1511271600</int>
+        <int>192</int>
+      </entry>
+      <entry>
+        <int>1511272200</int>
+        <int>193</int>
+      </entry>
+      <entry>
+        <int>1511272800</int>
+        <int>194</int>
+      </entry>
+      <entry>
+        <int>1511273400</int>
+        <int>195</int>
+      </entry>
+      <entry>
+        <int>1511274000</int>
+        <int>196</int>
+      </entry>
+      <entry>
+        <int>1511274600</int>
+        <int>197</int>
+      </entry>
+      <entry>
+        <int>1511275200</int>
+        <int>198</int>
+      </entry>
+      <entry>
+        <int>1511275800</int>
+        <int>199</int>
+      </entry>
+      <entry>
+        <int>1511276400</int>
+        <int>200</int>
+      </entry>
+    </turn_time_infos>
+    <condition_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="1" condition_value="50"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="2" condition_value="10000"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.alllotto.confbean.SAllLottoConditionInfo condition_type="3" condition_value="30"/>
+      </entry>
+    </condition_infos>
+  </mzm.gsp.alllotto.confbean.SAllLottoCfg>
+</data>

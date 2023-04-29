@@ -1,0 +1,95 @@
+<data>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="10" id="484500000" itemId="210104034" itemNum="10" maxBuyNum="5" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+      <int>6</int>
+      <int>8</int>
+      <int>9</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500001" itemId="210104035" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500002" itemId="210104036" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500003" itemId="210104037" itemNum="-1" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500004" itemId="210104038" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500005" itemId="210104039" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500006" itemId="210104040" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708405">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500007" itemId="210104041" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708406">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500008" itemId="210104042" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708406">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500009" itemId="210104043" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708406">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500010" itemId="210104044" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708407">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500011" itemId="210104045" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708407">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500012" itemId="210108001" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708408">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500013" itemId="210108002" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708409">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+  <mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg groupPrice="1000" groupSize="5" id="484500014" itemId="210108003" itemNum="6" maxBuyNum="-1" originalPrice="10000" singlePrice="5000" timeLimitCfgId="351708409">
+    <groupSizesToNotify>
+      <int>2</int>
+      <int>4</int>
+    </groupSizesToNotify>
+  </mzm.gsp.groupshopping.confbean.SBigGroupShoppingItemCfg>
+</data>

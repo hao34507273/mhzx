@@ -1,0 +1,85 @@
+<data>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg class_id="1">
+    <treasure_hunt_effect_cfg_map>
+      <no-comparator/>
+      <entry>
+        <int>901100005</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="701211342" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100004</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="701211341" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100001</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="10" map_item_id_effect_parameter_2="0" map_item_id_effect_type="2"/>
+      </entry>
+      <entry>
+        <int>901100000</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="0" map_item_id_effect_parameter_2="0" map_item_id_effect_type="3"/>
+      </entry>
+      <entry>
+        <int>901100003</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="701211340" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100002</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="120482173" map_item_id_effect_parameter_2="0" map_item_id_effect_type="4"/>
+      </entry>
+    </treasure_hunt_effect_cfg_map>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg class_id="2">
+    <treasure_hunt_effect_cfg_map>
+      <no-comparator/>
+      <entry>
+        <int>901100013</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="701211340" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100012</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="3" map_item_id_effect_parameter_1="120482173" map_item_id_effect_parameter_2="0" map_item_id_effect_type="4"/>
+      </entry>
+      <entry>
+        <int>901100015</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="701211342" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100014</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="701211341" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100011</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="10" map_item_id_effect_parameter_2="0" map_item_id_effect_type="2"/>
+      </entry>
+      <entry>
+        <int>901100010</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="0" map_item_id_effect_parameter_2="0" map_item_id_effect_type="3"/>
+      </entry>
+    </treasure_hunt_effect_cfg_map>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg class_id="3">
+    <treasure_hunt_effect_cfg_map>
+      <no-comparator/>
+      <entry>
+        <int>901100024</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="701211342" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+      <entry>
+        <int>901100020</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="1" map_item_id_effect_parameter_1="0" map_item_id_effect_parameter_2="0" map_item_id_effect_type="3"/>
+      </entry>
+      <entry>
+        <int>901100021</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="2" map_item_id_effect_parameter_1="10" map_item_id_effect_parameter_2="0" map_item_id_effect_type="2"/>
+      </entry>
+      <entry>
+        <int>901100022</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="3" map_item_id_effect_parameter_1="120482173" map_item_id_effect_parameter_2="0" map_item_id_effect_type="4"/>
+      </entry>
+      <entry>
+        <int>901100023</int>
+        <mzm.gsp.treasurehunt.confbean.ChapterEffect item_num="3" map_item_id_effect_parameter_1="701211340" map_item_id_effect_parameter_2="0" map_item_id_effect_type="1"/>
+      </entry>
+    </treasure_hunt_effect_cfg_map>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterEffectCfg>
+</data>

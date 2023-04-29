@@ -1,0 +1,29 @@
+<data>
+  <mzm.gsp.fight.confbean.SFighterStateCfg groupId="1000">
+    <stateSkills>
+      <no-comparator/>
+      <entry>
+        <int>1001</int>
+        <mzm.gsp.fight.confbean.FighterStateSkills state="1001">
+          <skills>
+            <int>110006401</int>
+            <int>110006411</int>
+            <int>110006410</int>
+          </skills>
+        </mzm.gsp.fight.confbean.FighterStateSkills>
+      </entry>
+      <entry>
+        <int>1000</int>
+        <mzm.gsp.fight.confbean.FighterStateSkills state="1000">
+          <skills>
+            <int>110006405</int>
+            <int>110006403</int>
+            <int>110006402</int>
+            <int>110006400</int>
+            <int>110006407</int>
+          </skills>
+        </mzm.gsp.fight.confbean.FighterStateSkills>
+      </entry>
+    </stateSkills>
+  </mzm.gsp.fight.confbean.SFighterStateCfg>
+</data>

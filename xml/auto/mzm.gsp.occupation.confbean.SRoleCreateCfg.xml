@@ -1,0 +1,30 @@
+<data>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200030" DEFAULT_HAIR_DRY_ID="101200000" gender="1" id="101000000" isOpen="true" occupationId="1" templatename="鬼王男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200566" DEFAULT_HAIR_DRY_ID="101200557" gender="2" id="101000001" isOpen="true" occupationId="1" templatename="鬼王女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200130" DEFAULT_HAIR_DRY_ID="101200100" gender="1" id="101000002" isOpen="true" occupationId="2" templatename="青云男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200548" DEFAULT_HAIR_DRY_ID="101200539" gender="2" id="101000003" isOpen="true" occupationId="2" templatename="青云女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200230" DEFAULT_HAIR_DRY_ID="101200200" gender="1" id="101000004" isOpen="true" occupationId="3" templatename="天音男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200950" DEFAULT_HAIR_DRY_ID="101200900" gender="2" id="101000005" isOpen="true" occupationId="3" templatename="天音女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200584" DEFAULT_HAIR_DRY_ID="101200575" gender="1" id="101000006" isOpen="true" occupationId="4" templatename="焚香男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200330" DEFAULT_HAIR_DRY_ID="101200300" gender="2" id="101000007" isOpen="true" occupationId="4" templatename="焚香女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200750" DEFAULT_HAIR_DRY_ID="101200700" gender="1" id="101000008" isOpen="true" occupationId="5" templatename="合欢男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200430" DEFAULT_HAIR_DRY_ID="101200400" gender="2" id="101000009" isOpen="true" occupationId="5" templatename="合欢女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200850" DEFAULT_HAIR_DRY_ID="101200800" gender="1" id="101000010" isOpen="true" occupationId="6" templatename="圣巫男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101200530" DEFAULT_HAIR_DRY_ID="101200500" gender="2" id="101000011" isOpen="true" occupationId="6" templatename="圣巫女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101262209" DEFAULT_HAIR_DRY_ID="101262200" gender="1" id="101000012" isOpen="true" occupationId="7" templatename="苍羽阁"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101262227" DEFAULT_HAIR_DRY_ID="101262218" gender="2" id="101000013" isOpen="true" occupationId="7" templatename="苍羽阁"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101262311" DEFAULT_HAIR_DRY_ID="101262300" gender="1" id="101000014" isOpen="true" occupationId="8" templatename="灵音殿"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101262332" DEFAULT_HAIR_DRY_ID="101262321" gender="2" id="101000015" isOpen="true" occupationId="8" templatename="灵音殿"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101275009" DEFAULT_HAIR_DRY_ID="101275000" gender="1" id="101000016" isOpen="true" occupationId="9" templatename="异能男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101275027" DEFAULT_HAIR_DRY_ID="101275018" gender="2" id="101000017" isOpen="true" occupationId="9" templatename="异能女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101230009" DEFAULT_HAIR_DRY_ID="101230000" gender="1" id="101000018" isOpen="true" occupationId="10" templatename="万毒男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101230027" DEFAULT_HAIR_DRY_ID="101230018" gender="2" id="101000019" isOpen="true" occupationId="10" templatename="万毒女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101232049" DEFAULT_HAIR_DRY_ID="101232040" gender="1" id="101000020" isOpen="true" occupationId="11" templatename="丹青男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101232067" DEFAULT_HAIR_DRY_ID="101232058" gender="2" id="101000021" isOpen="true" occupationId="11" templatename="丹青女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101297900" DEFAULT_HAIR_DRY_ID="101297890" gender="1" id="101000022" isOpen="true" occupationId="12" templatename="阴阳男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101297920" DEFAULT_HAIR_DRY_ID="101297910" gender="2" id="101000023" isOpen="true" occupationId="12" templatename="阴阳女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101298870" DEFAULT_HAIR_DRY_ID="101298860" gender="1" id="101000024" isOpen="true" occupationId="13" templatename="黄金男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101298890" DEFAULT_HAIR_DRY_ID="101298880" gender="2" id="101000025" isOpen="true" occupationId="13" templatename="黄金女"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101299939" DEFAULT_HAIR_DRY_ID="101299928" gender="1" id="101000026" isOpen="true" occupationId="14" templatename="神木男"/>
+  <mzm.gsp.occupation.confbean.SRoleCreateCfg DEFAULT_CLOTH_DRY_ID="101299960" DEFAULT_HAIR_DRY_ID="101299990" gender="2" id="101000027" isOpen="true" occupationId="14" templatename="神木女"/>
+</data>

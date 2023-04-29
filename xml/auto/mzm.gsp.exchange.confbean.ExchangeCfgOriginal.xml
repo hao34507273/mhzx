@@ -1,0 +1,375 @@
+<data>
+<!--第一页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70300" display_sort_id="101" exchange_type="1" id="345800000" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213520015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70301" display_sort_id="102" exchange_type="1" id="345800001" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213521015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70302" display_sort_id="103" exchange_type="1" id="345800002" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213522015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70303" display_sort_id="104" exchange_type="2" id="345800003" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="4">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213523015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70304" display_sort_id="105" exchange_type="2" id="345800004" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="5">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213524015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70305" display_sort_id="106" exchange_type="2" id="345800005" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="6">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="213525015" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70306" display_sort_id="107" exchange_type="2" id="345800006" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="7">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501014" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70307" display_sort_id="108" exchange_type="2" id="345800007" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="8">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501114" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70308" display_sort_id="109" exchange_type="2" id="345800008" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="9">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501214" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70309" display_sort_id="110" exchange_type="2" id="345800009" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="10">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501314" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70310" display_sort_id="111" exchange_type="2" id="345800010" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="11">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501414" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70311" display_sort_id="112" exchange_type="2" id="345800011" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="12">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="221501514" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159028" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70312" display_sort_id="113" exchange_type="2" id="345800012" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="13">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159003" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70313" display_sort_id="114" exchange_type="2" id="345800013" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="14">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159003" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70314" display_sort_id="115" exchange_type="2" id="345800014" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="15">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70315" display_sort_id="116" exchange_type="2" id="345800015" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="16">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70316" display_sort_id="117" exchange_type="2" id="345800016" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="17">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70317" display_sort_id="118" exchange_type="2" id="345800017" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="18">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70318" display_sort_id="119" exchange_type="2" id="345800018" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="19">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70319" display_sort_id="120" exchange_type="2" id="345800019" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="20">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70320" display_sort_id="121" exchange_type="2" id="345800020" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="21">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159002" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70321" display_sort_id="122" exchange_type="2" id="345800021" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="22">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159004" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70322" display_sort_id="123" exchange_type="2" id="345800022" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="23">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159004" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70323" display_sort_id="124" exchange_type="2" id="345800023" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="24">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159004" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="70324" display_sort_id="125" exchange_type="2" id="345800024" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="25">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159004" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第二页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="70400" display_sort_id="201" exchange_type="1" id="345800100" is_open="true" max_exchange_num="1" moduleid="251" page_cfg_id="345900002" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101012" item_num="15"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="70401" display_sort_id="202" exchange_type="1" id="345800101" is_open="true" max_exchange_num="1" moduleid="251" page_cfg_id="345900002" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101012" item_num="15"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="70402" display_sort_id="203" exchange_type="1" id="345800102" is_open="true" max_exchange_num="1" moduleid="251" page_cfg_id="345900002" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101012" item_num="15"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="70403" display_sort_id="204" exchange_type="1" id="345800103" is_open="true" max_exchange_num="0" moduleid="251" page_cfg_id="345900002" sort_id="4">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101012" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="70404" display_sort_id="205" exchange_type="1" id="345800104" is_open="true" max_exchange_num="0" moduleid="251" page_cfg_id="345900002" sort_id="5">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101012" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第三页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000391" award_cfg_id="6100" display_sort_id="301" exchange_type="1" id="345800200" is_open="true" max_exchange_num="1" moduleid="252" page_cfg_id="345900003" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101011" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000391" award_cfg_id="6101" display_sort_id="302" exchange_type="1" id="345800201" is_open="true" max_exchange_num="0" moduleid="252" page_cfg_id="345900003" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101011" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第四页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000611" award_cfg_id="6102" display_sort_id="310" exchange_type="1" id="345803000" is_open="true" max_exchange_num="30" moduleid="335" page_cfg_id="345900004" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="3"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000611" award_cfg_id="6101" display_sort_id="311" exchange_type="1" id="345803001" is_open="true" max_exchange_num="0" moduleid="335" page_cfg_id="345900004" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="7"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000611" award_cfg_id="6104" display_sort_id="312" exchange_type="1" id="345803002" is_open="true" max_exchange_num="0" moduleid="335" page_cfg_id="345900004" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140477" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000380" award_cfg_id="6103" display_sort_id="313" exchange_type="1" id="345803003" is_open="true" max_exchange_num="20" moduleid="381" page_cfg_id="345900004" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="25"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000380" award_cfg_id="6103" display_sort_id="314" exchange_type="1" id="345803004" is_open="true" max_exchange_num="20" moduleid="381" page_cfg_id="345900004" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="50"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000380" award_cfg_id="6103" display_sort_id="315" exchange_type="1" id="345803005" is_open="true" max_exchange_num="20" moduleid="381" page_cfg_id="345900004" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="75"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000380" award_cfg_id="6103" display_sort_id="316" exchange_type="1" id="345803006" is_open="true" max_exchange_num="20" moduleid="381" page_cfg_id="345900004" sort_id="4">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210140479" item_num="100"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第五页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000393" award_cfg_id="6170" display_sort_id="400" exchange_type="2" id="345800400" is_open="true" max_exchange_num="1" moduleid="254" page_cfg_id="345900005" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210206104" item_num="99"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第六页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11050" display_sort_id="500" exchange_type="1" id="345800500" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11051" display_sort_id="501" exchange_type="1" id="345800501" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11052" display_sort_id="502" exchange_type="1" id="345800502" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="9200" display_sort_id="503" exchange_type="1" id="345800503" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="4">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="9201" display_sort_id="504" exchange_type="1" id="345800504" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="5">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="9202" display_sort_id="505" exchange_type="1" id="345800505" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="6">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11017" display_sort_id="506" exchange_type="1" id="345800506" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="7">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11018" display_sort_id="507" exchange_type="1" id="345800507" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="8">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000394" award_cfg_id="11019" display_sort_id="508" exchange_type="1" id="345800508" is_open="true" max_exchange_num="0" moduleid="255" page_cfg_id="345900006" sort_id="9">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210101043" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第七页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70500" display_sort_id="600" exchange_type="1" id="345804400" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159005" item_num="100"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70501" display_sort_id="601" exchange_type="1" id="345804401" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159006" item_num="10"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70502" display_sort_id="602" exchange_type="1" id="345804402" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70503" display_sort_id="603" exchange_type="1" id="345804403" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="4">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70504" display_sort_id="604" exchange_type="1" id="345804404" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="5">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70505" display_sort_id="605" exchange_type="1" id="345804405" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="6">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70506" display_sort_id="606" exchange_type="1" id="345804406" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="7">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159007" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000714" award_cfg_id="70507" display_sort_id="607" exchange_type="1" id="345804407" is_open="true" max_exchange_num="0" moduleid="557" page_cfg_id="345900007" sort_id="8">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159006" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+
+<!--第一页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80701" display_sort_id="701" exchange_type="1" id="345805701" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309847" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>  
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80702" display_sort_id="702" exchange_type="1" id="345805702" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309850" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80703" display_sort_id="703" exchange_type="1" id="345805703" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309851" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80704" display_sort_id="704" exchange_type="1" id="345805704" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309852" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80705" display_sort_id="705" exchange_type="1" id="345805705" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309853" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80706" display_sort_id="706" exchange_type="1" id="345805706" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309854" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80707" display_sort_id="707" exchange_type="1" id="345805707" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309855" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80708" display_sort_id="708" exchange_type="1" id="345805708" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309856" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000389" award_cfg_id="80709" display_sort_id="709" exchange_type="1" id="345805709" is_open="true" max_exchange_num="0" moduleid="250" page_cfg_id="345900001" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="214309857" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+<!--第二页-->
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="80801" display_sort_id="801" exchange_type="1" id="345805801" is_open="true" max_exchange_num="0" moduleid="251" page_cfg_id="345900002" sort_id="1">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="80802" display_sort_id="801" exchange_type="1" id="345805802" is_open="true" max_exchange_num="0" moduleid="251" page_cfg_id="345900002" sort_id="2">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+  <mzm.gsp.exchange.confbean.ExchangeCfgOriginal activity_cfg_id="350000390" award_cfg_id="80803" display_sort_id="801" exchange_type="1" id="345805803" is_open="true" max_exchange_num="0" moduleid="251" page_cfg_id="345900002" sort_id="3">
+    <need_item_info_list>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159014" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159029" item_num="1"/>
+      <mzm.gsp.exchange.confbean.NeedItemInfo item_id="210159033" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.exchange.confbean.ExchangeCfgOriginal>
+</data>

@@ -1,0 +1,10 @@
+<root>
+<row name="INIT_LEVEL" value="1"/>
+<row name="UpLevel2NeedExp">
+<int>500</int>
+<int>1500</int>
+<int>3500</int>
+<int>7000</int>
+</row>
+<row name="MAX_LEVEL" value="5"/>
+</root>

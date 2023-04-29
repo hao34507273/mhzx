@@ -1,0 +1,1720 @@
+﻿<data>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42010" magicMarkModelid="700313009" magicMarkName="破法魔矢" magicMarkType="1">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>0</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42011" magicMarkModelid="700313008" magicMarkName="真眼邪剑" magicMarkType="2">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694245</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42008" magicMarkModelid="700313011" magicMarkName="鸿蒙祖印" magicMarkType="3">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694246</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42004" magicMarkModelid="700313016" magicMarkName="金光神咒" magicMarkType="4">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694247</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42005" magicMarkModelid="700313015" magicMarkName="万花筒" magicMarkType="5">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694248</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42006" magicMarkModelid="700313013" magicMarkName="寒冰结界" magicMarkType="6">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694249</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42014" magicMarkModelid="700313014" magicMarkName="东华初心" magicMarkType="7">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694250</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42013" magicMarkModelid="700313006" magicMarkName="半载华章" magicMarkType="8">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694251</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42012" magicMarkModelid="700313007" magicMarkName="半载荣章" magicMarkType="9">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694252</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42016" magicMarkModelid="700313002" magicMarkName="爱神祝福" magicMarkType="10">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694253</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42015" magicMarkModelid="700313021" magicMarkName="胡萝卜" magicMarkType="11">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694254</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42000" magicMarkModelid="700313000" magicMarkName="痴情不悔" magicMarkType="12">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694255</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42023" magicMarkModelid="700313023" magicMarkName="终成眷属" magicMarkType="15">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694256</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42030" magicMarkModelid="700313030" magicMarkName="双子座法印" magicMarkType="13">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694257</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42031" magicMarkModelid="700313031" magicMarkName="巨蟹座法印" magicMarkType="16">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694258</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42018" magicMarkModelid="700313004" magicMarkName="唯我独尊法印" magicMarkType="17">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694259</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42009" magicMarkModelid="700313010" magicMarkName="万人之上法印" magicMarkType="18">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694260</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42021" magicMarkModelid="700313020" magicMarkName="英勇战魂法印" magicMarkType="19">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694261</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42032" magicMarkModelid="700313032" magicMarkName="狮子座法印" magicMarkType="20">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694262</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42001" magicMarkModelid="700313001" magicMarkName="太极法印" magicMarkType="21">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694263</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42017" magicMarkModelid="700313003" magicMarkName="有凤来仪" magicMarkType="22">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694264</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42002" magicMarkModelid="700313005" magicMarkName="冰魂雪魄" magicMarkType="23">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694265</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42022" magicMarkModelid="700313022" magicMarkName="柳浪闻莺" magicMarkType="24">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694266</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42020" magicMarkModelid="700313019" magicMarkName="小哥光环" magicMarkType="25">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694267</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42027" magicMarkModelid="700313027" magicMarkName="魔法荆棘" magicMarkType="26">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694268</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42033" magicMarkModelid="700313033" magicMarkName="处女座法印" magicMarkType="27">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694269</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42001" magicMarkModelid="700313001" magicMarkName="太极法印" magicMarkType="28">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694270</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42034" magicMarkModelid="700313034" magicMarkName="天秤座法印" magicMarkType="29">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694271</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42024" magicMarkModelid="700313024" magicMarkName="傲雪凌霜" magicMarkType="32">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694272</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42035" magicMarkModelid="700313035" magicMarkName="天蝎座法印" magicMarkType="33">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694273</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42040" magicMarkModelid="700313042" magicMarkName="八卦风轮" magicMarkType="34">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694274</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42025" magicMarkModelid="700313025" magicMarkName="光辉岁月" magicMarkType="35">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694275</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42036" magicMarkModelid="700313036" magicMarkName="射手座法印" magicMarkType="36">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694276</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42041" magicMarkModelid="700313046" magicMarkName="琉璃之心（永久）" magicMarkType="37">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694277</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42042" magicMarkModelid="700313041" magicMarkName="蝶恋花" magicMarkType="38">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694278</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42037" magicMarkModelid="700313037" magicMarkName="摩羯座法印" magicMarkType="39">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694279</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42043" magicMarkModelid="700313040" magicMarkName="星月神话" magicMarkType="40">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694280</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42044" magicMarkModelid="700313048" magicMarkName="八芒星" magicMarkType="41">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694281</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42045" magicMarkModelid="700313047" magicMarkName="青芒法印" magicMarkType="42">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694282</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42046" magicMarkModelid="700313099" magicMarkName="剪纸窗花" magicMarkType="43">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694283</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42047" magicMarkModelid="700313050" magicMarkName="青春脉搏" magicMarkType="44">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694284</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42048" magicMarkModelid="700313111" magicMarkName="魂牵梦萦" magicMarkType="45">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694285</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42038" magicMarkModelid="700313038" magicMarkName="水瓶座法印" magicMarkType="46">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694286</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42051" magicMarkModelid="700313105" magicMarkName="甜蜜拐杖糖" magicMarkType="47">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694287</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42039" magicMarkModelid="700313039" magicMarkName="双鱼座法印" magicMarkType="48">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694288</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42050" magicMarkModelid="700313118" magicMarkName="灼灼桃花" magicMarkType="49">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694289</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42052" magicMarkModelid="700313112" magicMarkName="剑之荣耀" magicMarkType="50">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694290</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42053" magicMarkModelid="700313107" magicMarkName="妙想天开" magicMarkType="51">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694291</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42058" magicMarkModelid="700313028" magicMarkName="白羊座法印" magicMarkType="52">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694292</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42059" magicMarkModelid="700313114" magicMarkName="和平橄榄" magicMarkType="53">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694293</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42061" magicMarkModelid="700313113" magicMarkName="暗夜雷鸣" magicMarkType="54">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694294</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42062" magicMarkModelid="700313123" magicMarkName="千机印" magicMarkType="55">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694295</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42060" magicMarkModelid="700313124" magicMarkName="足球梦" magicMarkType="56">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694296</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42055" magicMarkModelid="700313120" magicMarkName="佛光" magicMarkType="57">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694297</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42063" magicMarkModelid="700313052" magicMarkName="蓝渊" magicMarkType="58">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694298</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42029" magicMarkModelid="700313029" magicMarkName="金牛座法印" magicMarkType="59">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694299</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42064" magicMarkModelid="700313043" magicMarkName="金色传说" magicMarkType="60">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694300</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42065" magicMarkModelid="700313109" magicMarkName="罪恶之瞳" magicMarkType="61">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694301</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42054" magicMarkModelid="700313119" magicMarkName="紫云" magicMarkType="62">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694302</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42066" magicMarkModelid="700313125" magicMarkName="梦幻爱恋" magicMarkType="63">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694303</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42069" magicMarkModelid="700313117" magicMarkName="叱咤风云" magicMarkType="64">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694304</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42068" magicMarkModelid="700313108" magicMarkName="怦然心动" magicMarkType="65">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694305</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42067" magicMarkModelid="700313053" magicMarkName="霜华皓影" magicMarkType="66">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694306</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42086" magicMarkModelid="700313126" magicMarkName="赤火红莲" magicMarkType="67">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694307</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42072" magicMarkModelid="700313045" magicMarkName="冰霜传说" magicMarkType="68">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694308</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42079" magicMarkModelid="700313106" magicMarkName="星星相惜" magicMarkType="69">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694309</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42082" magicMarkModelid="700313116" magicMarkName="浩瀚星空" magicMarkType="70">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694310</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42075" magicMarkModelid="700313101" magicMarkName="心花怒放" magicMarkType="72">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694311</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42080" magicMarkModelid="700313110" magicMarkName="冰魂素魄" magicMarkType="73">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694312</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42088" magicMarkModelid="700313127" magicMarkName="如鱼得水" magicMarkType="74">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694313</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42056" magicMarkModelid="700313121" magicMarkName="旋转火星" magicMarkType="75">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694314</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42074" magicMarkModelid="700313100" magicMarkName="青枝绿叶" magicMarkType="76">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694315</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42089" magicMarkModelid="700313128" magicMarkName="四灵血印" magicMarkType="77">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694316</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42078" magicMarkModelid="700313104" magicMarkName="暗香" magicMarkType="79">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694317</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42092" magicMarkModelid="700313131" magicMarkName="三位一体" magicMarkType="80">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694318</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42093" magicMarkModelid="700313132" magicMarkName="凌云剑阵" magicMarkType="81">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694319</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42091" magicMarkModelid="700313130" magicMarkName="炫彩空间" magicMarkType="82">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694320</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42096" magicMarkModelid="700313145" magicMarkName="火域" magicMarkType="83">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694321</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42090" magicMarkModelid="700313129" magicMarkName="传送门" magicMarkType="84">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694322</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42097" magicMarkModelid="700313146" magicMarkName="纸鸢乘梦" magicMarkType="85">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694323</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42070" magicMarkModelid="700313026" magicMarkName="紫荆花" magicMarkType="86">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694324</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42085" magicMarkModelid="700313012" magicMarkName="神秘之瞳" magicMarkType="87">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694325</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42057" magicMarkModelid="700313122" magicMarkName="四象轮回" magicMarkType="88">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694326</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42099" magicMarkModelid="700313148" magicMarkName="火眼金睛" magicMarkType="89">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694327</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42083" magicMarkModelid="700313049" magicMarkName="弥世彼岸" magicMarkType="90">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694328</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42076" magicMarkModelid="700313102" magicMarkName="沧海笙歌" magicMarkType="91">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694329</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42084" magicMarkModelid="700313051" magicMarkName="三向之势" magicMarkType="92">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694330</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42087" magicMarkModelid="700313018" magicMarkName="希望之光" magicMarkType="93">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694331</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42077" magicMarkModelid="700313103" magicMarkName="万花瞳" magicMarkType="94">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694332</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42094" magicMarkModelid="700313143" magicMarkName="星芒雾列" magicMarkType="95">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694333</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42102" magicMarkModelid="700313151" magicMarkName="画地为牢" magicMarkType="96">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694334</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42095" magicMarkModelid="700313144" magicMarkName="万毒归宗" magicMarkType="97">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694335</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42098" magicMarkModelid="700313147" magicMarkName="猪年大吉" magicMarkType="98">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694336</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42101" magicMarkModelid="700313150" magicMarkName="九寒凝冰刺" magicMarkType="99">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694337</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42105" magicMarkModelid="700313154" magicMarkName="炫彩旋木" magicMarkType="100">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694338</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42073" magicMarkModelid="700313017" magicMarkName="万象锋回" magicMarkType="101">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694339</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42100" magicMarkModelid="700313149" magicMarkName="紫薇之术" magicMarkType="102">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694340</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42104" magicMarkModelid="700313153" magicMarkName="浮萍翠影" magicMarkType="103">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694341</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42106" magicMarkModelid="700313155" magicMarkName="紫晶秘籍" magicMarkType="104">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694342</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42109" magicMarkModelid="700313158" magicMarkName="雷纹圣令·铜" magicMarkType="107">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694343</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42071" magicMarkModelid="700313044" magicMarkName="丹叶赤瞳" magicMarkType="108">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694344</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42103" magicMarkModelid="700313152" magicMarkName="青璃真言" magicMarkType="109">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694345</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42110" magicMarkModelid="700313159" magicMarkName="芙蓉唇印" magicMarkType="110">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694346</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42081" magicMarkModelid="700313115" magicMarkName="青霄电芒" magicMarkType="111">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694347</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42116" magicMarkModelid="700313165" magicMarkName="嫦娥奔月" magicMarkType="112">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694348</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42114" magicMarkModelid="700313163" magicMarkName="碧荷鲤影" magicMarkType="113">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694349</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42113" magicMarkModelid="700313162" magicMarkName="十字轮盘" magicMarkType="114">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694350</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42117" magicMarkModelid="700313166" magicMarkName="雾窗雪晶" magicMarkType="116">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694351</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42118" magicMarkModelid="700313167" magicMarkName="玫瑰紫语" magicMarkType="117">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694352</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42111" magicMarkModelid="700313160" magicMarkName="泳池派对" magicMarkType="118">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694353</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42112" magicMarkModelid="700313161" magicMarkName="幻影纸牌" magicMarkType="119">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694354</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42115" magicMarkModelid="700313164" magicMarkName="绯樱之舞" magicMarkType="120">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694355</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42119" magicMarkModelid="700313168" magicMarkName="冰晶雪梅" magicMarkType="121">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694356</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42120" magicMarkModelid="700313169" magicMarkName="璀璨金扇" magicMarkType="122">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694357</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42121" magicMarkModelid="700313170" magicMarkName="赤红齿轮" magicMarkType="123">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694358</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42123" magicMarkModelid="700313172" magicMarkName="鹤之纹章" magicMarkType="124">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694359</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42124" magicMarkModelid="700313173" magicMarkName="剪纸窗花" magicMarkType="125">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694360</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42126" magicMarkModelid="700313175" magicMarkName="五彩油墨" magicMarkType="126">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694361</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42129" magicMarkModelid="700313178" magicMarkName="团锦结" magicMarkType="127">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694362</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42122" magicMarkModelid="700313171" magicMarkName="一捻丹枫" magicMarkType="128">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694363</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42125" magicMarkModelid="700313174" magicMarkName="盛夏绿意" magicMarkType="129">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694364</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42127" magicMarkModelid="700313176" magicMarkName="月出皎兮" magicMarkType="130">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694365</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42128" magicMarkModelid="700313177" magicMarkName="年年有余" magicMarkType="131">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694366</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93263" magicMarkModelid="700313182" magicMarkName="鼠兆丰年" magicMarkType="132">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694367</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42131" magicMarkModelid="700313180" magicMarkName="紫域迷踪" magicMarkType="133">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694368</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42132" magicMarkModelid="700313181" magicMarkName="金影掠风" magicMarkType="134">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694369</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93343" magicMarkModelid="700313193" magicMarkName="金阵六芒" magicMarkType="135">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694370</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93347" magicMarkModelid="700313194" magicMarkName="九极冰寒" magicMarkType="136">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694371</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93348" magicMarkModelid="700313195" magicMarkName="花铃流莺" magicMarkType="137">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694372</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93375" magicMarkModelid="700313198" magicMarkName="繁花锦簇" magicMarkType="138">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694373</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93376" magicMarkModelid="700313199" magicMarkName="风鸢而歌" magicMarkType="139">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694374</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93375" magicMarkModelid="700313197" magicMarkName="花环点缀" magicMarkType="140">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694375</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93373" magicMarkModelid="700313196" magicMarkName="郁郁葱葱" magicMarkType="141">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694376</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93377" magicMarkModelid="700313200" magicMarkName="我要夏天" magicMarkType="142">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694377</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93378" magicMarkModelid="700313201" magicMarkName="向日丈菊" magicMarkType="143">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694378</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42133" magicMarkModelid="700313202" magicMarkName="圣光符文" magicMarkType="144">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694379</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42134" magicMarkModelid="700313203" magicMarkName="童心环游" magicMarkType="145">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694380</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42135" magicMarkModelid="700313204" magicMarkName="鎏金星盘" magicMarkType="146">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694381</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93490" magicMarkModelid="700313205" magicMarkName="盛夏之荷" magicMarkType="147">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694382</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93592" magicMarkModelid="700313206" magicMarkName="粽香绵绵" magicMarkType="148">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694383</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93593" magicMarkModelid="700313207" magicMarkName="云上迷宫" magicMarkType="149">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694384</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93594" magicMarkModelid="700313208" magicMarkName="斗士圣光" magicMarkType="150">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694385</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93595" magicMarkModelid="700313209" magicMarkName="幸运四叶草" magicMarkType="151">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694386</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93713" magicMarkModelid="700313212" magicMarkName="赛博雪花" magicMarkType="152">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694387</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93714" magicMarkModelid="700313210" magicMarkName="尼罗冥牌" magicMarkType="153">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694388</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93715" magicMarkModelid="700313211" magicMarkName="金箔日轨" magicMarkType="154">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694389</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93741" magicMarkModelid="700313213" magicMarkName="绯红幻影" magicMarkType="155">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694390</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93740" magicMarkModelid="700313214" magicMarkName="苦无之门" magicMarkType="156">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694391</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93739" magicMarkModelid="700313215" magicMarkName="黄金天幕" magicMarkType="157">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694392</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93780" magicMarkModelid="700313216" magicMarkName="释金之心" magicMarkType="158">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694393</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93833" magicMarkModelid="700313219" magicMarkName="无尽探索" magicMarkType="159">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694394</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93838" magicMarkModelid="700313217" magicMarkName="罗兰旋风" magicMarkType="160">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694394</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93840" magicMarkModelid="700313218" magicMarkName="红晶法环" magicMarkType="161">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694398</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93847" magicMarkModelid="700313220" magicMarkName="闪耀之瞳" magicMarkType="162">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694399</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93894" magicMarkModelid="700313224" magicMarkName="花花世界" magicMarkType="163">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694400</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93885" magicMarkModelid="700313221" magicMarkName="丰收时节" magicMarkType="164">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694401</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93887" magicMarkModelid="700313222" magicMarkName="品味橙光" magicMarkType="165">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694402</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93888" magicMarkModelid="700313223" magicMarkName="孩提时代" magicMarkType="166">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694403</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93948" magicMarkModelid="700313226" magicMarkName="麦浪时空" magicMarkType="167">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694404</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93947" magicMarkModelid="700313227" magicMarkName="金色年华" magicMarkType="168">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694405</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93949" magicMarkModelid="700313228" magicMarkName="幸运三叶" magicMarkType="169">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694406</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93935" magicMarkModelid="700313229" magicMarkName="感恩草环" magicMarkType="170">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694407</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93936" magicMarkModelid="700313230" magicMarkName="金凌雪花" magicMarkType="171">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694408</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93921" magicMarkModelid="700313225" magicMarkName="万圣派对" magicMarkType="172">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694409</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94059" magicMarkModelid="700313231" magicMarkName="攒金清秋" magicMarkType="173">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694410</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94060" magicMarkModelid="700313232" magicMarkName="冬日礼物" magicMarkType="174">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694411</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94061" magicMarkModelid="700313233" magicMarkName="凰翎之触" magicMarkType="175">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694412</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94109" magicMarkModelid="700313234" magicMarkName="金牛迎春" magicMarkType="176">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694413</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94123" magicMarkModelid="700313235" magicMarkName="京城花开" magicMarkType="177">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694414</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94126" magicMarkModelid="700313236" magicMarkName="吉祥灯" magicMarkType="178">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694415</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94184" magicMarkModelid="700313237" magicMarkName="多彩之印" magicMarkType="179">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694416</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94185" magicMarkModelid="700313238" magicMarkName="火焰之印" magicMarkType="180">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694417</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94194" magicMarkModelid="700313239" magicMarkName="迷幻蝴蝶" magicMarkType="181">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694418</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94196" magicMarkModelid="700313240" magicMarkName="金月白兔" magicMarkType="182">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694419</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94203" magicMarkModelid="700313241" magicMarkName="花团锦簇" magicMarkType="183">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694420</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94214" magicMarkModelid="700313242" magicMarkName="金饺盛宴" magicMarkType="184">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694421</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94227" magicMarkModelid="700313244" magicMarkName="灿烂幽花" magicMarkType="185">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694422</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94222" magicMarkModelid="700313243" magicMarkName="冰爽下午茶" magicMarkType="186">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694423</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94303" magicMarkModelid="700313245" magicMarkName="万花筒" magicMarkType="187">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694424</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94304" magicMarkModelid="700313246" magicMarkName="上善若水" magicMarkType="188">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694425</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94302" magicMarkModelid="700313247" magicMarkName="欢乐之旅" magicMarkType="189">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694426</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94297" magicMarkModelid="700313248" magicMarkName="梅花朵朵" magicMarkType="190">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694427</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94425" magicMarkModelid="700313249" magicMarkName="燕之歌" magicMarkType="191">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694428</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94428" magicMarkModelid="700313250" magicMarkName="山水云间" magicMarkType="192">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694429</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94452" magicMarkModelid="700313251" magicMarkName="山花灿烂" magicMarkType="193">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694430</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94476" magicMarkModelid="700313252" magicMarkName="浓香百味" magicMarkType="194">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694431</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94482" magicMarkModelid="700313253" magicMarkName="三阳交泰" magicMarkType="195">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694432</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94485" magicMarkModelid="700313254" magicMarkName="缤纷华影" magicMarkType="196">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694433</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94489" magicMarkModelid="700313255" magicMarkName="苍风之影" magicMarkType="197">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694434</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94491" magicMarkModelid="700313256" magicMarkName="黄金之钻" magicMarkType="198">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694435</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42138" magicMarkModelid="700313257" magicMarkName="花满人间" magicMarkType="199">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694436</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42136" magicMarkModelid="700313258" magicMarkName="生命元素" magicMarkType="200">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694437</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42137" magicMarkModelid="700313259" magicMarkName="无限宝石" magicMarkType="201">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694438</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42139" magicMarkModelid="700313260" magicMarkName="五福临门" magicMarkType="202">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694439</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42140" magicMarkModelid="700313261" magicMarkName="佛法无边" magicMarkType="203">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694440</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42141" magicMarkModelid="700313262" magicMarkName="完美世界" magicMarkType="204">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694441</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42142" magicMarkModelid="700313263" magicMarkName="魔法烙印" magicMarkType="205">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694442</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42143" magicMarkModelid="700313264" magicMarkName="色彩纷呈" magicMarkType="206">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694443</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42146" magicMarkModelid="700313265" magicMarkName="听我号令" magicMarkType="207">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694444</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42148" magicMarkModelid="700313266" magicMarkName="欢乐舞狮" magicMarkType="208">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694445</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42145" magicMarkModelid="700313267" magicMarkName="南明离火" magicMarkType="209">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694446</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42147" magicMarkModelid="700313268" magicMarkName="五芒星阵" magicMarkType="210">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694447</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="42144" magicMarkModelid="700313269" magicMarkName="欢乐音符" magicMarkType="211">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110694448</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76009" magicMarkModelid="700350009" magicMarkName="光刃" magicMarkType="500">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110662201</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76017" magicMarkModelid="700350013" magicMarkName="怒雷" magicMarkType="501">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110610025</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76000" magicMarkModelid="700350000" magicMarkName="飞花" magicMarkType="502">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110620005</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76003" magicMarkModelid="700350003" magicMarkName="财宝" magicMarkType="503">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110660215</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76013" magicMarkModelid="700350018" magicMarkName="飞羽" magicMarkType="504">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110697612</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76005" magicMarkModelid="700350005" magicMarkName="蝶舞" magicMarkType="505">
+    <passiveSkillList/>
+    <effectSkillList>
+      <int>110697613</int>
+    </effectSkillList>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76004" magicMarkModelid="700350004" magicMarkName="桃心" magicMarkType="506">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76007" magicMarkModelid="700350007" magicMarkName="气泡" magicMarkType="507">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76012" magicMarkModelid="700350022" magicMarkName="舞动星辰" magicMarkType="508">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76010" magicMarkModelid="700350020" magicMarkName="菇灵精怪" magicMarkType="509">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76015" magicMarkModelid="700350021" magicMarkName="桃花朵朵" magicMarkType="510">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76008" magicMarkModelid="700350008" magicMarkName="酷酷菱镜" magicMarkType="511">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76002" magicMarkModelid="700350002" magicMarkName="踏雪冰晶" magicMarkType="512">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76016" magicMarkModelid="700350024" magicMarkName="蓝色花语" magicMarkType="513">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76014" magicMarkModelid="700350028" magicMarkName="缤纷糖果" magicMarkType="514">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76019" magicMarkModelid="700350031" magicMarkName="小黄鸭" magicMarkType="515">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76018" magicMarkModelid="700350032" magicMarkName="刺团子" magicMarkType="516">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76020" magicMarkModelid="700350033" magicMarkName="熊宝宝" magicMarkType="517">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76022" magicMarkModelid="700350035" magicMarkName="欢乐足球" magicMarkType="518">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76023" magicMarkModelid="700350036" magicMarkName="烈焰红唇" magicMarkType="519">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76024" magicMarkModelid="700350037" magicMarkName="一生一誓" magicMarkType="520">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76025" magicMarkModelid="700350038" magicMarkName="红玫瑰" magicMarkType="521">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76026" magicMarkModelid="700350039" magicMarkName="命运赠礼" magicMarkType="522">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76027" magicMarkModelid="700350040" magicMarkName="萤火精灵" magicMarkType="523">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76028" magicMarkModelid="700350041" magicMarkName="浪漫花火" magicMarkType="524">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76001" magicMarkModelid="700350001" magicMarkName="佛莲现世" magicMarkType="525">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76030" magicMarkModelid="700350043" magicMarkName="剑来" magicMarkType="526">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76035" magicMarkModelid="700350051" magicMarkName="甜蜜依旧" magicMarkType="527">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76029" magicMarkModelid="700350010" magicMarkName="凤鸣朝阳" magicMarkType="528">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76031" magicMarkModelid="700350042" magicMarkName="蜂纷飞" magicMarkType="529">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76041" magicMarkModelid="700350053" magicMarkName="脚印" magicMarkType="530">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76042" magicMarkModelid="700350054" magicMarkName="星爆" magicMarkType="531">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76043" magicMarkModelid="700350055" magicMarkName="欢乐音符" magicMarkType="532">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76044" magicMarkModelid="700350056" magicMarkName="踏浪前行" magicMarkType="533">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76045" magicMarkModelid="700350057" magicMarkName="蝶恋花" magicMarkType="534">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76046" magicMarkModelid="700350058" magicMarkName="魔方世界" magicMarkType="535">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76047" magicMarkModelid="700350059" magicMarkName="星光乍泄" magicMarkType="536">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76048" magicMarkModelid="700350060" magicMarkName="赤雾" magicMarkType="537">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76049" magicMarkModelid="700350061" magicMarkName="六芒封禁" magicMarkType="538">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76050" magicMarkModelid="700350062" magicMarkName="螺旋漫舞" magicMarkType="539">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76040" magicMarkModelid="700350052" magicMarkName="花丛" magicMarkType="540">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76052" magicMarkModelid="700350064" magicMarkName="万花筒" magicMarkType="541">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76032" magicMarkModelid="700350045" magicMarkName="小南瓜" magicMarkType="542">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76033" magicMarkModelid="700350049" magicMarkName="小雪人" magicMarkType="543">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76051" magicMarkModelid="700350063" magicMarkName="团簇" magicMarkType="544">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76053" magicMarkModelid="700350065" magicMarkName="陨石" magicMarkType="545">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76054" magicMarkModelid="700350066" magicMarkName="风驰电掣" magicMarkType="546">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76036" magicMarkModelid="700350044" magicMarkName="圣诞袜子" magicMarkType="547">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76055" magicMarkModelid="700350067" magicMarkName="幽通阵" magicMarkType="548">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76056" magicMarkModelid="700350068" magicMarkName="混沌旋风" magicMarkType="549">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76058" magicMarkModelid="700350070" magicMarkName="彩色乐章" magicMarkType="550">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76057" magicMarkModelid="700350069" magicMarkName="暖意" magicMarkType="551">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76060" magicMarkModelid="700350072" magicMarkName="幽晶之簇" magicMarkType="552">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76039" magicMarkModelid="700350048" magicMarkName="圣诞老人" magicMarkType="553">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76037" magicMarkModelid="700350046" magicMarkName="圣诞树" magicMarkType="554">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76038" magicMarkModelid="700350047" magicMarkName="圣诞驯鹿" magicMarkType="555">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76059" magicMarkModelid="700350071" magicMarkName="繁樱春日" magicMarkType="556">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76063" magicMarkModelid="700350074" magicMarkName="陌上花开" magicMarkType="557">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76066" magicMarkModelid="700350077" magicMarkName="糖果甜心" magicMarkType="558">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76064" magicMarkModelid="700350075" magicMarkName="小丑鱼" magicMarkType="559">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76062" magicMarkModelid="700350073" magicMarkName="莲步轻舞" magicMarkType="560">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76065" magicMarkModelid="700350076" magicMarkName="十字华彩" magicMarkType="561">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76068" magicMarkModelid="700350079" magicMarkName="蓝风" magicMarkType="562">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76067" magicMarkModelid="700350078" magicMarkName="缭乱" magicMarkType="563">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76069" magicMarkModelid="700350080" magicMarkName="七彩音符" magicMarkType="564">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76070" magicMarkModelid="700350081" magicMarkName="金瑞祥光" magicMarkType="565">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76071" magicMarkModelid="700350082" magicMarkName="凌霄万丈" magicMarkType="566">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76065" magicMarkModelid="700350076" magicMarkName="朝霞醉梦" magicMarkType="567">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76072" magicMarkModelid="700350083" magicMarkName="焱炎" magicMarkType="568">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76073" magicMarkModelid="700350084" magicMarkName="幽灭" magicMarkType="569">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93349" magicMarkModelid="700350085" magicMarkName="缠绕" magicMarkType="570">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93350" magicMarkModelid="700350086" magicMarkName="南风芒夏" magicMarkType="571">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93382" magicMarkModelid="700350088" magicMarkName="木堇落樱" magicMarkType="572">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93351" magicMarkModelid="700350087" magicMarkName="水墨丹青" magicMarkType="573">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93383" magicMarkModelid="700350089" magicMarkName="灼热幻想" magicMarkType="574">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93384" magicMarkModelid="700350090" magicMarkName="绛紫星梦" magicMarkType="575">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93385" magicMarkModelid="700350091" magicMarkName="凌光旋星" magicMarkType="576">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93386" magicMarkModelid="700350092" magicMarkName="蕊心旋风" magicMarkType="577">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93586" magicMarkModelid="700350095" magicMarkName="翡翠炫章" magicMarkType="578">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93387" magicMarkModelid="700350093" magicMarkName="符文齿轮" magicMarkType="579">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93598" magicMarkModelid="700350094" magicMarkName="深海晶旋" magicMarkType="580">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93599" magicMarkModelid="700350096" magicMarkName="涅槃之火" magicMarkType="581">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93600" magicMarkModelid="700350097" magicMarkName="太阳风暴" magicMarkType="582">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93716" magicMarkModelid="700350098" magicMarkName="翠耀光轮" magicMarkType="583">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93735" magicMarkModelid="700350099" magicMarkName="童心王国" magicMarkType="584">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93743" magicMarkModelid="700350102" magicMarkName="流金花灯" magicMarkType="585">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93742" magicMarkModelid="700350101" magicMarkName="翡翠幻影" magicMarkType="586">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93744" magicMarkModelid="700350100" magicMarkName="翡丽之约" magicMarkType="587">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93777" magicMarkModelid="700350103" magicMarkName="绯红灵魂" magicMarkType="588">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93782" magicMarkModelid="700350104" magicMarkName="扉魂火焰" magicMarkType="589">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93835" magicMarkModelid="700350105" magicMarkName="闪耀蓝晶" magicMarkType="590">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93842" magicMarkModelid="700350106" magicMarkName="深海乐章" magicMarkType="591">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93895" magicMarkModelid="700350109" magicMarkName="花语如烟" magicMarkType="592">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93883" magicMarkModelid="700350108" magicMarkName="竹叶青" magicMarkType="593">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93946" magicMarkModelid="700350110" magicMarkName="甜蜜孢子" magicMarkType="594">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93945" magicMarkModelid="700350111" magicMarkName="萌动香菇" magicMarkType="595">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93933" magicMarkModelid="700350112" magicMarkName="赛博雪花" magicMarkType="596">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="93934" magicMarkModelid="700350113" magicMarkName="星辰锆石" magicMarkType="597">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94043" magicMarkModelid="700350114" magicMarkName="冰雪翩翩" magicMarkType="598">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94058" magicMarkModelid="700350116" magicMarkName="搞怪跟班" magicMarkType="599">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94057" magicMarkModelid="700350115" magicMarkName="雪人集会" magicMarkType="600">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94084" magicMarkModelid="700350117" magicMarkName="新春福袋" magicMarkType="601">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94125" magicMarkModelid="700350119" magicMarkName="酸甜香橘" magicMarkType="602">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94183" magicMarkModelid="700350131" magicMarkName="牛牛特工" magicMarkType="603">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94195" magicMarkModelid="700350120" magicMarkName="三只小熊" magicMarkType="604">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94199" magicMarkModelid="700350121" magicMarkName="森林纸鹤" magicMarkType="605">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94225" magicMarkModelid="700350122" magicMarkName="包子派对" magicMarkType="606">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94223" magicMarkModelid="700350123" magicMarkName="花花好甜" magicMarkType="607">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94301" magicMarkModelid="700350124" magicMarkName="冲浪鸡仔" magicMarkType="608">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94299" magicMarkModelid="700350125" magicMarkName="鱼水交融" magicMarkType="609">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94300" magicMarkModelid="700350126" magicMarkName="花开朵朵" magicMarkType="610">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94298" magicMarkModelid="700350127" magicMarkName="千重冰凌" magicMarkType="611">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94426" magicMarkModelid="700350128" magicMarkName="三只小兔" magicMarkType="612">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94430" magicMarkModelid="700350129" magicMarkName="三只蜗牛" magicMarkType="613">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="94483" magicMarkModelid="700350130" magicMarkName="飞扬喵喵" magicMarkType="614">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="31103" magicMarkModelid="700350132" magicMarkName="水蜜仙桃" magicMarkType="615">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="31102" magicMarkModelid="700350133" magicMarkName="神奇魔术" magicMarkType="616">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="31101" magicMarkModelid="700350134" magicMarkName="玉米精灵" magicMarkType="617">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="31113" magicMarkModelid="700350135" magicMarkName="碧海明珠" magicMarkType="618">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76076" magicMarkModelid="700350136" magicMarkName="希望的脚步" magicMarkType="619">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76074" magicMarkModelid="700350137" magicMarkName="星月神话" magicMarkType="620">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+  <mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg iconid="76075" magicMarkModelid="700350138" magicMarkName="花儿灿烂" magicMarkType="621">
+    <passiveSkillList/>
+    <effectSkillList/>
+  </mzm.gsp.magicmark.confbean.SMagicMarkTypeCfg>
+</data>

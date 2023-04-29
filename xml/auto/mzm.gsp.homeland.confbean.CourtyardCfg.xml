@@ -1,0 +1,58 @@
+<data>
+  <mzm.gsp.homeland.confbean.CourtyardCfg id="842200000" mapId="330001013">
+    <childXs>
+      <int>849</int>
+      <int>755</int>
+      <int>697</int>
+      <int>478</int>
+    </childXs>
+    <childYs>
+      <int>755</int>
+      <int>708</int>
+      <int>651</int>
+      <int>781</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.CourtyardCfg>
+  <mzm.gsp.homeland.confbean.CourtyardCfg id="842200001" mapId="330001015">
+    <childXs>
+      <int>854</int>
+      <int>729</int>
+      <int>940</int>
+      <int>820</int>
+    </childXs>
+    <childYs>
+      <int>600</int>
+      <int>664</int>
+      <int>667</int>
+      <int>699</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.CourtyardCfg>
+  <mzm.gsp.homeland.confbean.CourtyardCfg id="842200002" mapId="330001016">
+    <childXs>
+      <int>897</int>
+      <int>946</int>
+      <int>748</int>
+      <int>808</int>
+    </childXs>
+    <childYs>
+      <int>565</int>
+      <int>605</int>
+      <int>639</int>
+      <int>753</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.CourtyardCfg>
+  <mzm.gsp.homeland.confbean.CourtyardCfg id="842200003" mapId="330001017">
+    <childXs>
+      <int>1009</int>
+      <int>1088</int>
+      <int>984</int>
+      <int>908</int>
+    </childXs>
+    <childYs>
+      <int>600</int>
+      <int>633</int>
+      <int>680</int>
+      <int>656</int>
+    </childYs>
+  </mzm.gsp.homeland.confbean.CourtyardCfg>
+</data>

@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.skill.confbean.SSkillPlayMapCfg sourceSkillPlayid="160109070">
+    <skillPlays>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1000" fightStateGroupId="1000" finalSkillPlayid="160109070"/>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1001" fightStateGroupId="1000" finalSkillPlayid="160109071"/>
+    </skillPlays>
+  </mzm.gsp.skill.confbean.SSkillPlayMapCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayMapCfg sourceSkillPlayid="160109090">
+    <skillPlays>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1000" fightStateGroupId="1000" finalSkillPlayid="160109090"/>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1001" fightStateGroupId="1000" finalSkillPlayid="160109091"/>
+    </skillPlays>
+  </mzm.gsp.skill.confbean.SSkillPlayMapCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayMapCfg sourceSkillPlayid="160109100">
+    <skillPlays>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1000" fightStateGroupId="1000" finalSkillPlayid="160109100"/>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1001" fightStateGroupId="1000" finalSkillPlayid="160109101"/>
+    </skillPlays>
+  </mzm.gsp.skill.confbean.SSkillPlayMapCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayMapCfg sourceSkillPlayid="160109160">
+    <skillPlays>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1000" fightStateGroupId="1000" finalSkillPlayid="160109160"/>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1001" fightStateGroupId="1000" finalSkillPlayid="160109170"/>
+    </skillPlays>
+  </mzm.gsp.skill.confbean.SSkillPlayMapCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayMapCfg sourceSkillPlayid="160138000">
+    <skillPlays>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1000" fightStateGroupId="1000" finalSkillPlayid="160138000"/>
+      <mzm.gsp.skill.confbean.FightStateSkillPlay fightState="1001" fightStateGroupId="1000" finalSkillPlayid="160138001"/>
+    </skillPlays>
+  </mzm.gsp.skill.confbean.SSkillPlayMapCfg>
+</data>

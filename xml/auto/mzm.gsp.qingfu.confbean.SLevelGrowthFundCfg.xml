@@ -1,0 +1,100 @@
+<data>
+  <mzm.gsp.qingfu.confbean.SLevelGrowthFundCfg id="350000100" serviceId="21">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="497" level_cond="0" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="490" level_cond="30" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="491" level_cond="40" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="492" level_cond="45" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="493" level_cond="50" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="494" level_cond="55" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="495" level_cond="60" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="496" level_cond="65" sort_id="8"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SLevelGrowthFundCfg>
+  <mzm.gsp.qingfu.confbean.SLevelGrowthFundCfg id="350000099" serviceId="22">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="393" level_cond="70" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="380" level_cond="70" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="381" level_cond="75" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="382" level_cond="80" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="383" level_cond="85" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="384" level_cond="88" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="385" level_cond="90" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="386" level_cond="92" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="387" level_cond="94" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="388" level_cond="95" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="389" level_cond="96" sort_id="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="390" level_cond="97" sort_id="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="391" level_cond="98" sort_id="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.qingfu.confbean.SLevelGrowthFundActivityAwardInfo award_cfg_id="392" level_cond="99" sort_id="14"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SLevelGrowthFundCfg>
+</data>

@@ -1,0 +1,15 @@
+<data>
+  <mzm.gsp.auction.confbean.SAuctionActivityTurnCfg turnTypeId="1">
+    <turnIndex2turnInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.auction.confbean.STurnInfo itemSumTypeId="1" turnTimeId="350106042"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.auction.confbean.STurnInfo itemSumTypeId="2" turnTimeId="350106043"/>
+      </entry>
+    </turnIndex2turnInfo>
+  </mzm.gsp.auction.confbean.SAuctionActivityTurnCfg>
+</data>

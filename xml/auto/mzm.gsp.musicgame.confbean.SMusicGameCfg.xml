@@ -1,0 +1,12 @@
+<data>
+  <mzm.gsp.musicgame.confbean.SMusicGameCfg game_id="1" game_max_time_ms="300000" moduleid="205" point_upper_limit="600" right_award_id="0" right_point="10" turn_sum="10" wrong_award_id="0" wrong_point="0">
+    <right_sum_award_info>
+      <no-comparator/>
+    </right_sum_award_info>
+  </mzm.gsp.musicgame.confbean.SMusicGameCfg>
+  <mzm.gsp.musicgame.confbean.SMusicGameCfg game_id="2" game_max_time_ms="300000" moduleid="336" point_upper_limit="100" right_award_id="0" right_point="10" turn_sum="10" wrong_award_id="0" wrong_point="0">
+    <right_sum_award_info>
+      <no-comparator/>
+    </right_sum_award_info>
+  </mzm.gsp.musicgame.confbean.SMusicGameCfg>
+</data>

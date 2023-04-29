@@ -1,0 +1,120 @@
+<data>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="17">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>29</int>
+        <float>0.75</float>
+      </entry>
+      <entry>
+        <int>28</int>
+        <float>0.5</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="1">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>28</int>
+        <float>10.8</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="19">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>26</int>
+        <float>1.0</float>
+      </entry>
+      <entry>
+        <int>28</int>
+        <float>0.4</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="18">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>25</int>
+        <float>2.0</float>
+      </entry>
+      <entry>
+        <int>26</int>
+        <float>0.6</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="3">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>25</int>
+        <float>0.0</float>
+      </entry>
+      <entry>
+        <int>27</int>
+        <float>0.6</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="7">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>25</int>
+        <float>1.5</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="8">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>29</int>
+        <float>3.0</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="9">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>27</int>
+        <float>1.5</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="24">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>26</int>
+        <float>1.0</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+  <mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform fightProp="10">
+    <baseProp2Factor>
+      <no-comparator/>
+      <entry>
+        <int>25</int>
+        <float>0.6</float>
+      </entry>
+      <entry>
+        <int>27</int>
+        <float>1.0</float>
+      </entry>
+      <entry>
+        <int>29</int>
+        <float>0.2</float>
+      </entry>
+      <entry>
+        <int>28</int>
+        <float>0.2</float>
+      </entry>
+    </baseProp2Factor>
+  </mzm.gsp.children.confbean.SChildrenFightProp2BasePropTransform>
+</data>

@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.award.confbean.SMoneyCfg iconModelId="20" id="501100000" moneyType="1" name="金元宝" templatename="金币" tip="金元宝"/>
+  <mzm.gsp.award.confbean.SMoneyCfg iconModelId="21" id="501100001" moneyType="2" name="银币" templatename="银币" tip="银币"/>
+  <mzm.gsp.award.confbean.SMoneyCfg iconModelId="22" id="501100002" moneyType="3" name="铜币" templatename="铜币" tip="铜币"/>
+  <mzm.gsp.award.confbean.SMoneyCfg iconModelId="23" id="501100003" moneyType="4" name="帮贡" templatename="帮贡" tip="帮贡"/>
+</data>

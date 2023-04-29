@@ -1,0 +1,107 @@
+<data>
+  <mzm.gsp.backgame.confbean.SBackGameDayAwardCfg day="3">
+    <scoreAwardBeanMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2100" cfgId="900100000" score="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2101" cfgId="900100001" score="30"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2102" cfgId="900100002" score="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2103" cfgId="900100003" score="80"/>
+      </entry>
+    </scoreAwardBeanMap>
+  </mzm.gsp.backgame.confbean.SBackGameDayAwardCfg>
+  <mzm.gsp.backgame.confbean.SBackGameDayAwardCfg day="4">
+    <scoreAwardBeanMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2104" cfgId="900100004" score="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2105" cfgId="900100005" score="30"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2106" cfgId="900100006" score="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2107" cfgId="900100007" score="80"/>
+      </entry>
+    </scoreAwardBeanMap>
+  </mzm.gsp.backgame.confbean.SBackGameDayAwardCfg>
+  <mzm.gsp.backgame.confbean.SBackGameDayAwardCfg day="5">
+    <scoreAwardBeanMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2108" cfgId="900100008" score="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2109" cfgId="900100009" score="30"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2110" cfgId="900100010" score="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2112" cfgId="900100011" score="80"/>
+      </entry>
+    </scoreAwardBeanMap>
+  </mzm.gsp.backgame.confbean.SBackGameDayAwardCfg>
+  <mzm.gsp.backgame.confbean.SBackGameDayAwardCfg day="6">
+    <scoreAwardBeanMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2113" cfgId="900100012" score="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2114" cfgId="900100013" score="30"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2115" cfgId="900100014" score="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2116" cfgId="900100015" score="80"/>
+      </entry>
+    </scoreAwardBeanMap>
+  </mzm.gsp.backgame.confbean.SBackGameDayAwardCfg>
+  <mzm.gsp.backgame.confbean.SBackGameDayAwardCfg day="7">
+    <scoreAwardBeanMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2117" cfgId="900100016" score="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2118" cfgId="900100017" score="30"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2119" cfgId="900100018" score="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.backgame.confbean.ScoreAwardBean awardId="2120" cfgId="900100019" score="80"/>
+      </entry>
+    </scoreAwardBeanMap>
+  </mzm.gsp.backgame.confbean.SBackGameDayAwardCfg>
+</data>

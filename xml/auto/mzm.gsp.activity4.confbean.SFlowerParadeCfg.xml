@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.activity4.confbean.SFlowerParadeCfg activityId="350020015" danceAwardCount="3" danceAwardId="6330" danceGroupId="1" endEffectId="702020260" endRestTime="10" fireworksEffectId="702020263" fireworksSoundId="720050050" followAliveTime="5" followAwardCount="2" followAwardId="35020" followParadeTime="30" mapGroupId="1" mapUniqueTime="3" ocpGroupId="1" ocpUniqueTime="3" paradeVelocity="140" prepareEffectId="702020263" prepareTime="10" redbagAwardId="403" redbagGroupId="1" redbagHandleType="100" restTime="18" singDelayTime="10">
+    <startCommonTimeIds>
+      <int>350200104</int>
+      <int>350200105</int>
+      <int>350200106</int>
+      <int>350200107</int>
+      <int>350200108</int>
+    </startCommonTimeIds>
+  </mzm.gsp.activity4.confbean.SFlowerParadeCfg>
+</data>

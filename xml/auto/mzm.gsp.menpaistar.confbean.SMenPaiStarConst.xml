@@ -1,0 +1,23 @@
+<root>
+<row name="CAMPAIGN_MIN_LEVEL" value="50"/>
+<row name="CAMPAIGN_NOT_LESS_SERVER_LEVEL" value="5"/>
+<row name="VOTE_MIN_LEVEL" value="40"/>
+<row name="VOTE_NOT_LESS_SERVER_LEVEL" value="10"/>
+<row name="CAMPAIGN_BATTLE_END_TIME" value="350100510"/>
+<row name="VOTE_BATTLE_END_TIME" value="350100509"/>
+<row name="VOTE_NUM" value="3"/>
+<row name="WORLD_CHANNEL_CD" value="60"/>
+<row name="GANG_CHANNEL_CD" value="60"/>
+<row name="CAMPAIGN_SUCCESS_MIN_POINT" value="6"/>
+<row name="DAILY_CAMPAIGN_BATTLE_NUM" value="3"/>
+<row name="DAILY_VOTE_BATTLE_NUM" value="3"/>
+<row name="VOTE_AWARD_CFG_ID" value="300"/>
+<row name="ACTIVITY_CFG_ID" value="350000043"/>
+<row name="PAGE_SIZE" value="7"/>
+<row name="SUPPLY_VOTE_AWARD_MAIL_CFG_ID" value="340000017"/>
+<row name="STAR_BADGE" value="490400005"/>
+<row name="STAR_TITLE" value="490200450"/>
+<row name="RETURN_VOTE_COST_MAIL_CFG_ID" value="340000028"/>
+<row name="CAMPAIGN_CHART_SIZE" value="1000"/>
+<row name="TRUMPET_CFG_ID" value="431100000"/>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<row name="OFFER_TIME" value="350205000"/>
+<row name="OFFER_NUM" value="1000"/>
+<row name="REST_POINT_MAX_NUM" value="99999"/>
+<row name="ONCE_GET_MAX_NUM" value="20000"/>
+<row name="ROLE_CARRY_MAX_NUM" value="20000"/>
+<row name="NEWER_COMPENSATION_NUM" value="700"/>
+<row name="REST_POINT_DISCOUNT" value="10000"/>
+<row name="REST_POINT_DISCOUNT_BASE" value="10000"/>
+<row name="ITEM_MAX_USE_COUNT" value="999"/>
+<row name="FROZEN_DEC_NUM" value="0"/>
+<row name="MIN_NUM_FOR_BOUND_TIP" value="20"/>
+<row name="TIPS" value="701600000"/>
+<row name="doublePointItem" value="211800000"/>
+<row name="ITEM_USE_TIMES_RESET_TIME" value="350205001"/>
+<row name="DOUBLE_POINT_ITEM_ID" value="211800000"/>
+</root>

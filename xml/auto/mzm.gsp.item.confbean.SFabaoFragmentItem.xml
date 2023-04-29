@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="5" icon="720" id="212601000" isProprietary="false" name="輪迴珠碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="1" type="42" useLevel="60"/>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="2" icon="738" id="212602000" isProprietary="false" name="神木骰碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="2" type="42" useLevel="60"/>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="3" icon="721" id="212603000" isProprietary="false" name="木魚碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="3" type="42" useLevel="60"/>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="4" icon="713" id="212603020" isProprietary="false" name="毒血幡碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="4" type="42" useLevel="60"/>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="1" icon="718" id="212603040" isProprietary="false" name="浮屠金缽碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="5" type="42" useLevel="60"/>
+  <mzm.gsp.item.confbean.SFabaoFragmentItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" fabaoType="6" icon="714" id="212605000" isProprietary="false" name="獠牙碎片" namecolor="1" pilemax="999" rankExp="10" sellSilver="5000" sort="6" type="42" useLevel="60"/>
+</data>

@@ -1,0 +1,10 @@
+<root>
+<row name="Activityid" value="350000432"/>
+<row name="BeforeNotifyMinutes" value="3"/>
+<row name="StartCountDown" value="20"/>
+<row name="PerTurnLastSeconds" value="15"/>
+<row name="PauseSeconds" value="3"/>
+<row name="ChangeTimes" value="1"/>
+<row name="CloseSeconds" value="5"/>
+<row name="CardCountPerTurn" value="5"/>
+</root>

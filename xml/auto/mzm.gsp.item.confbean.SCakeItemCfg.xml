@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.item.confbean.SCakeItemCfg awardId="6630" awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" doubleAwardRet="500" icon="91301" id="218300000" isProprietary="false" name="奶油布丁" namecolor="1" pilemax="1" sellSilver="1000" sort="1" type="160" useLevel="30"/>
+  <mzm.gsp.item.confbean.SCakeItemCfg awardId="6631" awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" doubleAwardRet="500" icon="91302" id="218300001" isProprietary="false" name="杏仁芝士" namecolor="2" pilemax="1" sellSilver="1000" sort="2" type="160" useLevel="30"/>
+  <mzm.gsp.item.confbean.SCakeItemCfg awardId="6632" awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" doubleAwardRet="500" icon="91303" id="218300002" isProprietary="false" name="提拉米蘇" namecolor="3" pilemax="1" sellSilver="1000" sort="3" type="160" useLevel="30"/>
+  <mzm.gsp.item.confbean.SCakeItemCfg awardId="6633" awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" doubleAwardRet="500" icon="91304" id="218300003" isProprietary="false" name="水果蛋糕" namecolor="4" pilemax="1" sellSilver="1000" sort="4" type="160" useLevel="30"/>
+  <mzm.gsp.item.confbean.SCakeItemCfg awardId="6634" awardRoleLevelMax="200" awardRoleLevelMin="30" canSellAndThrow="true" doubleAwardRet="500" icon="91305" id="218300004" isProprietary="false" name="雙層塔樓" namecolor="5" pilemax="1" sellSilver="1000" sort="5" type="160" useLevel="30"/>
+</data>

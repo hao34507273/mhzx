@@ -1,0 +1,114 @@
+/*     */ package mzm.gsp.shitu;
+/*     */ 
+/*     */ import com.goldhuman.Common.Marshal.MarshalException;
+/*     */ import com.goldhuman.Common.Marshal.OctetsStream;
+/*     */ import java.util.ArrayList;
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ public class SPublishShiTuTaskRep
+/*     */   extends __SPublishShiTuTaskRep__
+/*     */ {
+/*     */   public static final int PROTOCOL_TYPE = 12601637;
+/*     */   public static final int RESULT_SUCCESS = 1;
+/*     */   public static final int RESULT_ERROR_NOT_MASTER = 2;
+/*     */   public static final int RESULT_ERROR_ROLE_INFO = 3;
+/*     */   public static final int RESULT_ERROR_APPRENTICE_TASK_INIT = 4;
+/*     */   public static final int RESULT_ERROR_APPRENTICE_STATE = 5;
+/*     */   public static final int RESULT_ERROR_MAX_PUBLISH_TIMES = 6;
+/*     */   public int result;
+/*     */   public long role_id;
+/*     */   public ArrayList<String> args;
+/*     */   
+/*     */   protected void process() {}
+/*     */   
+/*     */   public int getType()
+/*     */   {
+/*  27 */     return 12601637;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */ 
+/*     */   public SPublishShiTuTaskRep()
+/*     */   {
+/*  42 */     this.args = new ArrayList();
+/*     */   }
+/*     */   
+/*     */   public SPublishShiTuTaskRep(int _result_, long _role_id_, ArrayList<String> _args_) {
+/*  46 */     this.result = _result_;
+/*  47 */     this.role_id = _role_id_;
+/*  48 */     this.args = _args_;
+/*     */   }
+/*     */   
+/*     */   public final boolean _validator_() {
+/*  52 */     return true;
+/*     */   }
+/*     */   
+/*     */   public OctetsStream marshal(OctetsStream _os_) {
+/*  56 */     _os_.marshal(this.result);
+/*  57 */     _os_.marshal(this.role_id);
+/*  58 */     _os_.compact_uint32(this.args.size());
+/*  59 */     for (String _v_ : this.args) {
+/*  60 */       _os_.marshal(_v_, "UTF-16LE");
+/*     */     }
+/*  62 */     return _os_;
+/*     */   }
+/*     */   
+/*     */   public OctetsStream unmarshal(OctetsStream _os_) throws MarshalException {
+/*  66 */     this.result = _os_.unmarshal_int();
+/*  67 */     this.role_id = _os_.unmarshal_long();
+/*  68 */     for (int _size_ = _os_.uncompact_uint32(); _size_ > 0; _size_--)
+/*     */     {
+/*  70 */       String _v_ = _os_.unmarshal_String("UTF-16LE");
+/*  71 */       this.args.add(_v_);
+/*     */     }
+/*  73 */     if (!_validator_()) {
+/*  74 */       throw new VerifyError("validator failed");
+/*     */     }
+/*  76 */     return _os_;
+/*     */   }
+/*     */   
+/*     */   public boolean equals(Object _o1_) {
+/*  80 */     if (_o1_ == this) return true;
+/*  81 */     if ((_o1_ instanceof SPublishShiTuTaskRep)) {
+/*  82 */       SPublishShiTuTaskRep _o_ = (SPublishShiTuTaskRep)_o1_;
+/*  83 */       if (this.result != _o_.result) return false;
+/*  84 */       if (this.role_id != _o_.role_id) return false;
+/*  85 */       if (!this.args.equals(_o_.args)) return false;
+/*  86 */       return true;
+/*     */     }
+/*  88 */     return false;
+/*     */   }
+/*     */   
+/*     */   public int hashCode() {
+/*  92 */     int _h_ = 0;
+/*  93 */     _h_ += this.result;
+/*  94 */     _h_ += (int)this.role_id;
+/*  95 */     _h_ += this.args.hashCode();
+/*  96 */     return _h_;
+/*     */   }
+/*     */   
+/*     */   public String toString() {
+/* 100 */     StringBuilder _sb_ = new StringBuilder();
+/* 101 */     _sb_.append("(");
+/* 102 */     _sb_.append(this.result).append(",");
+/* 103 */     _sb_.append(this.role_id).append(",");
+/* 104 */     _sb_.append(this.args).append(",");
+/* 105 */     _sb_.append(")");
+/* 106 */     return _sb_.toString();
+/*     */   }
+/*     */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\shitu\SPublishShiTuTaskRep.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

@@ -1,0 +1,10 @@
+<root>
+<row name="robParadeSec" value="90"/>
+<row name="robSucAwardid" value="6800"/>
+<row name="robFailAwardid" value="6801"/>
+<row name="robParadeMaxPerDay" value="1"/>
+<row name="winProtectAward" value="6802"/>
+<row name="failProtectAward" value="6803"/>
+<row name="attackProtectMaxPerDay" value="3"/>
+<row name="protectMonsterCategory" value="101"/>
+</root>

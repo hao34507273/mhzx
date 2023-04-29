@@ -1,0 +1,14 @@
+<root>
+<row name="activityCfgId" value="701600104"/>
+<row name="awardReserveExpMaxDay" value="7"/>
+<row name="awardReserveExpMinDay" value="3"/>
+<row name="getReserverExpRate" value="80000"/>
+<row name="getReserverExpRateBase" value="10000"/>
+<row name="lastTime" value="3"/>
+<row name="needOffLineTime" value="3"/>
+<row name="scoreGetMeansTipsId" value="701600104"/>
+<row name="tipsId1" value="701600104"/>
+<row name="tipsId2" value="701600104"/>
+<row name="tipsId3" value="701600104"/>
+<row name="limitDeltaDay" value="7"/>
+</root>

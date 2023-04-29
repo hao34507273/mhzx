@@ -1,0 +1,12 @@
+<data>
+  <mzm.gsp.children.confbean.SChildrenUnLockSkillCfg id="830900000">
+    <unLockSkillCostList>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="5" unLockMainItem="210140404" unLocksubItem1="210140405"/>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="10" unLockMainItem="210140404" unLocksubItem1="210140405"/>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="20" unLockMainItem="210140404" unLocksubItem1="210140405"/>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="15" unLockMainItem="210140406" unLocksubItem1="210140407"/>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="20" unLockMainItem="210140406" unLocksubItem1="210140407"/>
+      <mzm.gsp.children.confbean.UnLockSkillCost unLockItemNum="30" unLockMainItem="210140406" unLocksubItem1="210140407"/>
+    </unLockSkillCostList>
+  </mzm.gsp.children.confbean.SChildrenUnLockSkillCfg>
+</data>

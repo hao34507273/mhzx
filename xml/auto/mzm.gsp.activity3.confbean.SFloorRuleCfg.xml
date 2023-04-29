@@ -1,0 +1,186 @@
+<data>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8010" canSweep="true" confirmType="1" describe="踏入輪回虛空的那一刻，你受到了阻攔。[ff0011]想挑戰輪回，先擊碎虛空枷鎖吧[-]" fastFinishTimeLimit="30" floor="1" floorName="LV1.踏虛空" floorOpenId="360" fristBloodAwardId="8028" hardFightId="120480001" headIconId="3170" helpLibId="1" id="952500000" joinLevel="90" normalFightId="120480101" sweepCostNum="1" sweepFightValue="30000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400000</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8011" canSweep="true" confirmType="1" describe="擊敗普智，這個時空就不會有那么多悲歡離合。[ff0011]翡翠念珠是壓制普智心魔的關鍵[-]" fastFinishTimeLimit="30" floor="2" floorName="LV2.嗜血劫" floorOpenId="360" fristBloodAwardId="8029" hardFightId="120480002" headIconId="3059" helpLibId="1" id="952500001" joinLevel="90" normalFightId="120480102" sweepCostNum="1" sweepFightValue="30000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400000</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8012" canSweep="true" confirmType="1" describe="丑陋的外表并不能決定什么。[ff0011]當野狗道人看到伙伴倒下，會激發額外的斗志[-]" fastFinishTimeLimit="30" floor="3" floorName="LV3.赤誠心" floorOpenId="360" fristBloodAwardId="8030" hardFightId="120480003" headIconId="3051" helpLibId="1" id="952500002" joinLevel="90" normalFightId="120480103" sweepCostNum="1" sweepFightValue="30000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400000</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8013" canSweep="true" confirmType="1" describe="一雙赤魔瞳是年老大的驕傲。[ff0011]在戰斗中，赤魔瞳可是個棘手的存在[-]" fastFinishTimeLimit="30" floor="4" floorName="LV4.赤魔瞳" floorOpenId="360" fristBloodAwardId="8031" hardFightId="120480004" headIconId="3264" helpLibId="1" id="952500003" joinLevel="90" normalFightId="120480104" sweepCostNum="1" sweepFightValue="32000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400000</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8014" canSweep="true" confirmType="1" describe="人物性格的不同決定不同的戰斗表現，[ff0011]特定的擊殺順序會導致特定的戰斗走向[-]" fastFinishTimeLimit="30" floor="5" floorName="LV5.山河破" floorOpenId="360" fristBloodAwardId="8032" hardFightId="120480005" headIconId="3065" helpLibId="1" id="952500004" joinLevel="90" normalFightId="120480105" sweepCostNum="1" sweepFightValue="32000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400000</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8015" canSweep="true" confirmType="1" describe="芳心苦，忍回顧。悔不及，難相處。[ff0011]這一次，金鈴夫人與黑心老人會相互扶持[-]" fastFinishTimeLimit="30" floor="6" floorName="LV6.鈴鐺噎" floorOpenId="361" fristBloodAwardId="8033" hardFightId="120480006" headIconId="3039" helpLibId="2" id="952500005" joinLevel="95" normalFightId="120480106" sweepCostNum="2" sweepFightValue="32000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8016" canSweep="true" confirmType="1" describe="三尾和六尾的愛至死不渝，而[ff0011]玄火鑒，是他們力量的源泉[-]" fastFinishTimeLimit="30" floor="7" floorName="LV7.月如霜" floorOpenId="361" fristBloodAwardId="8034" hardFightId="120480007" headIconId="3204" helpLibId="2" id="952500006" joinLevel="95" normalFightId="120480107" sweepCostNum="2" sweepFightValue="34000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8017" canSweep="true" confirmType="1" describe="“小子，納命來！”消滅瘋狂的吸血老妖。[ff0011]五只命鬼讓吸血老妖牢不可破[-]" fastFinishTimeLimit="30" floor="8" floorName="LV8.血債償" floorOpenId="361" fristBloodAwardId="8035" hardFightId="120480008" headIconId="3256" helpLibId="2" id="952500007" joinLevel="95" normalFightId="120480108" sweepCostNum="2" sweepFightValue="34000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8018" canSweep="true" confirmType="1" describe="崇拜的熾熱和瘋狂，便是浩劫的開端。[ff0011]對蒼松道人的攻擊，會招來猛烈的報復[-]" fastFinishTimeLimit="30" floor="9" floorName="LV9.手足情" floorOpenId="361" fristBloodAwardId="8036" hardFightId="120480009" headIconId="3258" helpLibId="2" id="952500008" joinLevel="95" normalFightId="120480109" sweepCostNum="2" sweepFightValue="34000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8019" canSweep="true" confirmType="1" describe="三大魔首實力強橫，[ff0011]必須堅持抵擋片刻，堅持到誅仙劍陣來臨[-]" fastFinishTimeLimit="30" floor="10" floorName="LV10.聚魔首" floorOpenId="361" fristBloodAwardId="8037" hardFightId="120480010" headIconId="3405" helpLibId="2" id="952500009" joinLevel="95" normalFightId="120480110" sweepCostNum="2" sweepFightValue="35000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>216400002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8020" canSweep="true" confirmType="13" describe="一聲癡情咒，恩愛兩分離。[ff0011]即使不忍，也必須阻止小凡的瘋狂。[-]" fastFinishTimeLimit="30" floor="11" floorName="LV11.癡情咒" floorOpenId="362" fristBloodAwardId="8038" hardFightId="120480011" headIconId="3047" helpLibId="3" id="952500010" joinLevel="100" normalFightId="120480111" sweepCostNum="3" sweepFightValue="36000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8021" canSweep="true" confirmType="13" describe="空有野心的玉陽子，終究無法得償所愿。[ff0011]陰陽鏡會賦予玉陽子豐富的狀態變化[-]" fastFinishTimeLimit="30" floor="12" floorName="LV12.長生滅" floorOpenId="362" fristBloodAwardId="8039" hardFightId="120480012" headIconId="3403" helpLibId="3" id="952500011" joinLevel="100" normalFightId="120480112" sweepCostNum="3" sweepFightValue="37000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8022" canSweep="true" confirmType="13" describe="誰會喜歡爾虞我詐的算計？[ff0011]秦無言在死亡沼澤中，可是擁有無限援兵的[-]" fastFinishTimeLimit="30" floor="13" floorName="LV13.三公子" floorOpenId="362" fristBloodAwardId="8040" hardFightId="120480013" headIconId="3055" helpLibId="3" id="952500012" joinLevel="100" normalFightId="120480113" sweepCostNum="3" sweepFightValue="38000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8023" canSweep="true" confirmType="13" describe="剪不斷，理還亂。[ff0011]若是鬼厲陣亡，他的好友將會失去所有理智[-]" fastFinishTimeLimit="30" floor="14" floorName="LV14.斬相思" floorOpenId="362" fristBloodAwardId="8041" hardFightId="120480014" headIconId="3049" helpLibId="3" id="952500013" joinLevel="100" normalFightId="120480114" sweepCostNum="3" sweepFightValue="40000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8024" canSweep="true" confirmType="13" describe="即便青春永駐，千年的孤寂也令人發狂。[ff0011]狐族被上蒼眷顧，是不死的存在[-]" fastFinishTimeLimit="30" floor="15" floorName="LV15.破千年" floorOpenId="362" fristBloodAwardId="8042" hardFightId="120480015" headIconId="3053" helpLibId="3" id="952500014" joinLevel="100" normalFightId="120480115" sweepCostNum="3" sweepFightValue="41000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>215500001</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8025" canSweep="false" confirmType="14" describe="千年的隱忍，只為厚積薄發，豪取天下！[ff0011]靈器法寶，與主人共生死[-]" fastFinishTimeLimit="30" floor="16" floorName="LV16.焚天下" floorOpenId="363" fristBloodAwardId="8043" hardFightId="120480016" headIconId="3146" helpLibId="4" id="952500015" joinLevel="105" normalFightId="120480116" sweepCostNum="4" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8026" canSweep="false" confirmType="14" describe="上天以最殘酷的方式懲罰了玲瓏的野心。[ff0011]玲瓏是唯一能制約獸神的存在[-]" fastFinishTimeLimit="30" floor="17" floorName="LV17.憶纏綿" floorOpenId="363" fristBloodAwardId="8044" hardFightId="120480017" headIconId="3085" helpLibId="4" id="952500016" joinLevel="105" normalFightId="120480117" sweepCostNum="4" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8027" canSweep="false" confirmType="14" describe="修仙是為了什么？道玄漸漸迷失本心。[ff0011]誅仙劍殺戮越多，實力越強。[-]" fastFinishTimeLimit="30" floor="18" floorName="LV18.誅仙陣" floorOpenId="363" fristBloodAwardId="8045" hardFightId="120480018" headIconId="3065" helpLibId="4" id="952500017" joinLevel="105" normalFightId="120480118" sweepCostNum="4" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8051" canSweep="false" confirmType="15" describe="四灵血阵将成，天下又有谁能匹敌？[ff0011]乾坤锁是限制修罗魂力量的关键[-]" fastFinishTimeLimit="30" floor="19" floorName="LV19.血阵成" floorOpenId="577" fristBloodAwardId="8046" hardFightId="120480019" headIconId="3469" helpLibId="5" id="952500018" joinLevel="110" normalFightId="120480119" sweepCostNum="5" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8052" canSweep="false" confirmType="15" describe="神秘的鬼先生，谁也不知道他究竟意欲何为。[ff0011]鬼气是鬼先生力量的源泉[-]" fastFinishTimeLimit="30" floor="20" floorName="LV20.鬼道亡" floorOpenId="577" fristBloodAwardId="8047" hardFightId="120480020" headIconId="3037" helpLibId="5" id="952500019" joinLevel="110" normalFightId="120480120" sweepCostNum="5" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8053" canSweep="false" confirmType="15" describe="虽千万人吾往矣！[ff0011]撑住，撑到鬼厉来援[-]" fastFinishTimeLimit="30" floor="21" floorName="LV21.修罗变" floorOpenId="577" fristBloodAwardId="8048" hardFightId="120480021" headIconId="3405" helpLibId="5" id="952500020" joinLevel="110" normalFightId="120480121" sweepCostNum="5" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8054" canSweep="false" confirmType="15" describe="修罗灭世，浩劫即将到来。[ff0011]铲除魔气，方能限制修罗的实力[-]" fastFinishTimeLimit="30" floor="22" floorName="LV22.浩劫终" floorOpenId="577" fristBloodAwardId="8049" hardFightId="120480022" headIconId="3534" helpLibId="5" id="952500021" joinLevel="110" normalFightId="120480122" sweepCostNum="5" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+  <mzm.gsp.activity3.confbean.SFloorRuleCfg activityId="350000614" awardId="8055" canSweep="false" confirmType="15" describe="无所不知的周一仙，将带领众人迈入新的征程。[ff0011]注意周一仙给出的提示。[-]" fastFinishTimeLimit="30" floor="23" floorName="LV23.新征程" floorOpenId="577" fristBloodAwardId="8050" hardFightId="120480023" headIconId="3031" helpLibId="5" id="952500022" joinLevel="110" normalFightId="120480123" sweepCostNum="5" sweepFightValue="45000">
+    <disAwardItems>
+      <int>210140479</int>
+      <int>210101002</int>
+      <int>212900002</int>
+      <int>213200300</int>
+    </disAwardItems>
+  </mzm.gsp.activity3.confbean.SFloorRuleCfg>
+</data>

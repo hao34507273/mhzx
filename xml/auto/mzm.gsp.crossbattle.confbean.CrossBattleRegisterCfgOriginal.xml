@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal active_unregister_mail_cfg_id="340009071" activity_cfg_id="350010000" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" desc="第一屆跨服賽" id="580800000" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" register_stage_remind_content="&lt;font color=#ffff00&gt;%s已經開啟報名，想要與其他區服的頂級玩家一決高下么？快帶著你的戰隊報名吧!&lt;/font&gt;" serverlevel="90">
+    <register_stage_remind_time_points>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="12"/>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="20"/>
+    </register_stage_remind_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020000" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" desc="2020跨服賽" id="580800001" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" register_stage_remind_content="&lt;font color=#ffff00&gt;%s已經開啟報名，想要與其他區服的頂級玩家一決高下么？快帶著你的戰隊報名吧!&lt;/font&gt;" serverlevel="90">
+    <register_stage_remind_time_points>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="12"/>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="20"/>
+    </register_stage_remind_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020002" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" desc="2020跨服賽2套" id="580800002" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" register_stage_remind_content="&lt;font color=#ffff00&gt;%s已經開啟報名，想要與其他區服的頂級玩家一決高下么？快帶著你的戰隊報名吧!&lt;/font&gt;" serverlevel="90">
+    <register_stage_remind_time_points>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="12"/>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="20"/>
+    </register_stage_remind_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020014" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" desc="第二屆跨服賽" id="580800003" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" register_stage_remind_content="&lt;font color=#ffff00&gt;%s已經開啟報名，想要與其他區服的頂級玩家一決高下么？快帶著你的戰隊報名吧!&lt;/font&gt;" serverlevel="90">
+    <register_stage_remind_time_points>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="12"/>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="20"/>
+    </register_stage_remind_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020451" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" desc="2020跨服賽2套" id="580800004" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" register_stage_remind_content="&lt;font color=#ffff00&gt;%s已經開啟報名，想要與其他區服的頂級玩家一決高下么？快帶著你的戰隊報名吧!&lt;/font&gt;" serverlevel="90">
+    <register_stage_remind_time_points>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="12"/>
+      <mzm.gsp.crossbattle.confbean.RegisterStageRemindTimePoint register_stage_remind_hour="20"/>
+    </register_stage_remind_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRegisterCfgOriginal>
+</data>

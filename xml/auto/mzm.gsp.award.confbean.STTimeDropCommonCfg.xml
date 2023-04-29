@@ -1,0 +1,218 @@
+<data>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="5" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200007</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="6" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200008</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="7" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200009</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="8" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200012</int>
+        <int>6000</int>
+      </entry>
+      <entry>
+        <int>504200010</int>
+        <int>1000</int>
+      </entry>
+      <entry>
+        <int>504200011</int>
+        <int>3000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="300" dropWeight="50000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200300</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200301</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200302</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200303</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200304</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="400" dropWeight="40000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200411</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200414</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200412</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>504200413</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="500" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200500</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="510" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200510</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="511" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200511</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="512" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200512</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="513" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200513</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="900" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504200900</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1000" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201000</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1100" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201100</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1200" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201200</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1300" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201300</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1400" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201400</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1500" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201500</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1600" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201600</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+  <mzm.gsp.award.confbean.STTimeDropCommonCfg dropLibId="1700" dropWeight="10000">
+    <itemDropIds>
+      <no-comparator/>
+      <entry>
+        <int>504201700</int>
+        <int>10000</int>
+      </entry>
+    </itemDropIds>
+  </mzm.gsp.award.confbean.STTimeDropCommonCfg>
+</data>

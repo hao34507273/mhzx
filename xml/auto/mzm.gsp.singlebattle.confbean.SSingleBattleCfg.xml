@@ -1,0 +1,3 @@
+<data>
+  <mzm.gsp.singlebattle.confbean.SSingleBattleCfg addKillPointMax="100" addPointPerKillOne="10" battleType="1" camp1="583100001" camp2="583100000" cleanDuration="30" cutPointPerBeKilled="0" defaultRevivalTime="10" diffScores="110000" drawAddPoint="5" drawCampMvpAddPoint="10" fightMap="330000054" id="583000000" loseCampMvpAddPoint="10" loserAddPoint="0" matchDuration="1200" playLibId="1" prepareDuration="60" protectedInterval="20" synchroInterval="1" waitCleanDuration="3" winCampMvpAddPoint="10" winnerAddPoint="10"/>
+</data>

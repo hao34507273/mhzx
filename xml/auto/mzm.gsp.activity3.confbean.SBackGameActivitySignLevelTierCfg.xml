@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.activity3.confbean.SBackGameActivitySignLevelTierCfg typeId="1">
+    <levelTiers>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="150" levelMin="110" signAwardCfgTypeId="4"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="99" levelMin="50" signAwardCfgTypeId="1"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="104" levelMin="100" signAwardCfgTypeId="2"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="109" levelMin="105" signAwardCfgTypeId="3"/>
+    </levelTiers>
+  </mzm.gsp.activity3.confbean.SBackGameActivitySignLevelTierCfg>
+  <mzm.gsp.activity3.confbean.SBackGameActivitySignLevelTierCfg typeId="2">
+    <levelTiers>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="150" levelMin="110" signAwardCfgTypeId="8"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="99" levelMin="50" signAwardCfgTypeId="5"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="104" levelMin="100" signAwardCfgTypeId="6"/>
+      <mzm.gsp.activity3.confbean.BackGameActivitySignLevelTier levelMax="109" levelMin="105" signAwardCfgTypeId="7"/>
+    </levelTiers>
+  </mzm.gsp.activity3.confbean.SBackGameActivitySignLevelTierCfg>
+</data>

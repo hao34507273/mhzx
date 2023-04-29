@@ -1,0 +1,86 @@
+<data>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300000" mainSkillId="110661101">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661103" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661104" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661105" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661106" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661107" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661108" subSkillWeight="1668"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300001" mainSkillId="110661201">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661203" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661204" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661205" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661206" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661207" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661208" subSkillWeight="2502"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300002" mainSkillId="110661301">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661303" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661304" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661305" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661306" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661307" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661308" subSkillWeight="835"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300003" mainSkillId="110661401">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661403" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661404" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661405" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661406" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661407" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661408" subSkillWeight="835"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300004" mainSkillId="110661501">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661503" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661504" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661505" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661506" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661507" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661508" subSkillWeight="2502"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+  <mzm.gsp.wing.confbean.SWingSkillLib id="380300005" mainSkillId="110661601">
+    <skill2weight>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661603" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661604" subSkillWeight="2500"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661605" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661606" subSkillWeight="833"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661607" subSkillWeight="1666"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="110661608" subSkillWeight="835"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+      <mzm.gsp.wing.confbean.SubSkill2Weight subSkillId="0" subSkillWeight="0"/>
+    </skill2weight>
+  </mzm.gsp.wing.confbean.SWingSkillLib>
+</data>

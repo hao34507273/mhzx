@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.singlebattle.confbean.SGatherItemCfg gatherInterval="2" gatherItemname="小型資源" id="585200000" modelId="700301156" source="80"/>
+  <mzm.gsp.singlebattle.confbean.SGatherItemCfg gatherInterval="3" gatherItemname="中型資源" id="585200001" modelId="700301155" source="100"/>
+  <mzm.gsp.singlebattle.confbean.SGatherItemCfg gatherInterval="4" gatherItemname="大型資源" id="585200002" modelId="700301157" source="200"/>
+</data>

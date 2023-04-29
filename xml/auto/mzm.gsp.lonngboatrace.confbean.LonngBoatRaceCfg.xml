@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.lonngboatrace.confbean.LonngBoatRaceCfg activityGUIId="90303" backgroundMusicId="720060015" beginCountDownMusicId="720060014" boatInitSpeed="7" correctCommandSpecialEffectId="702020157" endPointMusicId="720060016" endPointSpecialEffectId="702020156" hoverTipsId="701609955" id="951500000" previewGUIId="90302" showScoreTime="5" teamCount="1" trackCount="2" trackLen="1480" vehicleName="龙舟" wrongCommandSpecialEffectId="702020157"/>
+  <mzm.gsp.lonngboatrace.confbean.LonngBoatRaceCfg activityGUIId="90301" backgroundMusicId="720060015" beginCountDownMusicId="720060014" boatInitSpeed="7" correctCommandSpecialEffectId="702020157" endPointMusicId="720060016" endPointSpecialEffectId="702020156" hoverTipsId="701609968" id="951500001" previewGUIId="90300" showScoreTime="5" teamCount="1" trackCount="2" trackLen="1480" vehicleName="飞剑" wrongCommandSpecialEffectId="702020157"/>
+</data>

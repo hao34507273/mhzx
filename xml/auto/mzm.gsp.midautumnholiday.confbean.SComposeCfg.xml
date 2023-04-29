@@ -1,0 +1,59 @@
+<data>
+  <mzm.gsp.midautumnholiday.confbean.SComposeCfg groupId="1">
+    <createInfoMap>
+      <mzm.gsp.midautumnholiday.confbean.SCreateInfo>
+        <createItemId2CreateCostInfo>
+          <no-comparator/>
+          <entry>
+            <int>215800004</int>
+            <mzm.gsp.midautumnholiday.confbean.SCreateCostInfo createItemId="215800004" createItemNum="1" isBind="1">
+              <costItemId2costItemNum>
+                <no-comparator/>
+                <entry>
+                  <int>210183100</int>
+                  <int>1</int>
+                </entry>
+                <entry>
+                  <int>210183103</int>
+                  <int>1</int>
+                </entry>
+              </costItemId2costItemNum>
+            </mzm.gsp.midautumnholiday.confbean.SCreateCostInfo>
+          </entry>
+          <entry>
+            <int>215800003</int>
+            <mzm.gsp.midautumnholiday.confbean.SCreateCostInfo createItemId="215800003" createItemNum="1" isBind="1">
+              <costItemId2costItemNum>
+                <no-comparator/>
+                <entry>
+                  <int>210183100</int>
+                  <int>1</int>
+                </entry>
+                <entry>
+                  <int>210183102</int>
+                  <int>1</int>
+                </entry>
+              </costItemId2costItemNum>
+            </mzm.gsp.midautumnholiday.confbean.SCreateCostInfo>
+          </entry>
+          <entry>
+            <int>215800002</int>
+            <mzm.gsp.midautumnholiday.confbean.SCreateCostInfo createItemId="215800002" createItemNum="1" isBind="1">
+              <costItemId2costItemNum>
+                <no-comparator/>
+                <entry>
+                  <int>210183100</int>
+                  <int>1</int>
+                </entry>
+                <entry>
+                  <int>210183101</int>
+                  <int>1</int>
+                </entry>
+              </costItemId2costItemNum>
+            </mzm.gsp.midautumnholiday.confbean.SCreateCostInfo>
+          </entry>
+        </createItemId2CreateCostInfo>
+      </mzm.gsp.midautumnholiday.confbean.SCreateInfo>
+    </createInfoMap>
+  </mzm.gsp.midautumnholiday.confbean.SComposeCfg>
+</data>

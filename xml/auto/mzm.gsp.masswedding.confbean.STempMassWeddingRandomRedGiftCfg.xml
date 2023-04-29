@@ -1,0 +1,27 @@
+<data>
+  <mzm.gsp.masswedding.confbean.STempMassWeddingRandomRedGiftCfg id="192100000">
+    <redGiftRandomMap>
+      <no-comparator/>
+      <entry>
+        <int>192200000</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>192200001</int>
+        <int>3000</int>
+      </entry>
+      <entry>
+        <int>192200002</int>
+        <int>1500</int>
+      </entry>
+      <entry>
+        <int>192200003</int>
+        <int>500</int>
+      </entry>
+      <entry>
+        <int>0</int>
+        <int>0</int>
+      </entry>
+    </redGiftRandomMap>
+  </mzm.gsp.masswedding.confbean.STempMassWeddingRandomRedGiftCfg>
+</data>

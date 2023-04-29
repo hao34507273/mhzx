@@ -1,0 +1,23 @@
+<data>
+  <mzm.gsp.activity3.confbean.STBackGameActivityPointCfg id="955300000" manualRefreshCountResetTime="0" pointExchangeCountResetTime="0">
+    <activityId2pointGetCfg>
+      <no-comparator/>
+      <entry>
+        <int>350000024</int>
+        <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000024" activityMaxCount="5" pointCountEachRun="6"/>
+      </entry>
+      <entry>
+        <int>350000003</int>
+        <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000003" activityMaxCount="5" pointCountEachRun="4"/>
+      </entry>
+      <entry>
+        <int>350000001</int>
+        <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000001" activityMaxCount="10" pointCountEachRun="3"/>
+      </entry>
+      <entry>
+        <int>350000005</int>
+        <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000005" activityMaxCount="2" pointCountEachRun="10"/>
+      </entry>
+    </activityId2pointGetCfg>
+  </mzm.gsp.activity3.confbean.STBackGameActivityPointCfg>
+</data>

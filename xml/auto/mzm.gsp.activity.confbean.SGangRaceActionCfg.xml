@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="1" MaxRound="6" MinRound="3" MoveStep="20" RandValue="100" id="357100000" templatename="加速1"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="2" MaxRound="6" MinRound="3" MoveStep="20" RandValue="100" id="357100001" templatename="加速2"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="3" MaxRound="6" MinRound="3" MoveStep="20" RandValue="100" id="357100002" templatename="加速3"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="4" MaxRound="6" MinRound="3" MoveStep="15" RandValue="100" id="357100003" templatename="正常1"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="5" MaxRound="6" MinRound="3" MoveStep="15" RandValue="100" id="357100004" templatename="正常2"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="6" MaxRound="6" MinRound="3" MoveStep="15" RandValue="100" id="357100005" templatename="正常3"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="7" MaxRound="6" MinRound="3" MoveStep="10" RandValue="100" id="357100006" templatename="减速1"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="8" MaxRound="6" MinRound="3" MoveStep="10" RandValue="100" id="357100007" templatename="减速2"/>
+  <mzm.gsp.activity.confbean.SGangRaceActionCfg ActCode="9" MaxRound="6" MinRound="3" MoveStep="10" RandValue="100" id="357100008" templatename="减速3"/>
+</data>

@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.auction.confbean.SAuctionActivityCfg activityId="350020202">
+    <activityTimeIndex2activityInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.auction.confbean.SAuctionActivityInfo auctionActivityCfgId="962100001" turnTypeId="1"/>
+      </entry>
+    </activityTimeIndex2activityInfo>
+  </mzm.gsp.auction.confbean.SAuctionActivityCfg>
+</data>

@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.gratefuldelivery.confbean.SDeliveryCfg activityId="350009001" activitySubtype="1" autoDeliveryRewardId="7900" autoRedeliveryCountdown="120" cardItemCfgId="217200000" deliveryRewardId="7901" mailId="340009060" maxDeliveryCountPerDay="1" maxItemNum="20" minItemNum="10" minLevel="30" sendCardTargetCount="888" switchId="339"/>
+  <mzm.gsp.gratefuldelivery.confbean.SDeliveryCfg activityId="350009006" activitySubtype="2" autoDeliveryRewardId="7900" autoRedeliveryCountdown="120" cardItemCfgId="217200001" deliveryRewardId="7901" mailId="340009061" maxDeliveryCountPerDay="1" maxItemNum="20" minItemNum="10" minLevel="30" sendCardTargetCount="100" switchId="365"/>
+</data>

@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangLevelCfg cangKuMaxLevel="3" jinKuMaxLevel="3" level="1" levelUpNeedMoney="11779000" levelUpNeedTimeM="720" maintainCostMoneyPerDay="1540000" needBuildingLevel="3" needBuildingNum="2" shuYuanMaxLevel="3" xiangFangMaxLevel="3" yaoDianMaxLevel="3"/>
+  <mzm.gsp.gang.confbean.SGangLevelCfg cangKuMaxLevel="6" jinKuMaxLevel="6" level="2" levelUpNeedMoney="37410000" levelUpNeedTimeM="1080" maintainCostMoneyPerDay="3375000" needBuildingLevel="5" needBuildingNum="2" shuYuanMaxLevel="6" xiangFangMaxLevel="6" yaoDianMaxLevel="6"/>
+  <mzm.gsp.gang.confbean.SGangLevelCfg cangKuMaxLevel="9" jinKuMaxLevel="9" level="3" levelUpNeedMoney="65095000" levelUpNeedTimeM="1440" maintainCostMoneyPerDay="5555000" needBuildingLevel="8" needBuildingNum="2" shuYuanMaxLevel="9" xiangFangMaxLevel="9" yaoDianMaxLevel="9"/>
+  <mzm.gsp.gang.confbean.SGangLevelCfg cangKuMaxLevel="12" jinKuMaxLevel="12" level="4" levelUpNeedMoney="93834500" levelUpNeedTimeM="1800" maintainCostMoneyPerDay="8930000" needBuildingLevel="11" needBuildingNum="3" shuYuanMaxLevel="12" xiangFangMaxLevel="12" yaoDianMaxLevel="12"/>
+  <mzm.gsp.gang.confbean.SGangLevelCfg cangKuMaxLevel="15" jinKuMaxLevel="15" level="5" levelUpNeedMoney="122574000" levelUpNeedTimeM="2160" maintainCostMoneyPerDay="10000000" needBuildingLevel="13" needBuildingNum="3" shuYuanMaxLevel="15" xiangFangMaxLevel="15" yaoDianMaxLevel="15"/>
+</data>

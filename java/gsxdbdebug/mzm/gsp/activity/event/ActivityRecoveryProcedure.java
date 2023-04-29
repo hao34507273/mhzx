@@ -1,0 +1,13 @@
+package mzm.gsp.activity.event;
+
+import mzm.event.EventProcedure;
+
+public abstract class ActivityRecoveryProcedure
+  extends EventProcedure<ActivityRecoveryArg>
+{}
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\activity\event\ActivityRecoveryProcedure.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

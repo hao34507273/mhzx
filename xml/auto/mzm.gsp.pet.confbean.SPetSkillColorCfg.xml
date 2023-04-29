@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetSkillColorCfg color="2" id="132200000" score="800" skillLevel="0" skillLevelUpRate="20" templateName="普通技能"/>
+  <mzm.gsp.pet.confbean.SPetSkillColorCfg color="3" id="132200001" score="900" skillLevel="1" skillLevelUpRate="5" templateName="高级技能"/>
+  <mzm.gsp.pet.confbean.SPetSkillColorCfg color="4" id="132200002" score="1000" skillLevel="2" skillLevelUpRate="0" templateName="超级技能"/>
+</data>

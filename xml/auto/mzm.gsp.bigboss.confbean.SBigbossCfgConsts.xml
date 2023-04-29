@@ -1,0 +1,18 @@
+<root>
+<row name="ACTIVITYID" value="350000018"/>
+<row name="DAY_OFFER_CHALLENGE_COUNT" value="5"/>
+<row name="FIRST_BUY_YUANBAO_PRICE" value="50"/>
+<row name="YUANBAO_PRICE_ADD_NUM" value="10"/>
+<row name="DAMAGE_PARAM" value="1"/>
+<row name="FIGHT_END_REWARDID" value="2600"/>
+<row name="MAX_BUY_COUNT" value="10"/>
+<row name="MIN_RANK_FOR_BULLETIN" value="3"/>
+<row name="BOSS_HP_BULLETIN_INTERVAL" value="60"/>
+<row name="MAILID" value="340002099"/>
+<row name="PAGE_SIZE_LITTLE" value="50"/>
+<row name="hprates">
+<int>70</int>
+<int>50</int>
+<int>20</int>
+</row>
+</root>

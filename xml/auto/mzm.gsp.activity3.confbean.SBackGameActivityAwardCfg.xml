@@ -1,0 +1,36 @@
+<data>
+  <mzm.gsp.activity3.confbean.SBackGameActivityAwardCfg id="956000000">
+    <needRecharge2AwardTierId>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <int>956100000</int>
+      </entry>
+      <entry>
+        <int>100000</int>
+        <int>956100001</int>
+      </entry>
+    </needRecharge2AwardTierId>
+  </mzm.gsp.activity3.confbean.SBackGameActivityAwardCfg>
+  <mzm.gsp.activity3.confbean.SBackGameActivityAwardCfg id="956000001">
+    <needRecharge2AwardTierId>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <int>956100002</int>
+      </entry>
+      <entry>
+        <int>1000</int>
+        <int>956100003</int>
+      </entry>
+      <entry>
+        <int>3000</int>
+        <int>956100004</int>
+      </entry>
+      <entry>
+        <int>5000</int>
+        <int>956100005</int>
+      </entry>
+    </needRecharge2AwardTierId>
+  </mzm.gsp.activity3.confbean.SBackGameActivityAwardCfg>
+</data>

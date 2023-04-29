@@ -1,0 +1,1372 @@
+<data>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141200000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140500000" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201006">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501006" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201007">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501007" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501017" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501027" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201008">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501008" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501018" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501028" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201009">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501009" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501019" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501029" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501106" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501116" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501126" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201107">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501107" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501117" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501127" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201200">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501200" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501210" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501220" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141201206">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501206" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501216" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140501226" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502005" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502106" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202200">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502200" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502210" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502220" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141202205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140502225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503000" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203006">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503006" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503016" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503026" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503106" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503116" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503126" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203107">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503107" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503117" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503127" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203200">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503200" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503210" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503220" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141203206">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503206" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503216" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140503226" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204006">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504006" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504016" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504026" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504100" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504106" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504116" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504126" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204200">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504200" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204206">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504206" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504216" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504226" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141204207">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504207" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504217" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140504227" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505106" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505116" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505126" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205110">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505200" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505210" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505230" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205111">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505231" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205112">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505232" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205113">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505233" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141205114">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140505234" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206006">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506006" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206106">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506106" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506116" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506126" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206200">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506200" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506210" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506220" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206206">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506206" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506216" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506226" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206207">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506207" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506217" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506227" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206300">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506300" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506310" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506320" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206301">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506301" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506311" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506321" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206302">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506302" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506312" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506322" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206303">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506303" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506313" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506323" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206304">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506304" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506314" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506324" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206305">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506305" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506315" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506325" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141206306">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506306" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506316" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140506326" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141207105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140507125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141208105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140508125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209000">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509000" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509010" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509020" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209001">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509001" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509011" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509021" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209002">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509002" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509012" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509022" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209003">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509003" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509013" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509023" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209004">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509004" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509014" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509024" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209005">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509005" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509015" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509025" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209006">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509006" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509016" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509026" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209007">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509007" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509017" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509027" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209100">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509100" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509110" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509120" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209101">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509101" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509111" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509121" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209102">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509102" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509112" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509122" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209103">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509103" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509113" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509123" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209104">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509104" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509114" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509124" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209105">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509105" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509115" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509125" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209201">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509201" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509211" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509221" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209202">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509202" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509212" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509222" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209203">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509203" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509213" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509223" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209204">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509204" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509214" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509224" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209205">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509205" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509215" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509225" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209206">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509206" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509216" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509226" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209207">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509207" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509217" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509227" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209208">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509208" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509218" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509228" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209301">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509301" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509311" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509321" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209302">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509302" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509312" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509322" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209303">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509303" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509313" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509323" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209304">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509304" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509314" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509324" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209305">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509305" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509315" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509325" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209306">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509306" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509316" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509326" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209401">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509401" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509411" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509421" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209402">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509402" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509412" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509422" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209403">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509403" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509413" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509423" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209404">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509404" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509414" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509424" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209405">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509405" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509415" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509425" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209406">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509406" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509416" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509426" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209501">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509501" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509511" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509521" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209502">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509502" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509512" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509522" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209503">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509503" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509513" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509523" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209504">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509504" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509514" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509524" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209505">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509505" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509515" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509525" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+  <mzm.gsp.partner.confbean.SLoveLibCfg id="141209506">
+    <LoveId2WeightList>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509506" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509516" weight="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Weight loveId="140509526" weight="1000"/>
+    </LoveId2WeightList>
+  </mzm.gsp.partner.confbean.SLoveLibCfg>
+</data>

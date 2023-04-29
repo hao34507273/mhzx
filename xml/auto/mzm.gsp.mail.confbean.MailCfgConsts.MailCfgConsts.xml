@@ -1,0 +1,8 @@
+<root>
+	<row name="STORE_MAX" value="100"/>
+	<row name="THING_MAX" value="8"/>
+	<row name="SYS_MAIL_STORE_H" value="720"/>
+	<row name="BAG_FULL_STORE_H" value="24"/>
+	<row name="PLAYER_SEND" value="168"/>
+	<row name="FACTION_STORE_H" value="168"/>
+</root>

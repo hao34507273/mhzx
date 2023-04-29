@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.common.confbean.SProRandomRangeCfg id="600800000">
+    <range2weights>
+      <mzm.gsp.common.confbean.Range2weight range="2000" weight="0"/>
+      <mzm.gsp.common.confbean.Range2weight range="4000" weight="0"/>
+      <mzm.gsp.common.confbean.Range2weight range="6000" weight="0"/>
+      <mzm.gsp.common.confbean.Range2weight range="8000" weight="0"/>
+      <mzm.gsp.common.confbean.Range2weight range="10000" weight="10000"/>
+    </range2weights>
+  </mzm.gsp.common.confbean.SProRandomRangeCfg>
+</data>

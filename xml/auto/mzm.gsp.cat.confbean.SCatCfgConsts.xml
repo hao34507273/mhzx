@@ -1,0 +1,18 @@
+<root>
+<row name="DAILY_THE_CAT_FEED_MAX" value="1"/>
+<row name="DAILY_FEED_MAX" value="10"/>
+<row name="FEED_AWARD_ID" value="320"/>
+<row name="RESET_PARTNER_COST" value="100"/>
+<row name="FEED_CLEAR_TIME" value="350299000"/>
+<row name="CAT_NUM_MAX" value="1"/>
+<row name="CAT_EXPLORE_END_MAIL_CFG_ID" value="340007003"/>
+<row name="CAT_ITEM_MAIL_CFG_ID" value="340000001"/>
+<row name="MIN_CAT_NAME_LEN" value="3"/>
+<row name="MAX_CAT_NAME_LEN" value="6"/>
+<row name="MAX_CAT_LEVEL" value="10"/>
+<row name="CAT_SERVICE_ID" value="150210310"/>
+<row name="CAT_ITEM_SELL_LEVEL" value="5"/>
+<row name="CAT_FEED_RECORD_LIMIT" value="10"/>
+<row name="CAT_VIGOR_MAX_MAIL_CFG_ID" value="340008007"/>
+<row name="BIRD" value="213200304"/>
+</root>

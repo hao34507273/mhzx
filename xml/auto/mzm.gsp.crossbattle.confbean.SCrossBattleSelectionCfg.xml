@@ -1,0 +1,92 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg activity_cfg_id="350010000" module_id="373" selection_4_to_2_fail_mail_cfg_id="340009108" selection_abstain_lose_mail_cfg_id="340009102" selection_abstain_win_mail_cfg_id="340009101" selection_award_mail_cfg_id="340009129" selection_bye_win_mail_cfg_id="340009084" selection_champion_mail_cfg_id="340009080" selection_countdown="20" selection_fight_last_time="100" selection_last_winner_mail_cfg_id="340009107" selection_lose_mail_cfg_id="340009083" selection_map_cfg_id="330000962" selection_map_transfer_x="1008" selection_map_transfer_y="1102" selection_match_cfg_id="581200000" selection_match_countdown="60" selection_need_team_member_num="5" selection_need_team_num="32" selection_out_map_cfg_id="330000001" selection_out_map_transfer_x="6916" selection_out_map_transfer_y="2375" selection_out_npc_id="150114104" selection_out_npc_service_id="150210604" selection_restart_mail_cfg_id="340009131" selection_second_place_mail_cfg_id="340009081" selection_third_place_mail_cfg_id="340009082" selection_win_mail_cfg_id="340009103">
+    <stage_name_list>
+      <string>32進16</string>
+      <string>16進8</string>
+      <string>8進4</string>
+      <string>4進2</string>
+      <string>季軍爭奪戰</string>
+      <string>冠軍爭奪戰</string>
+    </stage_name_list>
+    <selection_stage_time_list>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="1" selection_time_point_cfg_id="352500043"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="2" selection_time_point_cfg_id="352500010"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="3" selection_time_point_cfg_id="352500011"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="4" selection_time_point_cfg_id="352500012"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="5" selection_time_point_cfg_id="352500013"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="6" selection_time_point_cfg_id="352500014"/>
+    </selection_stage_time_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg activity_cfg_id="350020000" module_id="373" selection_4_to_2_fail_mail_cfg_id="340009108" selection_abstain_lose_mail_cfg_id="340009102" selection_abstain_win_mail_cfg_id="340009101" selection_award_mail_cfg_id="340009129" selection_bye_win_mail_cfg_id="340009084" selection_champion_mail_cfg_id="340009080" selection_countdown="20" selection_fight_last_time="100" selection_last_winner_mail_cfg_id="340009107" selection_lose_mail_cfg_id="340009083" selection_map_cfg_id="330000962" selection_map_transfer_x="1008" selection_map_transfer_y="1102" selection_match_cfg_id="581200000" selection_match_countdown="60" selection_need_team_member_num="5" selection_need_team_num="32" selection_out_map_cfg_id="330000001" selection_out_map_transfer_x="6916" selection_out_map_transfer_y="2375" selection_out_npc_id="150114104" selection_out_npc_service_id="150210604" selection_restart_mail_cfg_id="340009131" selection_second_place_mail_cfg_id="340009081" selection_third_place_mail_cfg_id="340009082" selection_win_mail_cfg_id="340009103">
+    <stage_name_list>
+      <string>32進16</string>
+      <string>16進8</string>
+      <string>8進4</string>
+      <string>4進2</string>
+      <string>季軍爭奪戰</string>
+      <string>冠軍爭奪戰</string>
+    </stage_name_list>
+    <selection_stage_time_list>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="1" selection_time_point_cfg_id="352500139"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="2" selection_time_point_cfg_id="352500106"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="3" selection_time_point_cfg_id="352500107"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="4" selection_time_point_cfg_id="352500108"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="5" selection_time_point_cfg_id="352500109"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="6" selection_time_point_cfg_id="352500110"/>
+    </selection_stage_time_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg activity_cfg_id="350020002" module_id="373" selection_4_to_2_fail_mail_cfg_id="340009108" selection_abstain_lose_mail_cfg_id="340009102" selection_abstain_win_mail_cfg_id="340009101" selection_award_mail_cfg_id="340009129" selection_bye_win_mail_cfg_id="340009084" selection_champion_mail_cfg_id="340009080" selection_countdown="20" selection_fight_last_time="100" selection_last_winner_mail_cfg_id="340009107" selection_lose_mail_cfg_id="340009083" selection_map_cfg_id="330000962" selection_map_transfer_x="1008" selection_map_transfer_y="1102" selection_match_cfg_id="581200000" selection_match_countdown="60" selection_need_team_member_num="5" selection_need_team_num="32" selection_out_map_cfg_id="330000001" selection_out_map_transfer_x="6916" selection_out_map_transfer_y="2375" selection_out_npc_id="150114104" selection_out_npc_service_id="150210604" selection_restart_mail_cfg_id="340009131" selection_second_place_mail_cfg_id="340009081" selection_third_place_mail_cfg_id="340009082" selection_win_mail_cfg_id="340009103">
+    <stage_name_list>
+      <string>32進16</string>
+      <string>16進8</string>
+      <string>8進4</string>
+      <string>4進2</string>
+      <string>季軍爭奪戰</string>
+      <string>冠軍爭奪戰</string>
+    </stage_name_list>
+    <selection_stage_time_list>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="1" selection_time_point_cfg_id="352500239"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="2" selection_time_point_cfg_id="352500206"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="3" selection_time_point_cfg_id="352500207"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="4" selection_time_point_cfg_id="352500208"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="5" selection_time_point_cfg_id="352500209"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="6" selection_time_point_cfg_id="352500210"/>
+    </selection_stage_time_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg activity_cfg_id="350020014" module_id="373" selection_4_to_2_fail_mail_cfg_id="340009108" selection_abstain_lose_mail_cfg_id="340009102" selection_abstain_win_mail_cfg_id="340009101" selection_award_mail_cfg_id="340009129" selection_bye_win_mail_cfg_id="340009084" selection_champion_mail_cfg_id="340009080" selection_countdown="20" selection_fight_last_time="100" selection_last_winner_mail_cfg_id="340009107" selection_lose_mail_cfg_id="340009083" selection_map_cfg_id="330000962" selection_map_transfer_x="1008" selection_map_transfer_y="1102" selection_match_cfg_id="581200000" selection_match_countdown="60" selection_need_team_member_num="5" selection_need_team_num="32" selection_out_map_cfg_id="330000001" selection_out_map_transfer_x="6916" selection_out_map_transfer_y="2375" selection_out_npc_id="150114104" selection_out_npc_service_id="150210604" selection_restart_mail_cfg_id="340009131" selection_second_place_mail_cfg_id="340009081" selection_third_place_mail_cfg_id="340009082" selection_win_mail_cfg_id="340009103">
+    <stage_name_list>
+      <string>32進16</string>
+      <string>16進8</string>
+      <string>8進4</string>
+      <string>4進2</string>
+      <string>季軍爭奪戰</string>
+      <string>冠軍爭奪戰</string>
+    </stage_name_list>
+    <selection_stage_time_list>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="1" selection_time_point_cfg_id="352500335"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="2" selection_time_point_cfg_id="352500306"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="3" selection_time_point_cfg_id="352500307"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="4" selection_time_point_cfg_id="352500308"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="5" selection_time_point_cfg_id="352500309"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="6" selection_time_point_cfg_id="352500310"/>
+    </selection_stage_time_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg activity_cfg_id="350020451" module_id="373" selection_4_to_2_fail_mail_cfg_id="340009108" selection_abstain_lose_mail_cfg_id="340009102" selection_abstain_win_mail_cfg_id="340009101" selection_award_mail_cfg_id="340009129" selection_bye_win_mail_cfg_id="340009084" selection_champion_mail_cfg_id="340009080" selection_countdown="20" selection_fight_last_time="100" selection_last_winner_mail_cfg_id="340009107" selection_lose_mail_cfg_id="340009083" selection_map_cfg_id="330000962" selection_map_transfer_x="1008" selection_map_transfer_y="1102" selection_match_cfg_id="581200000" selection_match_countdown="60" selection_need_team_member_num="5" selection_need_team_num="32" selection_out_map_cfg_id="330000001" selection_out_map_transfer_x="6916" selection_out_map_transfer_y="2375" selection_out_npc_id="150114104" selection_out_npc_service_id="150210604" selection_restart_mail_cfg_id="340009131" selection_second_place_mail_cfg_id="340009081" selection_third_place_mail_cfg_id="340009082" selection_win_mail_cfg_id="340009103">
+    <stage_name_list>
+      <string>32進16</string>
+      <string>16進8</string>
+      <string>8進4</string>
+      <string>4進2</string>
+      <string>季軍爭奪戰</string>
+      <string>冠軍爭奪戰</string>
+    </stage_name_list>
+    <selection_stage_time_list>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="1" selection_time_point_cfg_id="352500406"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="2" selection_time_point_cfg_id="352500407"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="3" selection_time_point_cfg_id="352500408"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="4" selection_time_point_cfg_id="352500409"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="5" selection_time_point_cfg_id="352500410"/>
+      <mzm.gsp.crossbattle.confbean.SelectionStageTimeBean selection_stage="6" selection_time_point_cfg_id="352500411"/>
+    </selection_stage_time_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionCfg>
+</data>

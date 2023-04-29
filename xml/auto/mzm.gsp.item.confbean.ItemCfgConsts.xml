@@ -1,0 +1,17 @@
+<root>
+<row name="ITEM_RANDOM_SEED" value="10000"/>
+<row name="USE_TASK_ITEM_WAIT_TIME" value="2"/>
+<row name="BAG_FULL_MAIL_ID" value="340000001"/>
+<row name="GIVE_ITEM_MAIL_ID" value="340001100"/>
+<row name="SYSTEM_OFFER_MAIL_ID" value="340001200"/>
+<row name="SECONDS_FOR_LOTTERY_SLOW_DOWN" value="8"/>
+<row name="SECONDS_FOR_STOP" value="4"/>
+<row name="FLOWER_POINT_CLEAR_TIME" value="350207000"/>
+<row name="LOTTERY_DELAY_INTERVAL" value="10"/>
+<row name="SHANGHUI_PRICE_RATE" value="10"/>
+<row name="MAX_EXCHANGE_COUNT" value="50"/>
+<row name="GIVE_RECEIVE_FLOWER_LEVEL_DELTA" value="10"/>
+<row name="FLOWER_POINT_RANK_VERSION" value="1"/>
+<row name="STORAGE_NAME_LENGTH" value="8"/>
+<row name="GIVE_FLOWER_MESSAGE_LENGTH" value="40"/>
+</root>

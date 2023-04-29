@@ -1,0 +1,24 @@
+<data>
+  <mzm.gsp.question.confbean.SPictureQuestionLevelCfg everyQuestionPersistTime="15" helpCount="-1" id="358100000" moveCountHighLimit="3" moveCountLowLimit="3" moveIntervalSec="4" moveMonsterCountPerTime="2" passScore="10" questionNum="10" rightScore="10" totalMonsterNum="6" wrongScore="0">
+    <petTypeWeightTypeList>
+      <int>4000</int>
+      <int>4000</int>
+      <int>1000</int>
+      <int>1000</int>
+    </petTypeWeightTypeList>
+  </mzm.gsp.question.confbean.SPictureQuestionLevelCfg>
+  <mzm.gsp.question.confbean.SPictureQuestionLevelCfg everyQuestionPersistTime="60" helpCount="-1" id="358100001" moveCountHighLimit="6" moveCountLowLimit="4" moveIntervalSec="3" moveMonsterCountPerTime="4" passScore="100" questionNum="15" rightScore="10" totalMonsterNum="6" wrongScore="0">
+    <petTypeWeightTypeList>
+      <int>1000</int>
+      <int>1000</int>
+      <int>4000</int>
+      <int>4000</int>
+    </petTypeWeightTypeList>
+  </mzm.gsp.question.confbean.SPictureQuestionLevelCfg>
+  <mzm.gsp.question.confbean.SPictureQuestionLevelCfg everyQuestionPersistTime="60" helpCount="-1" id="358100002" moveCountHighLimit="10" moveCountLowLimit="6" moveIntervalSec="2" moveMonsterCountPerTime="6" passScore="100" questionNum="10" rightScore="10" totalMonsterNum="6" wrongScore="0">
+    <petTypeWeightTypeList>
+      <int>9000</int>
+      <int>1000</int>
+    </petTypeWeightTypeList>
+  </mzm.gsp.question.confbean.SPictureQuestionLevelCfg>
+</data>

@@ -1,0 +1,1594 @@
+<data>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000000" id="510600000" maxLevel="29" minLevel="20" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000001" id="510600001" maxLevel="39" minLevel="30" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000002" id="510600002" maxLevel="49" minLevel="40" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000003" id="510600003" maxLevel="59" minLevel="50" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000004" id="510600004" maxLevel="69" minLevel="60" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000005" id="510600005" maxLevel="79" minLevel="70" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000006" id="510600006" maxLevel="89" minLevel="80" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000007" id="510600007" maxLevel="99" minLevel="90" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000008" id="510600008" maxLevel="109" minLevel="100" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000009" id="510600009" maxLevel="150" minLevel="110" poolTypeId="1">
+    <buffEffectIds>
+      <int>503000403</int>
+      <int>503000503</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000100" id="510600100" maxLevel="34" minLevel="10" poolTypeId="100">
+    <buffEffectIds>
+      <int>503000413</int>
+      <int>503000513</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000101" id="510600101" maxLevel="150" minLevel="35" poolTypeId="100">
+    <buffEffectIds>
+      <int>503000413</int>
+      <int>503000513</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000110" id="510600110" maxLevel="150" minLevel="30" poolTypeId="110">
+    <buffEffectIds>
+      <int>503000433</int>
+      <int>503000533</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000200" id="510600200" maxLevel="150" minLevel="0" poolTypeId="200">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000203" id="510600203" maxLevel="150" minLevel="0" poolTypeId="203">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000204" id="510600204" maxLevel="150" minLevel="0" poolTypeId="204">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000205" id="510600205" maxLevel="150" minLevel="0" poolTypeId="205">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000206" id="510600206" maxLevel="150" minLevel="0" poolTypeId="206">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000207" id="510600207" maxLevel="150" minLevel="0" poolTypeId="207">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000210" id="510600210" maxLevel="150" minLevel="0" poolTypeId="210">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000211" id="510600211" maxLevel="150" minLevel="0" poolTypeId="211">
+    <buffEffectIds>
+      <int>503000405</int>
+      <int>503000505</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000300" id="510600300" maxLevel="150" minLevel="0" poolTypeId="300">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000301" id="510600301" maxLevel="150" minLevel="0" poolTypeId="301">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000302" id="510600302" maxLevel="150" minLevel="0" poolTypeId="302">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000310" id="510600310" maxLevel="150" minLevel="0" poolTypeId="310">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000311" id="510600311" maxLevel="150" minLevel="0" poolTypeId="311">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000312" id="510600312" maxLevel="150" minLevel="0" poolTypeId="312">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000400" id="510600400" maxLevel="150" minLevel="0" poolTypeId="400">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000401" id="510600401" maxLevel="150" minLevel="0" poolTypeId="401">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000402" id="510600402" maxLevel="150" minLevel="0" poolTypeId="402">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000403" id="510600403" maxLevel="150" minLevel="0" poolTypeId="403">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000404" id="510600404" maxLevel="150" minLevel="0" poolTypeId="404">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000500" id="510600500" maxLevel="24" minLevel="0" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000501" id="510600501" maxLevel="34" minLevel="25" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000502" id="510600502" maxLevel="44" minLevel="35" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000503" id="510600503" maxLevel="54" minLevel="45" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000504" id="510600504" maxLevel="64" minLevel="55" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000505" id="510600505" maxLevel="74" minLevel="65" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000506" id="510600506" maxLevel="84" minLevel="75" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000507" id="510600507" maxLevel="94" minLevel="85" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000508" id="510600508" maxLevel="104" minLevel="95" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000509" id="510600509" maxLevel="150" minLevel="105" poolTypeId="500">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000510" id="510600510" maxLevel="150" minLevel="0" poolTypeId="510">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000600" id="510600600" maxLevel="150" minLevel="0" poolTypeId="600">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000601" id="510600601" maxLevel="150" minLevel="0" poolTypeId="601">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000602" id="510600602" maxLevel="150" minLevel="0" poolTypeId="602">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000700" id="510600700" maxLevel="44" minLevel="0" poolTypeId="700">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510000701" id="510600701" maxLevel="150" minLevel="45" poolTypeId="700">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510001000" id="510601000" maxLevel="150" minLevel="0" poolTypeId="1000">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510001100" id="510601100" maxLevel="150" minLevel="0" poolTypeId="1100">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510001200" id="510601200" maxLevel="150" minLevel="0" poolTypeId="1200">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510002000" id="510602000" maxLevel="150" minLevel="0" poolTypeId="2000">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510002100" id="510602100" maxLevel="150" minLevel="0" poolTypeId="2100">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510002200" id="510602200" maxLevel="150" minLevel="0" poolTypeId="2200">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510002300" id="510602300" maxLevel="150" minLevel="0" poolTypeId="2300">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510002400" id="510602400" maxLevel="150" minLevel="0" poolTypeId="2400">
+    <buffEffectIds>
+      <int>503000412</int>
+      <int>503000512</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003000" id="510603000" maxLevel="150" minLevel="0" poolTypeId="3000">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003001" id="510603001" maxLevel="150" minLevel="0" poolTypeId="3001">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003002" id="510603002" maxLevel="150" minLevel="0" poolTypeId="3002">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003003" id="510603003" maxLevel="150" minLevel="0" poolTypeId="3003">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003004" id="510603004" maxLevel="150" minLevel="0" poolTypeId="3004">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003005" id="510603005" maxLevel="150" minLevel="0" poolTypeId="3005">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003006" id="510603006" maxLevel="150" minLevel="0" poolTypeId="3006">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003007" id="510603007" maxLevel="150" minLevel="0" poolTypeId="3007">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003008" id="510603008" maxLevel="150" minLevel="0" poolTypeId="3008">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003010" id="510603010" maxLevel="150" minLevel="0" poolTypeId="3010">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003011" id="510603011" maxLevel="150" minLevel="0" poolTypeId="3011">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003015" id="510603015" maxLevel="150" minLevel="0" poolTypeId="3015">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003016" id="510603016" maxLevel="150" minLevel="0" poolTypeId="3016">
+    <buffEffectIds>
+      <int>503000418</int>
+      <int>503000518</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003020" id="510603020" maxLevel="150" minLevel="0" poolTypeId="3020">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003050" id="510603050" maxLevel="150" minLevel="0" poolTypeId="3050">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003100" id="510603100" maxLevel="150" minLevel="0" poolTypeId="3100">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003101" id="510603101" maxLevel="150" minLevel="0" poolTypeId="3101">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003102" id="510603102" maxLevel="150" minLevel="0" poolTypeId="3102">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003110" id="510603110" maxLevel="150" minLevel="0" poolTypeId="3110">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003111" id="510603111" maxLevel="150" minLevel="0" poolTypeId="3111">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003200" id="510603200" maxLevel="150" minLevel="0" poolTypeId="3200">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003201" id="510603201" maxLevel="150" minLevel="0" poolTypeId="3201">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003202" id="510603202" maxLevel="150" minLevel="0" poolTypeId="3202">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003203" id="510603203" maxLevel="150" minLevel="0" poolTypeId="3203">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003300" id="510603300" maxLevel="150" minLevel="0" poolTypeId="3300">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003400" id="510603400" maxLevel="150" minLevel="0" poolTypeId="3400">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003600" id="510603600" maxLevel="150" minLevel="0" poolTypeId="3600">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003601" id="510603601" maxLevel="150" minLevel="0" poolTypeId="3601">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003602" id="510603602" maxLevel="150" minLevel="0" poolTypeId="3602">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003603" id="510603603" maxLevel="150" minLevel="0" poolTypeId="3603">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003604" id="510603604" maxLevel="150" minLevel="0" poolTypeId="3604">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003605" id="510603605" maxLevel="150" minLevel="0" poolTypeId="3605">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510003700" id="510603700" maxLevel="150" minLevel="0" poolTypeId="3700">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004000" id="510604000" maxLevel="150" minLevel="0" poolTypeId="4000">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004001" id="510604001" maxLevel="150" minLevel="0" poolTypeId="4001">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004002" id="510604002" maxLevel="150" minLevel="0" poolTypeId="4002">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004003" id="510604003" maxLevel="150" minLevel="0" poolTypeId="4003">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004004" id="510604004" maxLevel="150" minLevel="0" poolTypeId="4004">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004100" id="510604100" maxLevel="150" minLevel="0" poolTypeId="4100">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004101" id="510604101" maxLevel="150" minLevel="0" poolTypeId="4101">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004102" id="510604102" maxLevel="150" minLevel="0" poolTypeId="4102">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004103" id="510604103" maxLevel="150" minLevel="0" poolTypeId="4103">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510004104" id="510604104" maxLevel="150" minLevel="0" poolTypeId="4104">
+    <buffEffectIds>
+      <int>503000415</int>
+      <int>503000515</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005000" id="510605000" maxLevel="150" minLevel="0" poolTypeId="5000">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005001" id="510605001" maxLevel="150" minLevel="0" poolTypeId="5001">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005002" id="510605002" maxLevel="150" minLevel="0" poolTypeId="5002">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005003" id="510605003" maxLevel="150" minLevel="0" poolTypeId="5003">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005004" id="510605004" maxLevel="150" minLevel="0" poolTypeId="5004">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005100" id="510605100" maxLevel="150" minLevel="0" poolTypeId="5100">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005101" id="510605101" maxLevel="150" minLevel="0" poolTypeId="5101">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005102" id="510605102" maxLevel="150" minLevel="0" poolTypeId="5102">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005103" id="510605103" maxLevel="150" minLevel="0" poolTypeId="5103">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005104" id="510605104" maxLevel="150" minLevel="0" poolTypeId="5104">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005105" id="510605105" maxLevel="150" minLevel="0" poolTypeId="5105">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510005200" id="510605200" maxLevel="150" minLevel="0" poolTypeId="5200">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006000" id="510606000" maxLevel="150" minLevel="0" poolTypeId="6000">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006100" id="510606100" maxLevel="150" minLevel="0" poolTypeId="6100">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006101" id="510606101" maxLevel="150" minLevel="0" poolTypeId="6101">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006102" id="510606102" maxLevel="150" minLevel="0" poolTypeId="6102">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006103" id="510606103" maxLevel="150" minLevel="0" poolTypeId="6103">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006104" id="510606104" maxLevel="150" minLevel="0" poolTypeId="6104">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006105" id="510606105" maxLevel="150" minLevel="0" poolTypeId="6105">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006106" id="510606106" maxLevel="150" minLevel="0" poolTypeId="6106">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006107" id="510606107" maxLevel="150" minLevel="0" poolTypeId="6107">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006200" id="510606200" maxLevel="150" minLevel="0" poolTypeId="6200">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006201" id="510606201" maxLevel="150" minLevel="0" poolTypeId="6201">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006210" id="510606210" maxLevel="150" minLevel="0" poolTypeId="6210">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006300" id="510606300" maxLevel="150" minLevel="0" poolTypeId="6300">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006301" id="510606301" maxLevel="150" minLevel="0" poolTypeId="6301">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006302" id="510606302" maxLevel="150" minLevel="0" poolTypeId="6302">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006303" id="510606303" maxLevel="150" minLevel="0" poolTypeId="6303">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006304" id="510606304" maxLevel="150" minLevel="0" poolTypeId="6304">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006309" id="510606309" maxLevel="150" minLevel="0" poolTypeId="6309">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006310" id="510606310" maxLevel="150" minLevel="0" poolTypeId="6310">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006311" id="510606311" maxLevel="150" minLevel="0" poolTypeId="6311">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006312" id="510606312" maxLevel="150" minLevel="0" poolTypeId="6312">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006313" id="510606313" maxLevel="150" minLevel="0" poolTypeId="6313">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006314" id="510606314" maxLevel="150" minLevel="0" poolTypeId="6314">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006330" id="510606330" maxLevel="150" minLevel="0" poolTypeId="6330">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006350" id="510606350" maxLevel="150" minLevel="0" poolTypeId="6350">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006351" id="510606351" maxLevel="150" minLevel="0" poolTypeId="6351">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006352" id="510606352" maxLevel="150" minLevel="0" poolTypeId="6352">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006353" id="510606353" maxLevel="150" minLevel="0" poolTypeId="6353">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006354" id="510606354" maxLevel="150" minLevel="0" poolTypeId="6354">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006355" id="510606355" maxLevel="150" minLevel="0" poolTypeId="6355">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006356" id="510606356" maxLevel="150" minLevel="0" poolTypeId="6356">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006357" id="510606357" maxLevel="150" minLevel="0" poolTypeId="6357">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006380" id="510606380" maxLevel="150" minLevel="0" poolTypeId="6380">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006381" id="510606381" maxLevel="150" minLevel="0" poolTypeId="6381">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006382" id="510606382" maxLevel="150" minLevel="0" poolTypeId="6382">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006383" id="510606383" maxLevel="150" minLevel="0" poolTypeId="6383">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006400" id="510606400" maxLevel="150" minLevel="0" poolTypeId="6400">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006401" id="510606401" maxLevel="150" minLevel="0" poolTypeId="6401">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006500" id="510606500" maxLevel="150" minLevel="0" poolTypeId="6500">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006600" id="510606600" maxLevel="150" minLevel="0" poolTypeId="6600">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006601" id="510606601" maxLevel="150" minLevel="0" poolTypeId="6601">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006602" id="510606602" maxLevel="150" minLevel="0" poolTypeId="6602">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006603" id="510606603" maxLevel="150" minLevel="0" poolTypeId="6603">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006700" id="510606700" maxLevel="150" minLevel="0" poolTypeId="6700">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006701" id="510606701" maxLevel="150" minLevel="0" poolTypeId="6701">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006702" id="510606702" maxLevel="150" minLevel="0" poolTypeId="6702">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006800" id="510606800" maxLevel="150" minLevel="0" poolTypeId="6800">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006801" id="510606801" maxLevel="150" minLevel="0" poolTypeId="6801">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006802" id="510606802" maxLevel="150" minLevel="0" poolTypeId="6802">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006803" id="510606803" maxLevel="150" minLevel="0" poolTypeId="6803">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006804" id="510606804" maxLevel="150" minLevel="0" poolTypeId="6804">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006900" id="510606900" maxLevel="150" minLevel="0" poolTypeId="6900">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006901" id="510606901" maxLevel="150" minLevel="0" poolTypeId="6901">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006902" id="510606902" maxLevel="150" minLevel="0" poolTypeId="6902">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006903" id="510606903" maxLevel="150" minLevel="0" poolTypeId="6903">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006904" id="510606904" maxLevel="150" minLevel="0" poolTypeId="6904">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006905" id="510606905" maxLevel="150" minLevel="0" poolTypeId="6905">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510006906" id="510606906" maxLevel="150" minLevel="0" poolTypeId="6906">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007000" id="510607000" maxLevel="150" minLevel="0" poolTypeId="7000">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007001" id="510607001" maxLevel="150" minLevel="0" poolTypeId="7001">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007002" id="510607002" maxLevel="150" minLevel="0" poolTypeId="7002">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007003" id="510607003" maxLevel="150" minLevel="0" poolTypeId="7003">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007010" id="510607010" maxLevel="150" minLevel="0" poolTypeId="7010">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007011" id="510607011" maxLevel="150" minLevel="0" poolTypeId="7011">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007012" id="510607012" maxLevel="150" minLevel="0" poolTypeId="7012">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007013" id="510607013" maxLevel="150" minLevel="0" poolTypeId="7013">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007014" id="510607014" maxLevel="150" minLevel="0" poolTypeId="7014">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007015" id="510607015" maxLevel="150" minLevel="0" poolTypeId="7015">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007101" id="510607101" maxLevel="150" minLevel="0" poolTypeId="7101">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007102" id="510607102" maxLevel="150" minLevel="0" poolTypeId="7102">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007103" id="510607103" maxLevel="150" minLevel="0" poolTypeId="7103">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007104" id="510607104" maxLevel="150" minLevel="0" poolTypeId="7104">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007105" id="510607105" maxLevel="150" minLevel="0" poolTypeId="7105">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007106" id="510607106" maxLevel="150" minLevel="0" poolTypeId="7106">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007201" id="510607201" maxLevel="150" minLevel="0" poolTypeId="7201">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007300" id="510607300" maxLevel="150" minLevel="0" poolTypeId="7300">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007301" id="510607301" maxLevel="150" minLevel="0" poolTypeId="7301">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007302" id="510607302" maxLevel="150" minLevel="0" poolTypeId="7302">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007303" id="510607303" maxLevel="150" minLevel="0" poolTypeId="7303">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007401" id="510607401" maxLevel="150" minLevel="0" poolTypeId="7401">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007402" id="510607402" maxLevel="150" minLevel="0" poolTypeId="7402">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007403" id="510607403" maxLevel="150" minLevel="0" poolTypeId="7403">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007404" id="510607404" maxLevel="150" minLevel="0" poolTypeId="7404">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007405" id="510607405" maxLevel="150" minLevel="0" poolTypeId="7405">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007406" id="510607406" maxLevel="150" minLevel="0" poolTypeId="7406">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007407" id="510607407" maxLevel="150" minLevel="0" poolTypeId="7407">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007408" id="510607408" maxLevel="150" minLevel="0" poolTypeId="7408">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007409" id="510607409" maxLevel="150" minLevel="0" poolTypeId="7409">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007410" id="510607410" maxLevel="150" minLevel="0" poolTypeId="7410">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007411" id="510607411" maxLevel="150" minLevel="0" poolTypeId="7411">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007412" id="510607412" maxLevel="150" minLevel="0" poolTypeId="7412">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007413" id="510607413" maxLevel="150" minLevel="0" poolTypeId="7413">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007414" id="510607414" maxLevel="150" minLevel="0" poolTypeId="7414">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007415" id="510607415" maxLevel="150" minLevel="0" poolTypeId="7415">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007416" id="510607416" maxLevel="150" minLevel="0" poolTypeId="7416">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007417" id="510607417" maxLevel="150" minLevel="0" poolTypeId="7417">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007418" id="510607418" maxLevel="150" minLevel="0" poolTypeId="7418">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007500" id="510607500" maxLevel="150" minLevel="0" poolTypeId="7500">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007501" id="510607501" maxLevel="150" minLevel="0" poolTypeId="7501">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007502" id="510607502" maxLevel="150" minLevel="0" poolTypeId="7502">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007600" id="510607600" maxLevel="150" minLevel="0" poolTypeId="7600">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007700" id="510607700" maxLevel="150" minLevel="0" poolTypeId="7700">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007701" id="510607701" maxLevel="150" minLevel="0" poolTypeId="7701">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007800" id="510607800" maxLevel="150" minLevel="0" poolTypeId="7800">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510007900" id="510607900" maxLevel="150" minLevel="0" poolTypeId="7900">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008000" id="510608000" maxLevel="150" minLevel="0" poolTypeId="8000">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008001" id="510608001" maxLevel="150" minLevel="0" poolTypeId="8001">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008002" id="510608002" maxLevel="150" minLevel="0" poolTypeId="8002">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008003" id="510608003" maxLevel="150" minLevel="0" poolTypeId="8003">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008004" id="510608004" maxLevel="150" minLevel="0" poolTypeId="8004">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008005" id="510608005" maxLevel="150" minLevel="0" poolTypeId="8005">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008006" id="510608006" maxLevel="150" minLevel="0" poolTypeId="8006">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008007" id="510608007" maxLevel="150" minLevel="0" poolTypeId="8007">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008008" id="510608008" maxLevel="150" minLevel="0" poolTypeId="8008">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008009" id="510608009" maxLevel="150" minLevel="0" poolTypeId="8009">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008010" id="510608010" maxLevel="150" minLevel="0" poolTypeId="8010">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008011" id="510608011" maxLevel="150" minLevel="0" poolTypeId="8011">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008012" id="510608012" maxLevel="150" minLevel="0" poolTypeId="8012">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008013" id="510608013" maxLevel="150" minLevel="0" poolTypeId="8013">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008014" id="510608014" maxLevel="150" minLevel="0" poolTypeId="8014">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008015" id="510608015" maxLevel="150" minLevel="0" poolTypeId="8015">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008016" id="510608016" maxLevel="150" minLevel="0" poolTypeId="8016">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008017" id="510608017" maxLevel="150" minLevel="0" poolTypeId="8017">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008018" id="510608018" maxLevel="150" minLevel="0" poolTypeId="8018">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008019" id="510608019" maxLevel="150" minLevel="0" poolTypeId="8019">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008020" id="510608020" maxLevel="150" minLevel="0" poolTypeId="8020">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008021" id="510608021" maxLevel="150" minLevel="0" poolTypeId="8021">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008022" id="510608022" maxLevel="150" minLevel="0" poolTypeId="8022">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008023" id="510608023" maxLevel="150" minLevel="0" poolTypeId="8023">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008024" id="510608024" maxLevel="150" minLevel="0" poolTypeId="8024">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008025" id="510608025" maxLevel="150" minLevel="0" poolTypeId="8025">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008026" id="510608026" maxLevel="150" minLevel="0" poolTypeId="8026">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008027" id="510608027" maxLevel="150" minLevel="0" poolTypeId="8027">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008028" id="510608028" maxLevel="150" minLevel="0" poolTypeId="8028">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008029" id="510608029" maxLevel="150" minLevel="0" poolTypeId="8029">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008030" id="510608030" maxLevel="150" minLevel="0" poolTypeId="8030">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008100" id="510608100" maxLevel="150" minLevel="0" poolTypeId="8100">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008101" id="510608101" maxLevel="150" minLevel="0" poolTypeId="8101">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008200" id="510608200" maxLevel="150" minLevel="0" poolTypeId="8200">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008300" id="510608300" maxLevel="150" minLevel="0" poolTypeId="8300">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008301" id="510608301" maxLevel="150" minLevel="0" poolTypeId="8301">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008302" id="510608302" maxLevel="150" minLevel="0" poolTypeId="8302">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008303" id="510608303" maxLevel="150" minLevel="0" poolTypeId="8303">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008500" id="510608500" maxLevel="150" minLevel="0" poolTypeId="8500">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008501" id="510608501" maxLevel="150" minLevel="0" poolTypeId="8501">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008502" id="510608502" maxLevel="150" minLevel="0" poolTypeId="8502">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008510" id="510608510" maxLevel="150" minLevel="0" poolTypeId="8510">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008511" id="510608511" maxLevel="150" minLevel="0" poolTypeId="8511">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008512" id="510608512" maxLevel="150" minLevel="0" poolTypeId="8512">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008513" id="510608513" maxLevel="150" minLevel="0" poolTypeId="8520">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510008514" id="510608514" maxLevel="150" minLevel="0" poolTypeId="8521">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009000" id="510609000" maxLevel="150" minLevel="0" poolTypeId="9000">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009001" id="510609001" maxLevel="150" minLevel="0" poolTypeId="9001">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009002" id="510609002" maxLevel="150" minLevel="0" poolTypeId="9002">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009003" id="510609003" maxLevel="150" minLevel="0" poolTypeId="9003">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009004" id="510609004" maxLevel="150" minLevel="0" poolTypeId="9004">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009005" id="510609005" maxLevel="150" minLevel="0" poolTypeId="9005">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009006" id="510609006" maxLevel="150" minLevel="0" poolTypeId="9006">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009007" id="510609007" maxLevel="150" minLevel="0" poolTypeId="9010">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009100" id="510609100" maxLevel="150" minLevel="0" poolTypeId="9100">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009101" id="510609101" maxLevel="150" minLevel="0" poolTypeId="9101">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009102" id="510609102" maxLevel="150" minLevel="0" poolTypeId="9102">
+    <buffEffectIds>
+      <int>503000419</int>
+      <int>503000519</int>
+    </buffEffectIds>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009200" id="510609200" maxLevel="150" minLevel="0" poolTypeId="9200">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009201" id="510609201" maxLevel="150" minLevel="0" poolTypeId="9201">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009202" id="510609202" maxLevel="150" minLevel="0" poolTypeId="9202">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009203" id="510609203" maxLevel="150" minLevel="0" poolTypeId="9203">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009204" id="510609204" maxLevel="150" minLevel="0" poolTypeId="9204">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009205" id="510609205" maxLevel="150" minLevel="0" poolTypeId="9205">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009206" id="510609206" maxLevel="150" minLevel="0" poolTypeId="9206">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009207" id="510609207" maxLevel="150" minLevel="0" poolTypeId="9207">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009208" id="510609208" maxLevel="150" minLevel="0" poolTypeId="9208">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009209" id="510609209" maxLevel="150" minLevel="0" poolTypeId="9209">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009210" id="510609210" maxLevel="150" minLevel="0" poolTypeId="9210">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009211" id="510609211" maxLevel="150" minLevel="0" poolTypeId="9211">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009212" id="510609212" maxLevel="150" minLevel="0" poolTypeId="9212">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009213" id="510609213" maxLevel="150" minLevel="0" poolTypeId="9213">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009214" id="510609214" maxLevel="150" minLevel="0" poolTypeId="9214">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009215" id="510609215" maxLevel="150" minLevel="0" poolTypeId="9215">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009216" id="510609216" maxLevel="150" minLevel="0" poolTypeId="9216">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009217" id="510609217" maxLevel="150" minLevel="0" poolTypeId="9217">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009218" id="510609218" maxLevel="150" minLevel="0" poolTypeId="9218">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009219" id="510609219" maxLevel="150" minLevel="0" poolTypeId="9219">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009220" id="510609220" maxLevel="150" minLevel="0" poolTypeId="9220">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009221" id="510609221" maxLevel="150" minLevel="0" poolTypeId="9221">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009222" id="510609222" maxLevel="150" minLevel="0" poolTypeId="9222">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009223" id="510609223" maxLevel="150" minLevel="0" poolTypeId="9223">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009224" id="510609224" maxLevel="150" minLevel="0" poolTypeId="9224">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009225" id="510609225" maxLevel="150" minLevel="0" poolTypeId="9225">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009226" id="510609226" maxLevel="150" minLevel="0" poolTypeId="9226">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009227" id="510609227" maxLevel="150" minLevel="0" poolTypeId="9227">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009228" id="510609228" maxLevel="150" minLevel="0" poolTypeId="9228">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009229" id="510609229" maxLevel="150" minLevel="0" poolTypeId="9229">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009300" id="510609300" maxLevel="150" minLevel="0" poolTypeId="9300">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009301" id="510609301" maxLevel="150" minLevel="0" poolTypeId="9301">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009302" id="510609302" maxLevel="150" minLevel="0" poolTypeId="9302">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009303" id="510609303" maxLevel="150" minLevel="0" poolTypeId="9303">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009304" id="510609304" maxLevel="150" minLevel="0" poolTypeId="9304">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009305" id="510609305" maxLevel="150" minLevel="0" poolTypeId="9305">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009306" id="510609306" maxLevel="150" minLevel="0" poolTypeId="9306">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009307" id="510609307" maxLevel="150" minLevel="0" poolTypeId="9307">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009308" id="510609308" maxLevel="150" minLevel="0" poolTypeId="9308">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009309" id="510609309" maxLevel="150" minLevel="0" poolTypeId="9309">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009310" id="510609310" maxLevel="150" minLevel="0" poolTypeId="9310">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009311" id="510609311" maxLevel="150" minLevel="0" poolTypeId="9311">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009312" id="510609312" maxLevel="150" minLevel="0" poolTypeId="9312">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009313" id="510609313" maxLevel="150" minLevel="0" poolTypeId="9313">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+  <mzm.gsp.awardpool.confbean.SAwardPoolMainTable awardPoolSumId="510009314" id="510609314" maxLevel="150" minLevel="0" poolTypeId="9314">
+    <buffEffectIds/>
+  </mzm.gsp.awardpool.confbean.SAwardPoolMainTable>
+</data>

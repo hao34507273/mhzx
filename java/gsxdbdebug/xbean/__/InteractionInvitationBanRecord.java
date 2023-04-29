@@ -1,0 +1,808 @@
+/*     */ package xbean.__;
+/*     */ 
+/*     */ import com.goldhuman.Common.Marshal.OctetsStream;
+/*     */ import java.io.IOException;
+/*     */ import ppbio.CodedInputStream;
+/*     */ import ppbio.CodedOutputStream;
+/*     */ import ppbio.InvalidProtocolBufferException;
+/*     */ import xdb.LogKey;
+/*     */ import xdb.XBean;
+/*     */ import xdb.logs.ListenableBean;
+/*     */ import xdb.logs.ListenableChanged;
+/*     */ import xdb.logs.LogInt;
+/*     */ 
+/*     */ public final class InteractionInvitationBanRecord extends XBean implements xbean.InteractionInvitationBanRecord
+/*     */ {
+/*     */   private int reset_time;
+/*     */   private int fail_count;
+/*     */   private int ban_time;
+/*     */   
+/*     */   public void _reset_unsafe_()
+/*     */   {
+/*  22 */     this.reset_time = 0;
+/*  23 */     this.fail_count = 0;
+/*  24 */     this.ban_time = 0;
+/*     */   }
+/*     */   
+/*     */   InteractionInvitationBanRecord(int __, XBean _xp_, String _vn_)
+/*     */   {
+/*  29 */     super(_xp_, _vn_);
+/*     */   }
+/*     */   
+/*     */   public InteractionInvitationBanRecord()
+/*     */   {
+/*  34 */     this(0, null, null);
+/*     */   }
+/*     */   
+/*     */   public InteractionInvitationBanRecord(InteractionInvitationBanRecord _o_)
+/*     */   {
+/*  39 */     this(_o_, null, null);
+/*     */   }
+/*     */   
+/*     */   InteractionInvitationBanRecord(xbean.InteractionInvitationBanRecord _o1_, XBean _xp_, String _vn_)
+/*     */   {
+/*  44 */     super(_xp_, _vn_);
+/*  45 */     if ((_o1_ instanceof InteractionInvitationBanRecord)) { assign((InteractionInvitationBanRecord)_o1_);
+/*  46 */     } else if ((_o1_ instanceof Data)) { assign((Data)_o1_);
+/*  47 */     } else if ((_o1_ instanceof Const)) assign(((Const)_o1_).nThis()); else {
+/*  48 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */   }
+/*     */   
+/*     */   private void assign(InteractionInvitationBanRecord _o_) {
+/*  53 */     _o_._xdb_verify_unsafe_();
+/*  54 */     this.reset_time = _o_.reset_time;
+/*  55 */     this.fail_count = _o_.fail_count;
+/*  56 */     this.ban_time = _o_.ban_time;
+/*     */   }
+/*     */   
+/*     */   private void assign(Data _o_)
+/*     */   {
+/*  61 */     this.reset_time = _o_.reset_time;
+/*  62 */     this.fail_count = _o_.fail_count;
+/*  63 */     this.ban_time = _o_.ban_time;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public final OctetsStream marshal(OctetsStream _os_)
+/*     */   {
+/*  69 */     _xdb_verify_unsafe_();
+/*  70 */     _os_.marshal(this.reset_time);
+/*  71 */     _os_.marshal(this.fail_count);
+/*  72 */     _os_.marshal(this.ban_time);
+/*  73 */     return _os_;
+/*     */   }
+/*     */   
+/*     */   public final OctetsStream unmarshal(OctetsStream _os_)
+/*     */     throws com.goldhuman.Common.Marshal.MarshalException
+/*     */   {
+/*  79 */     _xdb_verify_unsafe_();
+/*  80 */     this.reset_time = _os_.unmarshal_int();
+/*  81 */     this.fail_count = _os_.unmarshal_int();
+/*  82 */     this.ban_time = _os_.unmarshal_int();
+/*  83 */     return _os_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public int getSerializedSize()
+/*     */   {
+/*  89 */     _xdb_verify_unsafe_();
+/*  90 */     int _size_ = 0;
+/*  91 */     _size_ += CodedOutputStream.computeInt32Size(1, this.reset_time);
+/*  92 */     _size_ += CodedOutputStream.computeInt32Size(2, this.fail_count);
+/*  93 */     _size_ += CodedOutputStream.computeInt32Size(3, this.ban_time);
+/*  94 */     return _size_;
+/*     */   }
+/*     */   
+/*     */   public CodedOutputStream marshal(CodedOutputStream _output_)
+/*     */     throws InvalidProtocolBufferException
+/*     */   {
+/* 100 */     _xdb_verify_unsafe_();
+/*     */     try
+/*     */     {
+/* 103 */       _output_.writeInt32(1, this.reset_time);
+/* 104 */       _output_.writeInt32(2, this.fail_count);
+/* 105 */       _output_.writeInt32(3, this.ban_time);
+/*     */     }
+/*     */     catch (IOException e)
+/*     */     {
+/* 109 */       throw new InvalidProtocolBufferException(e).setUnfinishedMessage(this);
+/*     */     }
+/* 111 */     return _output_;
+/*     */   }
+/*     */   
+/*     */   public CodedInputStream unmarshal(CodedInputStream _input_)
+/*     */     throws InvalidProtocolBufferException
+/*     */   {
+/* 117 */     _xdb_verify_unsafe_();
+/*     */     try
+/*     */     {
+/* 120 */       boolean done = false;
+/* 121 */       while (!done)
+/*     */       {
+/* 123 */         int tag = _input_.readTag();
+/* 124 */         switch (tag)
+/*     */         {
+/*     */ 
+/*     */         case 0: 
+/* 128 */           done = true;
+/* 129 */           break;
+/*     */         
+/*     */ 
+/*     */         case 8: 
+/* 133 */           this.reset_time = _input_.readInt32();
+/* 134 */           break;
+/*     */         
+/*     */ 
+/*     */         case 16: 
+/* 138 */           this.fail_count = _input_.readInt32();
+/* 139 */           break;
+/*     */         
+/*     */ 
+/*     */         case 24: 
+/* 143 */           this.ban_time = _input_.readInt32();
+/* 144 */           break;
+/*     */         
+/*     */ 
+/*     */         default: 
+/* 148 */           if (!CodedInputStream.skipUnknownField(tag, _input_))
+/*     */           {
+/* 150 */             done = true;
+/*     */           }
+/*     */           break;
+/*     */         }
+/*     */         
+/*     */       }
+/*     */     }
+/*     */     catch (InvalidProtocolBufferException e)
+/*     */     {
+/* 159 */       throw e.setUnfinishedMessage(this);
+/*     */     }
+/*     */     catch (IOException e)
+/*     */     {
+/* 163 */       throw new InvalidProtocolBufferException(e).setUnfinishedMessage(this);
+/*     */     }
+/* 165 */     return _input_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public xbean.InteractionInvitationBanRecord copy()
+/*     */   {
+/* 171 */     _xdb_verify_unsafe_();
+/* 172 */     return new InteractionInvitationBanRecord(this);
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public xbean.InteractionInvitationBanRecord toData()
+/*     */   {
+/* 178 */     _xdb_verify_unsafe_();
+/* 179 */     return new Data(this);
+/*     */   }
+/*     */   
+/*     */   public xbean.InteractionInvitationBanRecord toBean()
+/*     */   {
+/* 184 */     _xdb_verify_unsafe_();
+/* 185 */     return new InteractionInvitationBanRecord(this);
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public xbean.InteractionInvitationBanRecord toDataIf()
+/*     */   {
+/* 191 */     _xdb_verify_unsafe_();
+/* 192 */     return new Data(this);
+/*     */   }
+/*     */   
+/*     */   public xbean.InteractionInvitationBanRecord toBeanIf()
+/*     */   {
+/* 197 */     _xdb_verify_unsafe_();
+/* 198 */     return this;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public xdb.Bean toConst()
+/*     */   {
+/* 204 */     _xdb_verify_unsafe_();
+/* 205 */     return new Const(null);
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public int getReset_time()
+/*     */   {
+/* 212 */     _xdb_verify_unsafe_();
+/* 213 */     return this.reset_time;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public int getFail_count()
+/*     */   {
+/* 220 */     _xdb_verify_unsafe_();
+/* 221 */     return this.fail_count;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public int getBan_time()
+/*     */   {
+/* 228 */     _xdb_verify_unsafe_();
+/* 229 */     return this.ban_time;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public void setReset_time(int _v_)
+/*     */   {
+/* 236 */     _xdb_verify_unsafe_();
+/* 237 */     xdb.Logs.logIf(new LogKey(this, "reset_time")
+/*     */     {
+/*     */       protected xdb.Log create()
+/*     */       {
+/* 241 */         new LogInt(this, InteractionInvitationBanRecord.this.reset_time)
+/*     */         {
+/*     */           public void rollback()
+/*     */           {
+/* 245 */             InteractionInvitationBanRecord.this.reset_time = this._xdb_saved;
+/*     */           }
+/*     */         };
+/*     */       }
+/* 249 */     });
+/* 250 */     this.reset_time = _v_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public void setFail_count(int _v_)
+/*     */   {
+/* 257 */     _xdb_verify_unsafe_();
+/* 258 */     xdb.Logs.logIf(new LogKey(this, "fail_count")
+/*     */     {
+/*     */       protected xdb.Log create()
+/*     */       {
+/* 262 */         new LogInt(this, InteractionInvitationBanRecord.this.fail_count)
+/*     */         {
+/*     */           public void rollback()
+/*     */           {
+/* 266 */             InteractionInvitationBanRecord.this.fail_count = this._xdb_saved;
+/*     */           }
+/*     */         };
+/*     */       }
+/* 270 */     });
+/* 271 */     this.fail_count = _v_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */ 
+/*     */   public void setBan_time(int _v_)
+/*     */   {
+/* 278 */     _xdb_verify_unsafe_();
+/* 279 */     xdb.Logs.logIf(new LogKey(this, "ban_time")
+/*     */     {
+/*     */       protected xdb.Log create()
+/*     */       {
+/* 283 */         new LogInt(this, InteractionInvitationBanRecord.this.ban_time)
+/*     */         {
+/*     */           public void rollback()
+/*     */           {
+/* 287 */             InteractionInvitationBanRecord.this.ban_time = this._xdb_saved;
+/*     */           }
+/*     */         };
+/*     */       }
+/* 291 */     });
+/* 292 */     this.ban_time = _v_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public final boolean equals(Object _o1_)
+/*     */   {
+/* 298 */     _xdb_verify_unsafe_();
+/* 299 */     InteractionInvitationBanRecord _o_ = null;
+/* 300 */     if ((_o1_ instanceof InteractionInvitationBanRecord)) { _o_ = (InteractionInvitationBanRecord)_o1_;
+/* 301 */     } else if ((_o1_ instanceof Const)) _o_ = ((Const)_o1_).nThis(); else
+/* 302 */       return false;
+/* 303 */     if (this.reset_time != _o_.reset_time) return false;
+/* 304 */     if (this.fail_count != _o_.fail_count) return false;
+/* 305 */     if (this.ban_time != _o_.ban_time) return false;
+/* 306 */     return true;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public final int hashCode()
+/*     */   {
+/* 312 */     _xdb_verify_unsafe_();
+/* 313 */     int _h_ = 0;
+/* 314 */     _h_ += this.reset_time;
+/* 315 */     _h_ += this.fail_count;
+/* 316 */     _h_ += this.ban_time;
+/* 317 */     return _h_;
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public String toString()
+/*     */   {
+/* 323 */     _xdb_verify_unsafe_();
+/* 324 */     StringBuilder _sb_ = new StringBuilder();
+/* 325 */     _sb_.append("(");
+/* 326 */     _sb_.append(this.reset_time);
+/* 327 */     _sb_.append(",");
+/* 328 */     _sb_.append(this.fail_count);
+/* 329 */     _sb_.append(",");
+/* 330 */     _sb_.append(this.ban_time);
+/* 331 */     _sb_.append(")");
+/* 332 */     return _sb_.toString();
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public xdb.logs.Listenable newListenable()
+/*     */   {
+/* 338 */     ListenableBean lb = new ListenableBean();
+/* 339 */     lb.add(new ListenableChanged().setVarName("reset_time"));
+/* 340 */     lb.add(new ListenableChanged().setVarName("fail_count"));
+/* 341 */     lb.add(new ListenableChanged().setVarName("ban_time"));
+/* 342 */     return lb;
+/*     */   }
+/*     */   
+/*     */   private class Const implements xbean.InteractionInvitationBanRecord {
+/*     */     private Const() {}
+/*     */     
+/*     */     InteractionInvitationBanRecord nThis() {
+/* 349 */       return InteractionInvitationBanRecord.this;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public void _reset_unsafe_()
+/*     */     {
+/* 355 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord copy()
+/*     */     {
+/* 361 */       return InteractionInvitationBanRecord.this.copy();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord toData()
+/*     */     {
+/* 367 */       return InteractionInvitationBanRecord.this.toData();
+/*     */     }
+/*     */     
+/*     */     public xbean.InteractionInvitationBanRecord toBean()
+/*     */     {
+/* 372 */       return InteractionInvitationBanRecord.this.toBean();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord toDataIf()
+/*     */     {
+/* 378 */       return InteractionInvitationBanRecord.this.toDataIf();
+/*     */     }
+/*     */     
+/*     */     public xbean.InteractionInvitationBanRecord toBeanIf()
+/*     */     {
+/* 383 */       return InteractionInvitationBanRecord.this.toBeanIf();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getReset_time()
+/*     */     {
+/* 390 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 391 */       return InteractionInvitationBanRecord.this.reset_time;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getFail_count()
+/*     */     {
+/* 398 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 399 */       return InteractionInvitationBanRecord.this.fail_count;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getBan_time()
+/*     */     {
+/* 406 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 407 */       return InteractionInvitationBanRecord.this.ban_time;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setReset_time(int _v_)
+/*     */     {
+/* 414 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 415 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setFail_count(int _v_)
+/*     */     {
+/* 422 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 423 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setBan_time(int _v_)
+/*     */     {
+/* 430 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 431 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xdb.Bean toConst()
+/*     */     {
+/* 437 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 438 */       return this;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public boolean isConst()
+/*     */     {
+/* 444 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 445 */       return true;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public boolean isData()
+/*     */     {
+/* 451 */       return InteractionInvitationBanRecord.this.isData();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public OctetsStream marshal(OctetsStream _os_)
+/*     */     {
+/* 457 */       return InteractionInvitationBanRecord.this.marshal(_os_);
+/*     */     }
+/*     */     
+/*     */     public OctetsStream unmarshal(OctetsStream _os_)
+/*     */       throws com.goldhuman.Common.Marshal.MarshalException
+/*     */     {
+/* 463 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 464 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public int getSerializedSize()
+/*     */     {
+/* 470 */       return InteractionInvitationBanRecord.this.getSerializedSize();
+/*     */     }
+/*     */     
+/*     */     public CodedOutputStream marshal(CodedOutputStream _output_)
+/*     */       throws InvalidProtocolBufferException
+/*     */     {
+/* 476 */       return InteractionInvitationBanRecord.this.marshal(_output_);
+/*     */     }
+/*     */     
+/*     */     public CodedInputStream unmarshal(CodedInputStream _input_)
+/*     */       throws InvalidProtocolBufferException
+/*     */     {
+/* 482 */       InteractionInvitationBanRecord.this._xdb_verify_unsafe_();
+/* 483 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xdb.Bean xdbParent()
+/*     */     {
+/* 489 */       return InteractionInvitationBanRecord.this.xdbParent();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public boolean xdbManaged()
+/*     */     {
+/* 495 */       return InteractionInvitationBanRecord.this.xdbManaged();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public String xdbVarname()
+/*     */     {
+/* 501 */       return InteractionInvitationBanRecord.this.xdbVarname();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public Long xdbObjId()
+/*     */     {
+/* 507 */       return InteractionInvitationBanRecord.this.xdbObjId();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public boolean equals(Object obj)
+/*     */     {
+/* 513 */       return InteractionInvitationBanRecord.this.equals(obj);
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public int hashCode()
+/*     */     {
+/* 519 */       return InteractionInvitationBanRecord.this.hashCode();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public String toString()
+/*     */     {
+/* 525 */       return InteractionInvitationBanRecord.this.toString();
+/*     */     }
+/*     */   }
+/*     */   
+/*     */ 
+/*     */   public static final class Data
+/*     */     implements xbean.InteractionInvitationBanRecord
+/*     */   {
+/*     */     private int reset_time;
+/*     */     
+/*     */     private int fail_count;
+/*     */     
+/*     */     private int ban_time;
+/*     */     
+/*     */     public void _reset_unsafe_()
+/*     */     {
+/* 541 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public Data() {}
+/*     */     
+/*     */ 
+/*     */     Data(xbean.InteractionInvitationBanRecord _o1_)
+/*     */     {
+/* 550 */       if ((_o1_ instanceof InteractionInvitationBanRecord)) { assign((InteractionInvitationBanRecord)_o1_);
+/* 551 */       } else if ((_o1_ instanceof Data)) { assign((Data)_o1_);
+/* 552 */       } else if ((_o1_ instanceof InteractionInvitationBanRecord.Const)) assign(((InteractionInvitationBanRecord.Const)_o1_).nThis()); else {
+/* 553 */         throw new UnsupportedOperationException();
+/*     */       }
+/*     */     }
+/*     */     
+/*     */     private void assign(InteractionInvitationBanRecord _o_) {
+/* 558 */       this.reset_time = _o_.reset_time;
+/* 559 */       this.fail_count = _o_.fail_count;
+/* 560 */       this.ban_time = _o_.ban_time;
+/*     */     }
+/*     */     
+/*     */     private void assign(Data _o_)
+/*     */     {
+/* 565 */       this.reset_time = _o_.reset_time;
+/* 566 */       this.fail_count = _o_.fail_count;
+/* 567 */       this.ban_time = _o_.ban_time;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public final OctetsStream marshal(OctetsStream _os_)
+/*     */     {
+/* 573 */       _os_.marshal(this.reset_time);
+/* 574 */       _os_.marshal(this.fail_count);
+/* 575 */       _os_.marshal(this.ban_time);
+/* 576 */       return _os_;
+/*     */     }
+/*     */     
+/*     */     public final OctetsStream unmarshal(OctetsStream _os_)
+/*     */       throws com.goldhuman.Common.Marshal.MarshalException
+/*     */     {
+/* 582 */       this.reset_time = _os_.unmarshal_int();
+/* 583 */       this.fail_count = _os_.unmarshal_int();
+/* 584 */       this.ban_time = _os_.unmarshal_int();
+/* 585 */       return _os_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public final int getSerializedSize()
+/*     */     {
+/* 591 */       int _size_ = 0;
+/* 592 */       _size_ += CodedOutputStream.computeInt32Size(1, this.reset_time);
+/* 593 */       _size_ += CodedOutputStream.computeInt32Size(2, this.fail_count);
+/* 594 */       _size_ += CodedOutputStream.computeInt32Size(3, this.ban_time);
+/* 595 */       return _size_;
+/*     */     }
+/*     */     
+/*     */     public CodedOutputStream marshal(CodedOutputStream _output_)
+/*     */       throws InvalidProtocolBufferException
+/*     */     {
+/*     */       try
+/*     */       {
+/* 603 */         _output_.writeInt32(1, this.reset_time);
+/* 604 */         _output_.writeInt32(2, this.fail_count);
+/* 605 */         _output_.writeInt32(3, this.ban_time);
+/*     */       }
+/*     */       catch (IOException e)
+/*     */       {
+/* 609 */         throw new InvalidProtocolBufferException(e).setUnfinishedMessage(this);
+/*     */       }
+/* 611 */       return _output_;
+/*     */     }
+/*     */     
+/*     */     public CodedInputStream unmarshal(CodedInputStream _input_)
+/*     */       throws InvalidProtocolBufferException
+/*     */     {
+/*     */       try
+/*     */       {
+/* 619 */         boolean done = false;
+/* 620 */         while (!done)
+/*     */         {
+/* 622 */           int tag = _input_.readTag();
+/* 623 */           switch (tag)
+/*     */           {
+/*     */ 
+/*     */           case 0: 
+/* 627 */             done = true;
+/* 628 */             break;
+/*     */           
+/*     */ 
+/*     */           case 8: 
+/* 632 */             this.reset_time = _input_.readInt32();
+/* 633 */             break;
+/*     */           
+/*     */ 
+/*     */           case 16: 
+/* 637 */             this.fail_count = _input_.readInt32();
+/* 638 */             break;
+/*     */           
+/*     */ 
+/*     */           case 24: 
+/* 642 */             this.ban_time = _input_.readInt32();
+/* 643 */             break;
+/*     */           
+/*     */ 
+/*     */           default: 
+/* 647 */             if (!CodedInputStream.skipUnknownField(tag, _input_))
+/*     */             {
+/* 649 */               done = true;
+/*     */             }
+/*     */             break;
+/*     */           }
+/*     */           
+/*     */         }
+/*     */       }
+/*     */       catch (InvalidProtocolBufferException e)
+/*     */       {
+/* 658 */         throw e.setUnfinishedMessage(this);
+/*     */       }
+/*     */       catch (IOException e)
+/*     */       {
+/* 662 */         throw new InvalidProtocolBufferException(e).setUnfinishedMessage(this);
+/*     */       }
+/* 664 */       return _input_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord copy()
+/*     */     {
+/* 670 */       return new Data(this);
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord toData()
+/*     */     {
+/* 676 */       return new Data(this);
+/*     */     }
+/*     */     
+/*     */     public xbean.InteractionInvitationBanRecord toBean()
+/*     */     {
+/* 681 */       return new InteractionInvitationBanRecord(this, null, null);
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public xbean.InteractionInvitationBanRecord toDataIf()
+/*     */     {
+/* 687 */       return this;
+/*     */     }
+/*     */     
+/*     */     public xbean.InteractionInvitationBanRecord toBeanIf()
+/*     */     {
+/* 692 */       return new InteractionInvitationBanRecord(this, null, null);
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public boolean xdbManaged()
+/*     */     {
+/* 698 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */     public xdb.Bean xdbParent() {
+/* 702 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */     public String xdbVarname() {
+/* 706 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */     public Long xdbObjId() {
+/* 710 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */     public xdb.Bean toConst() {
+/* 714 */       throw new UnsupportedOperationException();
+/*     */     }
+/*     */     
+/*     */     public boolean isConst() {
+/* 718 */       return false;
+/*     */     }
+/*     */     
+/*     */     public boolean isData() {
+/* 722 */       return true;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getReset_time()
+/*     */     {
+/* 729 */       return this.reset_time;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getFail_count()
+/*     */     {
+/* 736 */       return this.fail_count;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public int getBan_time()
+/*     */     {
+/* 743 */       return this.ban_time;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setReset_time(int _v_)
+/*     */     {
+/* 750 */       this.reset_time = _v_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setFail_count(int _v_)
+/*     */     {
+/* 757 */       this.fail_count = _v_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */ 
+/*     */     public void setBan_time(int _v_)
+/*     */     {
+/* 764 */       this.ban_time = _v_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public final boolean equals(Object _o1_)
+/*     */     {
+/* 770 */       if (!(_o1_ instanceof Data)) return false;
+/* 771 */       Data _o_ = (Data)_o1_;
+/* 772 */       if (this.reset_time != _o_.reset_time) return false;
+/* 773 */       if (this.fail_count != _o_.fail_count) return false;
+/* 774 */       if (this.ban_time != _o_.ban_time) return false;
+/* 775 */       return true;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public final int hashCode()
+/*     */     {
+/* 781 */       int _h_ = 0;
+/* 782 */       _h_ += this.reset_time;
+/* 783 */       _h_ += this.fail_count;
+/* 784 */       _h_ += this.ban_time;
+/* 785 */       return _h_;
+/*     */     }
+/*     */     
+/*     */ 
+/*     */     public String toString()
+/*     */     {
+/* 791 */       StringBuilder _sb_ = new StringBuilder();
+/* 792 */       _sb_.append("(");
+/* 793 */       _sb_.append(this.reset_time);
+/* 794 */       _sb_.append(",");
+/* 795 */       _sb_.append(this.fail_count);
+/* 796 */       _sb_.append(",");
+/* 797 */       _sb_.append(this.ban_time);
+/* 798 */       _sb_.append(")");
+/* 799 */       return _sb_.toString();
+/*     */     }
+/*     */   }
+/*     */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\xbean\__\InteractionInvitationBanRecord.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

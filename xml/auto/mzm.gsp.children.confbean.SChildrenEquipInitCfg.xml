@@ -1,0 +1,30 @@
+<data>
+  <mzm.gsp.children.confbean.SChildrenEquipInitCfg childCfgid="830200004">
+    <equipids>
+      <int>216100000</int>
+      <int>216100001</int>
+      <int>216100002</int>
+    </equipids>
+  </mzm.gsp.children.confbean.SChildrenEquipInitCfg>
+  <mzm.gsp.children.confbean.SChildrenEquipInitCfg childCfgid="830200005">
+    <equipids>
+      <int>216100003</int>
+      <int>216100001</int>
+      <int>216100002</int>
+    </equipids>
+  </mzm.gsp.children.confbean.SChildrenEquipInitCfg>
+  <mzm.gsp.children.confbean.SChildrenEquipInitCfg childCfgid="830200006">
+    <equipids>
+      <int>216100004</int>
+      <int>216100001</int>
+      <int>216100002</int>
+    </equipids>
+  </mzm.gsp.children.confbean.SChildrenEquipInitCfg>
+  <mzm.gsp.children.confbean.SChildrenEquipInitCfg childCfgid="830200007">
+    <equipids>
+      <int>216100005</int>
+      <int>216100001</int>
+      <int>216100002</int>
+    </equipids>
+  </mzm.gsp.children.confbean.SChildrenEquipInitCfg>
+</data>

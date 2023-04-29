@@ -1,0 +1,87 @@
+/*    */ package mzm.gsp.menpaistar;
+/*    */ 
+/*    */ import com.goldhuman.Common.Marshal.MarshalException;
+/*    */ import com.goldhuman.Common.Marshal.OctetsStream;
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ public class SBrocastMenPaiStar
+/*    */   extends __SBrocastMenPaiStar__
+/*    */ {
+/*    */   public static final int PROTOCOL_TYPE = 12612364;
+/*    */   public MenPaiStarChampionInfo champion;
+/*    */   
+/*    */   protected void process() {}
+/*    */   
+/*    */   public int getType()
+/*    */   {
+/* 27 */     return 12612364;
+/*    */   }
+/*    */   
+/*    */ 
+/*    */   public SBrocastMenPaiStar()
+/*    */   {
+/* 33 */     this.champion = new MenPaiStarChampionInfo();
+/*    */   }
+/*    */   
+/*    */   public SBrocastMenPaiStar(MenPaiStarChampionInfo _champion_) {
+/* 37 */     this.champion = _champion_;
+/*    */   }
+/*    */   
+/*    */   public final boolean _validator_() {
+/* 41 */     if (!this.champion._validator_()) return false;
+/* 42 */     return true;
+/*    */   }
+/*    */   
+/*    */   public OctetsStream marshal(OctetsStream _os_) {
+/* 46 */     _os_.marshal(this.champion);
+/* 47 */     return _os_;
+/*    */   }
+/*    */   
+/*    */   public OctetsStream unmarshal(OctetsStream _os_) throws MarshalException {
+/* 51 */     this.champion.unmarshal(_os_);
+/* 52 */     if (!_validator_()) {
+/* 53 */       throw new VerifyError("validator failed");
+/*    */     }
+/* 55 */     return _os_;
+/*    */   }
+/*    */   
+/*    */   public boolean equals(Object _o1_) {
+/* 59 */     if (_o1_ == this) return true;
+/* 60 */     if ((_o1_ instanceof SBrocastMenPaiStar)) {
+/* 61 */       SBrocastMenPaiStar _o_ = (SBrocastMenPaiStar)_o1_;
+/* 62 */       if (!this.champion.equals(_o_.champion)) return false;
+/* 63 */       return true;
+/*    */     }
+/* 65 */     return false;
+/*    */   }
+/*    */   
+/*    */   public int hashCode() {
+/* 69 */     int _h_ = 0;
+/* 70 */     _h_ += this.champion.hashCode();
+/* 71 */     return _h_;
+/*    */   }
+/*    */   
+/*    */   public String toString() {
+/* 75 */     StringBuilder _sb_ = new StringBuilder();
+/* 76 */     _sb_.append("(");
+/* 77 */     _sb_.append(this.champion).append(",");
+/* 78 */     _sb_.append(")");
+/* 79 */     return _sb_.toString();
+/*    */   }
+/*    */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\menpaistar\SBrocastMenPaiStar.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

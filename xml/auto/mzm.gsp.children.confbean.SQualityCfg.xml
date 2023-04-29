@@ -1,0 +1,932 @@
+<data>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400000" interest="0" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400001" interest="1" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400002" interest="2" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400003" interest="3" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400004" interest="4" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400005" interest="5" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400006" interest="6" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400007" interest="7" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400008" interest="8" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400009" interest="9" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400010" interest="10" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400011" interest="11" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400012" interest="12" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400013" interest="13" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400014" interest="14" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400015" interest="15" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400016" interest="16" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400017" interest="17" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400018" interest="18" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400019" interest="19" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400020" interest="20" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400021" interest="21" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400022" interest="22" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400023" interest="23" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400024" interest="24" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400025" interest="25" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400026" interest="26" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400027" interest="27" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400028" interest="28" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400029" interest="29" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832400030" interest="30" interestType="1">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="1"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401000" interest="0" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401001" interest="1" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401002" interest="2" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401003" interest="3" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401004" interest="4" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401005" interest="5" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401006" interest="6" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401007" interest="7" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401008" interest="8" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401009" interest="9" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401010" interest="10" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401011" interest="11" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401012" interest="12" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401013" interest="13" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401014" interest="14" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401015" interest="15" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401016" interest="16" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401017" interest="17" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401018" interest="18" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401019" interest="19" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401020" interest="20" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401021" interest="21" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401022" interest="22" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401023" interest="23" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401024" interest="24" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401025" interest="25" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401026" interest="26" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401027" interest="27" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401028" interest="28" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401029" interest="29" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832401030" interest="30" interestType="3">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="3"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402000" interest="0" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402001" interest="1" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402002" interest="2" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402003" interest="3" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402004" interest="4" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402005" interest="5" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402006" interest="6" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402007" interest="7" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402008" interest="8" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402009" interest="9" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402010" interest="10" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402011" interest="11" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402012" interest="12" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402013" interest="13" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402014" interest="14" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402015" interest="15" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402016" interest="16" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402017" interest="17" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402018" interest="18" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402019" interest="19" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402020" interest="20" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402021" interest="21" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402022" interest="22" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402023" interest="23" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402024" interest="24" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402025" interest="25" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402026" interest="26" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402027" interest="27" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402028" interest="28" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402029" interest="29" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832402030" interest="30" interestType="2">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="2"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403000" interest="0" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403001" interest="1" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403002" interest="2" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403003" interest="3" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403004" interest="4" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403005" interest="5" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403006" interest="6" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403007" interest="7" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403008" interest="8" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403009" interest="9" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403010" interest="10" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403011" interest="11" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403012" interest="12" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403013" interest="13" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403014" interest="14" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403015" interest="15" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403016" interest="16" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403017" interest="17" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403018" interest="18" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403019" interest="19" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403020" interest="20" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403021" interest="21" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403022" interest="22" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403023" interest="23" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403024" interest="24" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403025" interest="25" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403026" interest="26" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403027" interest="27" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403028" interest="28" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403029" interest="29" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832403030" interest="30" interestType="5">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="5"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404000" interest="0" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404001" interest="1" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404002" interest="2" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404003" interest="3" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404004" interest="4" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404005" interest="5" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404006" interest="6" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404007" interest="7" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404008" interest="8" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404009" interest="9" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404010" interest="10" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404011" interest="11" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404012" interest="12" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404013" interest="13" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404014" interest="14" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404015" interest="15" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404016" interest="16" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404017" interest="17" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404018" interest="18" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404019" interest="19" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404020" interest="20" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404021" interest="21" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404022" interest="22" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404023" interest="23" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404024" interest="24" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404025" interest="25" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404026" interest="26" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404027" interest="27" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404028" interest="28" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404029" interest="29" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832404030" interest="30" interestType="4">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="4"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405000" interest="0" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1430" min="1420" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405001" interest="1" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1435" min="1425" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405002" interest="2" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1440" min="1430" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405003" interest="3" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1445" min="1435" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405004" interest="4" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1450" min="1440" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405005" interest="5" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1455" min="1445" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405006" interest="6" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1460" min="1450" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405007" interest="7" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1465" min="1455" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405008" interest="8" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1470" min="1460" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405009" interest="9" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1475" min="1465" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405010" interest="10" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1480" min="1470" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405011" interest="11" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1485" min="1475" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405012" interest="12" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1490" min="1480" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405013" interest="13" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1495" min="1485" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405014" interest="14" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1500" min="1490" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405015" interest="15" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1505" min="1495" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405016" interest="16" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1510" min="1500" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405017" interest="17" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1515" min="1505" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405018" interest="18" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1520" min="1510" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405019" interest="19" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1525" min="1515" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405020" interest="20" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1530" min="1520" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405021" interest="21" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1535" min="1525" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405022" interest="22" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1540" min="1530" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405023" interest="23" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1545" min="1535" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405024" interest="24" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1550" min="1540" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405025" interest="25" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1555" min="1545" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405026" interest="26" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1560" min="1550" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405027" interest="27" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1565" min="1555" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405028" interest="28" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1570" min="1560" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405029" interest="29" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1575" min="1565" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+  <mzm.gsp.children.confbean.SQualityCfg id="832405030" interest="30" interestType="6">
+    <qualities>
+      <mzm.gsp.children.confbean.QualityInfo max="1580" min="1570" qualityType="6"/>
+    </qualities>
+  </mzm.gsp.children.confbean.SQualityCfg>
+</data>

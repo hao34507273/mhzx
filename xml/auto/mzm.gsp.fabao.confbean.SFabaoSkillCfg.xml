@@ -1,0 +1,1313 @@
+<data>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051012"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052022"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110051013"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052033"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052023"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052024"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051014"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052034"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052025"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110051015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052055"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052035"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052026"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052036"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052066"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052027"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052037"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052067"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052058"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110052068"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052038"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052048"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052089"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052059"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110052069"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052039"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052049"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390401020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110052060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110052090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110052030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110052040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110052070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110052011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052012"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051022"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110052013"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051033"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051023"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051024"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052014"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051034"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051025"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110052015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110051045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051035"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051055"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051026"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110052016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051066"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051036"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051027"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051067"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051037"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051058"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051098"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051048"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110051088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051068"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051038"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051059"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051099"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051049"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110052019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110051069"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110051039"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051089"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390402020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110051100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110051040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110051080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110051060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110051030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110051050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110051090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110052020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110051070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056012"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054022"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110056013"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054033"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054023"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054024"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110054034"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056014"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054025"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110056015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054035"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054055"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054026"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110056016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054066"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054036"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054027"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110056017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054067"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054037"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054058"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110054088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110054028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110056018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054048"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054068"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054038"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054059"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110054089"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110054029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110054079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110056019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054049"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054069"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054039"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390403020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110054040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110054090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110054060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054080"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054012"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053022"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053033"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054013"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053023"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053024"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053034"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054014"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053025"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053035"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110054015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053055"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053026"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110053066"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053036"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053027"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110053067"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053037"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053058"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053068"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053048"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110054018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110053098"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053038"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053089"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053059"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053069"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110054019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053049"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110053099"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053039"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390404020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110053060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110053040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110053090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110053030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110053050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110054020"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055022"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055012"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055023"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055033"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055013"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055034"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055014"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055024"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055035"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055055"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055025"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055036"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055066"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055026"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055037"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110055077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055067"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055027"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055038"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110055058"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055098"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055048"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055068"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055039"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055089"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110055059"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055049"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055099"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055069"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390405020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110055090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110055040"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110055020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110055060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110055030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110055080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110055050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110055100"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110055070"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406001">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053011"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406002">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056022"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110053012"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406003">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056023"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110053013"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056033"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406004">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056034"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053014"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056044"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056024"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406005">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056055"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056035"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053015"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056045"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056025"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406006">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056036"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="6000" skillid="110053016"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110056046"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110056066"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056056"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056026"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406007">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056037"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056077"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056047"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="7000" skillid="110053017"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110056067"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056057"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056027"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406008">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056088"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056038"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056078"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056048"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056028"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053018"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056068"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056058"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406009">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056089"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056039"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056079"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056049"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056029"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053019"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056069"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056059"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406010">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406011">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406012">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406013">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406014">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406015">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406016">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406017">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406018">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406019">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg> 
+  <mzm.gsp.fabao.confbean.SFabaoSkillCfg id="390406020">
+    <probs>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="1000" skillid="110056090"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="2000" skillid="110056050"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="3000" skillid="110056080"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="4000" skillid="110056060"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="5000" skillid="110056030"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="8000" skillid="110053020"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="9000" skillid="110056070"/>
+      <mzm.gsp.fabao.confbean.SkillProbs prob="10000" skillid="110056040"/>
+    </probs>
+  </mzm.gsp.fabao.confbean.SFabaoSkillCfg>  
+</data>

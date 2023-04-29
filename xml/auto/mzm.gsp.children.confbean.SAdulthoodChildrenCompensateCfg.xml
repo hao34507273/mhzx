@@ -1,0 +1,53 @@
+<data>
+  <mzm.gsp.children.confbean.SAdulthoodChildrenCompensateCfg another_give_birth_parent_role_id="[-1]" character="1000" con_point="0" dex_point="0" equip_pos_4_amulet_item_cfg_id="230000011" gender="1" give_birth_time_point_cfg_id="352500000" grow="1.2" hp_apt="1700" id="831100000" magatk_apt="1700" magdef_apt="1700" model_cfg_id="830200004" name="二狗" occupation="4" phyatk_apt="1700" phydef_apt="1700" special_skill="110670120" speed_apt="1700" spr_point="0" sta_point="4" step_in_adulthood_time_point_cfg_id="352500000" step_in_childhood_time_point_cfg_id="352500000" str_point="6" unlock_skill_pos_num="6">
+    <occupation_skill_list>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006131" occupation_skill_level="10"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006132" occupation_skill_level="10"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006133" occupation_skill_level="5"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006134" occupation_skill_level="5"/>
+    </occupation_skill_list>
+    <study_skill_list>
+      <int>110620002</int>
+      <int>110620005</int>
+      <int>110620011</int>
+      <int>110620014</int>
+      <int>110640014</int>
+      <int>110650011</int>
+      <int>110650017</int>
+      <int>110660006</int>
+      <int>110660003</int>
+      <int>110660012</int>
+    </study_skill_list>
+    <amulet_skill_list>
+      <int>110660018</int>
+      <int>110660042</int>
+    </amulet_skill_list>
+    <equip_pos_list>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="0" equip_pos_level="60" equip_pos_pro="9" equip_pos_stage="6"/>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="0" equip_pos_level="60" equip_pos_pro="8" equip_pos_stage="6"/>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="0" equip_pos_level="60" equip_pos_pro="15" equip_pos_stage="6"/>
+    </equip_pos_list>
+  </mzm.gsp.children.confbean.SAdulthoodChildrenCompensateCfg>
+  <mzm.gsp.children.confbean.SAdulthoodChildrenCompensateCfg another_give_birth_parent_role_id="[-1]" character="1000" con_point="0" dex_point="2" equip_pos_4_amulet_item_cfg_id="0" gender="1" give_birth_time_point_cfg_id="352500000" grow="1.124" hp_apt="1522" id="831100001" magatk_apt="1646" magdef_apt="1490" model_cfg_id="830200005" name="王思聰" occupation="4" phyatk_apt="1421" phydef_apt="1423" special_skill="0" speed_apt="1528" spr_point="8" sta_point="0" step_in_adulthood_time_point_cfg_id="352500000" step_in_childhood_time_point_cfg_id="352500000" str_point="0" unlock_skill_pos_num="2">
+    <occupation_skill_list>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006131" occupation_skill_level="1"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006132" occupation_skill_level="5"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006133" occupation_skill_level="0"/>
+      <mzm.gsp.children.confbean.OccupationSkillBean occupation_skill="110006134" occupation_skill_level="0"/>
+    </occupation_skill_list>
+    <study_skill_list>
+      <int>110620005</int>
+      <int>110620014</int>
+      <int>110620008</int>
+      <int>110630014</int>
+      <int>110640008</int>
+      <int>110650002</int>
+    </study_skill_list>
+    <amulet_skill_list/>
+    <equip_pos_list>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="5900" equip_pos_level="47" equip_pos_pro="9" equip_pos_stage="4"/>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="200" equip_pos_level="9" equip_pos_pro="1" equip_pos_stage="0"/>
+      <mzm.gsp.children.confbean.EquipPosBean equip_pos_exp="0" equip_pos_level="1" equip_pos_pro="15" equip_pos_stage="0"/>
+    </equip_pos_list>
+  </mzm.gsp.children.confbean.SAdulthoodChildrenCompensateCfg>
+</data>

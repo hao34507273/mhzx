@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.item.confbean.SRidderItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" icon="30100" id="213100000" isProprietary="false" name="麒麟獸" namecolor="5" pilemax="1" ridderid="450000000" sellSilver="1" sort="1" type="45" useLevel="0"/>
+  <mzm.gsp.item.confbean.SRidderItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="30102" id="213100001" isProprietary="true" name="兜兜坐騎" namecolor="5" pilemax="1" ridderid="450000001" sellSilver="1" sort="2" type="45" useLevel="0"/>
+  <mzm.gsp.item.confbean.SRidderItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="30101" id="213100002" isProprietary="true" name="穿雲豹" namecolor="5" pilemax="1" ridderid="450000002" sellSilver="1" sort="3" type="45" useLevel="0"/>
+</data>

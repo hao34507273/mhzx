@@ -1,0 +1,344 @@
+<data>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140401001" templateName="鬼厉">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="9000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201005" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201006" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201007" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201008" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201009" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140401002" templateName="金瓶儿">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="8000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204200" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204205" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204206" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204207" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140401003" templateName="青龙">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201106" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201107" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140401004" templateName="幽姬">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201200" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201205" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141201206" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140402001" templateName="陆雪琪">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202005" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140402002" templateName="林惊羽">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202106" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140402003" templateName="田灵儿">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202200" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141202205" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140403001" templateName="小白">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203005" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203006" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140403002" templateName="兽神">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="8000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203106" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203107" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140403003" templateName="李洵">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203200" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203205" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141203206" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140404001" templateName="碧瑶">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204005" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204006" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140404002" templateName="秦无炎">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141204106" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140405001" templateName="张小凡">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205005" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140405002" templateName="法相">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205106" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140405003" templateName="普智">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="5000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205110" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205111" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205112" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205113" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141205114" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140406001" templateName="鬼先生">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206005" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206006" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140406002" templateName="小环">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206105" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206106" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140406003" templateName="玲珑">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="8000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206200" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206205" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206206" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206207" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140406004" templateName="大巫师">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="7000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206300" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206301" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206302" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206303" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206304" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206305" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141206306" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140407001" templateName="隼仙子">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207005" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140407002" templateName="冷凝霜">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141207105" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140408001" templateName="诗音">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208005" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140408002" templateName="古星魂">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141208105" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140409001" templateName="艾丽">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="8000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209000" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209001" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209002" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209003" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209004" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209005" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209006" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209007" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140409002" templateName="柒柒柒">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209100" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209101" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209102" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209103" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209104" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209105" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140410001" templateName="白露">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="8000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209201" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209202" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209203" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209204" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209205" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209206" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209207" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209208" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140410002" templateName="唐十三">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209301" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209302" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209303" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209304" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209305" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209306" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140410003" templateName="莫芊芊">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209401" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209402" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209403" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209404" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209405" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209406" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+  <mzm.gsp.partner.confbean.SPartnerLoveCfg id="140411001" templateName="芦屋绫">
+    <LoveId2RateList>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141200000" loveRate="6000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209501" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209502" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209503" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209504" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209505" loveRate="1000"/>
+      <mzm.gsp.partner.confbean.LoveId2Rate loveId="141209506" loveRate="1000"/>
+    </LoveId2RateList>
+  </mzm.gsp.partner.confbean.SPartnerLoveCfg>
+</data>

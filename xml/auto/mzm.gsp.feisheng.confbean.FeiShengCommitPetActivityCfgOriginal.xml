@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.feisheng.confbean.FeiShengCommitPetActivityCfgOriginal activity_cfg_id="350000052" activity_map_cfg_id="330000929" award_id="7409" desc="妖魂獸血，以祭古巫。召喚祖靈！" effect_coord_x="2298" effect_coord_y="1346" effect_id="702020115" id="297500000" moduleid="274" npc_id="150113872" npc_service_id="150200094" serverlevel="115">
+    <need_pet_info_list>
+      <mzm.gsp.feisheng.confbean.NeedPetInfo pet_cfg_id="130199311" pet_num="1"/>
+    </need_pet_info_list>
+  </mzm.gsp.feisheng.confbean.FeiShengCommitPetActivityCfgOriginal>
+</data>

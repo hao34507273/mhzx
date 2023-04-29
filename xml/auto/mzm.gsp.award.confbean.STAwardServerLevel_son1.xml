@@ -1,0 +1,283 @@
+<data>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="70">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="150" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="70" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="100">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.2"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="100" levelMax="150" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="65">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="150" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="65" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="37">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="150" levelMin="11" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="10" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="37" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="45">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.15"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="150" levelMin="11" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="45" levelMax="10" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="105">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.2"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="105" levelMax="150" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="75">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="150" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="75" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="85">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="150" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="85" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="50">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.15"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="10" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="50" levelMax="150" levelMin="11" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="55">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.15"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="10" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="55" levelMax="150" levelMin="11" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="80">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="150" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="80" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="95">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="150" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.2"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="95" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="90">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.2"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="90" levelMax="150" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+  <mzm.gsp.award.confbean.STAwardServerLevel_son1 effectLevel="60">
+    <awardServerLevels>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="8" levelMin="8" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="7" levelMin="7" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="6" levelMin="6" petExpMod="1.0" practiceMod="1.0" roleExpMod="2.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="5" levelMin="5" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="4" levelMin="4" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="3" levelMin="3" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.15"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="2" levelMin="2" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.1"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="1" levelMin="1" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.05"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="150" levelMin="11" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="10" levelMin="10" petExpMod="1.0" practiceMod="1.0" roleExpMod="4.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="9" levelMin="9" petExpMod="1.0" practiceMod="1.0" roleExpMod="3.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="-4" levelMin="-4" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.4"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="-5" levelMin="-150" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.3"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="-2" levelMin="-2" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.6"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="-3" levelMin="-3" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.5"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="0" levelMin="0" petExpMod="1.0" practiceMod="1.0" roleExpMod="1.0"/>
+      <mzm.gsp.award.confbean.ServerLevelModify effectLevel="60" levelMax="-1" levelMin="-1" petExpMod="1.0" practiceMod="1.0" roleExpMod="0.7"/>
+    </awardServerLevels>
+  </mzm.gsp.award.confbean.STAwardServerLevel_son1>
+</data>

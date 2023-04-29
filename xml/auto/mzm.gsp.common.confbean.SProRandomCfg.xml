@@ -1,0 +1,3512 @@
+<data>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100001" templatename="0级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100002" templatename="0级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100003" templatename="0级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100004" templatename="0级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100005" templatename="0级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100006" templatename="0级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100007" templatename="0级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100008" templatename="0级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100009" templatename="0级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100101" templatename="0级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100102" templatename="0级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100103" templatename="0级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100104" templatename="0级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100105" templatename="0级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100106" templatename="0级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100107" templatename="0级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100108" templatename="0级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100109" templatename="0级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100201" templatename="0级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100202" templatename="0级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100203" templatename="0级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100204" templatename="0级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100205" templatename="0级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100206" templatename="0级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100207" templatename="0级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100208" templatename="0级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100209" templatename="0级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100301" templatename="0级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100302" templatename="0级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100303" templatename="0级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100304" templatename="0级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100305" templatename="0级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100306" templatename="0级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100307" templatename="0级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100308" templatename="0级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100309" templatename="0级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100401" templatename="0级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100402" templatename="0级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100403" templatename="0级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100404" templatename="0级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100405" templatename="0级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100406" templatename="0级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100407" templatename="0级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100408" templatename="0级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100409" templatename="0级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100501" templatename="0级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100502" templatename="0级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100503" templatename="0级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100504" templatename="0级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100505" templatename="0级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100506" templatename="0级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100507" templatename="0级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100508" templatename="0级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600100509" templatename="0级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600300509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101001" templatename="10级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101002" templatename="10级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101003" templatename="10级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101004" templatename="10级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101005" templatename="10级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101006" templatename="10级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101007" templatename="10级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101008" templatename="10级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101009" templatename="10级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101101" templatename="10级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101102" templatename="10级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101103" templatename="10级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101104" templatename="10级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101105" templatename="10级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101106" templatename="10级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101107" templatename="10级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101108" templatename="10级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101109" templatename="10级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101201" templatename="10级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101202" templatename="10级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101203" templatename="10级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101204" templatename="10级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101205" templatename="10级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101206" templatename="10级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101207" templatename="10级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101208" templatename="10级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101209" templatename="10级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101301" templatename="10级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101302" templatename="10级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101303" templatename="10级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101304" templatename="10级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101305" templatename="10级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101306" templatename="10级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101307" templatename="10级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101308" templatename="10级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101309" templatename="10级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101401" templatename="10级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101402" templatename="10级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101403" templatename="10级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101404" templatename="10级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101405" templatename="10级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101406" templatename="10级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101407" templatename="10级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101408" templatename="10级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101409" templatename="10级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101501" templatename="10级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101502" templatename="10级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101503" templatename="10级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101504" templatename="10级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101505" templatename="10级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101506" templatename="10级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101507" templatename="10级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101508" templatename="10级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600101509" templatename="10级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600301509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102001" templatename="20级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102002" templatename="20级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102003" templatename="20级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102004" templatename="20级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102005" templatename="20级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102006" templatename="20级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102007" templatename="20级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102008" templatename="20级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102009" templatename="20级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102101" templatename="20级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102102" templatename="20级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102103" templatename="20级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102104" templatename="20级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102105" templatename="20级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102106" templatename="20级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102107" templatename="20级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102108" templatename="20级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102109" templatename="20级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102201" templatename="20级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102202" templatename="20级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102203" templatename="20级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102204" templatename="20级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102205" templatename="20级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102206" templatename="20级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102207" templatename="20级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102208" templatename="20级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102209" templatename="20级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102301" templatename="20级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102302" templatename="20级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102303" templatename="20级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102304" templatename="20级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102305" templatename="20级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102306" templatename="20级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102307" templatename="20级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102308" templatename="20级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102309" templatename="20级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102401" templatename="20级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102402" templatename="20级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102403" templatename="20级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102404" templatename="20级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102405" templatename="20级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102406" templatename="20级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102407" templatename="20级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102408" templatename="20级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102409" templatename="20级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102501" templatename="20级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102502" templatename="20级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102503" templatename="20级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102504" templatename="20级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102505" templatename="20级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102506" templatename="20级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102507" templatename="20级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102508" templatename="20级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600102509" templatename="20级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600302509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103001" templatename="30级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103002" templatename="30级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103003" templatename="30级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103004" templatename="30级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103005" templatename="30级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103006" templatename="30级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103007" templatename="30级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103008" templatename="30级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103009" templatename="30级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103101" templatename="30级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103102" templatename="30级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103103" templatename="30级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103104" templatename="30级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103105" templatename="30级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103106" templatename="30级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103107" templatename="30级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103108" templatename="30级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103109" templatename="30级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103201" templatename="30级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103202" templatename="30级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103203" templatename="30级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103204" templatename="30级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103205" templatename="30级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103206" templatename="30级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103207" templatename="30级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103208" templatename="30级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103209" templatename="30级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103301" templatename="30级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103302" templatename="30级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103303" templatename="30级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103304" templatename="30级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103305" templatename="30级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103306" templatename="30级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103307" templatename="30级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103308" templatename="30级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103309" templatename="30级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103401" templatename="30级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103402" templatename="30级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103403" templatename="30级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103404" templatename="30级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103405" templatename="30级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103406" templatename="30级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103407" templatename="30级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103408" templatename="30级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103409" templatename="30级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103501" templatename="30级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103502" templatename="30级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103503" templatename="30级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103504" templatename="30级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103505" templatename="30级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103506" templatename="30级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103507" templatename="30级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103508" templatename="30级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600103509" templatename="30级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600303509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104001" templatename="40级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104002" templatename="40级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104003" templatename="40级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104004" templatename="40级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104005" templatename="40级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104006" templatename="40级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104007" templatename="40级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104008" templatename="40级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104009" templatename="40级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104101" templatename="40级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104102" templatename="40级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104103" templatename="40级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104104" templatename="40级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104105" templatename="40级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104106" templatename="40级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104107" templatename="40级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104108" templatename="40级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104109" templatename="40级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104201" templatename="40级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104202" templatename="40级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104203" templatename="40级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104204" templatename="40级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104205" templatename="40级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104206" templatename="40级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104207" templatename="40级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104208" templatename="40级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104209" templatename="40级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104301" templatename="40级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104302" templatename="40级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104303" templatename="40级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104304" templatename="40级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104305" templatename="40级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104306" templatename="40级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104307" templatename="40级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104308" templatename="40级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104309" templatename="40级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104401" templatename="40级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104402" templatename="40级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104403" templatename="40级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104404" templatename="40级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104405" templatename="40级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104406" templatename="40级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104407" templatename="40级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104408" templatename="40级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104409" templatename="40级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104501" templatename="40级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104502" templatename="40级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104503" templatename="40级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104504" templatename="40级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104505" templatename="40级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104506" templatename="40级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104507" templatename="40级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104508" templatename="40级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600104509" templatename="40级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600304509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105001" templatename="50级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105002" templatename="50级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105003" templatename="50级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105004" templatename="50级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105005" templatename="50级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105006" templatename="50级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105007" templatename="50级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105008" templatename="50级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105009" templatename="50级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105101" templatename="50级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105102" templatename="50级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105103" templatename="50级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105104" templatename="50级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105105" templatename="50级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105106" templatename="50级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105107" templatename="50级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105108" templatename="50级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105109" templatename="50级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105201" templatename="50级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105202" templatename="50级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105203" templatename="50级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105204" templatename="50级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105205" templatename="50级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105206" templatename="50级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105207" templatename="50级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105208" templatename="50级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105209" templatename="50级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105301" templatename="50级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105302" templatename="50级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105303" templatename="50级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105304" templatename="50级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105305" templatename="50级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105306" templatename="50级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105307" templatename="50级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105308" templatename="50级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105309" templatename="50级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105401" templatename="50级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105402" templatename="50级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105403" templatename="50级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105404" templatename="50级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105405" templatename="50级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105406" templatename="50级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105407" templatename="50级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105408" templatename="50级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105409" templatename="50级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105501" templatename="50级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105502" templatename="50级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105503" templatename="50级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105504" templatename="50级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105505" templatename="50级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105506" templatename="50级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105507" templatename="50级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105508" templatename="50级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600105509" templatename="50级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600305509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106001" templatename="60级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106002" templatename="60级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106003" templatename="60级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106004" templatename="60级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106005" templatename="60级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106006" templatename="60级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106007" templatename="60级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106008" templatename="60级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106009" templatename="60级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106101" templatename="60级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106102" templatename="60级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106103" templatename="60级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106104" templatename="60级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106105" templatename="60级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106106" templatename="60级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106107" templatename="60级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106108" templatename="60级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106109" templatename="60级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106201" templatename="60级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106202" templatename="60级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106203" templatename="60级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106204" templatename="60级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106205" templatename="60级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106206" templatename="60级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106207" templatename="60级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106208" templatename="60级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106209" templatename="60级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106301" templatename="60级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106302" templatename="60级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106303" templatename="60级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106304" templatename="60级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106305" templatename="60级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106306" templatename="60级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106307" templatename="60级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106308" templatename="60级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106309" templatename="60级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106401" templatename="60级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106402" templatename="60级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106403" templatename="60级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106404" templatename="60级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106405" templatename="60级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106406" templatename="60级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106407" templatename="60级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106408" templatename="60级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106409" templatename="60级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106501" templatename="60级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106502" templatename="60级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106503" templatename="60级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106504" templatename="60级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106505" templatename="60级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106506" templatename="60级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106507" templatename="60级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106508" templatename="60级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600106509" templatename="60级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600306509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107001" templatename="70级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107002" templatename="70级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107003" templatename="70级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107004" templatename="70级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107005" templatename="70级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107006" templatename="70级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107007" templatename="70级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107008" templatename="70级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107009" templatename="70级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107101" templatename="70级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107102" templatename="70级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107103" templatename="70级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107104" templatename="70级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107105" templatename="70级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107106" templatename="70级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107107" templatename="70级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107108" templatename="70级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107109" templatename="70级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107201" templatename="70级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107202" templatename="70级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107203" templatename="70级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107204" templatename="70级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107205" templatename="70级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107206" templatename="70级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107207" templatename="70级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107208" templatename="70级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107209" templatename="70级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107301" templatename="70级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107302" templatename="70级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107303" templatename="70级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107304" templatename="70级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107305" templatename="70级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107306" templatename="70级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107307" templatename="70级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107308" templatename="70级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107309" templatename="70级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107401" templatename="70级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107402" templatename="70级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107403" templatename="70级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107404" templatename="70级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107405" templatename="70级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107406" templatename="70级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107407" templatename="70级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107408" templatename="70级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107409" templatename="70级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107501" templatename="70级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107502" templatename="70级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107503" templatename="70级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107504" templatename="70级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107505" templatename="70级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107506" templatename="70级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107507" templatename="70级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107508" templatename="70级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600107509" templatename="70级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600307509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108001" templatename="80级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108002" templatename="80级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108003" templatename="80级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108004" templatename="80级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108005" templatename="80级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108006" templatename="80级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108007" templatename="80级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108008" templatename="80级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108009" templatename="80级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108101" templatename="80级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108102" templatename="80级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108103" templatename="80级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108104" templatename="80级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108105" templatename="80级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108106" templatename="80级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108107" templatename="80级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108108" templatename="80级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108109" templatename="80级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108201" templatename="80级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108202" templatename="80级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108203" templatename="80级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108204" templatename="80级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108205" templatename="80级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108206" templatename="80级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108207" templatename="80级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108208" templatename="80级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108209" templatename="80级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108301" templatename="80级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108302" templatename="80级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108303" templatename="80级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108304" templatename="80级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108305" templatename="80级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108306" templatename="80级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108307" templatename="80级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108308" templatename="80级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108309" templatename="80级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108401" templatename="80级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108402" templatename="80级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108403" templatename="80级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108404" templatename="80级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108405" templatename="80级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108406" templatename="80级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108407" templatename="80级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108408" templatename="80级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108409" templatename="80级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108501" templatename="80级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108502" templatename="80级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108503" templatename="80级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108504" templatename="80级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108505" templatename="80级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108506" templatename="80级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108507" templatename="80级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108508" templatename="80级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600108509" templatename="80级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600308509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109001" templatename="90级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109002" templatename="90级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109003" templatename="90级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109004" templatename="90级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109005" templatename="90级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109006" templatename="90级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109007" templatename="90级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109008" templatename="90级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109009" templatename="90级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109101" templatename="90级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109102" templatename="90级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109103" templatename="90级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109104" templatename="90级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109105" templatename="90级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109106" templatename="90级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109107" templatename="90级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109108" templatename="90级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109109" templatename="90级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109201" templatename="90级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109202" templatename="90级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109203" templatename="90级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109204" templatename="90级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109205" templatename="90级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109206" templatename="90级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109207" templatename="90级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109208" templatename="90级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109209" templatename="90级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109301" templatename="90级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109302" templatename="90级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109303" templatename="90级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109304" templatename="90级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109305" templatename="90级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109306" templatename="90级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109307" templatename="90级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109308" templatename="90级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109309" templatename="90级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109401" templatename="90级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109402" templatename="90级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109403" templatename="90级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109404" templatename="90级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109405" templatename="90级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109406" templatename="90级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109407" templatename="90级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109408" templatename="90级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109409" templatename="90级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109501" templatename="90级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109502" templatename="90级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109503" templatename="90级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109504" templatename="90级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109505" templatename="90级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109506" templatename="90级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109507" templatename="90级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109508" templatename="90级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600109509" templatename="90级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600309509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110001" templatename="100级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110002" templatename="100级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110003" templatename="100级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110004" templatename="100级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110005" templatename="100级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110006" templatename="100级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110007" templatename="100级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110008" templatename="100级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110009" templatename="100级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110101" templatename="100级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110102" templatename="100级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110103" templatename="100级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110104" templatename="100级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110105" templatename="100级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110106" templatename="100级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110107" templatename="100级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110108" templatename="100级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110109" templatename="100级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110201" templatename="100级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110202" templatename="100级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110203" templatename="100级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110204" templatename="100级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110205" templatename="100级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110206" templatename="100级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110207" templatename="100级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110208" templatename="100级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110209" templatename="100级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110301" templatename="100级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110302" templatename="100级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110303" templatename="100级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110304" templatename="100级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110305" templatename="100级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110306" templatename="100级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110307" templatename="100级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110308" templatename="100级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110309" templatename="100级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110401" templatename="100级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110402" templatename="100级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110403" templatename="100级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110404" templatename="100级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110405" templatename="100级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110406" templatename="100级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110407" templatename="100级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110408" templatename="100级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110409" templatename="100级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110501" templatename="100级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110502" templatename="100级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110503" templatename="100级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110504" templatename="100级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110505" templatename="100级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110506" templatename="100级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110507" templatename="100级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110508" templatename="100级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600110509" templatename="100级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600310509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111001" templatename="110级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111002" templatename="110级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111003" templatename="110级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111004" templatename="110级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111005" templatename="110级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111006" templatename="110级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111007" templatename="110级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111008" templatename="110级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111009" templatename="110级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111101" templatename="110级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111102" templatename="110级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111103" templatename="110级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111104" templatename="110级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111105" templatename="110级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111106" templatename="110级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111107" templatename="110级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111108" templatename="110级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111109" templatename="110级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111201" templatename="110级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111202" templatename="110级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111203" templatename="110级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111204" templatename="110级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111205" templatename="110级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111206" templatename="110级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111207" templatename="110级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111208" templatename="110级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111209" templatename="110级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111301" templatename="110级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111302" templatename="110级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111303" templatename="110级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111304" templatename="110级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111305" templatename="110级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111306" templatename="110级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111307" templatename="110级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111308" templatename="110级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111309" templatename="110级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111401" templatename="110级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111402" templatename="110级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111403" templatename="110级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111404" templatename="110级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111405" templatename="110级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111406" templatename="110级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111407" templatename="110级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111408" templatename="110级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111409" templatename="110级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111501" templatename="110级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111502" templatename="110级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111503" templatename="110级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111504" templatename="110级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111505" templatename="110级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111506" templatename="110级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111507" templatename="110级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111508" templatename="110级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600111509" templatename="110级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600311509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112001" templatename="120级武器最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312001"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112002" templatename="120级武器最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312002"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112003" templatename="120级武器物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312003"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112004" templatename="120级武器物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312004"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112005" templatename="120级武器法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312005"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112006" templatename="120级武器法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312006"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112007" templatename="120级武器速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312007"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112008" templatename="120级武器封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312008"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112009" templatename="120级武器封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312009"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112101" templatename="120级衣服最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312101"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112102" templatename="120级衣服最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312102"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112103" templatename="120级衣服物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312103"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112104" templatename="120级衣服物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312104"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112105" templatename="120级衣服法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312105"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112106" templatename="120级衣服法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312106"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112107" templatename="120级衣服速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312107"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112108" templatename="120级衣服封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312108"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112109" templatename="120级衣服封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312109"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112201" templatename="120级帽子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312201"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112202" templatename="120级帽子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312202"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112203" templatename="120级帽子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312203"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112204" templatename="120级帽子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312204"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112205" templatename="120级帽子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312205"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112206" templatename="120级帽子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312206"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112207" templatename="120级帽子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312207"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112208" templatename="120级帽子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312208"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112209" templatename="120级帽子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312209"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112301" templatename="120级护腕最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312301"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112302" templatename="120级护腕最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312302"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112303" templatename="120级护腕物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312303"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112304" templatename="120级护腕物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312304"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112305" templatename="120级护腕法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312305"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112306" templatename="120级护腕法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312306"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112307" templatename="120级护腕速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312307"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112308" templatename="120级护腕封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312308"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112309" templatename="120级护腕封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312309"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112401" templatename="120级腰带最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312401"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112402" templatename="120级腰带最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312402"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112403" templatename="120级腰带物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312403"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112404" templatename="120级腰带物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312404"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112405" templatename="120级腰带法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312405"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112406" templatename="120级腰带法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312406"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112407" templatename="120级腰带速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312407"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112408" templatename="120级腰带封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312408"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112409" templatename="120级腰带封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312409"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112501" templatename="120级鞋子最大血量">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312501"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112502" templatename="120级鞋子最大法力">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312502"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112503" templatename="120级鞋子物攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312503"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112504" templatename="120级鞋子物防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312504"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112505" templatename="120级鞋子法攻">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312505"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112506" templatename="120级鞋子法防">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312506"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112507" templatename="120级鞋子速度">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312507"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112508" templatename="120级鞋子封印命中">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312508"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+  <mzm.gsp.common.confbean.SProRandomCfg id="600112509" templatename="120级鞋子封印抗性">
+    <proBeans>
+      <mzm.gsp.common.confbean.Probean exaProCfgIdRate="10000" exaproCfgId="600312509"/>
+    </proBeans>
+  </mzm.gsp.common.confbean.SProRandomCfg>
+</data>

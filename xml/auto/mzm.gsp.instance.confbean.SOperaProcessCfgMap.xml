@@ -1,0 +1,312 @@
+<data>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000014">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1434" in_mapid="330000767" instanceid="520000014" opentaskid="30000288" taskid="30000288"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1435" in_mapid="330000768" instanceid="520000014" opentaskid="30000289" taskid="30000290"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1436" in_mapid="330000769" instanceid="520000014" opentaskid="30000291" taskid="30000292"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1437" in_mapid="330000770" instanceid="520000014" opentaskid="30000293" taskid="30000293"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1438" in_mapid="330000771" instanceid="520000014" opentaskid="30000294" taskid="30000295"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000772" instanceid="520000014" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000015">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1460" in_mapid="330000802" instanceid="520000015" opentaskid="20001254" taskid="20001254"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1461" in_mapid="330000803" instanceid="520000015" opentaskid="20001255" taskid="20001255"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1462" in_mapid="330000804" instanceid="520000015" opentaskid="20001256" taskid="20001256"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1463" in_mapid="330000805" instanceid="520000015" opentaskid="20001257" taskid="20001257"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1464" in_mapid="330000806" instanceid="520000015" opentaskid="20001258" taskid="20001258"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1465" in_mapid="330000807" instanceid="520000015" opentaskid="20001259" taskid="20001259"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1466" in_mapid="330000808" instanceid="520000015" opentaskid="20001260" taskid="20001260"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1467" in_mapid="330000809" instanceid="520000015" opentaskid="20001261" taskid="20001261"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1468" in_mapid="330000810" instanceid="520000015" opentaskid="20001262" taskid="20001262"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1469" in_mapid="330000811" instanceid="520000015" opentaskid="20001263" taskid="20001263"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000811" instanceid="520000015" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000012">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1450" in_mapid="330000800" instanceid="520000012" opentaskid="40000250" taskid="40000251"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1451" in_mapid="330000801" instanceid="520000012" opentaskid="40000252" taskid="40000252"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1452" in_mapid="330000801" instanceid="520000012" opentaskid="40000253" taskid="40000253"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1453" in_mapid="330000800" instanceid="520000012" opentaskid="40000254" taskid="40000254"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1454" in_mapid="330000801" instanceid="520000012" opentaskid="40000255" taskid="40000255"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1455" in_mapid="330000800" instanceid="520000012" opentaskid="40000256" taskid="40000257"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1456" in_mapid="330000800" instanceid="520000012" opentaskid="40000258" taskid="40000258"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1457" in_mapid="330000800" instanceid="520000012" opentaskid="40000259" taskid="40000261"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000800" instanceid="520000012" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000013">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1434" in_mapid="330000767" instanceid="520000013" opentaskid="30000288" taskid="30000288"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1435" in_mapid="330000768" instanceid="520000013" opentaskid="30000289" taskid="30000290"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1436" in_mapid="330000769" instanceid="520000013" opentaskid="30000291" taskid="30000292"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1437" in_mapid="330000770" instanceid="520000013" opentaskid="30000293" taskid="30000293"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1438" in_mapid="330000771" instanceid="520000013" opentaskid="30000294" taskid="30000295"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000772" instanceid="520000013" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000006">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1430" in_mapid="330000758" instanceid="520000006" opentaskid="30000280" taskid="30000282"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1431" in_mapid="330000759" instanceid="520000006" opentaskid="30000283" taskid="30000284"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1432" in_mapid="330000759" instanceid="520000006" opentaskid="30000285" taskid="30000286"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1433" in_mapid="330000759" instanceid="520000006" opentaskid="30000287" taskid="30000287"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000759" instanceid="520000006" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000007">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1434" in_mapid="330000760" instanceid="520000007" opentaskid="30000288" taskid="30000288"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1435" in_mapid="330000760" instanceid="520000007" opentaskid="30000289" taskid="30000290"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1436" in_mapid="330000761" instanceid="520000007" opentaskid="30000291" taskid="30000292"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1437" in_mapid="330000761" instanceid="520000007" opentaskid="30000293" taskid="30000293"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1438" in_mapid="330000762" instanceid="520000007" opentaskid="30000294" taskid="30000295"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000762" instanceid="520000007" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000004">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1420" in_mapid="330000770" instanceid="520000004" opentaskid="30000215" taskid="30000218"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1421" in_mapid="330000770" instanceid="520000004" opentaskid="30000219" taskid="30000220"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1422" in_mapid="330000770" instanceid="520000004" opentaskid="30000221" taskid="30000278"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1423" in_mapid="330000771" instanceid="520000004" opentaskid="30000223" taskid="30000223"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000771" instanceid="520000004" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000005">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1424" in_mapid="330000772" instanceid="520000005" opentaskid="30000225" taskid="30000279"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1425" in_mapid="330000773" instanceid="520000005" opentaskid="30000227" taskid="30000228"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1426" in_mapid="330000774" instanceid="520000005" opentaskid="30000229" taskid="30000230"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000774" instanceid="520000005" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000002">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1401" in_mapid="330000700" instanceid="520000002" opentaskid="30000121" taskid="30000122"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1402" in_mapid="330000700" instanceid="520000002" opentaskid="30000123" taskid="30000123"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1403" in_mapid="330000700" instanceid="520000002" opentaskid="30000203" taskid="30000124"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1404" in_mapid="330000701" instanceid="520000002" opentaskid="30000125" taskid="30000204"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1405" in_mapid="330000701" instanceid="520000002" opentaskid="30000126" taskid="30000126"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000701" instanceid="520000002" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+  <mzm.gsp.instance.confbean.SOperaProcessCfgMap instanceid="520000003">
+    <process2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1410" in_mapid="330000750" instanceid="520000003" opentaskid="30000131" taskid="30000206"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1411" in_mapid="330000750" instanceid="520000003" opentaskid="30000132" taskid="30000132"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1412" in_mapid="330000750" instanceid="520000003" opentaskid="30000133" taskid="30000133"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1413" in_mapid="330000751" instanceid="520000003" opentaskid="30000134" taskid="30000207"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1414" in_mapid="330000751" instanceid="520000003" opentaskid="30000135" taskid="30000135"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="1415" in_mapid="330000752" instanceid="520000003" opentaskid="30000136" taskid="30000136"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.instance.confbean.OperaInstanceProcessCfg awardid="0" in_mapid="330000752" instanceid="520000003" opentaskid="0" taskid="0"/>
+      </entry>
+    </process2CfgMap>
+  </mzm.gsp.instance.confbean.SOperaProcessCfgMap>
+</data>

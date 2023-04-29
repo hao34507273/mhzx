@@ -1,0 +1,10 @@
+<root>
+<row name="OPEN_LEVEL" value="60"/>
+<row name="BASIC_POINT" value="5"/>
+<row name="ADD_POINT_INTERVAL_LEVEL" value="2"/>
+<row name="ADD_POINT_NUM" value="1"/>
+<row name="MAX_LEVEL" value="110"/>
+<row name="MAX_POINT" value="180"/>
+<row name="SWITCH_COST_GOLD" value="5000"/>
+<row name="RESET_GENIUS_COST_GOLD" value="5000"/>
+</root>

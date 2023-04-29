@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetTypeRefCfg id="132100000" petType="0" templateName="野生" typeRefQuality="1"/>
+  <mzm.gsp.pet.confbean.SPetTypeRefCfg id="132100001" petType="1" templateName="宝宝" typeRefQuality="2"/>
+  <mzm.gsp.pet.confbean.SPetTypeRefCfg id="132100002" petType="2" templateName="变异" typeRefQuality="3"/>
+  <mzm.gsp.pet.confbean.SPetTypeRefCfg id="132100003" petType="4" templateName="魔兽" typeRefQuality="4"/>
+  <mzm.gsp.pet.confbean.SPetTypeRefCfg id="132100004" petType="3" templateName="神兽" typeRefQuality="5"/>
+</data>

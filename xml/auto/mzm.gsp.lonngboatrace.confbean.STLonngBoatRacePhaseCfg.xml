@@ -1,0 +1,39 @@
+<data>
+  <mzm.gsp.lonngboatrace.confbean.STLonngBoatRacePhaseCfg id="0">
+    <raceId2phaseNos>
+      <no-comparator/>
+      <entry>
+        <int>951500000</int>
+        <mzm.gsp.lonngboatrace.confbean.PhaseNo2phase>
+          <phaseNo2phase>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.lonngboatrace.confbean.Phase aIAccuracy="80" commandCount="1" commandTime="3" id="951000000" maxSpeed="10.0" minSpeed="5.0" prepareTime="10" roundCount="3" speedDownUnit="0.5" speedUpUnit="0.5" timesCount="5" tipTime="2"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.lonngboatrace.confbean.Phase aIAccuracy="70" commandCount="5" commandTime="7" id="951000001" maxSpeed="15.0" minSpeed="5.0" prepareTime="5" roundCount="1" speedDownUnit="1.0" speedUpUnit="1.0" timesCount="5" tipTime="2"/>
+            </entry>
+          </phaseNo2phase>
+        </mzm.gsp.lonngboatrace.confbean.PhaseNo2phase>
+      </entry>
+      <entry>
+        <int>951500001</int>
+        <mzm.gsp.lonngboatrace.confbean.PhaseNo2phase>
+          <phaseNo2phase>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.lonngboatrace.confbean.Phase aIAccuracy="80" commandCount="1" commandTime="3" id="951000002" maxSpeed="10.0" minSpeed="5.0" prepareTime="10" roundCount="3" speedDownUnit="0.5" speedUpUnit="0.5" timesCount="5" tipTime="2"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.lonngboatrace.confbean.Phase aIAccuracy="70" commandCount="5" commandTime="7" id="951000003" maxSpeed="15.0" minSpeed="5.0" prepareTime="5" roundCount="1" speedDownUnit="1.0" speedUpUnit="1.0" timesCount="5" tipTime="2"/>
+            </entry>
+          </phaseNo2phase>
+        </mzm.gsp.lonngboatrace.confbean.PhaseNo2phase>
+      </entry>
+    </raceId2phaseNos>
+  </mzm.gsp.lonngboatrace.confbean.STLonngBoatRacePhaseCfg>
+</data>

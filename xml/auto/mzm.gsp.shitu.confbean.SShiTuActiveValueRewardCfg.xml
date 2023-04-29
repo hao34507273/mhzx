@@ -1,0 +1,108 @@
+<data>
+  <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardCfg award_type_id="1">
+    <role_level2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10052" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10053" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10052" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10053" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+      <entry>
+        <int>150</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10052" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10053" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+    </role_level2CfgMap>
+  </mzm.gsp.shitu.confbean.SShiTuActiveValueRewardCfg>
+  <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardCfg award_type_id="2">
+    <role_level2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10050" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10051" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10050" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10051" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+      <entry>
+        <int>150</int>
+        <mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+          <award_indexCfgMap>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="30" award_id="10050" is_bind="1"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.shitu.confbean.SShiTuActiveValueRewardBean activite_value="60" award_id="10051" is_bind="1"/>
+            </entry>
+          </award_indexCfgMap>
+        </mzm.gsp.shitu.confbean.SShiTuActiveAwardIndex2RewardCfg>
+      </entry>
+    </role_level2CfgMap>
+  </mzm.gsp.shitu.confbean.SShiTuActiveValueRewardCfg>
+</data>

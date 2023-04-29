@@ -1,0 +1,24 @@
+<root>
+<row name="activityId" value="350000313"/>
+<row name="activityIntervalTime" value="61"/>
+<row name="activityBroadcastTime" value="5"/>
+<row name="activityBroadcastTimeInterval" value="1"/>
+<row name="activityAddExpAwardId" value="5800"/>
+<row name="activityAddExpTime" value="1"/>
+<row name="activityAwardBuffId" value="701206000"/>
+<row name="boxAwardIntervalTime" value="10"/>
+<row name="boxAwardId" value="700"/>
+<row name="endGetAwardBoxTime" value="30"/>
+<row name="serverEndGetAwardBoxTime" value="45"/>
+<row name="AwardMailId" value="340006100"/>
+<row name="activityTime1" value="350299209"/>
+<row name="activityRate1" value="10000"/>
+<row name="activityTime2" value="350299213"/>
+<row name="activityRate2" value="10000"/>
+<row name="activityTime3" value="350299200"/>
+<row name="activityRate3" value="10000"/>
+<row name="activityTime4" value="350299202"/>
+<row name="activityRate4" value="10000"/>
+<row name="activityTime5" value="350299210"/>
+<row name="activityRate5" value="0"/>
+</root>

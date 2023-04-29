@@ -1,0 +1,200 @@
+<data>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="1">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600000" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600001" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600002" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600003" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600050" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600004" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600005" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="50">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600006" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600007" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600008" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600009" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600051" is_bind="1"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600010" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600011" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="60">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600012" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600013" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600014" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600015" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600052" is_bind="1"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600016" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600017" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="70">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600018" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600019" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600020" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600021" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600053" is_bind="1"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600022" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600023" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="80">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600024" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600025" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600026" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600027" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600054" is_bind="1"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600028" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600029" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+  <mzm.gsp.activity.confbean.SActiviteAwardCfg role_level="100">
+    <active_award_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="20" award_id="10001" cfg_id="352600030" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="40" award_id="10002" cfg_id="352600031" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="60" award_id="10003" cfg_id="352600032" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="80" award_id="10004" cfg_id="352600033" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="90" award_id="10005" cfg_id="352600055" is_bind="1"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="100" award_id="10006" cfg_id="352600034" is_bind="2"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity.confbean.SActiveAwardBean active_value="110" award_id="10007" cfg_id="352600035" is_bind="2"/>
+      </entry>
+    </active_award_map>
+  </mzm.gsp.activity.confbean.SActiviteAwardCfg>
+</data>

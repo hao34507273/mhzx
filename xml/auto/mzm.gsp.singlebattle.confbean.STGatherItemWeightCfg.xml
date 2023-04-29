@@ -1,0 +1,87 @@
+<data>
+  <mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg gatherItemWeightLibId="1" totalWeight="23000">
+    <itemWeightInfos>
+      <no-comparator/>
+      <entry>
+        <int>585200001</int>
+        <int>8000</int>
+      </entry>
+      <entry>
+        <int>585200000</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>585200002</int>
+        <int>10000</int>
+      </entry>
+    </itemWeightInfos>
+  </mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg>
+  <mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg gatherItemWeightLibId="2" totalWeight="23000">
+    <itemWeightInfos>
+      <no-comparator/>
+      <entry>
+        <int>585200001</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>585200000</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>585200002</int>
+        <int>8000</int>
+      </entry>
+    </itemWeightInfos>
+  </mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg>
+  <mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg gatherItemWeightLibId="3" totalWeight="23000">
+    <itemWeightInfos>
+      <no-comparator/>
+      <entry>
+        <int>585200001</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>585200000</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>585200002</int>
+        <int>8000</int>
+      </entry>
+    </itemWeightInfos>
+  </mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg>
+  <mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg gatherItemWeightLibId="4" totalWeight="17000">
+    <itemWeightInfos>
+      <no-comparator/>
+      <entry>
+        <int>585200001</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>585200000</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>585200002</int>
+        <int>2000</int>
+      </entry>
+    </itemWeightInfos>
+  </mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg>
+  <mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg gatherItemWeightLibId="5" totalWeight="17000">
+    <itemWeightInfos>
+      <no-comparator/>
+      <entry>
+        <int>585200001</int>
+        <int>5000</int>
+      </entry>
+      <entry>
+        <int>585200000</int>
+        <int>10000</int>
+      </entry>
+      <entry>
+        <int>585200002</int>
+        <int>2000</int>
+      </entry>
+    </itemWeightInfos>
+  </mzm.gsp.singlebattle.confbean.STGatherItemWeightCfg>
+</data>

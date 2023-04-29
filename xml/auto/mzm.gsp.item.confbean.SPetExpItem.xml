@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.item.confbean.SPetExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="129" id="210600000" isProprietary="false" lowExpLimit="30000" maxExpLimit="30000" name="紅靈果" namecolor="3" pilemax="200" sellSilver="5000" sort="1" type="14" useLevel="0"/>
+  <mzm.gsp.item.confbean.SPetExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" icon="129" id="210600001" isProprietary="true" lowExpLimit="30000" maxExpLimit="30000" name="紅靈果" namecolor="3" pilemax="200" sellSilver="5000" sort="2" type="14" useLevel="0"/>
+  <mzm.gsp.item.confbean.SPetExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" icon="1" id="210699000" isProprietary="false" lowExpLimit="100000" maxExpLimit="100000" name="十萬寵物經驗藥" namecolor="5" pilemax="200" sellSilver="10" sort="3" type="14" useLevel="0"/>
+</data>

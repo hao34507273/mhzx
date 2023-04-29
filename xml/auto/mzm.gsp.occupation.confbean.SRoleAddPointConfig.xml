@@ -1,0 +1,30 @@
+<data>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600000" occupationId="1" recommandAddPointSub1Id="100700000" recommandAddPointSub2Id="100700001" recommandAddPointSub3Id="100700002" templatename="鬼王宗"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600001" occupationId="1" recommandAddPointSub1Id="100700000" recommandAddPointSub2Id="100700001" recommandAddPointSub3Id="100700002" templatename="鬼王宗"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600002" occupationId="2" recommandAddPointSub1Id="100700003" recommandAddPointSub2Id="100700004" recommandAddPointSub3Id="100700005" templatename="青云门"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600003" occupationId="2" recommandAddPointSub1Id="100700003" recommandAddPointSub2Id="100700004" recommandAddPointSub3Id="100700005" templatename="青云门"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600004" occupationId="3" recommandAddPointSub1Id="100700006" recommandAddPointSub2Id="100700007" recommandAddPointSub3Id="100700008" templatename="天音寺"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600005" occupationId="3" recommandAddPointSub1Id="100700006" recommandAddPointSub2Id="100700007" recommandAddPointSub3Id="100700008" templatename="天音寺"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600006" occupationId="4" recommandAddPointSub1Id="100700009" recommandAddPointSub2Id="100700010" recommandAddPointSub3Id="100700011" templatename="焚香谷"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600007" occupationId="4" recommandAddPointSub1Id="100700009" recommandAddPointSub2Id="100700010" recommandAddPointSub3Id="100700011" templatename="焚香谷"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600008" occupationId="5" recommandAddPointSub1Id="100700012" recommandAddPointSub2Id="100700013" recommandAddPointSub3Id="100700014" templatename="合欢派"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600009" occupationId="5" recommandAddPointSub1Id="100700012" recommandAddPointSub2Id="100700013" recommandAddPointSub3Id="100700014" templatename="合欢派"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600010" occupationId="6" recommandAddPointSub1Id="100700015" recommandAddPointSub2Id="100700016" recommandAddPointSub3Id="100700017" templatename="圣巫教"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600011" occupationId="6" recommandAddPointSub1Id="100700015" recommandAddPointSub2Id="100700016" recommandAddPointSub3Id="100700017" templatename="圣巫教"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600012" occupationId="7" recommandAddPointSub1Id="100700018" recommandAddPointSub2Id="100700019" recommandAddPointSub3Id="100700020" templatename="苍羽阁"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600013" occupationId="7" recommandAddPointSub1Id="100700018" recommandAddPointSub2Id="100700019" recommandAddPointSub3Id="100700020" templatename="苍羽阁"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600014" occupationId="8" recommandAddPointSub1Id="100700021" recommandAddPointSub2Id="100700022" recommandAddPointSub3Id="100700023" templatename="灵音殿"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600015" occupationId="8" recommandAddPointSub1Id="100700021" recommandAddPointSub2Id="100700022" recommandAddPointSub3Id="100700023" templatename="灵音殿"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600016" occupationId="9" recommandAddPointSub1Id="100700024" recommandAddPointSub2Id="100700025" recommandAddPointSub3Id="100700026" templatename="异能者"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600017" occupationId="9" recommandAddPointSub1Id="100700024" recommandAddPointSub2Id="100700025" recommandAddPointSub3Id="100700026" templatename="异能者"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600018" occupationId="10" recommandAddPointSub1Id="100700027" recommandAddPointSub2Id="100700028" recommandAddPointSub3Id="100700029" templatename="万毒门"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600019" occupationId="10" recommandAddPointSub1Id="100700027" recommandAddPointSub2Id="100700028" recommandAddPointSub3Id="100700029" templatename="万毒门"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600020" occupationId="11" recommandAddPointSub1Id="100700030" recommandAddPointSub2Id="100700031" recommandAddPointSub3Id="100700032" templatename="丹青阁"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600021" occupationId="11" recommandAddPointSub1Id="100700030" recommandAddPointSub2Id="100700031" recommandAddPointSub3Id="100700032" templatename="丹青阁"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600022" occupationId="12" recommandAddPointSub1Id="100700033" recommandAddPointSub2Id="100700034" recommandAddPointSub3Id="100700035" templatename="阴阳师"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600023" occupationId="12" recommandAddPointSub1Id="100700033" recommandAddPointSub2Id="100700034" recommandAddPointSub3Id="100700035" templatename="阴阳师"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600024" occupationId="13" recommandAddPointSub1Id="100700036" recommandAddPointSub2Id="100700037" recommandAddPointSub3Id="100700038" templatename="黄金城"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600025" occupationId="13" recommandAddPointSub1Id="100700036" recommandAddPointSub2Id="100700037" recommandAddPointSub3Id="100700038" templatename="黄金城"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600026" occupationId="14" recommandAddPointSub1Id="100700039" recommandAddPointSub2Id="100700040" recommandAddPointSub3Id="100700041" templatename="神木妖盟"/>
+  <mzm.gsp.occupation.confbean.SRoleAddPointConfig id="100600027" occupationId="14" recommandAddPointSub1Id="100700039" recommandAddPointSub2Id="100700040" recommandAddPointSub3Id="100700041" templatename="神木妖盟"/>
+</data>

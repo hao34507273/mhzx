@@ -1,0 +1,38 @@
+<data>
+  <mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg maxRank="5001" minRank="5001">
+    <sectionInfos>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="8800" minSectionOpponent="8600"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="8900" minSectionOpponent="8800"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9200" minSectionOpponent="8900"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9600" minSectionOpponent="9200"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="10000" minSectionOpponent="9600"/>
+    </sectionInfos>
+  </mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg>
+  <mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg maxRank="5000" minRank="2001">
+    <sectionInfos>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9200" minSectionOpponent="9000"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9400" minSectionOpponent="9200"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9700" minSectionOpponent="9400"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="10000" minSectionOpponent="9700"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="11000" minSectionOpponent="10000"/>
+    </sectionInfos>
+  </mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg>
+  <mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg maxRank="2000" minRank="201">
+    <sectionInfos>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="8200" minSectionOpponent="7700"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="8700" minSectionOpponent="8200"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="9300" minSectionOpponent="8700"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="10000" minSectionOpponent="9300"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="11000" minSectionOpponent="10000"/>
+    </sectionInfos>
+  </mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg>
+  <mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg maxRank="200" minRank="21">
+    <sectionInfos>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="5300" minSectionOpponent="4000"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="6900" minSectionOpponent="5300"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="8500" minSectionOpponent="6900"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="10000" minSectionOpponent="8500"/>
+      <mzm.gsp.petarena.confbean.SectionInfo maxSectionOpponent="11000" minSectionOpponent="10000"/>
+    </sectionInfos>
+  </mzm.gsp.petarena.confbean.SPetArenaRankSectionCfg>
+</data>

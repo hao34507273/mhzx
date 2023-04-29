@@ -1,0 +1,1830 @@
+<data>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500000">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300094" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300095" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500001">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300002" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500002">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300003" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500003">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300004" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500004">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300005" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500005">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300006" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500006">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300007" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500007">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300008" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500008">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300009" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500009">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300010" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500010">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300011" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500011">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300012" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500012">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300013" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500013">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300014" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500014">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300015" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500015">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300016" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500016">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300017" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500017">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300018" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500018">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300019" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500019">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300020" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500020">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300021" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500021">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300022" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500022">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300023" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500023">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300024" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300059" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500024">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300025" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300060" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500025">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300026" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300061" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500026">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300027" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300062" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500027">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300028" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300063" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500028">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300029" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300064" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500029">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300030" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300065" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500030">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300031" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300066" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500031">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300032" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300067" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500032">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300033" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300068" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500033">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300034" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300069" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500034">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300035" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300070" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500035">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300036" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300071" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500036">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300037" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300072" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500037">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300038" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300073" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500038">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300039" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300074" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500039">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300040" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300075" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500040">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300041" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300076" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500041">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300042" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300077" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500042">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300043" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300078" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500043">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300044" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300079" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500044">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300045" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300080" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500045">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300046" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300081" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500046">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300047" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300082" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500047">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300048" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300083" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500048">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300049" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300084" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500049">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300050" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300085" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500050">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300051" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300086" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500051">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300052" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300087" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500052">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300053" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300088" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500053">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300054" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300089" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500054">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300055" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300090" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500055">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300056" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300091" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500056">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300057" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300092" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500057">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300058" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300093" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500058">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300058" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300093" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500059">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300058" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300093" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500060">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300058" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300093" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500061">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300101" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300102" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300103" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300104" monsteridProb="2500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500062">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300105" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300106" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300107" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300108" monsteridProb="2500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500063">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300109" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300110" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300111" monsteridProb="2500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300112" monsteridProb="2500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500064">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300113" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300114" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500065">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300115" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300116" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500066">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300117" monsteridProb="5000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300118" monsteridProb="5000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500067">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300119" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300120" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300121" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500068">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300122" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300123" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300124" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500069">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300125" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300126" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300127" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500070">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300128" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300129" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300130" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500071">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300131" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300132" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300133" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500072">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300134" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300135" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300136" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500073">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300137" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300138" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300139" monsteridProb="3334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500074">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300140" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300141" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300142" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300119" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300120" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300121" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500075">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300143" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300144" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300145" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300122" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300123" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300124" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500076">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300146" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300147" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300148" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300125" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300126" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300127" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500077">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300149" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300150" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300151" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300128" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300129" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300130" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500078">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300152" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300153" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300154" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300131" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300132" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300133" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500079">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300155" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300156" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300157" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300134" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300135" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300136" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500080">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300158" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300159" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300160" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300137" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300138" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300139" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500081">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300285" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300286" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300287" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300140" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300141" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300142" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300119" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300120" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300121" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500082">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300288" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300289" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300290" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300143" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300144" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300145" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300122" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300123" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300124" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500083">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300291" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300292" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300293" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300146" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300147" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300148" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300125" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300126" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300127" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500084">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300294" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300295" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300296" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300149" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300150" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300151" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300128" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300129" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300130" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500085">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300297" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300298" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300299" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300152" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300153" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300154" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300131" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300132" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300133" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500086">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300300" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300301" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300302" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300155" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300156" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300157" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300134" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300135" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300136" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500087">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300303" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300304" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300305" monsteridProb="100"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300158" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300159" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300160" monsteridProb="900"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300137" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300138" monsteridProb="2333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300139" monsteridProb="2334"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500088">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300306" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500089">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300307" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500090">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300308" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500091">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300309" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500092">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300310" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500093">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300311" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500094">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300312" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500095">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300313" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500096">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300314" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500097">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300315" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500098">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300316" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500099">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300317" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500100">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300318" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500101">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300319" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500102">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300320" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500103">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300321" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500104">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300322" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500105">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300409" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500106">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300146" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500107">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300147" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500108">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300148" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500109">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300149" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500110">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300150" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500111">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300151" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500112">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300152" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500113">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300153" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500114">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300154" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500115">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300155" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500116">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300156" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500117">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300157" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500118">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300158" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500119">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300159" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500120">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300160" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500121">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300161" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300171" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300181" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300191" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300163" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300173" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300183" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300165" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300175" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300185" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500122">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300162" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300172" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300182" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300192" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300164" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300174" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300184" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300166" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300176" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300186" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500123">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300163" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300173" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300183" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300193" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300165" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300175" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300185" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300167" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300177" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300187" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500124">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300164" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300174" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300184" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300194" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300166" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300176" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300186" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300168" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300178" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300188" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500125">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300165" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300175" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300185" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300195" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300167" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300177" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300187" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300169" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300179" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300189" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500126">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300166" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300176" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300186" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300196" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300168" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300178" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300188" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300170" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300180" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300190" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500127">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300167" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300177" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300187" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300197" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300169" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300179" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300189" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300171" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300181" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300191" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500128">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300168" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300178" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300188" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300198" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300170" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300180" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300190" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300172" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300182" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300192" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500129">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300169" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300179" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300189" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300199" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300171" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300181" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300191" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300173" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300183" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300193" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500130">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300170" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300180" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300190" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300200" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300172" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300182" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300192" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300174" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300184" monsteridProb="1000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300194" monsteridProb="1000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500131">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300201" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300202" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300203" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300204" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300205" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300206" monsteridProb="2000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500132">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300213" monsteridProb="3000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300214" monsteridProb="3000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300215" monsteridProb="4000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500133">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300207" monsteridProb="2000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300208" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300209" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300210" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300211" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300212" monsteridProb="1600"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500134">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300207" monsteridProb="2000"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300208" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300209" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300210" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300211" monsteridProb="1600"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300212" monsteridProb="1600"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500135">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300216" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500136">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300217" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500137">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300218" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500138">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300219" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500139">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300220" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500140">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300221" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500141">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300222" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500142">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300223" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500143">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300224" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500144">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300225" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500145">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300226" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500146">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300227" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500147">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300228" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500148">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300229" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500149">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300230" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500150">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300231" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500151">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300232" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500152">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300233" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500153">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300234" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500154">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300235" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500155">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300236" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500156">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300237" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500157">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300238" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500158">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300239" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500159">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300240" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500160">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300241" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500161">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300242" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500162">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300243" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500163">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300244" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500164">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300245" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500165">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300246" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500166">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300247" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500167">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300248" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500168">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300249" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500169">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300250" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500170">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300251" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500171">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300252" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500172">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300253" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500173">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300254" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500174">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300255" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500175">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300256" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500176">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300257" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500177">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300258" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500178">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300259" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500179">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300260" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500180">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300261" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500181">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300262" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500182">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300263" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500183">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300264" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500184">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300265" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500185">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300266" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500186">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300267" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500187">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300268" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500188">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300269" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500189">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300270" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500190">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300271" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500191">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300272" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500192">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300273" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500193">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300274" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500194">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300275" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500195">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300276" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500196">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300277" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500197">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300278" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500198">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300279" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500199">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300280" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500200">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300281" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500201">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300282" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500202">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300283" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500203">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300284" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500204">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300323" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500205">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300324" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500206">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300325" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500207">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300326" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500208">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300327" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500209">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300328" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500210">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300329" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500211">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300330" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500212">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300331" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500213">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300332" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500214">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300333" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500215">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300334" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500216">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300335" monsteridProb="1670"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300337" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300339" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300341" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300343" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300345" monsteridProb="1666"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500217">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300336" monsteridProb="1670"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300338" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300340" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300342" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300344" monsteridProb="1666"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300346" monsteridProb="1666"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500218">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300347" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500219">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300348" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500220">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300349" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500221">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300350" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500222">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300351" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500223">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300352" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500224">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300353" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500225">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300354" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500226">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300355" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500227">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300356" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500228">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300357" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500229">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300358" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500230">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300359" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500231">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300360" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500232">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300361" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500233">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300362" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500234">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300363" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500235">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300364" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500236">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300365" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500237">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300366" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500238">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300367" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500239">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300368" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500240">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300369" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500241">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300370" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500242">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300371" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500243">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300372" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500244">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300373" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500245">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300374" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500246">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300375" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500247">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300376" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500248">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300377" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500249">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300378" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500250">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300379" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500251">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300380" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500252">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300381" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500253">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300382" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500254">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300383" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500255">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300384" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500256">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300385" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500257">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300386" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500258">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300387" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500259">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300388" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500260">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300389" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500261">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300390" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500262">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300391" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500263">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300392" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500264">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300393" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500265">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300394" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500266">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300395" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500267">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300396" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500268">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300397" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500269">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300398" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500270">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300399" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500271">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300400" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500272">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300401" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500273">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300402" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500274">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300403" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300404" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300113" monsteridProb="3500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300114" monsteridProb="3500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500275">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300405" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300406" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300115" monsteridProb="3500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300116" monsteridProb="3500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500276">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300407" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300408" monsteridProb="1500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300117" monsteridProb="3500"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300118" monsteridProb="3500"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500277">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300410" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500278">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300411" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500279">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300412" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500280">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300413" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500281">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300414" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500282">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300415" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500283">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300416" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500284">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300417" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500285">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300418" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500286">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300419" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500287">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300420" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500288">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300421" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500289">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300422" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500290">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300423" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500291">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300424" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500292">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300425" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500293">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300426" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500294">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300427" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500295">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300428" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500296">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300429" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500297">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300430" monsteridProb="10000"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500298">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300431" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300432" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300433" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500299">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300433" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300434" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300435" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500300">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300435" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300436" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300437" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500301">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300437" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300438" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300439" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500302">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300439" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300440" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300441" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500303">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300440" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300441" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300442" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500304">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300441" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300442" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300443" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+  <mzm.gsp.fight.confbean.SMonsterFightSubCfg id="120500305">
+    <monsterid2Prob>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300442" monsteridProb="3333"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300443" monsteridProb="3334"/>
+      <mzm.gsp.fight.confbean.MonsterId2Prob monsterid="120300444" monsteridProb="3333"/>
+    </monsterid2Prob>
+  </mzm.gsp.fight.confbean.SMonsterFightSubCfg>
+</data>

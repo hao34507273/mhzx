@@ -1,0 +1,45 @@
+<data>
+  <mzm.gsp.map.confbean.SMapPolygonCfg id="1" mapCfgid="330000053" tag="0">
+    <vertices>
+      <mzm.gsp.map.confbean.Vertex x="2140" y="1169"/>
+      <mzm.gsp.map.confbean.Vertex x="1755" y="1367"/>
+      <mzm.gsp.map.confbean.Vertex x="2072" y="1536"/>
+      <mzm.gsp.map.confbean.Vertex x="2455" y="1339"/>
+    </vertices>
+  </mzm.gsp.map.confbean.SMapPolygonCfg>
+  <mzm.gsp.map.confbean.SMapPolygonCfg id="2" mapCfgid="330000500" tag="0">
+    <vertices>
+      <mzm.gsp.map.confbean.Vertex x="445" y="158"/>
+      <mzm.gsp.map.confbean.Vertex x="4" y="399"/>
+      <mzm.gsp.map.confbean.Vertex x="12" y="1024"/>
+      <mzm.gsp.map.confbean.Vertex x="1055" y="495"/>
+    </vertices>
+  </mzm.gsp.map.confbean.SMapPolygonCfg>
+  <mzm.gsp.map.confbean.SMapPolygonCfg id="3" mapCfgid="330000054" tag="0">
+    <vertices>
+      <mzm.gsp.map.confbean.Vertex x="5397" y="3156"/>
+      <mzm.gsp.map.confbean.Vertex x="4685" y="3515"/>
+      <mzm.gsp.map.confbean.Vertex x="4995" y="3680"/>
+      <mzm.gsp.map.confbean.Vertex x="5837" y="3678"/>
+      <mzm.gsp.map.confbean.Vertex x="5840" y="3391"/>
+    </vertices>
+  </mzm.gsp.map.confbean.SMapPolygonCfg>
+  <mzm.gsp.map.confbean.SMapPolygonCfg id="4" mapCfgid="330000054" tag="0">
+    <vertices>
+      <mzm.gsp.map.confbean.Vertex x="396" y="640"/>
+      <mzm.gsp.map.confbean.Vertex x="1089" y="291"/>
+      <mzm.gsp.map.confbean.Vertex x="611" y="19"/>
+      <mzm.gsp.map.confbean.Vertex x="29" y="16"/>
+      <mzm.gsp.map.confbean.Vertex x="35" y="398"/>
+    </vertices>
+  </mzm.gsp.map.confbean.SMapPolygonCfg>
+  <mzm.gsp.map.confbean.SMapPolygonCfg id="5" mapCfgid="330000500" tag="0">
+    <vertices>
+      <mzm.gsp.map.confbean.Vertex x="1124" y="568"/>
+      <mzm.gsp.map.confbean.Vertex x="22" y="1173"/>
+      <mzm.gsp.map.confbean.Vertex x="23" y="1343"/>
+      <mzm.gsp.map.confbean.Vertex x="1180" y="1345"/>
+      <mzm.gsp.map.confbean.Vertex x="1189" y="587"/>
+    </vertices>
+  </mzm.gsp.map.confbean.SMapPolygonCfg>
+</data>

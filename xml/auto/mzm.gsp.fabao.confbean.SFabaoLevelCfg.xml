@@ -1,0 +1,1107 @@
+<data>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="1">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="2">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="3">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="4">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="5">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="6">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="7">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="8">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="9">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="10">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="11">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="12">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+  <mzm.gsp.fabao.confbean.SFabaoLevelCfg classid="13">
+    <lv2FaBaoLevelInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="1500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="2500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="3500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="4500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="5500" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6000" roleLv="60"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="6500" roleLv="65"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7000" roleLv="70"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="7500" roleLv="75"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8500" roleLv="85"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="8000" roleLv="80"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9500" roleLv="95"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="9000" roleLv="90"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.fabao.confbean.FaBaoLevelInfo needExp="10000" roleLv="100"/>
+      </entry>
+    </lv2FaBaoLevelInfo>
+  </mzm.gsp.fabao.confbean.SFabaoLevelCfg>
+</data>

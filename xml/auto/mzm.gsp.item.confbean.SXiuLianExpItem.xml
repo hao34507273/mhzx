@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.item.confbean.SXiuLianExpItem addExpNum="1000000" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="589" id="211900000" isProprietary="false" name="大修煉丹" namecolor="3" pilemax="999" sellSilver="30000" sort="1" type="33" useLevel="40"/>
+  <mzm.gsp.item.confbean.SXiuLianExpItem addExpNum="100" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="590" id="211900001" isProprietary="false" name="修煉丹" namecolor="2" pilemax="999" sellSilver="10000" sort="2" type="33" useLevel="40"/>
+  <mzm.gsp.item.confbean.SXiuLianExpItem addExpNum="30" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="591" id="211900002" isProprietary="false" name="小修煉丹" namecolor="2" pilemax="999" sellSilver="3000" sort="3" type="33" useLevel="40"/>
+</data>

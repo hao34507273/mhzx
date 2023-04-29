@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="5" level_lower_limit="50"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="6" level_lower_limit="60"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="7" level_lower_limit="70"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="8" level_lower_limit="80"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="9" level_lower_limit="90"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="10" level_lower_limit="100"/>
+  <mzm.gsp.group.confbean.SCreateGroupNumLimitCfg create_group_max_num="11" level_lower_limit="110"/>
+</data>

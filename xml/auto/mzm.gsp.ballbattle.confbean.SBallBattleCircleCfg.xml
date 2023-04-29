@@ -1,0 +1,10 @@
+<data>
+  <mzm.gsp.ballbattle.confbean.SBallBattleCircleCfg circleCenterX="2305" circleCenterY="1693" id="965200000" initGeneItemNumber="25" initRadius="1693">
+    <circles>
+      <mzm.gsp.ballbattle.confbean.SBallBattleCircleBean circleRadius="1409" circleReduceSeconds="110" geneItemNumber="18"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleCircleBean circleRadius="1200" circleReduceSeconds="60" geneItemNumber="15"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleCircleBean circleRadius="1000" circleReduceSeconds="60" geneItemNumber="12"/>
+      <mzm.gsp.ballbattle.confbean.SBallBattleCircleBean circleRadius="800" circleReduceSeconds="60" geneItemNumber="10"/>
+    </circles>
+  </mzm.gsp.ballbattle.confbean.SBallBattleCircleCfg>
+</data>

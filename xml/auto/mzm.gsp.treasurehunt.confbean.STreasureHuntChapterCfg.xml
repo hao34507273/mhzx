@@ -1,0 +1,26 @@
+<data>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg class_id="1" guarantee_num="3" id="901000000" map_cfg_id="330000503" map_item_num="10" pass_chapter_award_id="6303" pass_chapter_effect_id="702020335" treasure_hunt_time="6">
+    <controllerList>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109231" num="4"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109232" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109233" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109234" num="2"/>
+    </controllerList>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg class_id="2" guarantee_num="5" id="901000001" map_cfg_id="330000505" map_item_num="10" pass_chapter_award_id="6304" pass_chapter_effect_id="702020335" treasure_hunt_time="5">
+    <controllerList>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109240" num="4"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109241" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109242" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109243" num="2"/>
+    </controllerList>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg class_id="3" guarantee_num="7" id="901000002" map_cfg_id="330000504" map_item_num="10" pass_chapter_award_id="6305" pass_chapter_effect_id="702020335" treasure_hunt_time="4">
+    <controllerList>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109236" num="4"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109237" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109238" num="2"/>
+      <mzm.gsp.treasurehunt.confbean.ControllerId2Num controllerId="701109239" num="2"/>
+    </controllerList>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntChapterCfg>
+</data>

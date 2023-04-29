@@ -1,0 +1,66 @@
+<data>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="1" weightSum="38000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100000" weight="3000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100001" weight="3000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100002" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100003" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100004" weight="2000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100005" weight="2000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100006" weight="1500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100007" weight="1500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100008" weight="500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100009" weight="500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100010" weight="3000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100011" weight="3000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100012" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100013" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100014" weight="2000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100015" weight="2000"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100017" weight="1500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100016" weight="1500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100019" weight="500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100018" weight="500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="2" weightSum="10000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100001" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100000" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100011" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100010" weight="2500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="3" weightSum="10000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100003" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100002" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100013" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100012" weight="2500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="4" weightSum="10000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100005" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100004" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100015" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100014" weight="2500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="5" weightSum="10000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100016" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100017" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100006" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100007" weight="2500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+  <mzm.gsp.homeland.confbean.SAnimalRandomCfg id="6" weightSum="10000">
+    <animals>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100018" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100019" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100008" weight="2500"/>
+      <mzm.gsp.homeland.confbean.SAnimalWightInfo animalCfgid="843100009" weight="2500"/>
+    </animals>
+  </mzm.gsp.homeland.confbean.SAnimalRandomCfg>
+</data>

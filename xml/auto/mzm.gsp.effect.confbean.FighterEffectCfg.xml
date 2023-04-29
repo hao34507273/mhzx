@@ -1,0 +1,1489 @@
+<data>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHpMax" description="修改气血上限固定值" effectname="修改气血上限固定值" fenmu="1" id="700200000">
+    <parameters>
+      <string>modifyhpmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHpMaxRate" description="修改气血上限万分比" effectname="修改气血上限万分比" fenmu="10000" id="700200001">
+    <parameters>
+      <string>modifyHpMaxRate</string>
+      <string>limit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HpOnce" description="修改气血当前值固定值" effectname="修改气血当前值固定值" fenmu="1" id="700200002">
+    <parameters>
+      <string>modifyHp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HpRateOnce" description="修改气血当前值万分比" effectname="修改气血当前值万分比" fenmu="10000" id="700200003">
+    <parameters>
+      <string>modifyHpRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMpMax" description="修改法力上限固定值" effectname="修改法力上限固定值" fenmu="1" id="700200004">
+    <parameters>
+      <string>mpmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMpMaxRate" description="修改法力上限万分比" effectname="修改法力上限万分比" fenmu="10000" id="700200005">
+    <parameters>
+      <string>mpmaxrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MpOnce" description="修改法力当前值固定值" effectname="修改法力当前值固定值" fenmu="1" id="700200006">
+    <parameters>
+      <string>mp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MpRateOnce" description="修改法力当前值万分比" effectname="修改法力当前值万分比" fenmu="10000" id="700200007">
+    <parameters>
+      <string>mprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AngerOnce" description="修改怒气当前值固定值" effectname="修改怒气当前值固定值" fenmu="1" id="700200008">
+    <parameters>
+      <string>anger</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AngerRateOnce" description="修改怒气当前值万分比" effectname="修改怒气当前值万分比" fenmu="10000" id="700200009">
+    <parameters>
+      <string>angerrate</string>
+      <string>angerratemax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyAtk" description="修改物理攻击固定值" effectname="修改物理攻击固定值" fenmu="1" id="700200010">
+    <parameters>
+      <string>phyatk</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyAtkRate" description="修改物理攻击万分比" effectname="修改物理攻击万分比" fenmu="10000" id="700200011">
+    <parameters>
+      <string>phyatkrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyDef" description="修改物理防御固定值" effectname="修改物理防御固定值" fenmu="1" id="700200012">
+    <parameters>
+      <string>phydef</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyDefRate" description="修改物理防御万分比" effectname="修改物理防御万分比" fenmu="10000" id="700200013">
+    <parameters>
+      <string>phydefrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagAtk" description="修改法术攻击固定值" effectname="修改法术攻击固定值" fenmu="1" id="700200014">
+    <parameters>
+      <string>magatk</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagAtkRate" description="修改法术攻击万分比" effectname="修改法术攻击万分比" fenmu="10000" id="700200015">
+    <parameters>
+      <string>magatkrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagDef" description="修改法术防御固定值" effectname="修改法术防御固定值" fenmu="1" id="700200016">
+    <parameters>
+      <string>magdef</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagDefRate" description="修改法术防御万分比" effectname="修改法术防御万分比" fenmu="10000" id="700200017">
+    <parameters>
+      <string>magdefrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyCrtRate" description="修改物理暴击率固定值" effectname="修改物理暴击率固定值" fenmu="1" id="700200018">
+    <parameters>
+      <string>phycrtrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagCrtRate" description="修改法术暴击率固定值" effectname="修改法术暴击率固定值" fenmu="1" id="700200019">
+    <parameters>
+      <string>magcrtrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyCrtValue" description="修改物理暴击效果固定值" effectname="修改物理暴击效果固定值" fenmu="1" id="700200021">
+    <parameters>
+      <string>phycrtValue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagCrtValue" description="修改法术暴击效果固定值" effectname="修改法术暴击效果固定值" fenmu="1" id="700200022">
+    <parameters>
+      <string>magcrtvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifySealHitLevel" description="修改封印命中等级固定值" effectname="修改封印命中等级固定值" fenmu="1" id="700200023">
+    <parameters>
+      <string>sealhitlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifySealResistLevel" description="修改封印抗性等级固定值" effectname="修改封印抗性等级固定值" fenmu="1" id="700200024">
+    <parameters>
+      <string>sealresistlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifySealHitRate" description="修改封印命中率固定值" effectname="修改封印命中率固定值" fenmu="1" id="700200025">
+    <parameters>
+      <string>sealhitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeSealHitRate" description="修改被封印命中率固定值" effectname="修改被封印命中率固定值" fenmu="1" id="700200026">
+    <parameters>
+      <string>besealhitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyAtkHitLevel" description="修改物理攻击命中等级固定值" effectname="修改物理攻击命中等级固定值" fenmu="1" id="700200027">
+    <parameters>
+      <string>phyhitlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyAtkDodgeLevel" description="修改物理攻击闪避等级固定值" effectname="修改物理攻击闪避等级固定值" fenmu="1" id="700200028">
+    <parameters>
+      <string>phydodgelevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyAtkHitRate" description="修改物理攻击命中率固定值" effectname="修改物理攻击命中率固定值" fenmu="1" id="700200029">
+    <parameters>
+      <string>phyhitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBePhyAtkHitRate" description="修改被物理攻击命中率固定值" effectname="修改被物理攻击命中率固定值" fenmu="1" id="700200030">
+    <parameters>
+      <string>bephyhitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagAtkHitLevel" description="修改法术攻击命中等级固定值" effectname="修改法术攻击命中等级固定值" fenmu="1" id="700200031">
+    <parameters>
+      <string>maghitlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagAtkDodgeLevel" description="修改法术攻击闪避等级固定值" effectname="修改法术攻击闪避等级固定值" fenmu="1" id="700200032">
+    <parameters>
+      <string>magdodgelevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagAtkHitRate" description="修改法术攻击命中率固定值" effectname="修改法术攻击命中率固定值" fenmu="1" id="700200033">
+    <parameters>
+      <string>mgchitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeMgcHitRate" description="修改被法术攻击命中率固定值" effectname="修改被法术攻击命中率固定值" fenmu="1" id="700200034">
+    <parameters>
+      <string>bemaghitrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyFightBackRate" description="修改物理反击率固定值" effectname="修改物理反击率固定值" fenmu="1" id="700200035">
+    <parameters>
+      <string>fightbackrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagFightBackRate" description="修改法术反击率固定值" effectname="修改法术反击率固定值" fenmu="1" id="700200036">
+    <parameters>
+      <string>fightbackrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifySpeed" description="修改战斗速度固定值" effectname="修改战斗速度固定值" fenmu="1" id="700200037">
+    <parameters>
+      <string>modifyspeed</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Damage" description="伤害一次" effectname="伤害一次" fenmu="1" id="700200038">
+    <parameters>
+      <string>exatk</string>
+      <string>exatkrate</string>
+      <string>skillDamageRate</string>
+      <string>skillDamageRateMax</string>
+      <string>fixDamage</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyDamageRate" description="修改物理伤害万分比" effectname="修改物理伤害万分比" fenmu="10000" id="700200040">
+    <parameters>
+      <string>phydamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagDamageRate" description="修改法术伤害万分比" effectname="修改法术伤害万分比" fenmu="10000" id="700200042">
+    <parameters>
+      <string>magdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBePhyDamageRate" description="修改受到的物理伤害万分比" effectname="修改受到的物理伤害万分比" fenmu="10000" id="700200044">
+    <parameters>
+      <string>bephydamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeMagDamageRate" description="修改受到的法术伤害万分比" effectname="修改受到的法术伤害万分比" fenmu="10000" id="700200046">
+    <parameters>
+      <string>bemagdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SetPhyDamageWaveLow" description="修改物理伤害波动下限" effectname="修改物理伤害波动下限" fenmu="1" id="700200047">
+    <parameters>
+      <string>phydamagewavemin</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SetPhyDamageWaveHigh" description="修改物理伤害波动上限" effectname="修改物理伤害波动上限" fenmu="1" id="700200048">
+    <parameters>
+      <string>phydamagewavemax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SetMagDamageWaveLow" description="修改法术伤害波动下限" effectname="修改法术伤害波动下限" fenmu="1" id="700200049">
+    <parameters>
+      <string>magdamagewavemin</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SetMagDamageWaveHigh" description="修改法术伤害波动上限" effectname="修改法术伤害波动上限" fenmu="1" id="700200050">
+    <parameters>
+      <string>magdamagewavemax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddHp" description="回合初增加气血当前值固定值" effectname="回合初增加气血当前值固定值" fenmu="1" id="700200051">
+    <parameters>
+      <string>roundstartaddhp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddHpRate" description="回合初增加气血当前值万分比" effectname="回合初增加气血当前值万分比" fenmu="10000" id="700200052">
+    <parameters>
+      <string>roundstartaddhprate</string>
+      <string>max</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundEndReduceHp" description="回合末减少气血当前值固定值" effectname="回合末减少气血当前值固定值" fenmu="1" id="700200053">
+    <parameters>
+      <string>roundendreducehp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundEndReduceHpRate" description="回合末减少气血当前值万分比" effectname="回合末减少气血当前值万分比" fenmu="10000" id="700200054">
+    <parameters>
+      <string>roundendreducehprate</string>
+      <string>max</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHealEffect" description="修改治疗效果固定值" effectname="修改治疗效果固定值" fenmu="1" id="700200055">
+    <parameters>
+      <string>healvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHealEffectRate" description="修改治疗效果万分比" effectname="修改治疗效果万分比" fenmu="10000" id="700200056">
+    <parameters>
+      <string>healeffectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeHealEffect" description="修改受到的治疗效果固定值" effectname="修改受到的治疗效果固定值" fenmu="1" id="700200057">
+    <parameters>
+      <string>behealvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeHealEffectRate" description="修改受到的治疗效果万分比" effectname="修改受到的治疗效果万分比" fenmu="10000" id="700200058">
+    <parameters>
+      <string>behealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AbsorbDamage" description="吸收伤害固定值" effectname="吸收伤害固定值" fenmu="1" id="700200059">
+    <parameters>
+      <string>absorbdamage</string>
+      <string>absorbmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AbsorbDamageRate" description="吸收伤害万分比" effectname="吸收伤害万分比" fenmu="10000" id="700200060">
+    <parameters>
+      <string>absorbdamagerate</string>
+      <string>ratemax</string>
+      <string>max</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AbsorbDamageRate_Times" description="吸收伤害万分比（次数）" effectname="吸收伤害万分比（次数）" fenmu="10000" id="700200061">
+    <parameters>
+      <string>absorbtimes</string>
+      <string>absorbdamagerate</string>
+      <string>timesmax</string>
+      <string>absorbmax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RebirthWithHp" description="复活并恢复气血固定值" effectname="复活并恢复气血固定值" fenmu="1" id="700200062">
+    <parameters>
+      <string>rebirthwithhp</string>
+      <string>needFormula</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RebirthWithHpRate" description="复活并恢复气血万分比" effectname="复活并恢复气血万分比" fenmu="10000" id="700200063">
+    <parameters>
+      <string>rebirthwithphrate</string>
+      <string>ratemax</string>
+      <string>needFormula</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Seal" description="封印" effectname="封印" fenmu="1" id="700200064">
+    <parameters>
+      <string>sealtype</string>
+      <string>seallevel</string>
+      <string>sealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Sleep" description="睡眠" effectname="睡眠" fenmu="1" id="700200065">
+    <parameters>
+      <string>hitRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Stone" description="石化" effectname="石化" fenmu="1" id="700200066">
+    <parameters>
+      <string>phydefrate</string>
+      <string>magdefrate</string>
+      <string>hitRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Mess" description="混乱" effectname="混乱" fenmu="1" id="700200067">
+    <parameters>
+      <string>target</string>
+      <string>hitRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyEscapeRate" description="修改逃跑机率固定值" effectname="修改逃跑机率固定值" fenmu="1" id="700200068">
+    <parameters>
+      <string>escaperate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Disperse" description="驱散" effectname="驱散" fenmu="1" id="700200069">
+    <parameters>
+      <string>type</string>
+      <string>effectgroupnum</string>
+      <string>buffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyCatchPetRate" description="修改捕捉宠物成功率固定值" effectname="修改捕捉宠物成功率固定值" fenmu="1" id="700200070">
+    <parameters>
+      <string>catchpetrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyModel" description="改变单位模型" effectname="改变单位模型" fenmu="1" id="700200071">
+    <parameters>
+      <string>modelid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HouFa" description="后发" effectname="后发" fenmu="1" id="700200072">
+    <parameters>
+      <string>addatkrate</string>
+      <string>addphydefrate</string>
+      <string>addmagdefrate</string>
+      <string>skillid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HitAgain" description="追击" effectname="追击" fenmu="1" id="700200073">
+    <parameters>
+      <string>damagerate</string>
+      <string>maxtimes</string>
+      <string>activite</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Damage2Heal" description="伤害转治疗盾（次数）" effectname="伤害转治疗盾（次数）" fenmu="1" id="700200075">
+    <parameters>
+      <string>rate</string>
+      <string>timestype</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageBigger" description="按照血量万分比加深伤害" effectname="按照血量万分比加深伤害" fenmu="1" id="700200076">
+    <parameters>
+      <string>targethprate</string>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="StealMp" description="法力偷取" effectname="法力偷取" fenmu="1" id="700200077">
+    <parameters>
+      <string>decmp</string>
+      <string>decmprate</string>
+      <string>changerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="StealHp" description="气血偷取" effectname="气血偷取" fenmu="1" id="700200078">
+    <parameters>
+      <string>type</string>
+      <string>changerate</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="KillGetMp" description="击杀回复法力" effectname="击杀回复法力" fenmu="1" id="700200079">
+    <parameters>
+      <string>getmp</string>
+      <string>getmprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="KillGetHp" description="击杀回复气血" effectname="击杀回复气血" fenmu="1" id="700200080">
+    <parameters>
+      <string>gethp</string>
+      <string>gethprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ForbidRebirth" description="禁止复活" effectname="禁止复活" fenmu="1" id="700200082">
+    <parameters>
+      <string>round</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MultiDamage" description="多次伤害" effectname="多次伤害" fenmu="1" id="700200083">
+    <parameters>
+      <string>damagetimes</string>
+      <string>damagerate</string>
+      <string>modifyrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Defense" description="防御" effectname="防御" fenmu="1" id="700200084">
+    <parameters>
+      <string>cutbedamageRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HealOnce" description="治疗一次固定值" effectname="治疗一次固定值" fenmu="1" id="700200085">
+    <parameters>
+      <string>hp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HealRateOnce" description="治疗一次百分比" effectname="治疗一次百分比" fenmu="10000" id="700200086">
+    <parameters>
+      <string>hprate</string>
+      <string>maxlimit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Invisible" description="隐身" effectname="隐身" fenmu="1" id="700200087">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Visible" description="隐身" effectname="反隐" fenmu="1" id="700200088">
+    <parameters>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="CriticalStrikes" description="暴击攻击" effectname="暴击攻击" fenmu="1" id="700200089">
+    <parameters>
+      <string>exatk</string>
+      <string>exdamagerate</string>
+      <string>excriticalrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Rest" description="休息" effectname="休息" fenmu="1" id="700200090">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Weak" description="虚弱" effectname="虚弱" fenmu="1" id="700200091">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="IgnoreDefense" description="忽略目标一定防御攻击" effectname="忽略目标一定防御攻击" fenmu="1" id="700200092">
+    <parameters>
+      <string>exatk</string>
+      <string>exdamagerate</string>
+      <string>ignoredefense</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Combo" description="攻击时概率触发连击的效果" effectname="连击" fenmu="10000" id="700200093">
+    <parameters>
+      <string>times</string>
+      <string>comborate</string>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SpellCombo" description="攻击时概率触发连击的效果" effectname="法术连击" fenmu="10000" id="700200094">
+    <parameters>
+      <string>times</string>
+      <string>comborate</string>
+      <string>exdamagerate</string>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Technique" description="不会受到反击、法术反击的影响" effectname="技巧" fenmu="1" id="700200095">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ArmorPenetration" description="物理攻击时忽视对方一定的物理防御" effectname="攻击时忽视目标一定物理防御" fenmu="1" id="700200096">
+    <parameters>
+      <string>penetration</string>
+      <string>penetrationrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SpellPenetration" description="法术攻击时忽视对方一定的法术防御" effectname="攻击时忽视目标一定法术防御" fenmu="1" id="700200097">
+    <parameters>
+      <string>penetration</string>
+      <string>penetrationrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddMp" description="回合初自动增加当前法力值和法力值上限万分比的法力值" effectname="回合初增加法力当前值" fenmu="1" id="700200098">
+    <parameters>
+      <string>roundstartaddmp</string>
+      <string>roundstartaddmprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MagicReduce" description="使用法术时所消耗的魔法减少" effectname="使用法术时所消耗的魔法减少" fenmu="1" id="700200099">
+    <parameters>
+      <string>magicreducerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Vampire" description="攻击时可一定比例的吸取对方所掉气血" effectname="吸血" fenmu="1" id="700200100">
+    <parameters>
+      <string>vampirerate</string>  <!-- 万分比值 -->
+      <string>mask</string>			<!-- 基数为物理、偶数为法术 -->
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ProbabilityResurrection" description="受到攻击死亡后有一定概率复活并恢复一定气血" effectname="死亡时概率复活" fenmu="1" id="700200101">
+    <parameters>
+      <string>resurrectionrate</string> <!-- 复活概率万分比值 -->
+      <string>addhp</string>			<!-- 复活时额外恢复的hp固定值 -->
+      <string>addhprate</string>		<!-- 复活时恢复当前最大hp的比值 -->
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ProbabilityDamagereduction" description="受到攻击时有一定概率减少受到的伤害结果" effectname="受到攻击时概率减伤" fenmu="1" id="700200102">
+    <parameters>
+      <string>mask</string>
+      <string>reductionrate</string>
+      <string>damagereductionrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartDisperse" description="每回合开始时单位自身针对于不同类型的效果组进行驱散" effectname="每回合开始时解除异常状态" fenmu="1" id="700200103">
+    <parameters>
+      <string>type</string>
+      <string>effectgroupnum</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyFightBackDamageRate" description="改变物理反击伤害万分比" effectname="修改物理反击伤害万分比" fenmu="1" id="700200104">
+    <parameters>
+      <string>fightbackdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagFightBackDamageRate" description="改变法术反击伤害万分比" effectname="修改法术反击伤害万分比" fenmu="1" id="700200105">
+    <parameters>
+      <string>fightbackdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Fortune" description="拥有该技能的单位不会受到物理必杀、法术暴击" effectname="幸运" fenmu="1" id="700200106">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Ghost" description="拥有该效果的战斗单位死亡后不离场，并且x回合后复活，并有可能不受其他的治疗效果影响" effectname="鬼魂" fenmu="1" id="700200107">
+    <parameters>
+      <string>ghosttimes</string>
+      <string>canBeHealed</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeatGhost" description="拥有该效果的战斗单位对拥有鬼魂效果的战斗单位有额外伤害增加，如果将鬼魂类怪物打死，对方直接出场而不能进行复活" effectname="驱鬼" fenmu="1" id="700200108">
+    <parameters>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Persistent" description="拥有该效果的战斗单位受到增益效果，效果的持续回合数变为原来的一定倍数" effectname="持久" fenmu="1" id="700200109">
+    <parameters>
+      <string>multiple</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HitDebuff" description="拥有该效果的战斗单位在攻击时有概率使目标身上增加负面效果" effectname="攻击时概率对目标增加状态" fenmu="1" id="700200110">
+    <parameters>
+      <string>mask</string>
+      <string>hitdebuffrate</string>
+      <string>debuffid</string>
+      <string>main</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Fly" description="拥有该效果的战斗单位为飞行单位" effectname="飞行" fenmu="1" id="700200111">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Agile" description="拥有该效果的战斗单位为敏捷单位" effectname="敏捷" fenmu="1" id="700200112">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Accurate" description="对拥有飞行，敏捷效果的战斗单位伤害结果增加" effectname="精准" fenmu="1" id="700200113">
+    <parameters>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BuffAdd" description="执行该效果之后自动对自身增加一个效果" effectname="概率增加一个效果" fenmu="1" id="700200114">
+    <parameters>
+      <string>effectid</string>
+      <string>effectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="WoundDeeper" description="按照自身血量万分比修改自身的伤害万分比" effectname="按照自身血量万分比加深伤害" fenmu="1" id="700200115">
+    <parameters>
+      <string>hprate</string>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Fear" description="拥有该效果的单位操作指令将失效，行动时只能执行防御动作" effectname="恐惧" fenmu="1" id="700200116">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Sincerely" description="拥有该效果的单位不受恐惧效果影响并且不会逃跑" effectname="忠心" fenmu="1" id="700200117">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Trial" description="使拥有死亡时概率复活效果的单位无法复活并增加伤害" effectname="审判" fenmu="1" id="700200118">
+    <parameters>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Barriers" description="无" effectname="壁垒" fenmu="1" id="700200119">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BreakBarriers" description="对拥有防御效果的单位增加伤害" effectname="破壁" fenmu="1" id="700200120">
+    <parameters>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Parry" description="无法受到物理连击，对方有技巧技能除外" effectname="招架" fenmu="1" id="700200121">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ImmuneNegative" description="拥有该效果的单位不会获得对应类型的负面效果" effectname="免疫负面状态" fenmu="1" id="700200122">
+    <parameters>
+      <string>type</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifySpeedRate" description="修改战斗速度百分比" effectname="修改战斗速度百分比" fenmu="10000" id="700200123">
+    <parameters>
+      <string>modifyspeedrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="EnergyOnce" description="该效果会为角色增加能量" effectname="增加一次能量" fenmu="10000" id="700200124">
+    <parameters>
+      <string>energy</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RandomDamageEffect" description="释放技能时有概率对敌方造成伤害，也有概率为敌方回复一定气血" effectname="随机伤害或治疗目标" fenmu="10000" id="700200125">
+    <parameters>
+      <string>rate</string>
+      <string>bedamagerate</string>
+      <string>healonce</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeAttackedStronger" description="拥有该效果的单位，每回合每受到一次伤害，则对敌人的伤害结果加成一定值" effectname="每次被攻击增加下次攻击造成的伤害" fenmu="10000" id="700200126">
+    <parameters>
+      <string>mask</string>
+      <string>times</string>
+      <string>damagerate</string>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageRandomBuff" description="攻击时如果打中目标有概率释放一个buff，buff可以释放给自身或目标" effectname="攻击时如果打中目标有概率释放一个buff，buff可以释放给自身或目标" fenmu="10000" id="700200127">
+    <parameters>
+      <string>modifyDamageRate</string>
+      <string>addbuffrate</string>
+      <string>addbuffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageBiggerOnce" description="攻击时目标每损失一定比例血量增加本次攻击的伤害" effectname="斩杀效果" fenmu="10000" id="700200128">
+    <parameters>
+      <string>targethprate</string>
+      <string>damagerate</string>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MagicShield" description="当拥有该效果的单位被攻击时，消耗一定的法力值来代替受到的伤害" effectname="魔法盾" fenmu="10000" id="700200129">
+    <parameters>
+      <string>mask</string>
+      <string>damagerate</string>
+      <string>magicrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SexDamage" description="拥有该效果的角色会攻击时根据目标的性别修改伤害" effectname="性别伤害加成" fenmu="10000" id="700200130">
+    <parameters>
+      <string>mask</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SexBedamage" description="拥有该效果的角色被攻击时会根据攻击方的性别减少受到的伤害" effectname="性别伤害降低" fenmu="10000" id="700200131">
+    <parameters>
+      <string>mask</string>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="CounterLimit" description="拥有该效果的单位本回合的反击次数有限制" effectname="反击上限" fenmu="10000" id="700200132">
+    <parameters>
+      <string>limit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TypeAddHeal" description="拥有该效果的角色释放治疗技能时，会根据战斗类型增加治疗量" effectname="根据战斗类型增加治疗效果" fenmu="10000" id="700200133">
+    <parameters>
+      <string>pvphealrate</string>
+      <string>pvehealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RateProtect" description="当本队成员受到物理可保护的技能攻击时，有概率对其进行保护" effectname="根据类型进行保护" fenmu="10000" id="700200134">
+    <parameters>
+      <string>mask</string>
+      <string>protectrate</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ChangeSeal" description="被封印技能封中时，改变受到封印效果的持续回合数" effectname="改变受到的封印技能回合数" fenmu="10000" id="700200135">
+    <parameters>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Taunt" description="角色对目标施放嘲讽后，目标本回合只能对施放者进行普通攻击，若嘲讽前目标已经行动则持续回合数+1" effectname="单体嘲讽" fenmu="10000" id="700200136">
+    <parameters>
+      <string>hitRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Rebound" description="角色受到伤害后会根据伤害的值反弹给攻击者" effectname="反弹" fenmu="10000" id="700200137">
+    <parameters>
+      <string>mask</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BanTherapy" description="拥有该效果的角色将减低被治疗的效果" effectname="禁疗" fenmu="10000" id="700200138">
+    <parameters>
+      <string>behealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ReliveWithOutForbiden" description="会使死亡的单位复活，复活后会恢复固定值的气血，法力为死亡前的法力，怒气重置到进入战斗时的怒气，无视禁止复活的限制" effectname="强制复活" fenmu="10000" id="700200139">
+    <parameters>
+      <string>rebirthwithhp</string>
+      <string>hprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BanResurrection" description="造成攻击时会根据造成的伤害损失自身的血量，血量损失在攻击、吸血、返回到原来位置后" effectname="根据造成的伤害减少自身血量" fenmu="10000" id="700200140">
+    <parameters>
+      <string>damagerate</string>
+      <string>bedamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BattleLove" description="伙伴进入战斗时，若有对应得伙伴共同上阵则触发对应的情缘效果，若触发的伙伴为多个，则需对应的伙伴全部上场才触发成功" effectname="上阵情缘效果" fenmu="10000" id="700200141">
+    <parameters>
+      <string>type</string>
+      <string>influence</string>
+      <string>effectid</string>
+      <string>partnerid1</string>
+      <string>partnerid2</string>
+      <string>partnerid3</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DeathLove" description="斗中，若有对应得伙伴死亡则触发对应的情缘效果，若触发的伙伴为多个，则需对应的伙伴全部存活才触发成功伙伴为多个，则需对应的伙伴全部存活才触发成功" effectname="死亡情缘效果" fenmu="10000" id="700200142">
+    <parameters>
+      <string>type</string>
+      <string>death</string>
+      <string>influence</string>
+      <string>effectid</string>
+      <string>partnerid1</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartPro" description="拥有该效果的角色每到回合前都会提升自身属性，属性增加效果持续到战斗结束" effectname="每个回合前增加自身属性" fenmu="10000" id="700200144">
+    <parameters>
+      <string>type</string>
+      <string>value</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="CumulativeIncrease" description="拥有该效果的角色会使所有符合类型的队友增加属性，增加的属性持续到战斗结束" effectname="光环技能" fenmu="10000" id="700200145">
+    <parameters>
+      <string>type</string>
+      <string>mask</string>
+      <string>value</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ChangeSkill" description="拥有该效果的角色当使用对应id技能时，会根据配置使用另外一个技能" effectname="改变技能id" fenmu="10000" id="700200146">
+    <parameters>
+      <string>skillid</string>
+      <string>changeskillid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TimesRebound" description="玩家受到对应伤害类型的伤害时反弹伤害，不受到本次伤害，并且反弹一部伤害给目标" effectname="伤害次数反弹" fenmu="10000" id="700200147">
+    <parameters>
+      <string>rate</string>
+      <string>timestype</string>
+      <string>times</string>
+      <string>mask</string>
+      <string>limit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddFixHp" description="回合初自动增加当前气血固定值，不作用在治疗公式中" effectname="回合初增加气血当前值固定值(不受法伤加成)" fenmu="10000" id="700200148">
+    <parameters>
+      <string>roundstartaddhp</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="IceCool" description="拥有该效果的单位被攻击时，受到的伤害变为1，每个角色释放的冰冻效果只能存留一个在场上，即新使用冰冻后前一个冰冻效果将消失，若玩家自身对自己释放的冰冻可通过防御来延长状态时间" effectname="冰冻" fenmu="10000" id="700200149">
+    <parameters>
+      <string>max</string>
+      <string>seallevel</string>
+      <string>sealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageWithoutVampire" description="伤害一次但无法吸血" effectname="伤害一次无法吸血" fenmu="10000" id="700200150">
+    <parameters>
+      <string>exatk</string>
+      <string>exatkrate</string>
+      <string>skillDamageRate</string>
+      <string>skillDamageRateMax</string>
+      <string>fixDamage</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="NotLeave" description="死亡后不离开战场,若为可治疗单位则可以被药物和技能复活" effectname="死亡不离场" fenmu="10000" id="700200151">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RunAwayBefore" description="战斗单位获得该效果后，在下次的回合开始前进行逃跑，有逃跑成功率" effectname="回合前逃跑" fenmu="10000" id="700200152">
+    <parameters>
+      <string>runrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RunAwayAfter" description="下次的回合结束阶段进行逃跑，有逃跑成功率" effectname="回合末逃跑" fenmu="10000" id="700200153">
+    <parameters>
+      <string>runrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ExchangePro" description="交换双方的生命值和法力值的百分比" effectname="状态互换" fenmu="10000" id="700200154">
+    <parameters>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ProtectOwner" description="当主人被可保护的技能攻击时，有概率对其进行保护" effectname="护卫" fenmu="10000" id="700200155">
+    <parameters>
+      <string>protectrate</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHealOnce" description="可以修改法术伤害对治疗量影响的系数" effectname="改变系数治疗治疗一次" fenmu="10000" id="700200156">
+    <parameters>
+      <string>hp</string>
+      <string>hprate</string>
+      <string>exheal</string>
+      <string>maxheal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MultiDamageCombo" description="在基础伤害后有每次伤害有概率追击一次伤害" effectname="多次伤害可追击" fenmu="10000" id="700200157">
+    <parameters>
+      <string>times</string>
+      <string>combotrate</string>
+      <string>exdamagerate</string>
+      <string>maxtime</string>
+      <string>modifyrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="EnermyIncreaseDamage" description="根据当前敌人存活个数来增加自身伤害万分比" effectname="敌人数量增伤" fenmu="10000" id="700200158">
+    <parameters>
+      <string>number</string>
+      <string>exdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="EnermyEffect" description="给对应怪物组的所有怪物增加对应的效果组" effectname="战斗内给敌人增加效果" fenmu="10000" id="700200159">
+    <parameters>
+      <string>monsterGroupid</string>
+      <string>buffid</string>
+      <string>addrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="KillEnermyEffect" description="攻击目标时若击杀的对应目标，根据效果组的类型增加一个效果" effectname="击杀目标后为目标增加效果" fenmu="10000" id="700200160">
+    <parameters>
+      <string>damagetimes</string>
+      <string>damagerate</string>
+      <string>modifyrate</string>
+      <string>effectid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SpellPursuit" description="每使用法术类技能时有概率追加一个特定技能" effectname="法术追击" fenmu="10000" id="700200161">
+    <parameters>
+      <string>skillid</string>
+      <string>skillrate</string>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageReductionWithOutPet" description="玩家没有自己的宠物出战时受到的伤害降低" effectname="无宠减伤" fenmu="10000" id="700200162">
+    <parameters>
+      <string>exphydamagerate</string>
+      <string>exmgcdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddBuff" description="每回合开始前都有概率为自身增加效果" effectname="每回合前概率为自身增加一个效果" fenmu="10000" id="700200163">
+    <parameters>
+      <string>effectid</string>
+      <string>effectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMenpaiHeal" description="改变治疗效果万分比" effectname="修改门派恢复技能效果" fenmu="10000" id="700200164">
+    <parameters>
+      <string>healeffectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MenpaiHealBuffAdd" description="使用门派治疗技能时有概率为治疗目标增加效果" effectname="门派恢复技能附加效果" fenmu="10000" id="700200165">
+    <parameters>
+      <string>effectid</string>
+      <string>effectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeMenpaiHeal" description="在被门派技能治疗时，被增加被治疗的治疗效果" effectname="修改被门派技能治疗效果" fenmu="10000" id="700200166">
+    <parameters>
+      <string>exbehealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MenpaiSealNumberAdd" description="使用门派封印技能时有概率增加目标数量， 但会降低封印命中后的持续回合数" effectname="门派封印技能个数修正" fenmu="10000" id="700200167">
+    <parameters>
+      <string>effectrate</string>
+      <string>number</string>
+      <string>round</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PoisonDamage" description="角色在受到毒类buff伤害时，会降低毒的伤害" effectname="毒伤害万分比修正" fenmu="10000" id="700200168">
+    <parameters>
+      <string>expoisonrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeDrugHeal" description="角色在被使用药品治疗时有概率会修改受到药品治疗的治疗效果" effectname="修改被使用药品治疗效果" fenmu="10000" id="700200169">
+    <parameters>
+      <string>exbedrughealrate</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DrugHeal" description="角色在使用药品治疗时有概率会增加药品治疗的治疗效果" effectname="使用药品概率增加治疗效果" fenmu="10000" id="700200170">
+    <parameters>
+      <string>exdrughealrate</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MainSoulBonds" description="拥有该效果的单位会作为灵魂连接中的一个单位，但该单位可以配置是否参与其他的灵魂连接的伤害分摊，也可以配置当主灵魂受到攻击时自身承担受到伤害的百分比。" effectname="灵魂连结（主灵魂）" fenmu="10000" id="700200171">
+    <parameters>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SubSoulBonds" description="拥有该效果的单位会作为灵魂连接中的一个单位，当灵魂链接的单位受到攻击时，会将所有被连接的受到伤害的单位受到的伤害综合平均分配给所有被灵魂链接的单位，" effectname="灵魂链接（副灵魂）" fenmu="10000" id="700200172">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MonsterRelive" description="拥有该效果的单位在被击倒时，若战斗内存在对应怪物组的怪物时，立即复活" effectname="存在怪物立即复活" fenmu="10000" id="700200173">
+    <parameters>
+      <string>monstergroupid</string>
+      <string>number</string>
+      <string>hprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SpecialSkill" description="拥有该效果的单位被特定技能攻击时受到的伤害会增加" effectname="指定技能效果" fenmu="10000" id="700200174">
+    <parameters>
+      <string>skillid</string>
+      <string>rate1</string>
+      <string>rate2</string>
+      <string>exdamagerate1</string>
+      <string>exdamagerate2</string>
+      <string>exdamagerate3</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SimilarEffect" description="拥有该效果的单位在攻击时拥有对应效果组的单位是会有相应的伤害修正" effectname="对抗效果" fenmu="10000" id="700200175">
+    <parameters>
+      <string>groupStatus</string>
+      <string>exdamagerate</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeSimilarEffect" description="拥有该效果的单位在攻击（或被攻击）时拥有对应效果组的单位是会有相应的伤害修正" effectname="被击对抗效果" fenmu="10000" id="700200176">
+    <parameters>
+      <string>groupStatus</string>
+      <string>beexdamagerate</string>
+      <string>bnexdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageResult" description="拥有该效果的单位在攻击时所造成的伤害值的阶位数字为对应配置的数字则会附加其他效果" effectname="伤害结果数字" fenmu="10000" id="700200177">
+    <parameters>
+      <string>mask</string>
+      <string>vampirerate</string>
+      <string>effectid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundsAdd" description="拥有该效果的单位在配置的对应的回合末位数字时，为自身增加一个效果" effectname="对应回合数为自身增加效果组" fenmu="10000" id="700200178">
+    <parameters>
+      <string>mask</string>
+      <string>effectid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DeathSkill" description="拥有该效果的目标死亡时会释放一个技能，有触发回合间隔和触发概率" effectname="死亡释放技能" fenmu="10000" id="700200179">
+    <parameters>
+      <string>skillid</string>
+      <string>skillrate</string>
+      <string>round</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ReleaseSkillAndDead" description="回合出为自身增加该效果，在角色主动释放技能之后，角色死亡" effectname="死亡后释放技能" fenmu="10000" id="700200180">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AngerConsumption" description="拥有该效果的单位，使用技能消耗怒气时怒气消耗的值会进行相应的修正" effectname="怒气消耗修正" fenmu="10000" id="700200181">
+    <parameters>
+      <string>exanger</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeHitDebuff" description="拥有该效果的战斗单位在被普通攻击时有概率给攻击者或被攻击者增加效果" effectname="被攻击时概率增加状态" fenmu="10000" id="700200182">
+    <parameters>
+      <string>hitdebuffrate</string>
+      <string>debuffid</string>
+      <string>mask</string>
+      <string>attmask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MenpaiHealNumberAdd" description="使用门派治疗技能时有概率增加目标数量， 但会降低治疗效果" effectname="门派恢复技能个数修正" fenmu="10000" id="700200183">
+    <parameters>
+      <string>effectrate</string>
+      <string>number</string>
+      <string>exhealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeHitModifyPhyCrtValue" description="修改被攻击物理暴击效果固定值" effectname="修改被攻击物理暴击效果固定值" fenmu="1" id="700200184">
+    <parameters>
+      <string>phycrtValue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeHitModifyMagCrtValue" description="修改被攻击法术暴击效果固定值" effectname="修改被攻击法术暴击效果固定值" fenmu="1" id="700200185">
+    <parameters>
+      <string>magcrtvalue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="EnemyEscapeRate" description="进入战斗时修改敌方全体的逃跑概率，若多人组队只有人物排中间位置的单位的该效果生效" effectname="修改敌方全体的逃跑概率" fenmu="1" id="700200186">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Mark" description="将一个敌人进行标记，标记者攻击被标记者时，提升标记者对被标记者的伤害" effectname="印记" fenmu="1" id="700200187">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyDefense" description="修改防御时受到的攻击，在原有的基础上进行修正" effectname="修改防御效果" fenmu="1" id="700200188">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyHealOnceNoCrit" description="可以修改法术伤害对治疗量影响的系数" effectname="改变系数治疗治疗一次" fenmu="10000" id="700200189">
+    <parameters>
+      <string>hp</string>
+      <string>hprate</string>
+      <string>exheal</string>
+      <string>maxheal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RebirthWithHpNoCrit" description="复活并恢复气血固定值" effectname="复活并恢复气血固定值" fenmu="1" id="700200190">
+    <parameters>
+      <string>rebirthwithhp</string>
+      <string>exheal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AveragePro" description="平均双方的生命值和法力值的百分比，即计算双方各自的状态百分比之和后平均给双方" effectname="状态平均" fenmu="1" id="700200191">
+    <parameters>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="GodBless" description="受到攻击死亡后有一定概率复活并恢复一定气血" effectname="死亡时概率复活" fenmu="1" id="700200192">
+    <parameters>
+      <string>resurrectionrate</string>
+      <string>addhp</string>
+      <string>addhprate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PetBornBuff" description="改效果只有玩家角色可以获得，拥有该效果的玩家在召唤自身宠物出场（包括默认出场）后，为该宠物增加buf" effectname="宠物出场后为宠物增加" fenmu="1" id="700200193">
+    <parameters>
+      <string>hitdebuffrate</string>
+      <string>debuffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Irritability" description="角色战斗中，会增加因损失气血而获得的怒气万分比" effectname="易怒" fenmu="1" id="700200194">
+    <parameters>
+      <string>exangerrate</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Endure" description="角色战斗中，每损失一定气血上限的血量，则下回合的伤害会受到一定修正" effectname="隐忍" fenmu="1" id="700200195">
+    <parameters>
+      <string>hprate</string>
+      <string>exdamagerate</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Mercy" description="使用治疗技能时，根据目标损失血量万分比增加治疗效果万分比" effectname="仁慈" fenmu="1" id="700200196">
+    <parameters>
+      <string>hprate</string>
+      <string>exhealrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Solid" description="被攻击时按照自身血量万分比降低受到的伤害，即每达到触发血量就增加已给伤害修正万分比" effectname="按照自身血量万分比降低受到的伤害" fenmu="1" id="700200197">
+    <parameters>
+      <string>hprate</string>
+      <string>exphydamagerate</string>
+      <string>exmagdamagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DrugHealMyself" description="角色在使用药品治疗其他单位时有概率会使自身额外获得药品治疗效果的一部分" effectname="使用药品概率治疗自身" fenmu="1" id="700200198">
+    <parameters>
+      <string>drughealrate</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="CanBreakMultiDamage" description="单位对单个攻击目标造成多次伤害，连招过程中目标可以进行闪避和反击动作。" effectname="多次伤害（可中断）" fenmu="1" id="700200199">
+    <parameters>
+      <string>damagetimes</string>
+      <string>damagerate</string>
+      <string>modifyrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeHitModifyPhyCrtRate" description="改变物理暴击率固定值，作用于实际物理伤害暴击率公式中的“攻击者改变物理暴击率”字段" effectname="受到攻击时修改物理暴击率固定值" fenmu="1" id="700200200">
+    <parameters>
+      <string>phycrtrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BeHitModifyMagCrtRate" description="改变法术暴击率固定值，作用于实际法术伤害暴击率公式中的“攻击者法术暴击率”字段和实际治疗暴击率公式中的“攻击者治疗暴击率”字段" effectname="受到攻击时修改法术暴击率固定值" fenmu="1" id="700200201">
+    <parameters>
+      <string>magcrtrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AfterSkillsBuffAdd" description="在整体释放一个技能之后，执行该效果，给施法者增加一个效果" effectname="释放技能后概率增加一个效果" fenmu="1" id="700200202">
+    <parameters>
+      <string>effectid</string>
+      <string>effectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundEndDisperse" description="每回合结束时单位自身针对于不同类型的效果组进行驱散，效果组类型有：负面、封印、毒。" effectname="每回合结束时解除异常状态" fenmu="1" id="700200203">
+    <parameters>
+      <string>type</string>
+      <string>effectgroupnum</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundEndAddBuff" description="每回合结束都有概率为自身增加效果，若角色死亡则不会触发该效果" effectname="每回合末概率为自身增加一个效果" fenmu="1" id="700200204">
+    <parameters>
+      <string>effectid</string>
+      <string>effectrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SummonEnterUseSKill" description="当被召唤成功进入战斗后，有概率立即释放一个技能，该技能等级为1级" effectname="被召唤后立即使用一个技能" fenmu="1" id="700200205">
+    <parameters>
+      <string>skillid</string>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PetDamageOnce" description="对目标进行一次伤害，若攻击目标为宠物则会对其造成额外的伤害" effectname="单次攻击对宠额外伤害" fenmu="1" id="700200206">
+    <parameters>
+      <string>skillDamageRate</string>
+      <string>exdamage</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TimesResurrection" description="死亡后复活并回复自身一部分气血 该效果是按照次数作用的，有次数类型的概念，参数中如果填1则表示可以转换每回合第一次的伤害，参数中如果填2则表示可以转换持续多次的伤害，跟回合没有关系" effectname="死亡复活（次数）" fenmu="1" id="700200207">
+    <parameters>
+      <string>rate</string>
+      <string>timestype</string>
+      <string>times</string>
+      <string>reliveRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MultiDamageResetTarget" description="对目标进行一次伤害，然后对随机目标继续进行攻击，若再次攻击同一目标则造成的会进行一定的伤害降低" effectname="随机多次伤害" fenmu="1" id="700200208">
+    <parameters>
+      <string>skillDamageRate</string>
+      <string>times</string>
+      <string>exdamagerate</string>
+      <string>minskillDamageRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DeathBombing" description="为目标附加持续状态，若拥有该效果的角色被击杀，则对周围的相邻单位造成等量的伤害，伤害的值为拥有该效果的目标致死时受到的伤害的一定比例，该效果有触发cd回合数" effectname="死亡轰炸" fenmu="1" id="700200209">
+    <parameters>
+      <string>skillid</string>
+      <string>skillDamageRate</string>
+      <string>mask</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="GroupDamageDecrease" description="拥有该效果的单位，在受到群体技能攻击时，会降低受到的伤害" effectname="群体伤害减免" fenmu="1" id="700200210">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyBeCapturedRate" description="拥有该效果的单位，会修改自身被捕捉的概率" effectname="修改自身被捕捉的概率" fenmu="10000" id="700200211">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SkillCausingDeathPursuit" description="每使用技能击杀单位时，在技能释放结束后有概率追加一个特定技能，只会追加一次，攻击目标根据技能配置的副目标选取逻辑来取" effectname="技能致死追击" fenmu="1" id="700200212">
+    <parameters>
+      <string>skillid</string>
+      <string>skillrate</string>
+      <string>mask</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SkillEffectGroupModify" description="每使用技能对应技能时，会将配置的技能的效果组替换为新配置的效果组" effectname="修改技能效果组" fenmu="1" id="700200213">
+    <parameters>
+      <string>skillid</string>
+      <string>oldEffectGroupId</string>
+      <string>newEffectGroupId</string>
+      <string>modificationRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ChildrenMess" description="子女专用混乱" effectname="子女混乱" fenmu="1" id="700200214">
+    <parameters>
+      <string>target</string>
+      <string>hitRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ThroughDamage" description="攻击目标，目标相邻单位会受到与攻击目标相同的伤害" effectname="贯穿伤害" fenmu="1" id="700200215">
+    <parameters>
+      <string>skillDamageRate</string>
+      <string>adjacentDamageRate</string>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="FixedHpRoundStartAddFixHp" description="当角色回合开始时若满足气血当前值小于气血上限固定百分比时，回合初自动增加当前气血固定值，不作用在治疗公式中" effectname="一定气血时回合初概率增加气血当前值固定值" fenmu="1" id="700200216">
+    <parameters>
+      <string>roundStartAddHp</string>
+      <string>maxHpRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ReplaceDamage" description="给目标使用，代替其受到伤害，目标不会受到伤害" effectname="代替目标受到伤害" fenmu="1" id="700200217">
+    <parameters>
+      <string>rate</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TargetHPDamage" description="攻击时目标每损失一定血量增加本次攻击的伤害" effectname="按照目标血量加深伤害" fenmu="1" id="700200218">
+    <parameters>
+      <string>targetLossHp</string>
+      <string>damageRate</string>
+      <string>exdamageRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ChildrenBornBuff" description="改效果只有玩家角色可以获得，拥有该效果的玩家在召唤自身子女出场（包括默认出场）后，为该子女增加buf" effectname="子女出场后为宠物增加" fenmu="1" id="700200219">
+    <parameters>
+      <string>hitdebuffrate</string>
+      <string>debuffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyTransformationSystem" description="该状态会改变对应战斗对象的变身卡系别，可以改为固定的系别，也可以改为随机系别，该效果只改变系别，不会改变变身卡相关的属性。" effectname="修改变身卡系别" fenmu="1" id="700200220">
+    <parameters>
+      <string>mask</string>
+      <string>level</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="BlackHole" description="在目标友方和随机敌方任意单位面前各制造出一个黑洞，目标友方的黑洞将受到的伤害反弹给敌方有黑洞存在的目标" effectname="黑洞伤害反弹" fenmu="1" id="700200221">
+    <parameters>
+      <string>rate</string>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DamageDeadTransfer" description="攻击单体目标多次，如果目标死亡，则剩余攻击次数转移至副目标单位，直到攻击次数耗尽。" effectname="多段伤害致死转移目标" fenmu="1" id="700200222">
+    <parameters>
+      <string>times</string>
+      <string>damageRate</string>
+      <string>modifyDamage</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="LifeLink" description="对目标使用，使用后施法者受到伤害时，目标也会受到伤害值一定比例的伤害。" effectname="生命链接" fenmu="1" id="700200223">
+    <parameters>
+      <string>rate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MirrorImage" description="对敌方玩家使用，将自身外形、性别、职业、技能（大招除外）镜像成目标角色。" effectname="镜像" fenmu="1" id="700200224">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TimeBackFlows" description="使目标的属性回退到本回合初或上回合初的状态" effectname="时光倒流" fenmu="1" id="700200225">
+    <parameters>
+      <string>attribute</string>
+      <string>round</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyFightStateGroup" description="改变战斗状态和目标模型" effectname="变身" fenmu="1" id="700200226">
+    <parameters>
+      <string>fightGroup</string>
+      <string>fightGroupState</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HouFaWithBuffCode" description="后发" effectname="后发" fenmu="1" id="700200227">
+    <parameters>
+      <string>addatkrate</string>
+      <string>addphydefrate</string>
+      <string>addmagdefrate</string>
+      <string>skillid</string>
+      <string>buffstate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Enrage" description="激怒" effectname="激怒" fenmu="1" id="700200228">
+    <parameters>
+      <string>deadFighterType</string>
+      <string>deadFighterCamp</string>
+      <string>prop</string>
+      <string>propValue</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PositionDamage" description="对敌方固定位置目标造成伤害。" effectname="固定位置伤害" fenmu="1" id="700200229">
+    <parameters>
+      <string>fighterType</string>
+      <string>row</string>
+      <string>skillDamageRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPassiveSkills" description="拥有该效果的角色在进入战斗时可以将拥有对应被动技能的技能id替换另外一个特定的被动技能进入战斗生效，可是将新技能作为生效的被动技能" effectname="修改被动技能" fenmu="1" id="700200230">
+    <parameters>
+      <string>skill1</string>
+      <string>skill2</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PetTargetDamage" description="在使用特定技能时，若攻击目标为宠物则会对其造成额外的伤害" effectname="修改被动技能" fenmu="1" id="700200231">
+    <parameters>
+      <string>id</string>
+      <string>skillDamageRate</string>
+      <string>targetHpRate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAngerAdd" description="每回合初改变怒气当前值固定值" effectname="回合初恢复怒气固定值" fenmu="1" id="700200300">
+    <parameters>
+      <string>roundstartangeradd</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyCrtLevel" description="改变物理暴击等级固定值，作用于人物角色高级属性中的“物理暴击”数值，作用于非人物角色无效" effectname="修改物理暴击等级固定值" fenmu="1" id="700200301">
+    <parameters>
+      <string>phycrtlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagCrtLevel" description="改变法术暴击等级固定值，作用于人物角色高级属性中的“法术暴击”数值，作用于非人物角色无效" effectname="修改法术暴击等级固定值" fenmu="1" id="700200302">
+    <parameters>
+      <string>magcrtlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyPhyCrtResistLevel" description="改变物理暴抗等级固定值，作用于人物角色高级属性中的“物理暴抗”数值，作用于非人物角色无效" effectname="修改物理暴抗等级固定值" fenmu="1" id="700200303">
+    <parameters>
+      <string>phycrtresistlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ModifyMagCrtResistLevel" description="改变法术暴抗等级固定值，作用于人物角色高级属性中的“法术暴抗”数值，作用于非人物角色无效" effectname="修改法术暴抗等级固定值" fenmu="1" id="700200304">
+    <parameters>
+      <string>magcrtresistlevel</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundStartAddHpModifyHeal" description="回合初自动增加当前气血万分比，作用于持续治疗公式中的“基础治疗量”位置 持续治疗量=（基础治疗量2+施法者法术攻击*j（0.4））*（1+施法者治疗效果提升百分比+被治疗者治疗效果提升百分比）+治疗量提升固定值" effectname="修改治疗系数回合初增加气血当前值万分比" fenmu="1" id="700200305">
+    <parameters>
+      <string>roundstartaddhprate</string>
+      <string>max</string>
+      <string>exheal</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="MultiDamageHitDebuff" description="多次伤害，每次造成伤害都有机会施加减益BUFF" effectname="多次伤害并概率施加减益BUFF" fenmu="1" id="700200306">
+    <parameters>
+      <string>damagetimes</string>
+      <string>damagerate</string>
+      <string>modifyrate</string>
+      <string>hitdebuffrate</string>
+      <string>debuffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ForbidAddAnger" description="对敌方玩家使用，受到伤害无法增加怒气" effectname="禁怒" fenmu="1" id="700200307">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RoundEndReduceAnger" description="回合末减少怒气当前值固定值" effectname="回合末减少怒气当前值固定值" fenmu="1" id="700200308">
+    <parameters>
+      <string>roundendreduceanger</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RolePartnerDamage" description="伤害一次" effectname="角色、仙侣性别伤害加成" fenmu="1" id="700200309">
+    <parameters>
+      <string>exatk</string>
+      <string>exatkrate</string>
+      <string>skillDamageRate</string>
+      <string>skillDamageRateMax</string>
+      <string>fixDamage</string>
+      <string>damagerate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DeepMultiDamage" description="中第1次伤害必中（若第一次伤害被完全吸收或被反弹、转移等，则没有后续伤害），之后的伤害值固定为前一次的伤害的倍数，且为真实伤害（无视防御、吸收、反弹、无敌等减伤，但可被闪避）" effectname="多次伤害" fenmu="1" id="700200310">
+    <parameters>
+      <string>damagetimes</string>
+      <string>damagerate</string>
+      <string>multiple</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ForbidUseItem" description="禁止使用药物，如果使用，则施加一个减益BUFF" effectname="禁止使用药物" fenmu="1" id="700200311">
+    <parameters>
+      <string>debuffid</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ForgetPetSkill" description="宠物遗忘保命、重生、抗拒、铁壁、幸运（包含高级和超级）" effectname="宠物遗忘技能" fenmu="1" id="700200312">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TypeInitEnergy" description="拥有该效果的角色会根据战斗类型初始能量值" effectname="根据战斗类型初始能量值" fenmu="10000" id="700200313">
+    <parameters>
+      <string>pvpenergy</string>
+      <string>pveenergy</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="FixMagAtkWithEnergy" description="回合初，根据能量数修正法术攻击万分比" effectname="修正法术攻击万分比" fenmu="10000" id="700200314">
+    <parameters>
+      <string>addmagatkrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SealRebound" description="封印反弹" effectname="封印反弹" fenmu="1" id="700200315">
+	<parameters>
+      <string>times</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AngerTransfer" description="怒气转移" effectname="怒气转移" fenmu="1" id="700200316">
+    <parameters>
+      <string>maxanger</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ToSacrifice" description="目标生命值降为0" effectname="献祭目标" fenmu="1" id="700200317">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HealHPRateOnce" description="治疗一次万分比，无视治疗增益或减益BUFF" effectname="治疗一次万分比" fenmu="10000" id="700200318">
+    <parameters>
+      <string>hprate</string>
+      <string>maxlimit</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RateEnergyOnce" description="概率增加角色能量" effectname="概率增加一次能量" fenmu="10000" id="700200319">
+    <parameters>
+      <string>energy</string>
+      <string>addrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="IndiscriminateMultiDamage" description="无差别攻击，多次伤害" effectname="无差别攻击" fenmu="1" id="700200320">
+    <parameters>
+      <string>times</string>
+      <string>damagerate</string>
+      <string>modifyrate</string>
+      <string>enemyrate</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="AverageProPlus" description="平均活着的友方的生命值和法力值的百分比，即计算友方各自的状态百分比之和后平均给所有活着的友方" effectname="状态平均" fenmu="1" id="700200321">
+    <parameters>
+      <string>mask</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Plague" description="回合末减少气血当前值万分比，且随机传染给未被感染的人，并继承剩余回合数" effectname="瘟疫" fenmu="10000" id="700200322">
+    <parameters>
+      <string>reducehprate</string>
+      <string>max</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="DeathBuff" description="拥有该效果的目标死亡时会对自身施加一个BUFF，有触发回合间隔和触发概率" effectname="死亡施加BUFF" fenmu="10000" id="700200323">
+    <parameters>
+      <string>buffid</string>
+      <string>buffrate</string>
+      <string>round</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="ForceBirth" description="复活并恢复气血万分比，无视禁止复活。如果目标已存活，则恢复气血" effectname="强制复活" fenmu="10000" id="700200324">
+    <parameters>
+      <string>rebirthwithphrate</string>
+      <string>ratemax</string>
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SummonPet" description="在本方阵营后方额外召唤一只不可操控的宠物" effectname="宠物召唤" fenmu="1" id="700200325">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="RangeVampire" description="攻击对方，伤害随机波动，并吸取对方全部所掉气血" effectname="波动伤害吸血" fenmu="1" id="700200326">
+    <parameters>
+      <string>minrate</string>  <!-- 最小波动值 -->
+      <string>maxrate</string>  <!-- 最大波动值 -->
+      <string>mask</string>		<!-- 基数为物理、偶数为法术 -->
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Protect" description="保护友方，以该单位为主目标的技能将随机选定目标" effectname="保护" fenmu="1" id="700200327">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="TwoSidedBuff" description="对敌方使用施加一个buff，对己方使用则施加另一个buff" effectname="双面buff" fenmu="1" id="700200328">
+    <parameters>
+      <string>enemybuff</string>  	<!-- 敌方施加的buff -->
+      <string>friendbuff</string>  	<!-- 友方施加的buff -->
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="Isolated" description="目标用户无法召唤" effectname="孤立" fenmu="1" id="700200329">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="HpMpExchange" description="气血百分比跟蓝量百分比互换" effectname="血蓝互换" fenmu="1" id="700200330">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="SealSkill" description="目标用户如果使用技能，则该技能会被禁用" effectname="禁用技能" fenmu="1" id="700200331">
+    <parameters>
+      <string>round</string>  	<!-- 禁用回合数 -->
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="PursuitSkill" description="使用治疗时对自身追加技能1，对目标造成伤害时则对目标追加技能2" effectname="追加技能" fenmu="1" id="700200332">
+    <parameters>
+      <string>skillid1</string>  	<!-- 技能1 -->
+      <string>skillid2</string>  	<!-- 技能2 -->
+    </parameters>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+  <mzm.gsp.effect.confbean.FighterEffectCfg classname="StrengInvisible" description="强化隐身，可以使用技能" effectname="强化隐身" fenmu="1" id="700200333">
+    <parameters/>
+  </mzm.gsp.effect.confbean.FighterEffectCfg>
+</data>

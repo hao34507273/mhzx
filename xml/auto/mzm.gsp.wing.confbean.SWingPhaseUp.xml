@@ -1,0 +1,13 @@
+<data>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200000" maxSkillNum="4" needItemId="210104004" needItemNum="0" needWingLevel="0" skillResetItemId="210104003" skillResetItemNum="1" wingId="380000002" wingPhase="0"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200001" maxSkillNum="4" needItemId="210104004" needItemNum="1" needWingLevel="3" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="1"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200002" maxSkillNum="4" needItemId="210104004" needItemNum="4" needWingLevel="6" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="2"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200003" maxSkillNum="4" needItemId="210104004" needItemNum="5" needWingLevel="9" skillResetItemId="210104003" skillResetItemNum="1" wingId="380000000" wingPhase="3"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200004" maxSkillNum="4" needItemId="210104004" needItemNum="6" needWingLevel="12" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="4"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200005" maxSkillNum="4" needItemId="210104004" needItemNum="7" needWingLevel="15" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="5"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200006" maxSkillNum="4" needItemId="210104004" needItemNum="11" needWingLevel="18" skillResetItemId="210104003" skillResetItemNum="1" wingId="380000003" wingPhase="6"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200007" maxSkillNum="4" needItemId="210104004" needItemNum="14" needWingLevel="21" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="7"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200008" maxSkillNum="4" needItemId="210104004" needItemNum="20" needWingLevel="24" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="8"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200009" maxSkillNum="4" needItemId="210104004" needItemNum="25" needWingLevel="27" skillResetItemId="210104003" skillResetItemNum="1" wingId="380000101" wingPhase="9"/>
+  <mzm.gsp.wing.confbean.SWingPhaseUp id="380200010" maxSkillNum="4" needItemId="210104004" needItemNum="28" needWingLevel="30" skillResetItemId="210104003" skillResetItemNum="1" wingId="0" wingPhase="10"/>
+</data>

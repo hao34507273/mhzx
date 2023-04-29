@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="5" id="351300000" lowTeamAverageLevel="-5" modifyValueTableId="501402500" templatename="妖兽突袭正常差"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="15" id="351300001" lowTeamAverageLevel="6" modifyValueTableId="501402501" templatename="妖兽突袭人高6到15级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="-6" id="351300002" lowTeamAverageLevel="-15" modifyValueTableId="501402502" templatename="妖兽突袭人低6到15级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="30" id="351300003" lowTeamAverageLevel="16" modifyValueTableId="501402503" templatename="妖兽突袭人高16到30级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="-16" id="351300004" lowTeamAverageLevel="-30" modifyValueTableId="501402504" templatename="妖兽突袭人低16到30级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="50" id="351300005" lowTeamAverageLevel="31" modifyValueTableId="501402505" templatename="妖兽突袭人高31到50级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="-31" id="351300006" lowTeamAverageLevel="-50" modifyValueTableId="501402506" templatename="妖兽突袭人低31到50级"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="150" id="351300007" lowTeamAverageLevel="51" modifyValueTableId="501402507" templatename="妖兽突袭人高50级以上"/>
+  <mzm.gsp.visiblemonsterfight.confbean.SBeastFightRewardModify highTeamAverageLevel="-51" id="351300008" lowTeamAverageLevel="-150" modifyValueTableId="501402508" templatename="妖兽突袭人低50级以上"/>
+</data>

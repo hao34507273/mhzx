@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.chivalry.confbean.STDaySumType2GainTypes daySumType="1">
+    <activityTypes>
+      <int>1</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+      <int>6</int>
+      <int>9</int>
+      <int>10</int>
+      <int>11</int>
+      <int>12</int>
+    </activityTypes>
+  </mzm.gsp.chivalry.confbean.STDaySumType2GainTypes>
+  <mzm.gsp.chivalry.confbean.STDaySumType2GainTypes daySumType="2">
+    <activityTypes>
+      <int>7</int>
+      <int>8</int>
+    </activityTypes>
+  </mzm.gsp.chivalry.confbean.STDaySumType2GainTypes>
+</data>

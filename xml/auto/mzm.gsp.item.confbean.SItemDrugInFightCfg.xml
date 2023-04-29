@@ -1,0 +1,1326 @@
+<data>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="1" icon="147" id="210400000" isProprietary="false" name="1☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="1" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="1" icon="147" id="210400001" isProprietary="false" name="2☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="2" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="1" icon="147" id="210400002" isProprietary="false" name="3☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="3" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="1" icon="147" id="210400003" isProprietary="false" name="4☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="4" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="1" icon="147" id="210400004" isProprietary="false" name="5☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="5" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="1" icon="147" id="210400005" isProprietary="false" name="6☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="6" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="1" icon="147" id="210400006" isProprietary="false" name="7☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="7" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="1" icon="147" id="210400007" isProprietary="false" name="8☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="8" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="1" icon="147" id="210400008" isProprietary="false" name="9☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="9" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="1" icon="147" id="210400009" isProprietary="false" name="10☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="10" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="1" icon="147" id="210400010" isProprietary="false" name="11☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="11" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="1" icon="147" id="210400011" isProprietary="false" name="12☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="12" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="1" icon="147" id="210400012" isProprietary="false" name="13☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="13" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="1" icon="147" id="210400013" isProprietary="false" name="14☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="14" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="1" icon="147" id="210400014" isProprietary="false" name="15☆止血藥" namecolor="1" pilemax="99" sellSilver="3000" sort="15" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301005</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="1" icon="29" id="210400015" isProprietary="false" name="1☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="16" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="1" icon="29" id="210400016" isProprietary="false" name="2☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="17" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="1" icon="29" id="210400017" isProprietary="false" name="3☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="18" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="1" icon="29" id="210400018" isProprietary="false" name="4☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="19" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="1" icon="29" id="210400019" isProprietary="false" name="5☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="20" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="1" icon="29" id="210400020" isProprietary="false" name="6☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="21" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="1" icon="29" id="210400021" isProprietary="false" name="7☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="22" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="1" icon="29" id="210400022" isProprietary="false" name="8☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="23" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="1" icon="29" id="210400023" isProprietary="false" name="9☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="24" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="1" icon="29" id="210400024" isProprietary="false" name="10☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="25" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="1" icon="29" id="210400025" isProprietary="false" name="11☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="26" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="1" icon="29" id="210400026" isProprietary="false" name="12☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="27" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="1" icon="29" id="210400027" isProprietary="false" name="13☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="28" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="1" icon="29" id="210400028" isProprietary="false" name="14☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="29" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="1" icon="29" id="210400029" isProprietary="false" name="15☆大黃丹" namecolor="2" pilemax="99" sellSilver="3000" sort="30" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301006</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="2" icon="30" id="210400030" isProprietary="false" name="1☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="31" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="2" icon="30" id="210400031" isProprietary="false" name="2☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="32" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="2" icon="30" id="210400032" isProprietary="false" name="3☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="33" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="2" icon="30" id="210400033" isProprietary="false" name="4☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="34" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="2" icon="30" id="210400034" isProprietary="false" name="5☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="35" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="2" icon="30" id="210400035" isProprietary="false" name="6☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="36" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="2" icon="30" id="210400036" isProprietary="false" name="7☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="37" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="2" icon="30" id="210400037" isProprietary="false" name="8☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="38" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="2" icon="30" id="210400038" isProprietary="false" name="9☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="39" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="2" icon="30" id="210400039" isProprietary="false" name="10☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="40" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="2" icon="30" id="210400040" isProprietary="false" name="11☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="41" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="2" icon="30" id="210400041" isProprietary="false" name="12☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="42" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="2" icon="30" id="210400042" isProprietary="false" name="13☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="43" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="2" icon="30" id="210400043" isProprietary="false" name="14☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="44" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="2" icon="30" id="210400044" isProprietary="false" name="15☆補靈丹" namecolor="1" pilemax="99" sellSilver="4000" sort="45" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301007</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="2" icon="9" id="210400045" isProprietary="false" name="1☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="46" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="2" icon="9" id="210400046" isProprietary="false" name="2☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="47" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="2" icon="9" id="210400047" isProprietary="false" name="3☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="48" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="2" icon="9" id="210400048" isProprietary="false" name="4☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="49" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="2" icon="9" id="210400049" isProprietary="false" name="5☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="50" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="2" icon="9" id="210400050" isProprietary="false" name="6☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="51" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="2" icon="9" id="210400051" isProprietary="false" name="7☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="52" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="2" icon="9" id="210400052" isProprietary="false" name="8☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="53" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="2" icon="9" id="210400053" isProprietary="false" name="9☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="54" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="2" icon="9" id="210400054" isProprietary="false" name="10☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="55" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="2" icon="9" id="210400055" isProprietary="false" name="11☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="56" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="2" icon="9" id="210400056" isProprietary="false" name="12☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="57" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="2" icon="9" id="210400057" isProprietary="false" name="13☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="58" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="2" icon="9" id="210400058" isProprietary="false" name="14☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="59" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="2" icon="9" id="210400059" isProprietary="false" name="15☆檀香散" namecolor="2" pilemax="99" sellSilver="4000" sort="60" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="4" icon="25" id="210400060" isProprietary="false" name="1☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="61" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="4" icon="25" id="210400061" isProprietary="false" name="2☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="62" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="4" icon="25" id="210400062" isProprietary="false" name="3☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="63" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="4" icon="25" id="210400063" isProprietary="false" name="4☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="64" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="4" icon="25" id="210400064" isProprietary="false" name="5☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="65" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="4" icon="25" id="210400065" isProprietary="false" name="6☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="66" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="4" icon="25" id="210400066" isProprietary="false" name="7☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="67" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="4" icon="25" id="210400067" isProprietary="false" name="8☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="68" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="4" icon="25" id="210400068" isProprietary="false" name="9☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="69" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="4" icon="25" id="210400069" isProprietary="false" name="10☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="70" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="4" icon="25" id="210400070" isProprietary="false" name="11☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="71" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="4" icon="25" id="210400071" isProprietary="false" name="12☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="72" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="4" icon="25" id="210400072" isProprietary="false" name="13☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="73" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="4" icon="25" id="210400073" isProprietary="false" name="14☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="74" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="4" icon="25" id="210400074" isProprietary="false" name="15☆還魂丹" namecolor="2" pilemax="99" sellSilver="12000" sort="75" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301009</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="4" icon="22" id="210400075" isProprietary="false" name="1☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="76" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="4" icon="22" id="210400076" isProprietary="false" name="2☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="77" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="4" icon="22" id="210400077" isProprietary="false" name="3☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="78" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="4" icon="22" id="210400078" isProprietary="false" name="4☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="79" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="4" icon="22" id="210400079" isProprietary="false" name="5☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="80" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="4" icon="22" id="210400080" isProprietary="false" name="6☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="81" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="4" icon="22" id="210400081" isProprietary="false" name="7☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="82" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="4" icon="22" id="210400082" isProprietary="false" name="8☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="83" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="4" icon="22" id="210400083" isProprietary="false" name="9☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="84" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="4" icon="22" id="210400084" isProprietary="false" name="10☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="85" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="4" icon="22" id="210400085" isProprietary="false" name="11☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="86" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="4" icon="22" id="210400086" isProprietary="false" name="12☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="87" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="4" icon="22" id="210400087" isProprietary="false" name="13☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="88" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="4" icon="22" id="210400088" isProprietary="false" name="14☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="89" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="4" icon="22" id="210400089" isProprietary="false" name="15☆聚魂散" namecolor="3" pilemax="99" sellSilver="18000" sort="90" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="3" icon="6" id="210400090" isProprietary="false" name="1☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="91" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="3" icon="6" id="210400091" isProprietary="false" name="2☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="92" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="3" icon="6" id="210400092" isProprietary="false" name="3☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="93" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="3" icon="6" id="210400093" isProprietary="false" name="4☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="94" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="3" icon="6" id="210400094" isProprietary="false" name="5☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="95" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="3" icon="6" id="210400095" isProprietary="false" name="6☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="96" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="3" icon="6" id="210400096" isProprietary="false" name="7☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="97" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="3" icon="6" id="210400097" isProprietary="false" name="8☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="98" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="3" icon="6" id="210400098" isProprietary="false" name="9☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="99" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="3" icon="6" id="210400099" isProprietary="false" name="10☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="100" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="3" icon="6" id="210400100" isProprietary="false" name="11☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="101" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="3" icon="6" id="210400101" isProprietary="false" name="12☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="102" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="3" icon="6" id="210400102" isProprietary="false" name="13☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="103" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="3" icon="6" id="210400103" isProprietary="false" name="14☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="104" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="3" icon="6" id="210400104" isProprietary="false" name="15☆小還丹" namecolor="2" pilemax="99" sellSilver="8000" sort="105" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="5" icon="10" id="210400105" isProprietary="false" name="1☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="106" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="5" icon="10" id="210400106" isProprietary="false" name="2☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="107" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="5" icon="10" id="210400107" isProprietary="false" name="3☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="108" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="5" icon="10" id="210400108" isProprietary="false" name="4☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="109" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="5" icon="10" id="210400109" isProprietary="false" name="5☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="110" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="5" icon="10" id="210400110" isProprietary="false" name="6☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="111" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="5" icon="10" id="210400111" isProprietary="false" name="7☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="112" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="5" icon="10" id="210400112" isProprietary="false" name="8☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="113" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="5" icon="10" id="210400113" isProprietary="false" name="9☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="114" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="5" icon="10" id="210400114" isProprietary="false" name="10☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="115" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="5" icon="10" id="210400115" isProprietary="false" name="11☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="116" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="5" icon="10" id="210400116" isProprietary="false" name="12☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="117" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="5" icon="10" id="210400117" isProprietary="false" name="13☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="118" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="5" icon="10" id="210400118" isProprietary="false" name="14☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="119" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="5" icon="10" id="210400119" isProprietary="false" name="15☆麝香歸氣散" namecolor="2" pilemax="99" sellSilver="20000" sort="120" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="6" icon="28" id="210400120" isProprietary="false" name="1☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="121" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="6" icon="28" id="210400121" isProprietary="false" name="2☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="122" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="6" icon="28" id="210400122" isProprietary="false" name="3☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="123" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="6" icon="28" id="210400123" isProprietary="false" name="4☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="124" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="6" icon="28" id="210400124" isProprietary="false" name="5☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="125" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="6" icon="28" id="210400125" isProprietary="false" name="6☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="126" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="6" icon="28" id="210400126" isProprietary="false" name="7☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="127" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="6" icon="28" id="210400127" isProprietary="false" name="8☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="128" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="6" icon="28" id="210400128" isProprietary="false" name="9☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="129" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="6" icon="28" id="210400129" isProprietary="false" name="10☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="130" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="6" icon="28" id="210400130" isProprietary="false" name="11☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="131" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="6" icon="28" id="210400131" isProprietary="false" name="12☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="132" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="6" icon="28" id="210400132" isProprietary="false" name="13☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="133" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="6" icon="28" id="210400133" isProprietary="false" name="14☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="134" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="6" icon="28" id="210400134" isProprietary="false" name="15☆地靈救心丸" namecolor="3" pilemax="99" sellSilver="15000" sort="135" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="7" icon="224" id="210400135" isProprietary="false" name="1☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="136" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="7" icon="224" id="210400136" isProprietary="false" name="2☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="137" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="7" icon="224" id="210400137" isProprietary="false" name="3☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="138" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="7" icon="224" id="210400138" isProprietary="false" name="4☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="139" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="7" icon="224" id="210400139" isProprietary="false" name="5☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="140" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="7" icon="224" id="210400140" isProprietary="false" name="6☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="141" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="7" icon="224" id="210400141" isProprietary="false" name="7☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="142" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="7" icon="224" id="210400142" isProprietary="false" name="8☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="143" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="7" icon="224" id="210400143" isProprietary="false" name="9☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="144" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="7" icon="224" id="210400144" isProprietary="false" name="10☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="145" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="7" icon="224" id="210400145" isProprietary="false" name="11☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="146" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="7" icon="224" id="210400146" isProprietary="false" name="12☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="147" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="7" icon="224" id="210400147" isProprietary="false" name="13☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="148" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="7" icon="224" id="210400148" isProprietary="false" name="14☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="149" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="7" icon="224" id="210400149" isProprietary="false" name="15☆大力雄黃" namecolor="2" pilemax="99" sellSilver="9000" sort="150" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="10" icon="222" id="210400150" isProprietary="false" name="1☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="151" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="10" icon="222" id="210400151" isProprietary="false" name="2☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="152" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="10" icon="222" id="210400152" isProprietary="false" name="3☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="153" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="10" icon="222" id="210400153" isProprietary="false" name="4☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="154" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="10" icon="222" id="210400154" isProprietary="false" name="5☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="155" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="10" icon="222" id="210400155" isProprietary="false" name="6☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="156" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="10" icon="222" id="210400156" isProprietary="false" name="7☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="157" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="10" icon="222" id="210400157" isProprietary="false" name="8☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="158" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="10" icon="222" id="210400158" isProprietary="false" name="9☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="159" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="10" icon="222" id="210400159" isProprietary="false" name="10☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="160" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="10" icon="222" id="210400160" isProprietary="false" name="11☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="161" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="10" icon="222" id="210400161" isProprietary="false" name="12☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="162" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="10" icon="222" id="210400162" isProprietary="false" name="13☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="163" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="10" icon="222" id="210400163" isProprietary="false" name="14☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="164" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="10" icon="222" id="210400164" isProprietary="false" name="15☆雪魄精釀" namecolor="3" pilemax="99" sellSilver="15000" sort="165" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301015</int>
+      <int>110301016</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="9" icon="228" id="210400165" isProprietary="false" name="1☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="166" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="9" icon="228" id="210400166" isProprietary="false" name="2☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="167" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="9" icon="228" id="210400167" isProprietary="false" name="3☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="168" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="9" icon="228" id="210400168" isProprietary="false" name="4☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="169" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="9" icon="228" id="210400169" isProprietary="false" name="5☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="170" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="9" icon="228" id="210400170" isProprietary="false" name="6☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="171" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="9" icon="228" id="210400171" isProprietary="false" name="7☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="172" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="9" icon="228" id="210400172" isProprietary="false" name="8☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="173" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="9" icon="228" id="210400173" isProprietary="false" name="9☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="174" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="9" icon="228" id="210400174" isProprietary="false" name="10☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="175" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="9" icon="228" id="210400175" isProprietary="false" name="11☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="176" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="9" icon="228" id="210400176" isProprietary="false" name="12☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="177" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="9" icon="228" id="210400177" isProprietary="false" name="13☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="178" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="9" icon="228" id="210400178" isProprietary="false" name="14☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="179" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="9" icon="228" id="210400179" isProprietary="false" name="15☆氣焰昇華" namecolor="3" pilemax="99" sellSilver="10000" sort="180" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301017</int>
+      <int>110301018</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="8" icon="1" id="210400180" isProprietary="false" name="1☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="181" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="2" fun="8" icon="1" id="210400181" isProprietary="false" name="2☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="182" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="3" fun="8" icon="1" id="210400182" isProprietary="false" name="3☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="183" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="4" fun="8" icon="1" id="210400183" isProprietary="false" name="4☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="184" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="8" icon="1" id="210400184" isProprietary="false" name="5☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="185" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="6" fun="8" icon="1" id="210400185" isProprietary="false" name="6☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="186" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="7" fun="8" icon="1" id="210400186" isProprietary="false" name="7☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="187" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="8" fun="8" icon="1" id="210400187" isProprietary="false" name="8☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="188" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="9" fun="8" icon="1" id="210400188" isProprietary="false" name="9☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="189" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="8" icon="1" id="210400189" isProprietary="false" name="10☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="190" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="8" icon="1" id="210400190" isProprietary="false" name="11☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="191" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="8" icon="1" id="210400191" isProprietary="false" name="12☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="192" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="8" icon="1" id="210400192" isProprietary="false" name="13☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="193" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="8" icon="1" id="210400193" isProprietary="false" name="14☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="194" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="8" icon="1" id="210400194" isProprietary="false" name="15☆醉夢羅漢" namecolor="3" pilemax="99" sellSilver="20000" sort="195" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301019</int>
+      <int>110301020</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="0" fun="1" icon="146" id="210400195" isProprietary="false" name="金創藥" namecolor="1" pilemax="99" sellSilver="500" sort="196" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301000</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="7" icon="91228" id="210400196" isProprietary="false" name="11☆神·大力雄黃" namecolor="4" pilemax="99" sellSilver="100000" sort="197" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="7" icon="91228" id="210400197" isProprietary="false" name="12☆神·大力雄黃" namecolor="4" pilemax="99" sellSilver="100000" sort="198" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="7" icon="91228" id="210400198" isProprietary="false" name="13☆神·大力雄黃" namecolor="5" pilemax="99" sellSilver="100000" sort="199" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="7" icon="91228" id="210400199" isProprietary="false" name="14☆神·大力雄黃" namecolor="5" pilemax="99" sellSilver="100000" sort="200" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="7" icon="91228" id="210400200" isProprietary="false" name="15☆神·大力雄黃" namecolor="5" pilemax="99" sellSilver="100000" sort="201" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301014</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="9" icon="91229" id="210400201" isProprietary="false" name="11☆神·氣焰升華" namecolor="4" pilemax="99" sellSilver="100000" sort="202" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301027</int>
+      <int>110301028</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="9" icon="91229" id="210400202" isProprietary="false" name="12☆神·氣焰升華" namecolor="4" pilemax="99" sellSilver="100000" sort="203" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301027</int>
+      <int>110301028</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="9" icon="91229" id="210400203" isProprietary="false" name="13☆神·氣焰升華" namecolor="5" pilemax="99" sellSilver="100000" sort="204" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301027</int>
+      <int>110301028</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="9" icon="91229" id="210400204" isProprietary="false" name="14☆神·氣焰升華" namecolor="5" pilemax="99" sellSilver="100000" sort="205" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301027</int>
+      <int>110301028</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="9" icon="91229" id="210400205" isProprietary="false" name="15☆神·氣焰升華" namecolor="5" pilemax="99" sellSilver="100000" sort="206" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301027</int>
+      <int>110301028</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="10" icon="91230" id="210400206" isProprietary="false" name="11☆神·雪魄精釀" namecolor="4" pilemax="99" sellSilver="100000" sort="207" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301030</int>
+      <int>110301029</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="10" icon="91230" id="210400207" isProprietary="false" name="12☆神·雪魄精釀" namecolor="4" pilemax="99" sellSilver="100000" sort="208" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301030</int>
+      <int>110301029</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="10" icon="91230" id="210400208" isProprietary="false" name="13☆神·雪魄精釀" namecolor="5" pilemax="99" sellSilver="100000" sort="209" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301030</int>
+      <int>110301029</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="10" icon="91230" id="210400209" isProprietary="false" name="14☆神·雪魄精釀" namecolor="5" pilemax="99" sellSilver="100000" sort="210" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301030</int>
+      <int>110301029</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="10" icon="91230" id="210400210" isProprietary="false" name="15☆神·雪魄精釀" namecolor="5" pilemax="99" sellSilver="100000" sort="211" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301030</int>
+      <int>110301029</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="8" icon="91231" id="210400211" isProprietary="false" name="11☆神·醉夢羅漢" namecolor="4" pilemax="99" sellSilver="100000" sort="212" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301020</int>
+      <int>110301031</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="8" icon="91231" id="210400212" isProprietary="false" name="12☆神·醉夢羅漢" namecolor="4" pilemax="99" sellSilver="100000" sort="213" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301020</int>
+      <int>110301031</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="8" icon="91231" id="210400213" isProprietary="false" name="13☆神·醉夢羅漢" namecolor="5" pilemax="99" sellSilver="100000" sort="214" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301020</int>
+      <int>110301031</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="8" icon="91231" id="210400214" isProprietary="false" name="14☆神·醉夢羅漢" namecolor="5" pilemax="99" sellSilver="100000" sort="215" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301020</int>
+      <int>110301031</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="8" icon="91231" id="210400215" isProprietary="false" name="15☆神·醉夢羅漢" namecolor="5" pilemax="99" sellSilver="100000" sort="216" targettype1="2" targettype2="9" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301026</int>
+      <int>110301020</int>
+      <int>110301031</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="1" icon="91232" id="210400216" isProprietary="false" name="11☆神·大黃丹" namecolor="4" pilemax="99" sellSilver="100000" sort="217" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301021</int>
+      <int>110301022</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="1" icon="91232" id="210400217" isProprietary="false" name="12☆神·大黃丹" namecolor="4" pilemax="99" sellSilver="100000" sort="218" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301021</int>
+      <int>110301022</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="1" icon="91232" id="210400218" isProprietary="false" name="13☆神·大黃丹" namecolor="5" pilemax="99" sellSilver="100000" sort="219" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301021</int>
+      <int>110301022</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="1" icon="91232" id="210400219" isProprietary="false" name="14☆神·大黃丹" namecolor="5" pilemax="99" sellSilver="100000" sort="220" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301021</int>
+      <int>110301022</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="1" icon="91232" id="210400220" isProprietary="false" name="15☆神·大黃丹" namecolor="5" pilemax="99" sellSilver="100000" sort="221" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301021</int>
+      <int>110301022</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="4" icon="91234" id="210400221" isProprietary="false" name="11☆神·聚魂散" namecolor="4" pilemax="99" sellSilver="100000" sort="222" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+      <int>110301023</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="4" icon="91234" id="210400222" isProprietary="false" name="12☆神·聚魂散" namecolor="4" pilemax="99" sellSilver="100000" sort="223" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+      <int>110301023</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="4" icon="91234" id="210400223" isProprietary="false" name="13☆神·聚魂散" namecolor="5" pilemax="99" sellSilver="100000" sort="224" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+      <int>110301023</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="4" icon="91234" id="210400224" isProprietary="false" name="14☆神·聚魂散" namecolor="5" pilemax="99" sellSilver="100000" sort="225" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+      <int>110301023</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="4" icon="91234" id="210400225" isProprietary="false" name="15☆神·聚魂散" namecolor="5" pilemax="99" sellSilver="100000" sort="226" targettype1="3" targettype2="3" targettype3="1" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301010</int>
+      <int>110301023</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="6" icon="91235" id="210400226" isProprietary="false" name="11☆神·地心丸" namecolor="4" pilemax="99" sellSilver="100000" sort="227" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+      <int>110301024</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="6" icon="91235" id="210400227" isProprietary="false" name="12☆神·地心丸" namecolor="4" pilemax="99" sellSilver="100000" sort="228" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+      <int>110301024</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="6" icon="91235" id="210400228" isProprietary="false" name="13☆神·地心丸" namecolor="5" pilemax="99" sellSilver="100000" sort="229" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+      <int>110301024</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="6" icon="91235" id="210400229" isProprietary="false" name="14☆神·地心丸" namecolor="5" pilemax="99" sellSilver="100000" sort="230" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+      <int>110301024</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="6" icon="91235" id="210400230" isProprietary="false" name="15☆神·地心丸" namecolor="5" pilemax="99" sellSilver="100000" sort="231" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301013</int>
+      <int>110301024</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="11" fun="5" icon="91236" id="210400231" isProprietary="false" name="11☆神·麝香散" namecolor="4" pilemax="99" sellSilver="100000" sort="232" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+      <int>110301025</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="12" fun="5" icon="91236" id="210400232" isProprietary="false" name="12☆神·麝香散" namecolor="4" pilemax="99" sellSilver="100000" sort="233" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+      <int>110301025</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="13" fun="5" icon="91236" id="210400233" isProprietary="false" name="13☆神·麝香散" namecolor="5" pilemax="99" sellSilver="100000" sort="234" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+      <int>110301025</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="14" fun="5" icon="91236" id="210400234" isProprietary="false" name="14☆神·麝香散" namecolor="5" pilemax="99" sellSilver="100000" sort="235" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+      <int>110301025</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="15" fun="5" icon="91236" id="210400235" isProprietary="false" name="15☆神·麝香散" namecolor="5" pilemax="99" sellSilver="100000" sort="236" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="159" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301012</int>
+      <int>110301025</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="0" fun="1" icon="307" id="210433000" isProprietary="true" name="破忍術·手裡劍" namecolor="3" pilemax="10" sellSilver="500" sort="237" targettype1="3" targettype2="7" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110399002</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="0" fun="0" icon="1" id="210490000" isProprietary="false" name="小凡專用藥" namecolor="1" pilemax="10" sellSilver="10" sort="240" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110390000</int>
+      <int>110390001</int>
+      <int>110390002</int>
+      <int>110390003</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="0" fun="0" icon="1" id="210490001" isProprietary="false" name="石頭專用藥" namecolor="1" pilemax="10" sellSilver="10" sort="241" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110390010</int>
+      <int>110390011</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="5" fun="0" icon="1" id="210490002" isProprietary="false" name="品質*500血怪物用藥" namecolor="1" pilemax="10" sellSilver="10" sort="242" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110390040</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="0" icon="1" id="210490003" isProprietary="false" name="1000藍怪物用藥" namecolor="1" pilemax="10" sellSilver="10" sort="243" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110301008</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="10" fun="0" icon="1" id="210490004" isProprietary="false" name="品質*500血怪物用藥" namecolor="1" pilemax="10" sellSilver="10" sort="244" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110390040</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="0" icon="1" id="210490005" isProprietary="false" name="品質*500血怪物用藥" namecolor="1" pilemax="10" sellSilver="10" sort="245" targettype1="3" targettype2="8" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110390040</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="0" fun="7" icon="1" id="210499000" isProprietary="false" name="150怒氣藥" namecolor="1" pilemax="99" sellSilver="10" sort="238" targettype1="3" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110399000</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+  <mzm.gsp.item.confbean.SItemDrugInFightCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" drugPro="1" fun="0" icon="2" id="210499001" isProprietary="false" name="減血藥" namecolor="2" pilemax="99" sellSilver="10" sort="239" targettype1="4" targettype2="31" targettype3="2" targettype4="63" type="5" useLevel="0">
+    <skillEffectGroupIds>
+      <int>110399001</int>
+    </skillEffectGroupIds>
+  </mzm.gsp.item.confbean.SItemDrugInFightCfg>
+</data>

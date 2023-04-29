@@ -1,0 +1,16 @@
+<root>
+	<row name="TEAMLEADER_EXP_ADD" value="1000"/>
+	<row name="STABLETEAM_EXP_ADD" value="1000"/>
+	<row name="DOUBLE_EXP_ADD" value="1000"/>
+	<row name="GANG_EXP_ADD" value="1000"/>
+	<row name="SWORN_EXP_ADD" value="1000"/>
+	<row name="MARRY_EXP_ADD" value="1000"/>
+	<row name="TEAMLEADER_SILVER_ADD" value="1000"/>
+	<row name="STABLETEAM_SILVER_ADD" value="1000"/>
+	<row name="DOUBLE_SILVER_ADD" value="1000"/>
+	<row name="GANG_SILVER_ADD" value="1000"/>
+	<row name="SWORN_SILVER_ADD" value="1000"/>
+	<row name="MARRY_SILVER_ADD" value="1000"/>
+	<row name="DOUBLE_ITEMRATE_ADD" value="1000"/>
+	<row name="STORE_EXP_TRANSFORM" value="1000"/>
+</root>

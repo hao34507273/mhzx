@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg passTypeId="1">
+    <itemCfgIdList>
+      <int>968500100</int>
+      <int>968500101</int>
+    </itemCfgIdList>
+  </mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg>
+  <mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg passTypeId="2">
+    <itemCfgIdList>
+      <int>968500200</int>
+    </itemCfgIdList>
+  </mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg>
+  <mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg passTypeId="3">
+    <itemCfgIdList>
+      <int>968500300</int>
+    </itemCfgIdList>
+  </mzm.gsp.drawcarnival.confbean.DrawCarnivalPassItemCfg>
+</data>

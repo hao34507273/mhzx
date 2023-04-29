@@ -1,0 +1,26 @@
+<root>
+<row name="marriageNPC" value="150100018"/>
+<row name="needLevel" value="30"/>
+<row name="friendValue" value="1000"/>
+<row name="refuseMarriageSec" value="300"/>
+<row name="defaultTitle" value="190200000"/>
+<row name="giftNotify" value="0"/>
+<row name="divorceSilver" value="30000"/>
+<row name="forceDivorceSilver" value="300000"/>
+<row name="forceDivorceHour" value="72"/>
+<row name="forceDivorceMail" value="340003000"/>
+<row name="divorceMail" value="340003001"/>
+<row name="cancelDivorceMail" value="340003002"/>
+<row name="divorceFriendValue" value="500"/>
+<row name="forceDivorceFriendValue" value="1"/>
+<row name="canDivorceAfterMarriageHour" value="168"/>
+<row name="sugerControlerid" value="701104000"/>
+<row name="marriageMapid" value="330000001"/>
+<row name="x" value="5341"/>
+<row name="y" value="1357"/>
+<row name="giftTime" value="1440"/>
+<row name="marriageBuffid1" value="701203100"/>
+<row name="coupleInteamBuffid" value="701203110"/>
+<row name="manModelBuff" value="701203102"/>
+<row name="womenModelBuff" value="701203103"/>
+</root>

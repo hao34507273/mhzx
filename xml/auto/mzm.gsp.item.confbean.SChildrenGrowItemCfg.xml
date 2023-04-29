@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.item.confbean.SChildrenGrowItemCfg addUseCount="true" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" growRateMax="20" growRateMin="20" icon="955" id="215700000" isProprietary="false" name="成長快樂" namecolor="4" pilemax="999" sellSilver="80000" sort="1" type="97" useLevel="0"/>
+  <mzm.gsp.item.confbean.SChildrenGrowItemCfg addUseCount="false" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" growRateMax="20" growRateMin="20" icon="956" id="215700001" isProprietary="false" name="大瓶成長快樂" namecolor="4" pilemax="999" sellSilver="80000" sort="2" type="97" useLevel="0"/>
+</data>

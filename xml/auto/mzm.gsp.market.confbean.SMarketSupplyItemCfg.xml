@@ -1,0 +1,497 @@
+<data>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600010" itemid="211000038" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600055" itemid="211000185" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.75" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.9" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600009" itemid="211000035" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600008" itemid="211000032" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600054" itemid="211000181" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600013" itemid="211000047" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600012" itemid="211000044" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600011" itemid="211000041" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600053" itemid="211000178" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600051" itemid="211000172" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600052" itemid="211000175" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600015" itemid="211000053" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600014" itemid="211000050" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600050" itemid="211000169" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600018" itemid="211000062" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600049" itemid="211000166" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600047" itemid="211000160" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600017" itemid="211000059" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600016" itemid="211000056" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600048" itemid="211000163" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600002" itemid="211000014" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600046" itemid="211000147" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600001" itemid="211000011" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600045" itemid="211000144" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.3" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.9" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="5.2" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600004" itemid="211000020" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600005" itemid="211000023" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600044" itemid="211000141" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600043" itemid="211000138" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.3" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.9" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.2" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600003" itemid="211000017" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600007" itemid="211000029" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600042" itemid="211000135" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.3" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.9" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.2" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600041" itemid="211000132" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600006" itemid="211000026" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600040" itemid="211000129" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600037" itemid="211000120" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600038" itemid="211000123" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600039" itemid="211000126" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600035" itemid="211000114" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600036" itemid="211000117" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600032" itemid="211000105" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600033" itemid="211000108" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600034" itemid="211000111" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600030" itemid="211000098" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600031" itemid="211000102" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="3.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600027" itemid="211000089" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.75" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.9" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600029" itemid="211000095" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="4.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="5.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600028" itemid="211000092" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.75" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.9" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600025" itemid="211000083" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600024" itemid="211000080" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="9.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="9.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600026" itemid="211000086" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600022" itemid="211000074" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600023" itemid="211000077" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="6.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="7.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="8.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="9.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="9.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600019" itemid="211000065" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.0" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="2.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600021" itemid="211000071" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+  <mzm.gsp.market.confbean.SMarketSupplyItemCfg daySupplyNum="20" extraRate="1" id="420600020" itemid="211000068" maxSupplyNum="2" minMarketItemNum="6" minServerLevel="60" minSupplyNum="1" persistMinutes="119">
+    <priceRate2Weight>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.05" weight="2000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.15" weight="4000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.3" weight="6000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.45" weight="8000"/>
+      <mzm.gsp.market.confbean.PriceRate2Weight priceRate="1.6" weight="10000"/>
+    </priceRate2Weight>
+  </mzm.gsp.market.confbean.SMarketSupplyItemCfg>
+</data>

@@ -1,0 +1,13 @@
+<data>
+  <mzm.gsp.ranklist.confbean.SRankListCfg bigTypeName="角色相关" id="540000000" templatename="角色排行榜">
+    <subTypeIdList>
+      <int>540100000</int>
+      <int>540100001</int>
+    </subTypeIdList>
+  </mzm.gsp.ranklist.confbean.SRankListCfg>
+  <mzm.gsp.ranklist.confbean.SRankListCfg bigTypeName="宠物相关" id="540000001" templatename="宠物排行榜">
+    <subTypeIdList>
+      <int>540101000</int>
+    </subTypeIdList>
+  </mzm.gsp.ranklist.confbean.SRankListCfg>
+</data>

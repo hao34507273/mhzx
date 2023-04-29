@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="false" activeRoleGenderLimit="1" id="344800001" name="親親" targetCanBeSameGender="false"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="false" activeRoleGenderLimit="1" id="344800002" name="求婚" targetCanBeSameGender="false"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="false" activeRoleGenderLimit="1" id="344800003" name="摸摸頭" targetCanBeSameGender="false"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800004" name="坐下" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="false" activeRoleGenderLimit="1" id="344800005" name="公主抱" targetCanBeSameGender="false"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800006" name="行禮" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800007" name="斗舞" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800008" name="決斗" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800009" name="倒地" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800010" name="再見" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800011" name="飛吻" targetCanBeSameGender="true"/>
+  <mzm.gsp.interaction.confbean.SInteractionCfg acceptInvitationOnTimeout="true" activeRoleGenderLimit="0" id="344800012" name="炫舞" targetCanBeSameGender="true"/>
+</data>

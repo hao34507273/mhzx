@@ -1,0 +1,5131 @@
+<data>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900000">
+    <params>
+      <float>0</float>
+      <float>1.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900001">
+    <params>
+      <float>0</float>
+      <float>0.775</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900002">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900003">
+    <params>
+      <float>0</float>
+      <float>0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900004">
+    <params>
+      <float>0</float>
+      <float>5.22</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900005">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900006">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900007">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900008">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900009">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900022">
+    <params>
+      <float>0</float>
+      <float>2</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900023">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900024">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900025">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900026">
+    <params>
+      <float>0</float>
+      <float>1.1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900027">
+    <params>
+      <float>0</float>
+      <float>1.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900028">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900029">
+    <params>
+      <float>0</float>
+      <float>1.1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900030">
+    <params>
+      <float>0</float>
+      <float>1.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900039">
+    <params>
+      <float>0</float>
+      <float>0.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900040">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900041">
+    <params>
+      <float>0</float>
+      <float>1.2</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900042">
+    <params>
+      <float>0</float>
+      <float>0.3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900043">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900044">
+    <params>
+      <float>0</float>
+      <float>0.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701900047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900053">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900100">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900101">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900102">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900103">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900104">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900105">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900106">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900107">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900108">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900109">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900110">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900111">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900112">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900113">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900114">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900115">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900116">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900117">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900118">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900119">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701900120">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901000">
+    <params>
+      <float>5</float>
+      <float>2</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701901001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701901002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701901003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901004">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901005">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901006">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901007">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901008">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105001E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901009">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105001E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901010">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105001E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901011">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105001E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901012">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105001E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901013">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105002E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901014">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105002E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901015">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105002E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectMuple" id="701901016">
+    <params>
+      <float>10</float>
+      <float>1</float>
+      <float>2.105003E+08</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902000">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902001">
+    <params>
+      <float>0</float>
+      <float>1.5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701902006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903011">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903017">
+    <params>
+      <float>0</float>
+      <float>3</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701903026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904000">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904001">
+    <params>
+      <float>0</float>
+      <float>5</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904002">
+    <params>
+      <float>0</float>
+      <float>50</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904004">
+    <params>
+      <float>0</float>
+      <float>1</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904005">
+    <params>
+      <float>0</float>
+      <float>-10</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701904012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905001">
+    <params>
+      <float>0</float>
+      <float>3.24</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905002">
+    <params>
+      <float>0</float>
+      <float>1.62</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905003">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905004">
+    <params>
+      <float>0</float>
+      <float>0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905005">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905006">
+    <params>
+      <float>0</float>
+      <float>0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905007">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905008">
+    <params>
+      <float>0</float>
+      <float>0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905009">
+    <params>
+      <float>0</float>
+      <float>0.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905010">
+    <params>
+      <float>0</float>
+      <float>6.48</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905011">
+    <params>
+      <float>0</float>
+      <float>3.24</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905012">
+    <params>
+      <float>0</float>
+      <float>1.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905013">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905014">
+    <params>
+      <float>0</float>
+      <float>1.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905015">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905016">
+    <params>
+      <float>0</float>
+      <float>1.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905017">
+    <params>
+      <float>0</float>
+      <float>0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905018">
+    <params>
+      <float>0</float>
+      <float>1.2</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905019">
+    <params>
+      <float>0</float>
+      <float>-3.24</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905020">
+    <params>
+      <float>0</float>
+      <float>-1.62</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905021">
+    <params>
+      <float>0</float>
+      <float>-0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905022">
+    <params>
+      <float>0</float>
+      <float>-0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905023">
+    <params>
+      <float>0</float>
+      <float>-0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905024">
+    <params>
+      <float>0</float>
+      <float>-0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905025">
+    <params>
+      <float>0</float>
+      <float>-0.9</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905026">
+    <params>
+      <float>0</float>
+      <float>-0.45</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905027">
+    <params>
+      <float>0</float>
+      <float>-0.6</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905028">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905029">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905030">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905031">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905032">
+    <params>
+      <float>0</float>
+      <float>0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905033">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905034">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905035">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905036">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905037">
+    <params>
+      <float>0</float>
+      <float>0.8</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905038">
+    <params>
+      <float>0</float>
+      <float>-0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905039">
+    <params>
+      <float>0</float>
+      <float>-0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905040">
+    <params>
+      <float>0</float>
+      <float>-0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905041">
+    <params>
+      <float>0</float>
+      <float>-0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905042">
+    <params>
+      <float>0</float>
+      <float>-0.4</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905053">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905055">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-99</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905056">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701905100">
+    <params>
+      <float>0</float>
+      <float>0.75</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-99</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701906007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701907045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>80</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>80</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701908050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>72</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>108</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>144</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>180</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>216</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>252</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>288</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>324</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>360</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>42</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>48</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>54</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>16</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>32</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>250</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701909039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1050</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>26</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909053">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909055">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909056">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909057">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909058">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909059">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909060">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909061">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909062">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909063">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909064">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909065">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909066">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909067">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909068">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909069">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909070">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909071">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909072">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909073">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909074">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909075">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909076">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909077">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909078">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909079">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909080">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909081">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909082">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909083">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>5400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909084">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909085">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909086">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909087">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909088">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>86</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909089">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>29</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909090">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909091">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909092">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909093">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909094">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909095">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909096">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909097">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1050</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909098">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909099">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909100">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909101">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909102">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909103">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909104">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909105">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909106">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909107">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909108">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909109">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909110">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909111">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909112">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909113">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909114">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>85</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909115">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909116">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909117">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909118">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909119">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909120">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909121">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1050</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909122">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909123">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909124">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909125">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909126">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>7</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909127">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909128">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909129">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909130">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909131">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909132">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909133">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909134">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909135">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701909136">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>90</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>120</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>250</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>35</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>50</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>70</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>75</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701920024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>105</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>21</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>16</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>32</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>40</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-2</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-4</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-6</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-14</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-16</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-18</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-20</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>6</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>42</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>48</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>54</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-6</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-12</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-18</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-36</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-42</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-48</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-54</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701985049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990000">
+    <params>
+      <float>0</float>
+      <float>200</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990001">
+    <params>
+      <float>0</float>
+      <float>-200</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990010">
+    <params>
+      <float>0</float>
+      <float>200</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990011">
+    <params>
+      <float>0</float>
+      <float>-200</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701990020">
+    <params>
+      <float>0</float>
+      <float>34.625</float>
+      <float>-625.3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701990021">
+    <params>
+      <float>0</float>
+      <float>-34.625</float>
+      <float>625.3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990030">
+    <params>
+      <float>0</float>
+      <float>100</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990031">
+    <params>
+      <float>0</float>
+      <float>-100</float>
+      <float>-2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990040">
+    <params>
+      <float>0</float>
+      <float>100</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701990041">
+    <params>
+      <float>0</float>
+      <float>-100</float>
+      <float>-2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>396</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>432</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>468</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>504</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>540</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>576</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>612</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>648</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>684</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>720</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>66</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>72</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>78</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>84</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>90</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>96</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>102</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>108</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>114</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>120</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>44</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>48</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>52</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>56</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>64</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>68</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>72</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>76</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>80</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1650</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1950</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2250</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2550</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2850</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>26</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991053">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991055">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991056">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>11000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991057">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991058">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>13000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991059">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>14000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991060">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991061">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>16000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991062">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>17000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991063">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991064">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>19000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991065">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991066">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991067">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991068">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>9900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991069">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991070">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>11700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991071">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>12600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991072">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>13500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991073">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>14400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991074">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>15300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991075">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>16200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991076">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>17100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991077">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991078">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>86</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991079">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>29</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991080">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991081">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1650</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991082">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991083">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1950</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991084">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991085">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2250</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991086">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991087">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2550</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991088">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991089">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2850</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991090">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991100">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>45</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991109">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>90</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991110">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991111">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>120</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991112">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-30</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701991113">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>-60</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993000">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>756</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993001">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>792</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993002">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>828</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993003">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>864</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993004">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993005">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>936</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993006">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>972</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993007">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1008</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993008">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1044</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993009">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1080</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993010">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>126</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993011">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>132</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993012">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>138</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993013">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>144</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993014">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993015">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>156</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993016">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>162</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993017">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>168</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993018">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>174</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993019">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>180</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993020">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>84</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993021">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>88</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993022">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>92</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993023">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>96</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993024">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993025">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>104</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993026">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>108</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993027">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>112</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993028">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>116</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993029">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>120</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993030">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993031">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>10</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993032">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993033">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993034">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993035">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993036">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993037">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993038">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4050</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993039">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993040">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993041">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993042">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>26</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993043">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993044">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993045">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993046">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993047">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993048">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993049">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993050">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993051">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993052">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993053">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993054">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993055">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993056">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>21000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993057">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>22000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993058">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>23000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993059">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993060">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993061">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>26000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993062">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993063">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993064">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>29000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993065">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>30000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993066">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>28</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993067">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993068">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>18900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993069">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>19800</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993070">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>20700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993071">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>21600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993072">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>22500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993073">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>23400</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993074">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>24300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993075">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>25200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993076">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>26100</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993077">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>27000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993078">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>86</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993079">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>29</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993080">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>8</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993081">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3150</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993082">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3300</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993083">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3450</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993084">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3600</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993085">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3750</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993086">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3900</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993087">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4050</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993088">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4200</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993089">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4350</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993090">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>4500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993091">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040915</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993092">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110006700</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993093">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040941</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993094">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110006702</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993095">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040942</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993096">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110006703</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993097">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040941</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993098">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110043019</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993099">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040942</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993100">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110043029</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993101">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040941</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993102">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110043029</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993103">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040941</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993104">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110043019</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993105">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040942</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993106">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110043029</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993107">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040913</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993108">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040917</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993109">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040913</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993110">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040917</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993111">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040913</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993112">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040917</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993113">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040913</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993114">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040917</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993115">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>110040921</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701993116">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>850</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="ReleaserLVEffectFormula" id="701993117">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>140</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993118">
+    <params>
+      <float>10000</float>
+      <float>0</float>
+      <float>0</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+<!-- 10%暴击伤害 -->  
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993119">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+<!-- 15%暴击伤害 -->  
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993120">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1500</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+<!-- 20%暴击伤害 -->  
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993121">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>2000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+<!-- 30%暴击伤害 -->  
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993122">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>3000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+<!-- 100W封抗 -->  
+  <mzm.gsp.effect.confbean.SOutFightEffectFormula className="SkillLVEffectFormula" id="701993123">
+    <params>
+      <float>0</float>
+      <float>0</float>
+      <float>1000000</float>
+    </params>
+  </mzm.gsp.effect.confbean.SOutFightEffectFormula>
+</data>

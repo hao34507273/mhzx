@@ -1,0 +1,68 @@
+<data>
+  <mzm.gsp.activity4.confbean.SYaoDianLevelActivityCfg activityId="350020018">
+    <yaodianLevel2CreateAndCostInfo>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000006" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000008" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000010" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000012" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000014" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000016" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000016" maxNum="10"/>
+      </entry>
+    </yaodianLevel2CreateAndCostInfo>
+  </mzm.gsp.activity4.confbean.SYaoDianLevelActivityCfg>
+  <mzm.gsp.activity4.confbean.SYaoDianLevelActivityCfg activityId="350020017">
+    <yaodianLevel2CreateAndCostInfo>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000005" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000007" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000009" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000011" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000013" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000015" maxNum="10"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.activity4.confbean.SCreateAndCostInfo costNum="10000" costType="3" lifeSkillId="112000015" maxNum="10"/>
+      </entry>
+    </yaodianLevel2CreateAndCostInfo>
+  </mzm.gsp.activity4.confbean.SYaoDianLevelActivityCfg>
+</data>

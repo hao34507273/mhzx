@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.homeland.confbean.SCleanlinessCfg decDrugDoubleRate="0" decKitchenDoubleRate="0" decPetRoomUseCount="0" decSatiationUseCount="0" decVigorUseCount="0" id="840800000" minCleanlinessValue="90"/>
+  <mzm.gsp.homeland.confbean.SCleanlinessCfg decDrugDoubleRate="0" decKitchenDoubleRate="0" decPetRoomUseCount="0" decSatiationUseCount="0" decVigorUseCount="0" id="840800001" minCleanlinessValue="60"/>
+  <mzm.gsp.homeland.confbean.SCleanlinessCfg decDrugDoubleRate="0" decKitchenDoubleRate="0" decPetRoomUseCount="1" decSatiationUseCount="1" decVigorUseCount="1" id="840800002" minCleanlinessValue="30"/>
+  <mzm.gsp.homeland.confbean.SCleanlinessCfg decDrugDoubleRate="0" decKitchenDoubleRate="0" decPetRoomUseCount="2" decSatiationUseCount="2" decVigorUseCount="2" id="840800003" minCleanlinessValue="0"/>
+</data>

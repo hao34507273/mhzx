@@ -1,0 +1,14 @@
+<root>
+    <row name="ItemId" value="210159021"/>        <!--道具ID-->
+    <row name="Percent" value="500000"/>    <!--1个道具对应得元宝数量-->
+    <row name="ZengSongs">
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="10" Song="500000"/> <!--赠送设置,Rmb=10 表示10元，Song=500000 赠送数量,购买10元送500000元宝-->
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="50" Song="2750000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="100" Song="6000000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="200" Song="13000000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="500" Song="35000000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="1000" Song="75000000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="2000" Song="160000000"/>
+        <mzm.gsp.yuanbao.confbean.ZengSong Rmb="3000" Song="255000000"/>
+    </row>
+</root>

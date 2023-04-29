@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="415" icon="90084" id="216800000" isProprietary="false" name="木斧頭" namecolor="2" pilemax="10" sellSilver="10000" sort="1" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="416" icon="90085" id="216800001" isProprietary="false" name="銅斧頭（元寶）" namecolor="3" pilemax="10" sellSilver="10000" sort="2" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="417" icon="90086" id="216800002" isProprietary="false" name="銀斧頭（元寶）" namecolor="4" pilemax="10" sellSilver="10000" sort="3" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="418" icon="90087" id="216800003" isProprietary="false" name="金斧頭（元寶）" namecolor="5" pilemax="10" sellSilver="10000" sort="4" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="335" icon="90085" id="216800100" isProprietary="false" name="銅斧頭（金幣）" namecolor="3" pilemax="10" sellSilver="10000" sort="5" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="334" icon="90086" id="216800101" isProprietary="false" name="銀斧頭（金幣）" namecolor="4" pilemax="10" sellSilver="10000" sort="6" type="119" useLevel="10"/>
+  <mzm.gsp.item.confbean.SAxeItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" fix_award_id="333" icon="90087" id="216800102" isProprietary="false" name="金斧頭（金幣）" namecolor="5" pilemax="10" sellSilver="10000" sort="7" type="119" useLevel="10"/>
+</data>

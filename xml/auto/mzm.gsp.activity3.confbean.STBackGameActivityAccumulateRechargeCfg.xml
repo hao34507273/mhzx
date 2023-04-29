@@ -1,0 +1,27 @@
+<data>
+  <mzm.gsp.activity3.confbean.STBackGameActivityAccumulateRechargeCfg accumulateRechargeTypeId="1">
+    <rechargeCount2awardTypeId>
+      <no-comparator/>
+      <entry>
+        <int>100</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>700</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>1500</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>3000</int>
+        <int>4</int>
+      </entry>
+      <entry>
+        <int>5000</int>
+        <int>5</int>
+      </entry>
+    </rechargeCount2awardTypeId>
+  </mzm.gsp.activity3.confbean.STBackGameActivityAccumulateRechargeCfg>
+</data>

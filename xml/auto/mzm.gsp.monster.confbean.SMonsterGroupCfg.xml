@@ -1,0 +1,30 @@
+<data>
+  <mzm.gsp.monster.confbean.SMonsterGroupCfg id="120200000">
+    <monsterids>
+      <int>120399140</int>
+    </monsterids>
+  </mzm.gsp.monster.confbean.SMonsterGroupCfg>
+  <mzm.gsp.monster.confbean.SMonsterGroupCfg id="120200001">
+    <monsterids>
+      <int>120399140</int>
+      <int>120399141</int>
+    </monsterids>
+  </mzm.gsp.monster.confbean.SMonsterGroupCfg>
+  <mzm.gsp.monster.confbean.SMonsterGroupCfg id="120200002">
+    <monsterids>
+      <int>120350821</int>
+      <int>120350822</int>
+      <int>120350823</int>
+    </monsterids>
+  </mzm.gsp.monster.confbean.SMonsterGroupCfg>
+  <mzm.gsp.monster.confbean.SMonsterGroupCfg id="120212000">
+    <monsterids>
+      <int>120313030</int>
+    </monsterids>
+  </mzm.gsp.monster.confbean.SMonsterGroupCfg>
+  <mzm.gsp.monster.confbean.SMonsterGroupCfg id="120231002">
+    <monsterids>
+      <int>120331024</int>
+    </monsterids>
+  </mzm.gsp.monster.confbean.SMonsterGroupCfg>
+</data>

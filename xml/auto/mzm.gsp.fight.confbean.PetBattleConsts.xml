@@ -1,0 +1,12 @@
+<root>
+<row name="effectStart" value="702020306"/>
+<row name="effectWin" value="702020307"/>
+<row name="effectFail" value="702020308"/>
+<row name="effectEndCostTime" value="2000"/>
+<row name="defaultAI" value="PetCompete_CommonAI"/>
+<row name="watchTime" value="60"/>
+<row name="redGrid" value="700301229"/>
+<row name="blueGrid" value="700301230"/>
+<row name="redGridNoPet" value="700301227"/>
+<row name="blueGridNoPet" value="700301228"/>
+</root>

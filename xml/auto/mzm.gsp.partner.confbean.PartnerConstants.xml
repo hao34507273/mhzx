@@ -1,0 +1,23 @@
+<root>
+<row name="OPEN_LEVEL" value="5"/>
+<row name="ITEM_ID" value="210101000"/>
+<row name="ITEM_TYPE_ID" value="39"/>
+<row name="FIGHT_NUM" value="4"/>
+<row name="WASHGOLD_NUM" value="3000"/>
+<row name="LOVE_NUM" value="2"/>
+<row name="NULL_LOVE_ID" value="140500000"/>
+<row name="RECOVERY_MAIL_ID" value="340001803"/>
+<row name="RECOVERY_DISCOUNT" value="10000"/>
+<row name="PARTNER_LV_RET" value="10"/>
+<row name="YUAN_LV_RET" value="40"/>
+<row name="YUAN_LV_MAX" value="50"/>
+<row name="loveRankHighFontColorR" value="0"/>
+<row name="loveRankHighFontColorG" value="102"/>
+<row name="loveRankHighFontColorB" value="255"/>
+<row name="loveRankNormalFontColorR" value="255"/>
+<row name="loveRankNormalFontColorG" value="0"/>
+<row name="loveRankNormalFontColorB" value="255"/>
+<row name="loveRankLowFontColorR" value="255"/>
+<row name="loveRankLowFontColorG" value="50"/>
+<row name="loveRankLowFontColorB" value="0"/>
+</root>

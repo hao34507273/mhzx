@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="5" id="400100000" level_lower_limit="50" level_upper_limit="60"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="6" id="400100001" level_lower_limit="60" level_upper_limit="70"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="7" id="400100002" level_lower_limit="70" level_upper_limit="80"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="8" id="400100003" level_lower_limit="80" level_upper_limit="90"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="9" id="400100004" level_lower_limit="90" level_upper_limit="100"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="10" id="400100005" level_lower_limit="100" level_upper_limit="110"/>
+  <mzm.gsp.group.confbean.CreateGroupNumLimitCfgOriginal create_group_max_num="11" id="400100006" level_lower_limit="110" level_upper_limit="120"/>
+</data>

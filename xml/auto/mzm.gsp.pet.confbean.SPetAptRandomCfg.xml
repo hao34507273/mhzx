@@ -1,0 +1,554 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600000" templateName="野生0级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600001" templateName="野生5级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600002" templateName="野生15级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600003" templateName="野生25级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600004" templateName="野生35级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600005" templateName="野生45级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600006" templateName="野生55级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600007" templateName="野生65级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600008" templateName="野生75级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600009" templateName="野生85级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600010" templateName="野生95级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600011" templateName="宝宝0级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600012" templateName="宝宝5级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600013" templateName="宝宝15级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600014" templateName="宝宝25级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600015" templateName="宝宝35级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600016" templateName="宝宝45级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600017" templateName="宝宝55级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600018" templateName="宝宝65级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600019" templateName="宝宝75级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600020" templateName="宝宝85级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600021" templateName="宝宝95级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600022" templateName="变异0级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600023" templateName="变异5级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600024" templateName="变异15级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600025" templateName="变异25级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600026" templateName="变异35级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600027" templateName="变异45级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600028" templateName="变异55级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600029" templateName="变异65级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600030" templateName="变异75级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600031" templateName="变异85级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600032" templateName="变异95级资质上限">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8500" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600033" templateName="野生0级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="2000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="3500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="9000" AptLowLimit="8500" AptProb="2200"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="9700" AptLowLimit="9000" AptProb="1800"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600034" templateName="野生5级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600035" templateName="野生15级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600036" templateName="野生25级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600037" templateName="野生35级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600038" templateName="野生45级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600039" templateName="野生55级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600040" templateName="野生65级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600041" templateName="野生75级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600042" templateName="野生85级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600043" templateName="野生95级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600044" templateName="宝宝0级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600045" templateName="宝宝5级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600046" templateName="宝宝15级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600047" templateName="宝宝25级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600048" templateName="宝宝35级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600049" templateName="宝宝45级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600050" templateName="宝宝55级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600051" templateName="宝宝65级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600052" templateName="宝宝75级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600053" templateName="宝宝85级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600054" templateName="宝宝95级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600055" templateName="变异0级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600056" templateName="变异5级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600057" templateName="变异15级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600058" templateName="变异25级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600059" templateName="变异35级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600060" templateName="变异45级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600061" templateName="变异55级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600062" templateName="变异65级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600063" templateName="变异75级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600064" templateName="变异85级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600065" templateName="变异95级当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="2000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="3000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2500"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="1500"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600066" templateName="团酱当前资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="7000" AptLowLimit="5000" AptProb="6800"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8500" AptLowLimit="7000" AptProb="1000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="9000" AptLowLimit="8500" AptProb="1000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="9700" AptLowLimit="9000" AptProb="1000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="200"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600100" templateName="测试必然满资质">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="10000" AptProb="10000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+  <mzm.gsp.pet.confbean.SPetAptRandomCfg templateId="131600200" templateName="成长随机概率">
+    <aptRandomList>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="2000" AptLowLimit="0" AptProb="2000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="4000" AptLowLimit="2000" AptProb="2000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="6000" AptLowLimit="4000" AptProb="2000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="8000" AptLowLimit="6000" AptProb="2000"/>
+      <mzm.gsp.pet.confbean.AptRandomRegion AptHighLimit="10000" AptLowLimit="8000" AptProb="2000"/>
+    </aptRandomList>
+  </mzm.gsp.pet.confbean.SPetAptRandomCfg>
+</data>

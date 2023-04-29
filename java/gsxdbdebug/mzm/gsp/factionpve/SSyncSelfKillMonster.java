@@ -1,0 +1,104 @@
+/*    */ package mzm.gsp.factionpve;
+/*    */ 
+/*    */ import com.goldhuman.Common.Marshal.MarshalException;
+/*    */ import com.goldhuman.Common.Marshal.OctetsStream;
+/*    */ import java.util.HashMap;
+/*    */ import java.util.Map.Entry;
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ 
+/*    */ public class SSyncSelfKillMonster
+/*    */   extends __SSyncSelfKillMonster__
+/*    */ {
+/*    */   public static final int PROTOCOL_TYPE = 12613640;
+/*    */   public int goal_times;
+/*    */   public HashMap<Integer, Integer> monsters;
+/*    */   
+/*    */   protected void process() {}
+/*    */   
+/*    */   public int getType()
+/*    */   {
+/* 27 */     return 12613640;
+/*    */   }
+/*    */   
+/*    */ 
+/*    */ 
+/*    */   public SSyncSelfKillMonster()
+/*    */   {
+/* 34 */     this.goal_times = 0;
+/* 35 */     this.monsters = new HashMap();
+/*    */   }
+/*    */   
+/*    */   public SSyncSelfKillMonster(int _goal_times_, HashMap<Integer, Integer> _monsters_) {
+/* 39 */     this.goal_times = _goal_times_;
+/* 40 */     this.monsters = _monsters_;
+/*    */   }
+/*    */   
+/*    */   public final boolean _validator_() {
+/* 44 */     return true;
+/*    */   }
+/*    */   
+/*    */   public OctetsStream marshal(OctetsStream _os_) {
+/* 48 */     _os_.marshal(this.goal_times);
+/* 49 */     _os_.compact_uint32(this.monsters.size());
+/* 50 */     for (Map.Entry<Integer, Integer> _e_ : this.monsters.entrySet()) {
+/* 51 */       _os_.marshal(((Integer)_e_.getKey()).intValue());
+/* 52 */       _os_.marshal(((Integer)_e_.getValue()).intValue());
+/*    */     }
+/* 54 */     return _os_;
+/*    */   }
+/*    */   
+/*    */   public OctetsStream unmarshal(OctetsStream _os_) throws MarshalException {
+/* 58 */     this.goal_times = _os_.unmarshal_int();
+/* 59 */     for (int size = _os_.uncompact_uint32(); size > 0; size--)
+/*    */     {
+/* 61 */       int _k_ = _os_.unmarshal_int();
+/*    */       
+/* 63 */       int _v_ = _os_.unmarshal_int();
+/* 64 */       this.monsters.put(Integer.valueOf(_k_), Integer.valueOf(_v_));
+/*    */     }
+/* 66 */     if (!_validator_()) {
+/* 67 */       throw new VerifyError("validator failed");
+/*    */     }
+/* 69 */     return _os_;
+/*    */   }
+/*    */   
+/*    */   public boolean equals(Object _o1_) {
+/* 73 */     if (_o1_ == this) return true;
+/* 74 */     if ((_o1_ instanceof SSyncSelfKillMonster)) {
+/* 75 */       SSyncSelfKillMonster _o_ = (SSyncSelfKillMonster)_o1_;
+/* 76 */       if (this.goal_times != _o_.goal_times) return false;
+/* 77 */       if (!this.monsters.equals(_o_.monsters)) return false;
+/* 78 */       return true;
+/*    */     }
+/* 80 */     return false;
+/*    */   }
+/*    */   
+/*    */   public int hashCode() {
+/* 84 */     int _h_ = 0;
+/* 85 */     _h_ += this.goal_times;
+/* 86 */     _h_ += this.monsters.hashCode();
+/* 87 */     return _h_;
+/*    */   }
+/*    */   
+/*    */   public String toString() {
+/* 91 */     StringBuilder _sb_ = new StringBuilder();
+/* 92 */     _sb_.append("(");
+/* 93 */     _sb_.append(this.goal_times).append(",");
+/* 94 */     _sb_.append(this.monsters).append(",");
+/* 95 */     _sb_.append(")");
+/* 96 */     return _sb_.toString();
+/*    */   }
+/*    */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\factionpve\SSyncSelfKillMonster.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

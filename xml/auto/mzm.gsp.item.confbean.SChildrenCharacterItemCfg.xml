@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.item.confbean.SChildrenCharacterItemCfg addCharacter="20" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="953" id="216000000" isProprietary="false" name="糖果" namecolor="3" pilemax="999" sellSilver="20000" sort="1" type="102" useLevel="0"/>
+  <mzm.gsp.item.confbean.SChildrenCharacterItemCfg addCharacter="50" awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" icon="954" id="216000001" isProprietary="false" name="七彩糖果" namecolor="4" pilemax="999" sellSilver="60000" sort="2" type="102" useLevel="0"/>
+</data>

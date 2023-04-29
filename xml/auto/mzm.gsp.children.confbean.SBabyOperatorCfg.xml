@@ -1,0 +1,36 @@
+<data>
+  <mzm.gsp.children.confbean.SBabyOperatorCfg operator="0" operator_cd_time="5000">
+    <cost_currency_list>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="3" cost_currency_type_value="40000"/>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="4" cost_currency_type_value="30"/>
+    </cost_currency_list>
+    <add_property_list>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="0" add_property_type_value="10"/>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="3" add_property_type_value="10"/>
+    </add_property_list>
+  </mzm.gsp.children.confbean.SBabyOperatorCfg>
+  <mzm.gsp.children.confbean.SBabyOperatorCfg operator="1" operator_cd_time="5000">
+    <cost_currency_list>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="3" cost_currency_type_value="40000"/>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="4" cost_currency_type_value="30"/>
+    </cost_currency_list>
+    <add_property_list>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="2" add_property_type_value="10"/>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="3" add_property_type_value="10"/>
+    </add_property_list>
+  </mzm.gsp.children.confbean.SBabyOperatorCfg>
+  <mzm.gsp.children.confbean.SBabyOperatorCfg operator="2" operator_cd_time="5000">
+    <cost_currency_list>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="3" cost_currency_type_value="40000"/>
+      <mzm.gsp.children.confbean.BabyOperatorCostBean cost_currency_type="4" cost_currency_type_value="30"/>
+    </cost_currency_list>
+    <add_property_list>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="1" add_property_type_value="10"/>
+      <mzm.gsp.children.confbean.BabyOperatorPropertyBean add_property_type="3" add_property_type_value="10"/>
+    </add_property_list>
+  </mzm.gsp.children.confbean.SBabyOperatorCfg>
+  <mzm.gsp.children.confbean.SBabyOperatorCfg operator="3" operator_cd_time="28800000">
+    <cost_currency_list/>
+    <add_property_list/>
+  </mzm.gsp.children.confbean.SBabyOperatorCfg>
+</data>

@@ -1,0 +1,44 @@
+<data>
+  <mzm.gsp.homeland.confbean.MysteryVisitorNPCPositionCfg mystery_visitor_cfg_id="298800000">
+    <npc_positions>
+      <no-comparator/>
+      <entry>
+        <int>330001013</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="529" y="1100"/>
+      </entry>
+      <entry>
+        <int>330001015</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="610" y="1189"/>
+      </entry>
+      <entry>
+        <int>330001016</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="728" y="1260"/>
+      </entry>
+      <entry>
+        <int>330001017</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="749" y="1361"/>
+      </entry>
+    </npc_positions>
+  </mzm.gsp.homeland.confbean.MysteryVisitorNPCPositionCfg>
+  <mzm.gsp.homeland.confbean.MysteryVisitorNPCPositionCfg mystery_visitor_cfg_id="298900000">
+    <npc_positions>
+      <no-comparator/>
+      <entry>
+        <int>330001013</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="627" y="1085"/>
+      </entry>
+      <entry>
+        <int>330001015</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="702" y="1241"/>
+      </entry>
+      <entry>
+        <int>330001016</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="837" y="1309"/>
+      </entry>
+      <entry>
+        <int>330001017</int>
+        <mzm.gsp.homeland.confbean.NPCPosition x="843" y="1426"/>
+      </entry>
+    </npc_positions>
+  </mzm.gsp.homeland.confbean.MysteryVisitorNPCPositionCfg>
+</data>

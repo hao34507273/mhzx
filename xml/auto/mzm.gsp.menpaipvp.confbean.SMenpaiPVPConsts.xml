@@ -1,0 +1,26 @@
+<root>
+<row name="Activityid" value="350000019"/>
+<row name="ControllerIn" value="701100007"/>
+<row name="PrepareAward" value="2200"/>
+<row name="PrepareAwardMinutes" value="2"/>
+<row name="WinAward" value="2201"/>
+<row name="LoseAward" value="2202"/>
+<row name="LoseTimes" value="3"/>
+<row name="InitPoint" value="100"/>
+<row name="ELO_K" value="20"/>
+<row name="ChartPageSize" value="5"/>
+<row name="ChartCapacity" value="300"/>
+<row name="LeaveMap" value="330000001"/>
+<row name="MatchInterval" value="90"/>
+<row name="TopMails">
+<int>340001300</int>
+<int>340001301</int>
+<int>340001302</int>
+</row>
+<row name="PrepareStageMinutes" value="5"/>
+<row name="ShutdownMatchBeforeEndMinutes" value="5"/>
+<row name="ChampionBadge" value="490400004"/>
+<row name="FightTimesAward" value="2405"/>
+<row name="AwardNeedFightTimes" value="5"/>
+<row name="DelayResultSeconds" value="60"/>
+</root>

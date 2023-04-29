@@ -1,0 +1,29 @@
+<root>
+<row name="ACTIVITYID" value="350000001"/>
+<row name="GRAPH_ID" value="40000006"/>
+<row name="NPC_ID" value="150100198"/>
+<row name="NPC_SERVICE" value="150200026"/>
+<row name="REWARDID" value="302"/>
+<row name="REWARDID2" value="304"/>
+<row name="MAX_AWARD_COUNT" value="100"/>
+<row name="MAX_AWARD_COUNT2" value="50"/>
+<row name="FIGHT_DEC_DOUBLE_POINT" value="2"/>
+<row name="FIGHT_DEC_DOUBLE_POINT2" value="4"/>
+<row name="MAX_LEVEL_DELTA" value="20"/>
+<row name="MUSIC_TIP_FOR_LEADER" value="720090008"/>
+<row name="XIAYI_ADD_NUM" value="1"/>
+<row name="XIAYI_ADD_NUM2" value="2"/>
+<row name="MAX_XIAYI_NUM" value="20"/>
+<row name="MIN_LEVEL_DELTA" value="10"/>
+<row name="MIN_DOUBLE_POINT_TIP" value="100"/>
+<row name="EXP_CHANGE_RATE" value="5000"/>
+<row name="GUIDE_GRAPH_ID" value="0"/>
+<row name="STORAGE_EXP_NUM" value="100"/>
+<row name="STORAGE_EXP_NUM2" value="50"/>
+<row name="CIRCLE_MOD" value="10"/>
+<row name="DEC_SERVICE1" value="150200040"/>
+<row name="DEC_SERVICE2" value="150210404"/>
+<row name="QUERY_SERVICE1" value="150200007"/>
+<row name="QUERY_SERVICE2" value="150200026"/>
+<row name="RETURN_BACK_EXP_CHANGE_RATE" value="5000"/>
+</root>

@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.children.confbean.SBabyPropertyCfg init_value="55" max_value="100" min_value_for_health="60" property="0" reduce_every_hour="3"/>
+  <mzm.gsp.children.confbean.SBabyPropertyCfg init_value="55" max_value="100" min_value_for_health="60" property="1" reduce_every_hour="3"/>
+  <mzm.gsp.children.confbean.SBabyPropertyCfg init_value="55" max_value="100" min_value_for_health="60" property="2" reduce_every_hour="3"/>
+  <mzm.gsp.children.confbean.SBabyPropertyCfg init_value="0" max_value="120" min_value_for_health="0" property="3" reduce_every_hour="0"/>
+</data>

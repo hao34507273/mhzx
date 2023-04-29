@@ -1,0 +1,126 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="1" itemNum="20" itemSilverPrice="500" level="0" levelUpNeedMoney="1002400" levelUpNeedTimeM="180" maintainCostMoneyPerDay="188000" triggerMiFangProp="2000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="2" itemNum="25" itemSilverPrice="500" level="1" levelUpNeedMoney="1558800" levelUpNeedTimeM="240" maintainCostMoneyPerDay="204000" triggerMiFangProp="3000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="2" itemNum="30" itemSilverPrice="500" level="2" levelUpNeedMoney="2150400" levelUpNeedTimeM="300" maintainCostMoneyPerDay="224000" triggerMiFangProp="3000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="2" itemNum="35" itemSilverPrice="500" level="3" levelUpNeedMoney="2764000" levelUpNeedTimeM="360" maintainCostMoneyPerDay="372000" triggerMiFangProp="3000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="2" itemNum="40" itemSilverPrice="500" level="4" levelUpNeedMoney="3418800" levelUpNeedTimeM="420" maintainCostMoneyPerDay="402000" triggerMiFangProp="4000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="2" itemNum="50" itemSilverPrice="500" level="5" levelUpNeedMoney="4006800" levelUpNeedTimeM="480" maintainCostMoneyPerDay="576000" triggerMiFangProp="4000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="3" itemNum="50" itemSilverPrice="500" level="6" levelUpNeedMoney="4774400" levelUpNeedTimeM="540" maintainCostMoneyPerDay="632000" triggerMiFangProp="4000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="3" itemNum="55" itemSilverPrice="500" level="7" levelUpNeedMoney="5508000" levelUpNeedTimeM="600" maintainCostMoneyPerDay="680000" triggerMiFangProp="5000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="3" itemNum="60" itemSilverPrice="500" level="8" levelUpNeedMoney="6090000" levelUpNeedTimeM="660" maintainCostMoneyPerDay="910000" triggerMiFangProp="5000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="3" itemNum="65" itemSilverPrice="500" level="9" levelUpNeedMoney="6952000" levelUpNeedTimeM="720" maintainCostMoneyPerDay="980000" triggerMiFangProp="5000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="3" itemNum="70" itemSilverPrice="500" level="10" levelUpNeedMoney="7488000" levelUpNeedTimeM="780" maintainCostMoneyPerDay="1260000" triggerMiFangProp="6000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="4" itemNum="70" itemSilverPrice="500" level="11" levelUpNeedMoney="8278400" levelUpNeedTimeM="840" maintainCostMoneyPerDay="1332000" triggerMiFangProp="6000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="4" itemNum="75" itemSilverPrice="500" level="12" levelUpNeedMoney="9184000" levelUpNeedTimeM="900" maintainCostMoneyPerDay="1440000" triggerMiFangProp="6000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+      <int>212100007</int>
+      <int>212100008</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="4" itemNum="80" itemSilverPrice="500" level="13" levelUpNeedMoney="9633000" levelUpNeedTimeM="960" maintainCostMoneyPerDay="1778000" triggerMiFangProp="7000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+      <int>212100007</int>
+      <int>212100008</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="4" itemNum="85" itemSilverPrice="500" level="14" levelUpNeedMoney="10438400" levelUpNeedTimeM="1020" maintainCostMoneyPerDay="1876000" triggerMiFangProp="7000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+      <int>212100007</int>
+      <int>212100008</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+  <mzm.gsp.gang.confbean.SGangYaoDianCfg itemBangGongPrice="1" itemKindNum="4" itemNum="90" itemSilverPrice="500" level="15" levelUpNeedMoney="11243800" levelUpNeedTimeM="1080" maintainCostMoneyPerDay="2288000" triggerMiFangProp="7000">
+    <itemIdList>
+      <int>212100003</int>
+      <int>212100004</int>
+      <int>212100005</int>
+      <int>212100006</int>
+      <int>212100007</int>
+      <int>212100008</int>
+    </itemIdList>
+  </mzm.gsp.gang.confbean.SGangYaoDianCfg>
+</data>

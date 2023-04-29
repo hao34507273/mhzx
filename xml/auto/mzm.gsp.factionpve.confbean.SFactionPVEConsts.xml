@@ -1,0 +1,40 @@
+<root>
+<row name="Activityid" value="350000606"/>
+<row name="EnterNpc" value="150113605"/>
+<row name="EnterService" value="150210033"/>
+<row name="ControllerIn" value="701108008"/>
+<row name="PrepareMap" value="330000930"/>
+<row name="FightMap" value="330000931"/>
+<row name="ActivityMinutes" value="90"/>
+<row name="ForbidActivateBeforeEndMinutes" value="120"/>
+<row name="ChangeBeforeStartMinutes" value="120"/>
+<row name="PrepareMinutes" value="10"/>
+<row name="BossCountDownSeconds" value="15"/>
+<row name="BossExistSeconds" value="1800"/>
+<row name="WaitLeaveSeconds" value="30"/>
+<row name="NeedJoinHours" value="48"/>
+<row name="CostFactionMoney" value="100000"/>
+<row name="ActivateValidHourMin" value="10"/>
+<row name="ActivateValidHourMax" value="22"/>
+<row name="ActivateValidMinutes">
+<int>0</int>
+<int>30</int>
+</row>
+<row name="ActivateTimes" value="2"/>
+<row name="ModifyTimes" value="3"/>
+<row name="ParticipateTimes" value="2"/>
+<row name="SetTimeMail" value="410400025"/>
+<row name="ModifyTimeMail" value="410400026"/>
+<row name="CancelMail" value="410400027"/>
+<row name="WeekBeginTime" value="350206004"/>
+<row name="WeekBeginMail" value="410400028"/>
+<row name="WeekEndTime" value="350206005"/>
+<row name="WeekEndMail" value="410400029"/>
+<row name="FightTypeID" value="18"/>
+<row name="MonsterController" value="701108009"/>
+<row name="MonsterRefreshSeconds" value="180"/>
+<row name="BossController" value="701108020"/>
+<row name="PersonGoalCount" value="3"/>
+<row name="PersonGoalAward" value="5900"/>
+<row name="FactionGoalAward" value="5901"/>
+</root>

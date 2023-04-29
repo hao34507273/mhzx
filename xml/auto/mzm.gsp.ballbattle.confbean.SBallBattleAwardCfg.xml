@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.ballbattle.confbean.SBallBattleAwardCfg activityId="350020035">
+    <awards>
+      <mzm.gsp.ballbattle.confbean.SAwardBean awardId="6310" lowestAwardPosition="1"/>
+      <mzm.gsp.ballbattle.confbean.SAwardBean awardId="6311" lowestAwardPosition="2"/>
+      <mzm.gsp.ballbattle.confbean.SAwardBean awardId="6312" lowestAwardPosition="3"/>
+      <mzm.gsp.ballbattle.confbean.SAwardBean awardId="6313" lowestAwardPosition="5"/>
+      <mzm.gsp.ballbattle.confbean.SAwardBean awardId="6314" lowestAwardPosition="14"/>
+    </awards>
+  </mzm.gsp.ballbattle.confbean.SBallBattleAwardCfg>
+</data>

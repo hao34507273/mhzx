@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.team.confbean.STeamHeartSeedCfg id="347600000" lvMax="29" lvMin="1" ranSeed="5"/>
+  <mzm.gsp.team.confbean.STeamHeartSeedCfg id="347600001" lvMax="39" lvMin="30" ranSeed="50"/>
+  <mzm.gsp.team.confbean.STeamHeartSeedCfg id="347600002" lvMax="59" lvMin="40" ranSeed="100"/>
+  <mzm.gsp.team.confbean.STeamHeartSeedCfg id="347600003" lvMax="200" lvMin="60" ranSeed="300"/>
+</data>

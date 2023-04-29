@@ -1,0 +1,62 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal activity_cfg_id="350010000" id="581000000" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_stage_tips_id="701609952" round_robin_win_point="3">
+    <round_robin_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500004"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500006"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500008"/>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500005"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500007"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500009"/>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal activity_cfg_id="350020000" id="581000001" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_stage_tips_id="701609952" round_robin_win_point="3">
+    <round_robin_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500100"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500102"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500104"/>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500101"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500103"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500105"/>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal activity_cfg_id="350020002" id="581000002" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_stage_tips_id="701609952" round_robin_win_point="3">
+    <round_robin_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500200"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500202"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500204"/>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500201"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500203"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500205"/>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal activity_cfg_id="350020014" id="581000003" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_stage_tips_id="701609952" round_robin_win_point="3">
+    <round_robin_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500300"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500302"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500304"/>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500301"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500303"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500305"/>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal>
+  <mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal activity_cfg_id="350020451" id="581000004" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_stage_tips_id="701609952" round_robin_win_point="3">
+    <round_robin_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500400"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500402"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinTimePoint round_robin_time_point="352500404"/>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500401"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500403"/>
+      <mzm.gsp.crossbattle.confbean.RoundRobinBackupTimePoint round_robin_backup_time_point="352500405"/>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.CrossBattleRoundRobinCfgOriginal>
+</data>

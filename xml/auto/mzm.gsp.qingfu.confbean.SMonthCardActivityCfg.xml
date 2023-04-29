@@ -1,0 +1,36 @@
+<data>
+  <mzm.gsp.qingfu.confbean.SMonthCardActivityCfg daily_reset_time_cfg_id="350299000" id="350000300">
+    <phases>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8900" present_award_cfg_id="8901" serviceId="31"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8904" present_award_cfg_id="8905" serviceId="33"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8904" present_award_cfg_id="8905" serviceId="33"/>
+      </entry>
+    </phases>
+  </mzm.gsp.qingfu.confbean.SMonthCardActivityCfg>
+  <mzm.gsp.qingfu.confbean.SMonthCardActivityCfg daily_reset_time_cfg_id="350299000" id="350000299">
+    <phases>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8902" present_award_cfg_id="8903" serviceId="32"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8904" present_award_cfg_id="8905" serviceId="33"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.MonthCardActivityPhaseInfo daily_award_cfg_id="8904" present_award_cfg_id="8905" serviceId="33"/>
+      </entry>
+    </phases>
+  </mzm.gsp.qingfu.confbean.SMonthCardActivityCfg>
+</data>

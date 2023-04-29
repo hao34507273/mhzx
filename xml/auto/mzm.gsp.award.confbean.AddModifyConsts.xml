@@ -1,0 +1,23 @@
+<root>
+<row name="TEAMLEADER_EXP_ADD" value="2000"/>
+<row name="STABLETEAM_EXP_ADD" value="1000"/>
+<row name="DOUBLE_EXP_ADD" value="10000"/>
+<row name="GANG_EXP_ADD" value="500"/>
+<row name="SWORN_EXP_ADD" value="300"/>
+<row name="MARRY_EXP_ADD" value="500"/>
+<row name="ZHAN_DUI_EXP_ADD" value="0"/>
+<row name="NEW_MARRIAGE_EXP_ADD" value="500"/>
+<row name="NEW_MARRIAGE_TEAM_EXP_ADD" value="500"/>
+<row name="TEAMLEADER_SILVER_ADD" value="2000"/>
+<row name="STABLETEAM_SILVER_ADD" value="1000"/>
+<row name="DOUBLE_SILVER_ADD" value="10000"/>
+<row name="GANG_SILVER_ADD" value="500"/>
+<row name="SWORN_SILVER_ADD" value="0"/>
+<row name="MARRY_SILVER_ADD" value="0"/>
+<row name="ZHAN_DUI_SILVER_ADD" value="0"/>
+<row name="NEW_MARRIAGE_SILVER_ADD" value="0"/>
+<row name="NEW_MARRIAGE_TEAM_SILVER_ADD" value="0"/>
+<row name="DOUBLE_ITEMRATE_ADD" value="10000"/>
+<row name="STORE_EXP_TRANSFORM" value="1000"/>
+<row name="NEW_MARRIAGE_TEAM_BUFF_ID" value="701203101"/>
+</root>

@@ -1,0 +1,27 @@
+<root>
+<row name="activity" value="350000303"/>
+<row name="npcid" value="150111893"/>
+<row name="voteTime" value="12"/>
+<row name="runTime" value="3"/>
+<row name="winAwardId" value="5101"/>
+<row name="FailAwardId" value="5102"/>
+<row name="winGoldRate" value="30000"/>
+<row name="FailGoldRate" value="5000"/>
+<row name="ExpAwardId" value="5100"/>
+<row name="ExpSpanTime" value="60"/>
+<row name="ExpContinueTime" value="900"/>
+<row name="NpcControlId" value="701106000"/>
+<row name="npcid1" value="700300126"/>
+<row name="npcid2" value="700301048"/>
+<row name="npcid3" value="700301060"/>
+<row name="npcid4" value="700300122"/>
+<row name="npcid5" value="700300123"/>
+<row name="raceCount" value="1"/>
+<row name="winnerGoldRate" value="1000"/>
+<row name="winnerMaxGold" value="50000"/>
+<row name="mailFail1" value="340005400"/>
+<row name="mailWin1" value="340005401"/>
+<row name="mailFail2" value="340005402"/>
+<row name="mailWin2" value="340005403"/>
+<row name="mailWinner" value="340005404"/>
+</root>

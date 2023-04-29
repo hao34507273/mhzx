@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.award.confbean.STMoneyOwnCfg moneyName="元寶" moneyType="1" ownMax="999999999"/>
+  <mzm.gsp.award.confbean.STMoneyOwnCfg moneyName="金幣" moneyType="2" ownMax="999999999"/>
+  <mzm.gsp.award.confbean.STMoneyOwnCfg moneyName="銀兩" moneyType="3" ownMax="999999999"/>
+  <mzm.gsp.award.confbean.STMoneyOwnCfg moneyName="幫貢" moneyType="4" ownMax="999999999"/>
+  <mzm.gsp.award.confbean.STMoneyOwnCfg moneyName="金錠" moneyType="5" ownMax="999999999"/>
+</data>

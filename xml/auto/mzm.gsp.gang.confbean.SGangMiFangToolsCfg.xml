@@ -1,0 +1,205 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="5">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200001</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200001" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5000" weight="1000" yaoDianLevel="5"/>
+      </entry>
+      <entry>
+        <int>411200000</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200000" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5000" weight="1000" yaoDianLevel="5"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="6">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200003</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200003" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5000" weight="1000" yaoDianLevel="6"/>
+      </entry>
+      <entry>
+        <int>411200002</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200002" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5000" weight="1000" yaoDianLevel="6"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="7">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200006</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200006" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="5500" weight="1000" yaoDianLevel="7"/>
+      </entry>
+      <entry>
+        <int>411200005</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200005" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5500" weight="1000" yaoDianLevel="7"/>
+      </entry>
+      <entry>
+        <int>411200004</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200004" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="5500" weight="1000" yaoDianLevel="7"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="8">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200007</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200007" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="6000" weight="1000" yaoDianLevel="8"/>
+      </entry>
+      <entry>
+        <int>411200009</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200009" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="6000" weight="1000" yaoDianLevel="8"/>
+      </entry>
+      <entry>
+        <int>411200008</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200008" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="6000" weight="1000" yaoDianLevel="8"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="9">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200011</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200011" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="6500" weight="1000" yaoDianLevel="9"/>
+      </entry>
+      <entry>
+        <int>411200010</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200010" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="6500" weight="1000" yaoDianLevel="9"/>
+      </entry>
+      <entry>
+        <int>411200012</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200012" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="6500" weight="1000" yaoDianLevel="9"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="10">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200016</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200016" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="7000" weight="1000" yaoDianLevel="10"/>
+      </entry>
+      <entry>
+        <int>411200015</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200015" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="7000" weight="1000" yaoDianLevel="10"/>
+      </entry>
+      <entry>
+        <int>411200014</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200014" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="7000" weight="1000" yaoDianLevel="10"/>
+      </entry>
+      <entry>
+        <int>411200013</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200013" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="7000" weight="1000" yaoDianLevel="10"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="11">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200018</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200018" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="7500" weight="1000" yaoDianLevel="11"/>
+      </entry>
+      <entry>
+        <int>411200019</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200019" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="7500" weight="1000" yaoDianLevel="11"/>
+      </entry>
+      <entry>
+        <int>411200017</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200017" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="7500" weight="1000" yaoDianLevel="11"/>
+      </entry>
+      <entry>
+        <int>411200020</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200020" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="7500" weight="1000" yaoDianLevel="11"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="12">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200022</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200022" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="8000" weight="1000" yaoDianLevel="12"/>
+      </entry>
+      <entry>
+        <int>411200023</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200023" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="8000" weight="1000" yaoDianLevel="12"/>
+      </entry>
+      <entry>
+        <int>411200021</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200021" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="8000" weight="1000" yaoDianLevel="12"/>
+      </entry>
+      <entry>
+        <int>411200024</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200024" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="8000" weight="1000" yaoDianLevel="12"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="13">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200026</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200026" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="8500" weight="1000" yaoDianLevel="13"/>
+      </entry>
+      <entry>
+        <int>411200027</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200027" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="8500" weight="1000" yaoDianLevel="13"/>
+      </entry>
+      <entry>
+        <int>411200025</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200025" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="8500" weight="1000" yaoDianLevel="13"/>
+      </entry>
+      <entry>
+        <int>411200028</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200028" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="8500" weight="1000" yaoDianLevel="13"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="14">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200032</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200032" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="9000" weight="1000" yaoDianLevel="14"/>
+      </entry>
+      <entry>
+        <int>411200030</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200030" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="9000" weight="1000" yaoDianLevel="14"/>
+      </entry>
+      <entry>
+        <int>411200031</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200031" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="9000" weight="1000" yaoDianLevel="14"/>
+      </entry>
+      <entry>
+        <int>411200029</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200029" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="9000" weight="1000" yaoDianLevel="14"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+  <mzm.gsp.gang.confbean.SGangMiFangToolsCfg yaoDianLevel="15">
+    <mifangInfo>
+      <no-comparator/>
+      <entry>
+        <int>411200033</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701006" hightPersistTimeM="50" id="411200033" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="9500" weight="1000" yaoDianLevel="15"/>
+      </entry>
+      <entry>
+        <int>411200035</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701008" hightPersistTimeM="90" id="411200035" lowPersistTimeM="50" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="9500" weight="1000" yaoDianLevel="15"/>
+      </entry>
+      <entry>
+        <int>411200034</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701007" hightPersistTimeM="60" id="411200034" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201002" needBangGong="60" otherItemSiftId="210201001" successRate="9500" weight="1000" yaoDianLevel="15"/>
+      </entry>
+      <entry>
+        <int>411200036</int>
+        <mzm.gsp.gang.confbean.SGangMiFangToolsCfgInfo generLifeSkillId="111701009" hightPersistTimeM="30" id="411200036" lowPersistTimeM="30" lowTime="10" maxTime="10" mustItemSiftId="210201003" needBangGong="60" otherItemSiftId="210201004" successRate="9500" weight="1000" yaoDianLevel="15"/>
+      </entry>
+    </mifangInfo>
+  </mzm.gsp.gang.confbean.SGangMiFangToolsCfg>
+</data>

@@ -1,0 +1,17 @@
+<root>
+<row name="ACTIVITYID" value="350000015"/>
+<row name="GRAPH_ID" value="40000007"/>
+<row name="NPC_ID" value="150111000"/>
+<row name="RING_REWARDID" value="900"/>
+<row name="RING_TO_COIRCLE" value="9"/>
+<row name="MAX_AWARD_COUNT" value="5"/>
+<row name="CONTROLLER_ID" value="701100004"/>
+<row name="NPC_SERVICE" value="150200031"/>
+<row name="circleRewardids">
+<int>901</int>
+<int>901</int>
+<int>901</int>
+<int>901</int>
+<int>901</int>
+</row>
+</root>

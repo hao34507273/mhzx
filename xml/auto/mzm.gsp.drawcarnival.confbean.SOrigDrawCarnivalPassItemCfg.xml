@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalPassItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="91447" id="968500100" isProprietary="false" name="低級通行證" namecolor="3" passTypeId="1" pilemax="9999" sellSilver="50000" sort="1" type="167" useLevel="0"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalPassItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="91447" id="968500101" isProprietary="true" name="低級通行證" namecolor="3" passTypeId="1" pilemax="9999" sellSilver="50000" sort="2" type="167" useLevel="0"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalPassItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="91448" id="968500200" isProprietary="false" name="中級通行證" namecolor="4" passTypeId="2" pilemax="9999" sellSilver="50000" sort="1" type="167" useLevel="0"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalPassItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" icon="91449" id="968500300" isProprietary="false" name="高級通行證" namecolor="5" passTypeId="3" pilemax="9999" sellSilver="50000" sort="1" type="167" useLevel="0"/>
+</data>

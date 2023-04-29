@@ -1,0 +1,17 @@
+<root>
+<row name="needActiviteValue" value="40"/>
+<row name="dayLimitNum" value="5"/>
+<row name="defaultNum" value="5"/>
+<row name="minNum" value="5"/>
+<row name="maxNum" value="50"/>
+<row name="strLimitNum" value="14"/>
+<row name="autoBackTime" value="24"/>
+<row name="autoBackMail" value="340009000"/>
+<row name="chatGiftSaveTime" value="8"/>
+<row name="chatGiftSaveNum" value="20"/>
+<row name="getMoneyMinLimit" value="1000"/>
+<row name="getMoneyMaxLimit" value="20000"/>
+<row name="gangChatGiftTips" value="701609915"/>
+<row name="gangDayGetNumLimt" value="20"/>
+<row name="groupDayGetNumLimt" value="20"/>
+</root>

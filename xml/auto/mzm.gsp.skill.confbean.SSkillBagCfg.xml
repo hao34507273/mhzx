@@ -1,0 +1,608 @@
+<data>
+<!--鬼王心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800000" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110001001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110001011"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800001" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110001002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600000"/>  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800002" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110001003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110001005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800003" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110001006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110001007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600001"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800004" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110001008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110001009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800005" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600000"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110001010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050000"/>	 
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="1" skillid="110600005"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--青云心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800006" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110002001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110002010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800007" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110002002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600000"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800008" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110002003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110002004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800009" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110002005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110002006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800010" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110002007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110002008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800011" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110002009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050100"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--天音心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800012" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110004001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110004005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110004010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800013" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110004002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110004004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800014" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110004003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800015" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110004006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800016" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110004007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110004008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600000"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800017" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110004009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050500"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--焚香心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800018" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110003001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110003011"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800019" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110003002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110003005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800020" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110003003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600000"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800021" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110003004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110003006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800022" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110003007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110003008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800023" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110003009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050300"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--合欢心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800024" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006025"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800025" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800026" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110006005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800027" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600000"/>  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800028" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800029" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050200"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--圣物心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800030" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110005001"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110005002"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110005010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800031" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110005003"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110005004"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800032" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110005005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110005006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600000"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800033" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110005008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800034" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110005007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800035" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110005009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050400"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--苍羽心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800036" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006201"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006211"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800037" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006203"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006202"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800038" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006204"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800039" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006206"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006207"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800040" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006208"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006209"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800041" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600006"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006210"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050600"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--灵音心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800042" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006300"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006309"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800043" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006302"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006301"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800044" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006305"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800045" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006303"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006304"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800046" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006306"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006307"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800047" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600007"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006308"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050700"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--异能心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800048" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006400"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006401"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006413"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006414"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800049" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="6" skillid="110006402"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006403"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006405"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800050" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006406"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006407"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800051" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006408"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006409"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800052" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006410"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006411"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800053" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600008"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006412"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050800"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--万毒心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800054" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006500"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006509"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/>
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800055" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006501"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006507"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800056" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006505"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800057" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006503"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006506"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800058" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006504"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006502"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800059" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600009"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006508"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050900"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--丹青心法-->
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800060" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006600"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006609"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/> 
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800061" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006602"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006603"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800062" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006604"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800063" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006601"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006606"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800064" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006605"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006607"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800065" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="00" skillid="111600010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006608"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110051000"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg> 
+<!--阴阳心法-->  
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800066" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006700"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006709"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/> 
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800067" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006701"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006703"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800068" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006702"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800069" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006707"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006705"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800070" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006706"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006704"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800071" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600011"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006708"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110051005"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+<!--黄金心法-->  
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800072" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006800"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006809"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/> 
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800073" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006801"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006803"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800074" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006802"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800075" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006807"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006805"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800076" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006806"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006804"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800077" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600012"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006808"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110051010"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <!--妖盟心法-->  
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800078" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110006900"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="60" skillid="110006909"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600004"/> 
+   </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800079" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="20" skillid="110006901"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="35" skillid="110006903"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600002"/> 
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800080" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="30" skillid="110006902"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600001"/>	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800081" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006907"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="40" skillid="110006905"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600006"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800082" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="45" skillid="110006906"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006904"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600003"/>	
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+  <mzm.gsp.skill.confbean.SSkillBagCfg id="110800083" initlevel="0" levelcfgid="1">
+    <skillid2NeedLevel>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="10" skillid="111600013"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="50" skillid="110006908"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="120" skillid="110050050"/>
+      <mzm.gsp.skill.confbean.SkillBagSkill2NeedLevel needlevel="0" skillid="110600005"/> 	  
+    </skillid2NeedLevel>
+  </mzm.gsp.skill.confbean.SSkillBagCfg>
+</data>

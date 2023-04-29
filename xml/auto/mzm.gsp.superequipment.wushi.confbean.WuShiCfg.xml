@@ -1,0 +1,3502 @@
+﻿<data>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="100" fragmentItemId="210109500" icon="71000" id="221700000" isShow="1" name="尖叫鸡" nextLevelId="221700001" source="活动掉落" typeId="1" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="200" fragmentItemId="210109500" icon="71000" id="221700001" isShow="1" name="尖叫鸡" nextLevelId="221700002" source="活动掉落" typeId="1" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="400" fragmentItemId="210109500" icon="71000" id="221700002" isShow="1" name="尖叫鸡" nextLevelId="221700003" source="活动掉落" typeId="1" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="800" fragmentItemId="210109500" icon="71000" id="221700003" isShow="1" name="尖叫鸡" nextLevelId="221700004" source="活动掉落" typeId="1" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="1600" fragmentItemId="210109500" icon="71000" id="221700004" isShow="1" name="尖叫鸡" nextLevelId="221700005" source="活动掉落" typeId="1" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="3200" fragmentItemId="210109500" icon="71000" id="221700005" isShow="1" name="尖叫鸡" nextLevelId="221700006" source="活动掉落" typeId="1" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="6400" fragmentItemId="210109500" icon="71000" id="221700006" isShow="1" name="尖叫鸡" nextLevelId="221700007" source="活动掉落" typeId="1" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="12000" fragmentItemId="210109500" icon="71000" id="221700007" isShow="1" name="尖叫鸡" nextLevelId="221700008" source="活动掉落" typeId="1" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="25000" fragmentItemId="210109500" icon="71000" id="221700008" isShow="1" name="尖叫鸡" nextLevelId="221700009" source="活动掉落" typeId="1" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1" fragmentCount="50000" fragmentItemId="210109500" icon="71000" id="221700009" isShow="1" name="尖叫鸡" nextLevelId="0" source="活动掉落" typeId="1" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="100" fragmentItemId="210109501" icon="71001" id="221700050" isShow="1" name="赤蔷薇" nextLevelId="221700051" source="活动掉落" typeId="2" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="200" fragmentItemId="210109501" icon="71001" id="221700051" isShow="1" name="赤蔷薇" nextLevelId="221700052" source="活动掉落" typeId="2" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="400" fragmentItemId="210109501" icon="71001" id="221700052" isShow="1" name="赤蔷薇" nextLevelId="221700053" source="活动掉落" typeId="2" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="800" fragmentItemId="210109501" icon="71001" id="221700053" isShow="1" name="赤蔷薇" nextLevelId="221700054" source="活动掉落" typeId="2" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="1600" fragmentItemId="210109501" icon="71001" id="221700054" isShow="1" name="赤蔷薇" nextLevelId="221700055" source="活动掉落" typeId="2" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="3200" fragmentItemId="210109501" icon="71001" id="221700055" isShow="1" name="赤蔷薇" nextLevelId="221700056" source="活动掉落" typeId="2" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="6400" fragmentItemId="210109501" icon="71001" id="221700056" isShow="1" name="赤蔷薇" nextLevelId="221700057" source="活动掉落" typeId="2" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="12000" fragmentItemId="210109501" icon="71001" id="221700057" isShow="1" name="赤蔷薇" nextLevelId="221700058" source="活动掉落" typeId="2" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="25000" fragmentItemId="210109501" icon="71001" id="221700058" isShow="1" name="赤蔷薇" nextLevelId="221700059" source="活动掉落" typeId="2" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="2" fragmentCount="50000" fragmentItemId="210109501" icon="71001" id="221700059" isShow="1" name="赤蔷薇" nextLevelId="0" source="活动掉落" typeId="2" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="100" fragmentItemId="210109502" icon="71002" id="221700100" isShow="1" name="喵爪冰激凌" nextLevelId="221700101" source="活动掉落" typeId="3" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="200" fragmentItemId="210109502" icon="71002" id="221700101" isShow="1" name="喵爪冰激凌" nextLevelId="221700102" source="活动掉落" typeId="3" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="400" fragmentItemId="210109502" icon="71002" id="221700102" isShow="1" name="喵爪冰激凌" nextLevelId="221700103" source="活动掉落" typeId="3" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="800" fragmentItemId="210109502" icon="71002" id="221700103" isShow="1" name="喵爪冰激凌" nextLevelId="221700104" source="活动掉落" typeId="3" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="1600" fragmentItemId="210109502" icon="71002" id="221700104" isShow="1" name="喵爪冰激凌" nextLevelId="221700105" source="活动掉落" typeId="3" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="3200" fragmentItemId="210109502" icon="71002" id="221700105" isShow="1" name="喵爪冰激凌" nextLevelId="221700106" source="活动掉落" typeId="3" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="6400" fragmentItemId="210109502" icon="71002" id="221700106" isShow="1" name="喵爪冰激凌" nextLevelId="221700107" source="活动掉落" typeId="3" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="12000" fragmentItemId="210109502" icon="71002" id="221700107" isShow="1" name="喵爪冰激凌" nextLevelId="221700108" source="活动掉落" typeId="3" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="25000" fragmentItemId="210109502" icon="71002" id="221700108" isShow="1" name="喵爪冰激凌" nextLevelId="221700109" source="活动掉落" typeId="3" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="3" fragmentCount="50000" fragmentItemId="210109502" icon="71002" id="221700109" isShow="1" name="喵爪冰激凌" nextLevelId="0" source="活动掉落" typeId="3" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="100" fragmentItemId="210109503" icon="71003" id="221700120" isShow="1" name="定海神针" nextLevelId="221700121" source="活动掉落" typeId="4" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="200" fragmentItemId="210109503" icon="71003" id="221700121" isShow="1" name="定海神针" nextLevelId="221700122" source="活动掉落" typeId="4" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="400" fragmentItemId="210109503" icon="71003" id="221700122" isShow="1" name="定海神针" nextLevelId="221700123" source="活动掉落" typeId="4" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="800" fragmentItemId="210109503" icon="71003" id="221700123" isShow="1" name="定海神针" nextLevelId="221700124" source="活动掉落" typeId="4" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="1600" fragmentItemId="210109503" icon="71003" id="221700124" isShow="1" name="定海神针" nextLevelId="221700125" source="活动掉落" typeId="4" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="3200" fragmentItemId="210109503" icon="71003" id="221700125" isShow="1" name="定海神针" nextLevelId="221700126" source="活动掉落" typeId="4" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="6400" fragmentItemId="210109503" icon="71003" id="221700126" isShow="1" name="定海神针" nextLevelId="221700127" source="活动掉落" typeId="4" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="12000" fragmentItemId="210109503" icon="71003" id="221700127" isShow="1" name="定海神针" nextLevelId="221700128" source="活动掉落" typeId="4" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="25000" fragmentItemId="210109503" icon="71003" id="221700128" isShow="1" name="定海神针" nextLevelId="221700129" source="活动掉落" typeId="4" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="4" fragmentCount="50000" fragmentItemId="210109503" icon="71003" id="221700129" isShow="1" name="定海神针" nextLevelId="0" source="活动掉落" typeId="4" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="100" fragmentItemId="210109504" icon="71004" id="221700140" isShow="1" name="相伴一生" nextLevelId="221700141" source="活动掉落" typeId="5" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="200" fragmentItemId="210109504" icon="71004" id="221700141" isShow="1" name="相伴一生" nextLevelId="221700142" source="活动掉落" typeId="5" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="400" fragmentItemId="210109504" icon="71004" id="221700142" isShow="1" name="相伴一生" nextLevelId="221700143" source="活动掉落" typeId="5" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="800" fragmentItemId="210109504" icon="71004" id="221700143" isShow="1" name="相伴一生" nextLevelId="221700144" source="活动掉落" typeId="5" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="1600" fragmentItemId="210109504" icon="71004" id="221700144" isShow="1" name="相伴一生" nextLevelId="221700145" source="活动掉落" typeId="5" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="3200" fragmentItemId="210109504" icon="71004" id="221700145" isShow="1" name="相伴一生" nextLevelId="221700146" source="活动掉落" typeId="5" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="6400" fragmentItemId="210109504" icon="71004" id="221700146" isShow="1" name="相伴一生" nextLevelId="221700147" source="活动掉落" typeId="5" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="12000" fragmentItemId="210109504" icon="71004" id="221700147" isShow="1" name="相伴一生" nextLevelId="221700148" source="活动掉落" typeId="5" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="25000" fragmentItemId="210109504" icon="71004" id="221700148" isShow="1" name="相伴一生" nextLevelId="221700149" source="活动掉落" typeId="5" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="5" fragmentCount="50000" fragmentItemId="210109504" icon="71004" id="221700149" isShow="1" name="相伴一生" nextLevelId="0" source="活动掉落" typeId="5" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="100" fragmentItemId="210109505" icon="71005" id="221700160" isShow="1" name="愤怒的家巧" nextLevelId="221700161" source="活动掉落" typeId="6" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="200" fragmentItemId="210109505" icon="71005" id="221700161" isShow="1" name="愤怒的家巧" nextLevelId="221700162" source="活动掉落" typeId="6" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="400" fragmentItemId="210109505" icon="71005" id="221700162" isShow="1" name="愤怒的家巧" nextLevelId="221700163" source="活动掉落" typeId="6" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="800" fragmentItemId="210109505" icon="71005" id="221700163" isShow="1" name="愤怒的家巧" nextLevelId="221700164" source="活动掉落" typeId="6" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="1600" fragmentItemId="210109505" icon="71005" id="221700164" isShow="1" name="愤怒的家巧" nextLevelId="221700165" source="活动掉落" typeId="6" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="3200" fragmentItemId="210109505" icon="71005" id="221700165" isShow="1" name="愤怒的家巧" nextLevelId="221700166" source="活动掉落" typeId="6" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="6400" fragmentItemId="210109505" icon="71005" id="221700166" isShow="1" name="愤怒的家巧" nextLevelId="221700167" source="活动掉落" typeId="6" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="12000" fragmentItemId="210109505" icon="71005" id="221700167" isShow="1" name="愤怒的家巧" nextLevelId="221700168" source="活动掉落" typeId="6" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="25000" fragmentItemId="210109505" icon="71005" id="221700168" isShow="1" name="愤怒的家巧" nextLevelId="221700169" source="活动掉落" typeId="6" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="6" fragmentCount="50000" fragmentItemId="210109505" icon="71005" id="221700169" isShow="1" name="愤怒的家巧" nextLevelId="0" source="活动掉落" typeId="6" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="100" fragmentItemId="210109506" icon="71007" id="221700180" isShow="1" name="死亡摇滚" nextLevelId="221700181" source="活动掉落" typeId="7" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="200" fragmentItemId="210109506" icon="71007" id="221700181" isShow="1" name="死亡摇滚" nextLevelId="221700182" source="活动掉落" typeId="7" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="400" fragmentItemId="210109506" icon="71007" id="221700182" isShow="1" name="死亡摇滚" nextLevelId="221700183" source="活动掉落" typeId="7" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="800" fragmentItemId="210109506" icon="71007" id="221700183" isShow="1" name="死亡摇滚" nextLevelId="221700184" source="活动掉落" typeId="7" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="1600" fragmentItemId="210109506" icon="71007" id="221700184" isShow="1" name="死亡摇滚" nextLevelId="221700185" source="活动掉落" typeId="7" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="3200" fragmentItemId="210109506" icon="71007" id="221700185" isShow="1" name="死亡摇滚" nextLevelId="221700186" source="活动掉落" typeId="7" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="6400" fragmentItemId="210109506" icon="71007" id="221700186" isShow="1" name="死亡摇滚" nextLevelId="221700187" source="活动掉落" typeId="7" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="12000" fragmentItemId="210109506" icon="71007" id="221700187" isShow="1" name="死亡摇滚" nextLevelId="221700188" source="活动掉落" typeId="7" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="25000" fragmentItemId="210109506" icon="71007" id="221700188" isShow="1" name="死亡摇滚" nextLevelId="221700189" source="活动掉落" typeId="7" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="7" fragmentCount="50000" fragmentItemId="210109506" icon="71007" id="221700189" isShow="1" name="死亡摇滚" nextLevelId="0" source="活动掉落" typeId="7" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="100" fragmentItemId="210109507" icon="71008" id="221700200" isShow="1" name="星月棒" nextLevelId="221700201" source="活动掉落" typeId="8" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="200" fragmentItemId="210109507" icon="71008" id="221700201" isShow="1" name="星月棒" nextLevelId="221700202" source="活动掉落" typeId="8" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="400" fragmentItemId="210109507" icon="71008" id="221700202" isShow="1" name="星月棒" nextLevelId="221700203" source="活动掉落" typeId="8" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="800" fragmentItemId="210109507" icon="71008" id="221700203" isShow="1" name="星月棒" nextLevelId="221700204" source="活动掉落" typeId="8" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="1600" fragmentItemId="210109507" icon="71008" id="221700204" isShow="1" name="星月棒" nextLevelId="221700205" source="活动掉落" typeId="8" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="3200" fragmentItemId="210109507" icon="71008" id="221700205" isShow="1" name="星月棒" nextLevelId="221700206" source="活动掉落" typeId="8" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="6400" fragmentItemId="210109507" icon="71008" id="221700206" isShow="1" name="星月棒" nextLevelId="221700207" source="活动掉落" typeId="8" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="12000" fragmentItemId="210109507" icon="71008" id="221700207" isShow="1" name="星月棒" nextLevelId="221700208" source="活动掉落" typeId="8" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="25000" fragmentItemId="210109507" icon="71008" id="221700208" isShow="1" name="星月棒" nextLevelId="221700209" source="活动掉落" typeId="8" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="8" fragmentCount="50000" fragmentItemId="210109507" icon="71008" id="221700209" isShow="1" name="星月棒" nextLevelId="0" source="活动掉落" typeId="8" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="100" fragmentItemId="210109508" icon="71009" id="221700220" isShow="1" name="圣诞快乐" nextLevelId="221700221" source="活动掉落" typeId="9" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="200" fragmentItemId="210109508" icon="71009" id="221700221" isShow="1" name="圣诞快乐" nextLevelId="221700222" source="活动掉落" typeId="9" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="400" fragmentItemId="210109508" icon="71009" id="221700222" isShow="1" name="圣诞快乐" nextLevelId="221700223" source="活动掉落" typeId="9" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="800" fragmentItemId="210109508" icon="71009" id="221700223" isShow="1" name="圣诞快乐" nextLevelId="221700224" source="活动掉落" typeId="9" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="1600" fragmentItemId="210109508" icon="71009" id="221700224" isShow="1" name="圣诞快乐" nextLevelId="221700225" source="活动掉落" typeId="9" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="3200" fragmentItemId="210109508" icon="71009" id="221700225" isShow="1" name="圣诞快乐" nextLevelId="221700226" source="活动掉落" typeId="9" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="6400" fragmentItemId="210109508" icon="71009" id="221700226" isShow="1" name="圣诞快乐" nextLevelId="221700227" source="活动掉落" typeId="9" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="12000" fragmentItemId="210109508" icon="71009" id="221700227" isShow="1" name="圣诞快乐" nextLevelId="221700228" source="活动掉落" typeId="9" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="25000" fragmentItemId="210109508" icon="71009" id="221700228" isShow="1" name="圣诞快乐" nextLevelId="221700229" source="活动掉落" typeId="9" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="9" fragmentCount="50000" fragmentItemId="210109508" icon="71009" id="221700229" isShow="1" name="圣诞快乐" nextLevelId="0" source="活动掉落" typeId="9" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="100" fragmentItemId="210109509" icon="71011" id="221700240" isShow="1" name="缤纷甜筒" nextLevelId="221700241" source="活动掉落" typeId="10" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="200" fragmentItemId="210109509" icon="71011" id="221700241" isShow="1" name="缤纷甜筒" nextLevelId="221700242" source="活动掉落" typeId="10" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="400" fragmentItemId="210109509" icon="71011" id="221700242" isShow="1" name="缤纷甜筒" nextLevelId="221700243" source="活动掉落" typeId="10" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="800" fragmentItemId="210109509" icon="71011" id="221700243" isShow="1" name="缤纷甜筒" nextLevelId="221700244" source="活动掉落" typeId="10" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="1600" fragmentItemId="210109509" icon="71011" id="221700244" isShow="1" name="缤纷甜筒" nextLevelId="221700245" source="活动掉落" typeId="10" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="3200" fragmentItemId="210109509" icon="71011" id="221700245" isShow="1" name="缤纷甜筒" nextLevelId="221700246" source="活动掉落" typeId="10" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="6400" fragmentItemId="210109509" icon="71011" id="221700246" isShow="1" name="缤纷甜筒" nextLevelId="221700247" source="活动掉落" typeId="10" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="12000" fragmentItemId="210109509" icon="71011" id="221700247" isShow="1" name="缤纷甜筒" nextLevelId="221700248" source="活动掉落" typeId="10" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="25000" fragmentItemId="210109509" icon="71011" id="221700248" isShow="1" name="缤纷甜筒" nextLevelId="221700249" source="活动掉落" typeId="10" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="10" fragmentCount="50000" fragmentItemId="210109509" icon="71011" id="221700249" isShow="1" name="缤纷甜筒" nextLevelId="0" source="活动掉落" typeId="10" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="100" fragmentItemId="210109510" icon="71012" id="221700260" isShow="1" name="深夜食堂" nextLevelId="221700261" source="活动掉落" typeId="11" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="200" fragmentItemId="210109510" icon="71012" id="221700261" isShow="1" name="深夜食堂" nextLevelId="221700262" source="活动掉落" typeId="11" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="400" fragmentItemId="210109510" icon="71012" id="221700262" isShow="1" name="深夜食堂" nextLevelId="221700263" source="活动掉落" typeId="11" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="800" fragmentItemId="210109510" icon="71012" id="221700263" isShow="1" name="深夜食堂" nextLevelId="221700264" source="活动掉落" typeId="11" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="1600" fragmentItemId="210109510" icon="71012" id="221700264" isShow="1" name="深夜食堂" nextLevelId="221700265" source="活动掉落" typeId="11" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="3200" fragmentItemId="210109510" icon="71012" id="221700265" isShow="1" name="深夜食堂" nextLevelId="221700266" source="活动掉落" typeId="11" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="6400" fragmentItemId="210109510" icon="71012" id="221700266" isShow="1" name="深夜食堂" nextLevelId="221700267" source="活动掉落" typeId="11" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="12000" fragmentItemId="210109510" icon="71012" id="221700267" isShow="1" name="深夜食堂" nextLevelId="221700268" source="活动掉落" typeId="11" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="25000" fragmentItemId="210109510" icon="71012" id="221700268" isShow="1" name="深夜食堂" nextLevelId="221700269" source="活动掉落" typeId="11" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="11" fragmentCount="50000" fragmentItemId="210109510" icon="71012" id="221700269" isShow="1" name="深夜食堂" nextLevelId="0" source="活动掉落" typeId="11" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="100" fragmentItemId="210109511" icon="71018" id="221700280" isShow="1" name="天降祥瑞" nextLevelId="221700281" source="活动掉落" typeId="12" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="200" fragmentItemId="210109511" icon="71018" id="221700281" isShow="1" name="天降祥瑞" nextLevelId="221700282" source="活动掉落" typeId="12" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="400" fragmentItemId="210109511" icon="71018" id="221700282" isShow="1" name="天降祥瑞" nextLevelId="221700283" source="活动掉落" typeId="12" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="800" fragmentItemId="210109511" icon="71018" id="221700283" isShow="1" name="天降祥瑞" nextLevelId="221700284" source="活动掉落" typeId="12" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="1600" fragmentItemId="210109511" icon="71018" id="221700284" isShow="1" name="天降祥瑞" nextLevelId="221700285" source="活动掉落" typeId="12" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="3200" fragmentItemId="210109511" icon="71018" id="221700285" isShow="1" name="天降祥瑞" nextLevelId="221700286" source="活动掉落" typeId="12" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="6400" fragmentItemId="210109511" icon="71018" id="221700286" isShow="1" name="天降祥瑞" nextLevelId="221700287" source="活动掉落" typeId="12" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="12000" fragmentItemId="210109511" icon="71018" id="221700287" isShow="1" name="天降祥瑞" nextLevelId="221700288" source="活动掉落" typeId="12" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="25000" fragmentItemId="210109511" icon="71018" id="221700288" isShow="1" name="天降祥瑞" nextLevelId="221700289" source="活动掉落" typeId="12" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="12" fragmentCount="50000" fragmentItemId="210109511" icon="71018" id="221700289" isShow="1" name="天降祥瑞" nextLevelId="0" source="活动掉落" typeId="12" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="100" fragmentItemId="210109512" icon="71019" id="221700290" isShow="1" name="桃花缘" nextLevelId="221700291" source="活动掉落" typeId="13" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="200" fragmentItemId="210109512" icon="71019" id="221700291" isShow="1" name="桃花缘" nextLevelId="221700292" source="活动掉落" typeId="13" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="400" fragmentItemId="210109512" icon="71019" id="221700292" isShow="1" name="桃花缘" nextLevelId="221700293" source="活动掉落" typeId="13" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="800" fragmentItemId="210109512" icon="71019" id="221700293" isShow="1" name="桃花缘" nextLevelId="221700294" source="活动掉落" typeId="13" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="1600" fragmentItemId="210109512" icon="71019" id="221700294" isShow="1" name="桃花缘" nextLevelId="221700295" source="活动掉落" typeId="13" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="3200" fragmentItemId="210109512" icon="71019" id="221700295" isShow="1" name="桃花缘" nextLevelId="221700296" source="活动掉落" typeId="13" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="6400" fragmentItemId="210109512" icon="71019" id="221700296" isShow="1" name="桃花缘" nextLevelId="221700297" source="活动掉落" typeId="13" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="12000" fragmentItemId="210109512" icon="71019" id="221700297" isShow="1" name="桃花缘" nextLevelId="221700298" source="活动掉落" typeId="13" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="25000" fragmentItemId="210109512" icon="71019" id="221700298" isShow="1" name="桃花缘" nextLevelId="221700299" source="活动掉落" typeId="13" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="13" fragmentCount="50000" fragmentItemId="210109512" icon="71019" id="221700299" isShow="1" name="桃花缘" nextLevelId="0" source="活动掉落" typeId="13" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="100" fragmentItemId="210109513" icon="71020" id="221700300" isShow="1" name="独钓寒江雪" nextLevelId="221700301" source="活动掉落" typeId="14" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="200" fragmentItemId="210109513" icon="71020" id="221700301" isShow="1" name="独钓寒江雪" nextLevelId="221700302" source="活动掉落" typeId="14" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="400" fragmentItemId="210109513" icon="71020" id="221700302" isShow="1" name="独钓寒江雪" nextLevelId="221700303" source="活动掉落" typeId="14" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="800" fragmentItemId="210109513" icon="71020" id="221700303" isShow="1" name="独钓寒江雪" nextLevelId="221700304" source="活动掉落" typeId="14" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="1600" fragmentItemId="210109513" icon="71020" id="221700304" isShow="1" name="独钓寒江雪" nextLevelId="221700305" source="活动掉落" typeId="14" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="3200" fragmentItemId="210109513" icon="71020" id="221700305" isShow="1" name="独钓寒江雪" nextLevelId="221700306" source="活动掉落" typeId="14" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="6400" fragmentItemId="210109513" icon="71020" id="221700306" isShow="1" name="独钓寒江雪" nextLevelId="221700307" source="活动掉落" typeId="14" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="12000" fragmentItemId="210109513" icon="71020" id="221700307" isShow="1" name="独钓寒江雪" nextLevelId="221700308" source="活动掉落" typeId="14" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="25000" fragmentItemId="210109513" icon="71020" id="221700308" isShow="1" name="独钓寒江雪" nextLevelId="221700309" source="活动掉落" typeId="14" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="14" fragmentCount="50000" fragmentItemId="210109513" icon="71020" id="221700309" isShow="1" name="独钓寒江雪" nextLevelId="0" source="活动掉落" typeId="14" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="100" fragmentItemId="210109514" icon="71006" id="221700310" isShow="1" name="波板甜心" nextLevelId="221700311" source="活动掉落" typeId="15" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="200" fragmentItemId="210109514" icon="71006" id="221700311" isShow="1" name="波板甜心" nextLevelId="221700312" source="活动掉落" typeId="15" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="400" fragmentItemId="210109514" icon="71006" id="221700312" isShow="1" name="波板甜心" nextLevelId="221700313" source="活动掉落" typeId="15" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="800" fragmentItemId="210109514" icon="71006" id="221700313" isShow="1" name="波板甜心" nextLevelId="221700314" source="活动掉落" typeId="15" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="1600" fragmentItemId="210109514" icon="71006" id="221700314" isShow="1" name="波板甜心" nextLevelId="221700315" source="活动掉落" typeId="15" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="3200" fragmentItemId="210109514" icon="71006" id="221700315" isShow="1" name="波板甜心" nextLevelId="221700316" source="活动掉落" typeId="15" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="6400" fragmentItemId="210109514" icon="71006" id="221700316" isShow="1" name="波板甜心" nextLevelId="221700317" source="活动掉落" typeId="15" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="12000" fragmentItemId="210109514" icon="71006" id="221700317" isShow="1" name="波板甜心" nextLevelId="221700318" source="活动掉落" typeId="15" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="25000" fragmentItemId="210109514" icon="71006" id="221700318" isShow="1" name="波板甜心" nextLevelId="221700319" source="活动掉落" typeId="15" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="15" fragmentCount="50000" fragmentItemId="210109514" icon="71006" id="221700319" isShow="1" name="波板甜心" nextLevelId="0" source="活动掉落" typeId="15" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="100" fragmentItemId="210109515" icon="71021" id="221700320" isShow="1" name="皮皮龙" nextLevelId="221700321" source="活动掉落" typeId="16" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="200" fragmentItemId="210109515" icon="71021" id="221700321" isShow="1" name="皮皮龙" nextLevelId="221700322" source="活动掉落" typeId="16" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="400" fragmentItemId="210109515" icon="71021" id="221700322" isShow="1" name="皮皮龙" nextLevelId="221700323" source="活动掉落" typeId="16" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="800" fragmentItemId="210109515" icon="71021" id="221700323" isShow="1" name="皮皮龙" nextLevelId="221700324" source="活动掉落" typeId="16" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="1600" fragmentItemId="210109515" icon="71021" id="221700324" isShow="1" name="皮皮龙" nextLevelId="221700325" source="活动掉落" typeId="16" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="3200" fragmentItemId="210109515" icon="71021" id="221700325" isShow="1" name="皮皮龙" nextLevelId="221700326" source="活动掉落" typeId="16" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="6400" fragmentItemId="210109515" icon="71021" id="221700326" isShow="1" name="皮皮龙" nextLevelId="221700327" source="活动掉落" typeId="16" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="12000" fragmentItemId="210109515" icon="71021" id="221700327" isShow="1" name="皮皮龙" nextLevelId="221700328" source="活动掉落" typeId="16" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="25000" fragmentItemId="210109515" icon="71021" id="221700328" isShow="1" name="皮皮龙" nextLevelId="221700329" source="活动掉落" typeId="16" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="16" fragmentCount="50000" fragmentItemId="210109515" icon="71021" id="221700329" isShow="1" name="皮皮龙" nextLevelId="0" source="活动掉落" typeId="16" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="100" fragmentItemId="210109516" icon="71022" id="221700330" isShow="1" name="禁止通行" nextLevelId="221700331" source="活动掉落" typeId="17" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="200" fragmentItemId="210109516" icon="71022" id="221700331" isShow="1" name="禁止通行" nextLevelId="221700332" source="活动掉落" typeId="17" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="400" fragmentItemId="210109516" icon="71022" id="221700332" isShow="1" name="禁止通行" nextLevelId="221700333" source="活动掉落" typeId="17" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="800" fragmentItemId="210109516" icon="71022" id="221700333" isShow="1" name="禁止通行" nextLevelId="221700334" source="活动掉落" typeId="17" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="1600" fragmentItemId="210109516" icon="71022" id="221700334" isShow="1" name="禁止通行" nextLevelId="221700335" source="活动掉落" typeId="17" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="3200" fragmentItemId="210109516" icon="71022" id="221700335" isShow="1" name="禁止通行" nextLevelId="221700336" source="活动掉落" typeId="17" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="6400" fragmentItemId="210109516" icon="71022" id="221700336" isShow="1" name="禁止通行" nextLevelId="221700337" source="活动掉落" typeId="17" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="12000" fragmentItemId="210109516" icon="71022" id="221700337" isShow="1" name="禁止通行" nextLevelId="221700338" source="活动掉落" typeId="17" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="25000" fragmentItemId="210109516" icon="71022" id="221700338" isShow="1" name="禁止通行" nextLevelId="221700339" source="活动掉落" typeId="17" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="17" fragmentCount="50000" fragmentItemId="210109516" icon="71022" id="221700339" isShow="1" name="禁止通行" nextLevelId="0" source="活动掉落" typeId="17" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="100" fragmentItemId="210109517" icon="71024" id="221700340" isShow="1" name="荷塘呱呱" nextLevelId="221700341" source="活动掉落" typeId="18" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="200" fragmentItemId="210109517" icon="71024" id="221700341" isShow="1" name="荷塘呱呱" nextLevelId="221700342" source="活动掉落" typeId="18" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="400" fragmentItemId="210109517" icon="71024" id="221700342" isShow="1" name="荷塘呱呱" nextLevelId="221700343" source="活动掉落" typeId="18" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="800" fragmentItemId="210109517" icon="71024" id="221700343" isShow="1" name="荷塘呱呱" nextLevelId="221700344" source="活动掉落" typeId="18" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="1600" fragmentItemId="210109517" icon="71024" id="221700344" isShow="1" name="荷塘呱呱" nextLevelId="221700345" source="活动掉落" typeId="18" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="3200" fragmentItemId="210109517" icon="71024" id="221700345" isShow="1" name="荷塘呱呱" nextLevelId="221700346" source="活动掉落" typeId="18" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="6400" fragmentItemId="210109517" icon="71024" id="221700346" isShow="1" name="荷塘呱呱" nextLevelId="221700347" source="活动掉落" typeId="18" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="12000" fragmentItemId="210109517" icon="71024" id="221700347" isShow="1" name="荷塘呱呱" nextLevelId="221700348" source="活动掉落" typeId="18" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="25000" fragmentItemId="210109517" icon="71024" id="221700348" isShow="1" name="荷塘呱呱" nextLevelId="221700349" source="活动掉落" typeId="18" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="18" fragmentCount="50000" fragmentItemId="210109517" icon="71024" id="221700349" isShow="1" name="荷塘呱呱" nextLevelId="0" source="活动掉落" typeId="18" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="100" fragmentItemId="210109518" icon="71025" id="221700350" isShow="1" name="歌舞伎" nextLevelId="221700351" source="活动掉落" typeId="19" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="200" fragmentItemId="210109518" icon="71025" id="221700351" isShow="1" name="歌舞伎" nextLevelId="221700352" source="活动掉落" typeId="19" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="400" fragmentItemId="210109518" icon="71025" id="221700352" isShow="1" name="歌舞伎" nextLevelId="221700353" source="活动掉落" typeId="19" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="800" fragmentItemId="210109518" icon="71025" id="221700353" isShow="1" name="歌舞伎" nextLevelId="221700354" source="活动掉落" typeId="19" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="1600" fragmentItemId="210109518" icon="71025" id="221700354" isShow="1" name="歌舞伎" nextLevelId="221700355" source="活动掉落" typeId="19" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="3200" fragmentItemId="210109518" icon="71025" id="221700355" isShow="1" name="歌舞伎" nextLevelId="221700356" source="活动掉落" typeId="19" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="6400" fragmentItemId="210109518" icon="71025" id="221700356" isShow="1" name="歌舞伎" nextLevelId="221700357" source="活动掉落" typeId="19" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="12000" fragmentItemId="210109518" icon="71025" id="221700357" isShow="1" name="歌舞伎" nextLevelId="221700358" source="活动掉落" typeId="19" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="25000" fragmentItemId="210109518" icon="71025" id="221700358" isShow="1" name="歌舞伎" nextLevelId="221700359" source="活动掉落" typeId="19" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="19" fragmentCount="50000" fragmentItemId="210109518" icon="71025" id="221700359" isShow="1" name="歌舞伎" nextLevelId="0" source="活动掉落" typeId="19" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="100" fragmentItemId="210109519" icon="71023" id="221700370" isShow="1" name="浪漫告白" nextLevelId="221700371" source="活动掉落" typeId="20" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="200" fragmentItemId="210109519" icon="71023" id="221700371" isShow="1" name="浪漫告白" nextLevelId="221700372" source="活动掉落" typeId="20" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="400" fragmentItemId="210109519" icon="71023" id="221700372" isShow="1" name="浪漫告白" nextLevelId="221700373" source="活动掉落" typeId="20" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="800" fragmentItemId="210109519" icon="71023" id="221700373" isShow="1" name="浪漫告白" nextLevelId="221700374" source="活动掉落" typeId="20" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="1600" fragmentItemId="210109519" icon="71023" id="221700374" isShow="1" name="浪漫告白" nextLevelId="221700375" source="活动掉落" typeId="20" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="3200" fragmentItemId="210109519" icon="71023" id="221700375" isShow="1" name="浪漫告白" nextLevelId="221700376" source="活动掉落" typeId="20" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="6400" fragmentItemId="210109519" icon="71023" id="221700376" isShow="1" name="浪漫告白" nextLevelId="221700377" source="活动掉落" typeId="20" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="12000" fragmentItemId="210109519" icon="71023" id="221700377" isShow="1" name="浪漫告白" nextLevelId="221700378" source="活动掉落" typeId="20" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="25000" fragmentItemId="210109519" icon="71023" id="221700378" isShow="1" name="浪漫告白" nextLevelId="221700379" source="活动掉落" typeId="20" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="20" fragmentCount="50000" fragmentItemId="210109519" icon="71023" id="221700379" isShow="1" name="浪漫告白" nextLevelId="0" source="活动掉落" typeId="20" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="100" fragmentItemId="210109520" icon="71027" id="221700390" isShow="1" name="浓情风车" nextLevelId="221700391" source="活动掉落" typeId="21" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="200" fragmentItemId="210109520" icon="71027" id="221700391" isShow="1" name="浓情风车" nextLevelId="221700392" source="活动掉落" typeId="21" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="400" fragmentItemId="210109520" icon="71027" id="221700392" isShow="1" name="浓情风车" nextLevelId="221700393" source="活动掉落" typeId="21" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="800" fragmentItemId="210109520" icon="71027" id="221700393" isShow="1" name="浓情风车" nextLevelId="221700394" source="活动掉落" typeId="21" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="1600" fragmentItemId="210109520" icon="71027" id="221700394" isShow="1" name="浓情风车" nextLevelId="221700395" source="活动掉落" typeId="21" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="3200" fragmentItemId="210109520" icon="71027" id="221700395" isShow="1" name="浓情风车" nextLevelId="221700396" source="活动掉落" typeId="21" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="6400" fragmentItemId="210109520" icon="71027" id="221700396" isShow="1" name="浓情风车" nextLevelId="221700397" source="活动掉落" typeId="21" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="12000" fragmentItemId="210109520" icon="71027" id="221700397" isShow="1" name="浓情风车" nextLevelId="221700398" source="活动掉落" typeId="21" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="25000" fragmentItemId="210109520" icon="71027" id="221700398" isShow="1" name="浓情风车" nextLevelId="221700399" source="活动掉落" typeId="21" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="21" fragmentCount="50000" fragmentItemId="210109520" icon="71027" id="221700399" isShow="1" name="浓情风车" nextLevelId="0" source="活动掉落" typeId="21" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="100" fragmentItemId="210109521" icon="71028" id="221700410" isShow="1" name="吸血鬼伯爵" nextLevelId="221700411" source="活动掉落" typeId="22" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="200" fragmentItemId="210109521" icon="71028" id="221700411" isShow="1" name="吸血鬼伯爵" nextLevelId="221700412" source="活动掉落" typeId="22" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="400" fragmentItemId="210109521" icon="71028" id="221700412" isShow="1" name="吸血鬼伯爵" nextLevelId="221700413" source="活动掉落" typeId="22" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="800" fragmentItemId="210109521" icon="71028" id="221700413" isShow="1" name="吸血鬼伯爵" nextLevelId="221700414" source="活动掉落" typeId="22" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="1600" fragmentItemId="210109521" icon="71028" id="221700414" isShow="1" name="吸血鬼伯爵" nextLevelId="221700415" source="活动掉落" typeId="22" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="3200" fragmentItemId="210109521" icon="71028" id="221700415" isShow="1" name="吸血鬼伯爵" nextLevelId="221700416" source="活动掉落" typeId="22" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="6400" fragmentItemId="210109521" icon="71028" id="221700416" isShow="1" name="吸血鬼伯爵" nextLevelId="221700417" source="活动掉落" typeId="22" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="12000" fragmentItemId="210109521" icon="71028" id="221700417" isShow="1" name="吸血鬼伯爵" nextLevelId="221700418" source="活动掉落" typeId="22" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="25000" fragmentItemId="210109521" icon="71028" id="221700418" isShow="1" name="吸血鬼伯爵" nextLevelId="221700419" source="活动掉落" typeId="22" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="22" fragmentCount="50000" fragmentItemId="210109521" icon="71028" id="221700419" isShow="1" name="吸血鬼伯爵" nextLevelId="0" source="活动掉落" typeId="22" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="100" fragmentItemId="210109522" icon="71030" id="221700430" isShow="1" name="甜心蛋糕" nextLevelId="221700431" source="活动掉落" typeId="23" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="200" fragmentItemId="210109522" icon="71030" id="221700431" isShow="1" name="甜心蛋糕" nextLevelId="221700432" source="活动掉落" typeId="23" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="400" fragmentItemId="210109522" icon="71030" id="221700432" isShow="1" name="甜心蛋糕" nextLevelId="221700433" source="活动掉落" typeId="23" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="800" fragmentItemId="210109522" icon="71030" id="221700433" isShow="1" name="甜心蛋糕" nextLevelId="221700434" source="活动掉落" typeId="23" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="1600" fragmentItemId="210109522" icon="71030" id="221700434" isShow="1" name="甜心蛋糕" nextLevelId="221700435" source="活动掉落" typeId="23" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="3200" fragmentItemId="210109522" icon="71030" id="221700435" isShow="1" name="甜心蛋糕" nextLevelId="221700436" source="活动掉落" typeId="23" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="6400" fragmentItemId="210109522" icon="71030" id="221700436" isShow="1" name="甜心蛋糕" nextLevelId="221700437" source="活动掉落" typeId="23" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="12000" fragmentItemId="210109522" icon="71030" id="221700437" isShow="1" name="甜心蛋糕" nextLevelId="221700438" source="活动掉落" typeId="23" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="25000" fragmentItemId="210109522" icon="71030" id="221700438" isShow="1" name="甜心蛋糕" nextLevelId="221700439" source="活动掉落" typeId="23" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="23" fragmentCount="50000" fragmentItemId="210109522" icon="71030" id="221700439" isShow="1" name="甜心蛋糕" nextLevelId="0" source="活动掉落" typeId="23" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="100" fragmentItemId="210109523" icon="71031" id="221700450" isShow="1" name="平底锅" nextLevelId="221700451" source="活动掉落" typeId="24" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="200" fragmentItemId="210109523" icon="71031" id="221700451" isShow="1" name="平底锅" nextLevelId="221700452" source="活动掉落" typeId="24" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="400" fragmentItemId="210109523" icon="71031" id="221700452" isShow="1" name="平底锅" nextLevelId="221700453" source="活动掉落" typeId="24" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="800" fragmentItemId="210109523" icon="71031" id="221700453" isShow="1" name="平底锅" nextLevelId="221700454" source="活动掉落" typeId="24" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="1600" fragmentItemId="210109523" icon="71031" id="221700454" isShow="1" name="平底锅" nextLevelId="221700455" source="活动掉落" typeId="24" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="3200" fragmentItemId="210109523" icon="71031" id="221700455" isShow="1" name="平底锅" nextLevelId="221700456" source="活动掉落" typeId="24" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="6400" fragmentItemId="210109523" icon="71031" id="221700456" isShow="1" name="平底锅" nextLevelId="221700457" source="活动掉落" typeId="24" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="12000" fragmentItemId="210109523" icon="71031" id="221700457" isShow="1" name="平底锅" nextLevelId="221700458" source="活动掉落" typeId="24" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="25000" fragmentItemId="210109523" icon="71031" id="221700458" isShow="1" name="平底锅" nextLevelId="221700459" source="活动掉落" typeId="24" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="24" fragmentCount="50000" fragmentItemId="210109523" icon="71031" id="221700459" isShow="1" name="平底锅" nextLevelId="0" source="活动掉落" typeId="24" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="100" fragmentItemId="210109524" icon="71029" id="221700470" isShow="1" name="恶魔飞猪" nextLevelId="221700471" source="活动掉落" typeId="25" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="200" fragmentItemId="210109524" icon="71029" id="221700471" isShow="1" name="恶魔飞猪" nextLevelId="221700472" source="活动掉落" typeId="25" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="400" fragmentItemId="210109524" icon="71029" id="221700472" isShow="1" name="恶魔飞猪" nextLevelId="221700473" source="活动掉落" typeId="25" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="800" fragmentItemId="210109524" icon="71029" id="221700473" isShow="1" name="恶魔飞猪" nextLevelId="221700474" source="活动掉落" typeId="25" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="1600" fragmentItemId="210109524" icon="71029" id="221700474" isShow="1" name="恶魔飞猪" nextLevelId="221700475" source="活动掉落" typeId="25" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="3200" fragmentItemId="210109524" icon="71029" id="221700475" isShow="1" name="恶魔飞猪" nextLevelId="221700476" source="活动掉落" typeId="25" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="6400" fragmentItemId="210109524" icon="71029" id="221700476" isShow="1" name="恶魔飞猪" nextLevelId="221700477" source="活动掉落" typeId="25" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="12000" fragmentItemId="210109524" icon="71029" id="221700477" isShow="1" name="恶魔飞猪" nextLevelId="221700478" source="活动掉落" typeId="25" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="25000" fragmentItemId="210109524" icon="71029" id="221700478" isShow="1" name="恶魔飞猪" nextLevelId="221700479" source="活动掉落" typeId="25" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="25" fragmentCount="50000" fragmentItemId="210109524" icon="71029" id="221700479" isShow="1" name="恶魔飞猪" nextLevelId="0" source="活动掉落" typeId="25" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="100" fragmentItemId="210109525" icon="71032" id="221700490" isShow="1" name="欢乐肥宅花" nextLevelId="221700491" source="活动掉落" typeId="26" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="200" fragmentItemId="210109525" icon="71032" id="221700491" isShow="1" name="欢乐肥宅花" nextLevelId="221700492" source="活动掉落" typeId="26" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="400" fragmentItemId="210109525" icon="71032" id="221700492" isShow="1" name="欢乐肥宅花" nextLevelId="221700493" source="活动掉落" typeId="26" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="800" fragmentItemId="210109525" icon="71032" id="221700493" isShow="1" name="欢乐肥宅花" nextLevelId="221700494" source="活动掉落" typeId="26" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="1600" fragmentItemId="210109525" icon="71032" id="221700494" isShow="1" name="欢乐肥宅花" nextLevelId="221700495" source="活动掉落" typeId="26" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="3200" fragmentItemId="210109525" icon="71032" id="221700495" isShow="1" name="欢乐肥宅花" nextLevelId="221700496" source="活动掉落" typeId="26" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="6400" fragmentItemId="210109525" icon="71032" id="221700496" isShow="1" name="欢乐肥宅花" nextLevelId="221700497" source="活动掉落" typeId="26" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="12000" fragmentItemId="210109525" icon="71032" id="221700497" isShow="1" name="欢乐肥宅花" nextLevelId="221700498" source="活动掉落" typeId="26" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="25000" fragmentItemId="210109525" icon="71032" id="221700498" isShow="1" name="欢乐肥宅花" nextLevelId="221700499" source="活动掉落" typeId="26" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="26" fragmentCount="50000" fragmentItemId="210109525" icon="71032" id="221700499" isShow="1" name="欢乐肥宅花" nextLevelId="0" source="活动掉落" typeId="26" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="100" fragmentItemId="210109526" icon="71033" id="221700510" isShow="1" name="樱桃蜜肉" nextLevelId="221700511" source="活动掉落" typeId="27" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="200" fragmentItemId="210109526" icon="71033" id="221700511" isShow="1" name="樱桃蜜肉" nextLevelId="221700512" source="活动掉落" typeId="27" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="400" fragmentItemId="210109526" icon="71033" id="221700512" isShow="1" name="樱桃蜜肉" nextLevelId="221700513" source="活动掉落" typeId="27" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="800" fragmentItemId="210109526" icon="71033" id="221700513" isShow="1" name="樱桃蜜肉" nextLevelId="221700514" source="活动掉落" typeId="27" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="1600" fragmentItemId="210109526" icon="71033" id="221700514" isShow="1" name="樱桃蜜肉" nextLevelId="221700515" source="活动掉落" typeId="27" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="3200" fragmentItemId="210109526" icon="71033" id="221700515" isShow="1" name="樱桃蜜肉" nextLevelId="221700516" source="活动掉落" typeId="27" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="6400" fragmentItemId="210109526" icon="71033" id="221700516" isShow="1" name="樱桃蜜肉" nextLevelId="221700517" source="活动掉落" typeId="27" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="12000" fragmentItemId="210109526" icon="71033" id="221700517" isShow="1" name="樱桃蜜肉" nextLevelId="221700518" source="活动掉落" typeId="27" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="25000" fragmentItemId="210109526" icon="71033" id="221700518" isShow="1" name="樱桃蜜肉" nextLevelId="221700519" source="活动掉落" typeId="27" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="27" fragmentCount="50000" fragmentItemId="210109526" icon="71033" id="221700519" isShow="1" name="樱桃蜜肉" nextLevelId="0" source="活动掉落" typeId="27" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="100" fragmentItemId="210109527" icon="71026" id="221700520" isShow="1" name="玉兔月饼" nextLevelId="221700521" source="活动掉落" typeId="28" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="200" fragmentItemId="210109527" icon="71026" id="221700521" isShow="1" name="玉兔月饼" nextLevelId="221700522" source="活动掉落" typeId="28" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="400" fragmentItemId="210109527" icon="71026" id="221700522" isShow="1" name="玉兔月饼" nextLevelId="221700523" source="活动掉落" typeId="28" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="800" fragmentItemId="210109527" icon="71026" id="221700523" isShow="1" name="玉兔月饼" nextLevelId="221700524" source="活动掉落" typeId="28" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="1600" fragmentItemId="210109527" icon="71026" id="221700524" isShow="1" name="玉兔月饼" nextLevelId="221700525" source="活动掉落" typeId="28" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="3200" fragmentItemId="210109527" icon="71026" id="221700525" isShow="1" name="玉兔月饼" nextLevelId="221700526" source="活动掉落" typeId="28" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="6400" fragmentItemId="210109527" icon="71026" id="221700526" isShow="1" name="玉兔月饼" nextLevelId="221700527" source="活动掉落" typeId="28" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="12000" fragmentItemId="210109527" icon="71026" id="221700527" isShow="1" name="玉兔月饼" nextLevelId="221700528" source="活动掉落" typeId="28" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="25000" fragmentItemId="210109527" icon="71026" id="221700528" isShow="1" name="玉兔月饼" nextLevelId="221700529" source="活动掉落" typeId="28" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="28" fragmentCount="50000" fragmentItemId="210109527" icon="71026" id="221700529" isShow="1" name="玉兔月饼" nextLevelId="0" source="活动掉落" typeId="28" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="100" fragmentItemId="210109528" icon="93415" id="221700530" isShow="1" name="兔子信箱" nextLevelId="221700531" source="活动掉落" typeId="29" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="200" fragmentItemId="210109528" icon="93415" id="221700531" isShow="1" name="兔子信箱" nextLevelId="221700532" source="活动掉落" typeId="29" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="400" fragmentItemId="210109528" icon="93415" id="221700532" isShow="1" name="兔子信箱" nextLevelId="221700533" source="活动掉落" typeId="29" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="800" fragmentItemId="210109528" icon="93415" id="221700533" isShow="1" name="兔子信箱" nextLevelId="221700534" source="活动掉落" typeId="29" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="1600" fragmentItemId="210109528" icon="93415" id="221700534" isShow="1" name="兔子信箱" nextLevelId="221700535" source="活动掉落" typeId="29" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="3200" fragmentItemId="210109528" icon="93415" id="221700535" isShow="1" name="兔子信箱" nextLevelId="221700536" source="活动掉落" typeId="29" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="6400" fragmentItemId="210109528" icon="93415" id="221700536" isShow="1" name="兔子信箱" nextLevelId="221700537" source="活动掉落" typeId="29" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="12000" fragmentItemId="210109528" icon="93415" id="221700537" isShow="1" name="兔子信箱" nextLevelId="221700538" source="活动掉落" typeId="29" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="25000" fragmentItemId="210109528" icon="93415" id="221700538" isShow="1" name="兔子信箱" nextLevelId="221700539" source="活动掉落" typeId="29" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="29" fragmentCount="50000" fragmentItemId="210109528" icon="93415" id="221700539" isShow="1" name="兔子信箱" nextLevelId="0" source="活动掉落" typeId="29" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="100" fragmentItemId="210109999" icon="71010" id="221790000" isShow="2" name="原力觉醒" nextLevelId="221790001" source="活动掉落" typeId="99" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="200" fragmentItemId="210109999" icon="71010" id="221790001" isShow="2" name="原力觉醒" nextLevelId="221790002" source="活动掉落" typeId="99" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="400" fragmentItemId="210109999" icon="71010" id="221790002" isShow="2" name="原力觉醒" nextLevelId="221790003" source="活动掉落" typeId="99" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="800" fragmentItemId="210109999" icon="71010" id="221790003" isShow="2" name="原力觉醒" nextLevelId="221790004" source="活动掉落" typeId="99" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="1600" fragmentItemId="210109999" icon="71010" id="221790004" isShow="2" name="原力觉醒" nextLevelId="221790005" source="活动掉落" typeId="99" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="3200" fragmentItemId="210109999" icon="71010" id="221790005" isShow="2" name="原力觉醒" nextLevelId="221790006" source="活动掉落" typeId="99" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="6400" fragmentItemId="210109999" icon="71010" id="221790006" isShow="2" name="原力觉醒" nextLevelId="221790007" source="活动掉落" typeId="99" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="12000" fragmentItemId="210109999" icon="71010" id="221790007" isShow="2" name="原力觉醒" nextLevelId="221790008" source="活动掉落" typeId="99" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="25000" fragmentItemId="210109999" icon="71010" id="221790008" isShow="2" name="原力觉醒" nextLevelId="221790009" source="活动掉落" typeId="99" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="99" fragmentCount="50000" fragmentItemId="210109999" icon="71010" id="221790009" isShow="2" name="原力觉醒" nextLevelId="0" source="活动掉落" typeId="99" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="100" fragmentItemId="210109900" icon="71013" id="221791000" isShow="1" name="50级武器饰品" nextLevelId="221792000" source="活动掉落" typeId="1000" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="200" fragmentItemId="210109900" icon="71013" id="221792000" isShow="1" name="50级武器饰品" nextLevelId="221792001" source="活动掉落" typeId="1000" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="400" fragmentItemId="210109900" icon="71013" id="221792001" isShow="1" name="50级武器饰品" nextLevelId="221792002" source="活动掉落" typeId="1000" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="800" fragmentItemId="210109900" icon="71013" id="221792002" isShow="1" name="50级武器饰品" nextLevelId="221792003" source="活动掉落" typeId="1000" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="1600" fragmentItemId="210109900" icon="71013" id="221792003" isShow="1" name="50级武器饰品" nextLevelId="221792004" source="活动掉落" typeId="1000" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="3200" fragmentItemId="210109900" icon="71013" id="221792004" isShow="1" name="50级武器饰品" nextLevelId="221792005" source="活动掉落" typeId="1000" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="6400" fragmentItemId="210109900" icon="71013" id="221792005" isShow="1" name="50级武器饰品" nextLevelId="221792006" source="活动掉落" typeId="1000" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="12000" fragmentItemId="210109900" icon="71013" id="221792006" isShow="1" name="50级武器饰品" nextLevelId="221792007" source="活动掉落" typeId="1000" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="25000" fragmentItemId="210109900" icon="71013" id="221792007" isShow="1" name="50级武器饰品" nextLevelId="221792008" source="活动掉落" typeId="1000" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1000" fragmentCount="50000" fragmentItemId="210109900" icon="71013" id="221792008" isShow="1" name="50级武器饰品" nextLevelId="0" source="活动掉落" typeId="1000" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="100" fragmentItemId="210109901" icon="71014" id="221791001" isShow="1" name="60级武器饰品" nextLevelId="221791101" source="活动掉落" typeId="1001" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="200" fragmentItemId="210109901" icon="71014" id="221791101" isShow="1" name="60级武器饰品" nextLevelId="221791102" source="活动掉落" typeId="1001" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="400" fragmentItemId="210109901" icon="71014" id="221791102" isShow="1" name="60级武器饰品" nextLevelId="221791103" source="活动掉落" typeId="1001" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="800" fragmentItemId="210109901" icon="71014" id="221791103" isShow="1" name="60级武器饰品" nextLevelId="221791104" source="活动掉落" typeId="1001" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="1600" fragmentItemId="210109901" icon="71014" id="221791104" isShow="1" name="60级武器饰品" nextLevelId="221791105" source="活动掉落" typeId="1001" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="3200" fragmentItemId="210109901" icon="71014" id="221791105" isShow="1" name="60级武器饰品" nextLevelId="221791106" source="活动掉落" typeId="1001" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="6400" fragmentItemId="210109901" icon="71014" id="221791106" isShow="1" name="60级武器饰品" nextLevelId="221791107" source="活动掉落" typeId="1001" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="12000" fragmentItemId="210109901" icon="71014" id="221791107" isShow="1" name="60级武器饰品" nextLevelId="221791108" source="活动掉落" typeId="1001" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="25000" fragmentItemId="210109901" icon="71014" id="221791108" isShow="1" name="60级武器饰品" nextLevelId="221791109" source="活动掉落" typeId="1001" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1001" fragmentCount="50000" fragmentItemId="210109901" icon="71014" id="221791109" isShow="1" name="60级武器饰品" nextLevelId="0" source="活动掉落" typeId="1001" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="100" fragmentItemId="210109902" icon="71015" id="221791002" isShow="1" name="70级武器饰品" nextLevelId="221791202" source="活动掉落" typeId="1002" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="200" fragmentItemId="210109902" icon="71015" id="221791202" isShow="1" name="70级武器饰品" nextLevelId="221791203" source="活动掉落" typeId="1002" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="400" fragmentItemId="210109902" icon="71015" id="221791203" isShow="1" name="70级武器饰品" nextLevelId="221791204" source="活动掉落" typeId="1002" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="800" fragmentItemId="210109902" icon="71015" id="221791204" isShow="1" name="70级武器饰品" nextLevelId="221791205" source="活动掉落" typeId="1002" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="1600" fragmentItemId="210109902" icon="71015" id="221791205" isShow="1" name="70级武器饰品" nextLevelId="221791206" source="活动掉落" typeId="1002" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="3200" fragmentItemId="210109902" icon="71015" id="221791206" isShow="1" name="70级武器饰品" nextLevelId="221791207" source="活动掉落" typeId="1002" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="6400" fragmentItemId="210109902" icon="71015" id="221791207" isShow="1" name="70级武器饰品" nextLevelId="221791208" source="活动掉落" typeId="1002" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="12000" fragmentItemId="210109902" icon="71015" id="221791208" isShow="1" name="70级武器饰品" nextLevelId="221791209" source="活动掉落" typeId="1002" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="25000" fragmentItemId="210109902" icon="71015" id="221791209" isShow="1" name="70级武器饰品" nextLevelId="221791210" source="活动掉落" typeId="1002" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1002" fragmentCount="50000" fragmentItemId="210109902" icon="71015" id="221791210" isShow="1" name="70级武器饰品" nextLevelId="0" source="活动掉落" typeId="1002" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="100" fragmentItemId="210109903" icon="71016" id="221791003" isShow="1" name="80级武器饰品" nextLevelId="221791303" source="活动掉落" typeId="1003" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="200" fragmentItemId="210109903" icon="71016" id="221791303" isShow="1" name="80级武器饰品" nextLevelId="221791304" source="活动掉落" typeId="1003" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="400" fragmentItemId="210109903" icon="71016" id="221791304" isShow="1" name="80级武器饰品" nextLevelId="221791305" source="活动掉落" typeId="1003" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="800" fragmentItemId="210109903" icon="71016" id="221791305" isShow="1" name="80级武器饰品" nextLevelId="221791306" source="活动掉落" typeId="1003" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="1600" fragmentItemId="210109903" icon="71016" id="221791306" isShow="1" name="80级武器饰品" nextLevelId="221791307" source="活动掉落" typeId="1003" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="3200" fragmentItemId="210109903" icon="71016" id="221791307" isShow="1" name="80级武器饰品" nextLevelId="221791308" source="活动掉落" typeId="1003" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="6400" fragmentItemId="210109903" icon="71016" id="221791308" isShow="1" name="80级武器饰品" nextLevelId="221791309" source="活动掉落" typeId="1003" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="12000" fragmentItemId="210109903" icon="71016" id="221791309" isShow="1" name="80级武器饰品" nextLevelId="221791310" source="活动掉落" typeId="1003" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="25000" fragmentItemId="210109903" icon="71016" id="221791310" isShow="1" name="80级武器饰品" nextLevelId="221791311" source="活动掉落" typeId="1003" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1003" fragmentCount="50000" fragmentItemId="210109903" icon="71016" id="221791311" isShow="1" name="80级武器饰品" nextLevelId="0" source="活动掉落" typeId="1003" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="100" fragmentItemId="210109904" icon="71017" id="221791004" isShow="1" name="90级武器饰品" nextLevelId="221791404" source="活动掉落" typeId="1004" wuShiLevel="1">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>50</int>
+      <int>50</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="200" fragmentItemId="210109904" icon="71017" id="221791404" isShow="1" name="90级武器饰品" nextLevelId="221791405" source="活动掉落" typeId="1004" wuShiLevel="2">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>70</int>
+      <int>70</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="400" fragmentItemId="210109904" icon="71017" id="221791405" isShow="1" name="90级武器饰品" nextLevelId="221791406" source="活动掉落" typeId="1004" wuShiLevel="3">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>90</int>
+      <int>90</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="800" fragmentItemId="210109904" icon="71017" id="221791406" isShow="1" name="90级武器饰品" nextLevelId="221791407" source="活动掉落" typeId="1004" wuShiLevel="4">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>110</int>
+      <int>110</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="1600" fragmentItemId="210109904" icon="71017" id="221791407" isShow="1" name="90级武器饰品" nextLevelId="221791408" source="活动掉落" typeId="1004" wuShiLevel="5">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>130</int>
+      <int>130</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="3200" fragmentItemId="210109904" icon="71017" id="221791408" isShow="1" name="90级武器饰品" nextLevelId="221791409" source="活动掉落" typeId="1004" wuShiLevel="6">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>150</int>
+      <int>150</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="6400" fragmentItemId="210109904" icon="71017" id="221791409" isShow="1" name="90级武器饰品" nextLevelId="221791410" source="活动掉落" typeId="1004" wuShiLevel="7">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>170</int>
+      <int>170</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="12000" fragmentItemId="210109904" icon="71017" id="221791410" isShow="1" name="90级武器饰品" nextLevelId="221791411" source="活动掉落" typeId="1004" wuShiLevel="8">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>190</int>
+      <int>190</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="25000" fragmentItemId="210109904" icon="71017" id="221791411" isShow="1" name="90级武器饰品" nextLevelId="221791412" source="活动掉落" typeId="1004" wuShiLevel="9">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>210</int>
+      <int>210</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+  <mzm.gsp.superequipment.wushi.confbean.WuShiCfg appearanceTypeId="1004" fragmentCount="50000" fragmentItemId="210109904" icon="71017" id="221791412" isShow="1" name="90级武器饰品" nextLevelId="0" source="活动掉落" typeId="1004" wuShiLevel="10">
+    <properTypes>
+      <int>7</int>
+      <int>9</int>
+    </properTypes>
+    <propertyValues>
+      <int>230</int>
+      <int>230</int>
+    </propertyValues>
+  </mzm.gsp.superequipment.wushi.confbean.WuShiCfg>
+</data>

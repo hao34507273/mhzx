@@ -1,0 +1,19 @@
+<data>
+  <mzm.gsp.feisheng.confbean.FeiShengCommitItemActivityCfgOriginal activity_cfg_id="350000047" activity_map_cfg_id="330000929" award_id="7404" desc="乾坤開辟，乃分兩儀，急急如律令！" display_item_cfg_id="210101300" effect_coord_x="2298" effect_coord_y="1346" effect_id="702020114" id="297100000" moduleid="274" npc_id="150113876" npc_service_id="150200084" serverlevel="115">
+    <need_item_info_list>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210101303" item_num="1"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210101304" item_num="5"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210100024" item_num="20"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210100017" item_num="20"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210100047" item_num="20"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="212000002" item_num="2"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="212100002" item_num="99"/>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="212100005" item_num="20"/>
+    </need_item_info_list>
+  </mzm.gsp.feisheng.confbean.FeiShengCommitItemActivityCfgOriginal>
+  <mzm.gsp.feisheng.confbean.FeiShengCommitItemActivityCfgOriginal activity_cfg_id="350000051" activity_map_cfg_id="330000929" award_id="7408" desc="母親，上古封印已除，孩兒這就來救你！" display_item_cfg_id="0" effect_coord_x="2298" effect_coord_y="1346" effect_id="702020118" id="297100001" moduleid="274" npc_id="150113874" npc_service_id="150200092" serverlevel="115">
+    <need_item_info_list>
+      <mzm.gsp.feisheng.confbean.NeedItemInfo item_cfg_id="210101301" item_num="1"/>
+    </need_item_info_list>
+  </mzm.gsp.feisheng.confbean.FeiShengCommitItemActivityCfgOriginal>
+</data>

@@ -1,0 +1,48 @@
+<data>
+  <mzm.gsp.feisheng.confbean.SFeiShengCommitItemActivityCfg activity_cfg_id="350000047" award_id="7404" moduleid="274" npc_id="150113876" npc_service_id="150200084" serverlevel="115">
+    <need_items>
+      <no-comparator/>
+      <entry>
+        <int>210100017</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>210101303</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>212000002</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>210100047</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>210100024</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>212100005</int>
+        <int>20</int>
+      </entry>
+      <entry>
+        <int>210101304</int>
+        <int>5</int>
+      </entry>
+      <entry>
+        <int>212100002</int>
+        <int>99</int>
+      </entry>
+    </need_items>
+  </mzm.gsp.feisheng.confbean.SFeiShengCommitItemActivityCfg>
+  <mzm.gsp.feisheng.confbean.SFeiShengCommitItemActivityCfg activity_cfg_id="350000051" award_id="7408" moduleid="274" npc_id="150113874" npc_service_id="150200092" serverlevel="115">
+    <need_items>
+      <no-comparator/>
+      <entry>
+        <int>210101301</int>
+        <int>1</int>
+      </entry>
+    </need_items>
+  </mzm.gsp.feisheng.confbean.SFeiShengCommitItemActivityCfg>
+</data>

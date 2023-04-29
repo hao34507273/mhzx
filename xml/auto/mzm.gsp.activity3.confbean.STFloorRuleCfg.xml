@@ -1,0 +1,99 @@
+<data>
+  <mzm.gsp.activity3.confbean.STFloorRuleCfg activityId="350000614">
+    <floorCfgs>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8010" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="360" fristBloodAwardId="8028" hardFightId="120480001" helpLibId="1" joinLevel="90" normalFightId="120480101" sweepCostNum="1" sweepFightValue="30000"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8011" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="360" fristBloodAwardId="8029" hardFightId="120480002" helpLibId="1" joinLevel="90" normalFightId="120480102" sweepCostNum="1" sweepFightValue="30000"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8012" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="360" fristBloodAwardId="8030" hardFightId="120480003" helpLibId="1" joinLevel="90" normalFightId="120480103" sweepCostNum="1" sweepFightValue="30000"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8013" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="360" fristBloodAwardId="8031" hardFightId="120480004" helpLibId="1" joinLevel="90" normalFightId="120480104" sweepCostNum="1" sweepFightValue="32000"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8014" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="360" fristBloodAwardId="8032" hardFightId="120480005" helpLibId="1" joinLevel="90" normalFightId="120480105" sweepCostNum="1" sweepFightValue="32000"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8015" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="361" fristBloodAwardId="8033" hardFightId="120480006" helpLibId="2" joinLevel="95" normalFightId="120480106" sweepCostNum="2" sweepFightValue="32000"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8016" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="361" fristBloodAwardId="8034" hardFightId="120480007" helpLibId="2" joinLevel="95" normalFightId="120480107" sweepCostNum="2" sweepFightValue="34000"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8017" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="361" fristBloodAwardId="8035" hardFightId="120480008" helpLibId="2" joinLevel="95" normalFightId="120480108" sweepCostNum="2" sweepFightValue="34000"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8018" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="361" fristBloodAwardId="8036" hardFightId="120480009" helpLibId="2" joinLevel="95" normalFightId="120480109" sweepCostNum="2" sweepFightValue="34000"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8019" canSweep="true" confirmType="1" fastFinishTimeLimit="30" floorOpenId="361" fristBloodAwardId="8037" hardFightId="120480010" helpLibId="2" joinLevel="95" normalFightId="120480110" sweepCostNum="2" sweepFightValue="35000"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8020" canSweep="true" confirmType="13" fastFinishTimeLimit="30" floorOpenId="362" fristBloodAwardId="8038" hardFightId="120480011" helpLibId="3" joinLevel="100" normalFightId="120480111" sweepCostNum="3" sweepFightValue="36000"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8021" canSweep="true" confirmType="13" fastFinishTimeLimit="30" floorOpenId="362" fristBloodAwardId="8039" hardFightId="120480012" helpLibId="3" joinLevel="100" normalFightId="120480112" sweepCostNum="3" sweepFightValue="37000"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8022" canSweep="true" confirmType="13" fastFinishTimeLimit="30" floorOpenId="362" fristBloodAwardId="8040" hardFightId="120480013" helpLibId="3" joinLevel="100" normalFightId="120480113" sweepCostNum="3" sweepFightValue="38000"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8023" canSweep="true" confirmType="13" fastFinishTimeLimit="30" floorOpenId="362" fristBloodAwardId="8041" hardFightId="120480014" helpLibId="3" joinLevel="100" normalFightId="120480114" sweepCostNum="3" sweepFightValue="40000"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8024" canSweep="true" confirmType="13" fastFinishTimeLimit="30" floorOpenId="362" fristBloodAwardId="8042" hardFightId="120480015" helpLibId="3" joinLevel="100" normalFightId="120480115" sweepCostNum="3" sweepFightValue="41000"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8025" canSweep="false" confirmType="14" fastFinishTimeLimit="30" floorOpenId="363" fristBloodAwardId="8043" hardFightId="120480016" helpLibId="4" joinLevel="105" normalFightId="120480116" sweepCostNum="4" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8026" canSweep="false" confirmType="14" fastFinishTimeLimit="30" floorOpenId="363" fristBloodAwardId="8044" hardFightId="120480017" helpLibId="4" joinLevel="105" normalFightId="120480117" sweepCostNum="4" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8027" canSweep="false" confirmType="14" fastFinishTimeLimit="30" floorOpenId="363" fristBloodAwardId="8045" hardFightId="120480018" helpLibId="4" joinLevel="105" normalFightId="120480118" sweepCostNum="4" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8051" canSweep="false" confirmType="15" fastFinishTimeLimit="30" floorOpenId="577" fristBloodAwardId="8046" hardFightId="120480019" helpLibId="5" joinLevel="110" normalFightId="120480119" sweepCostNum="5" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8052" canSweep="false" confirmType="15" fastFinishTimeLimit="30" floorOpenId="577" fristBloodAwardId="8047" hardFightId="120480020" helpLibId="5" joinLevel="110" normalFightId="120480120" sweepCostNum="5" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8053" canSweep="false" confirmType="15" fastFinishTimeLimit="30" floorOpenId="577" fristBloodAwardId="8048" hardFightId="120480021" helpLibId="5" joinLevel="110" normalFightId="120480121" sweepCostNum="5" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8054" canSweep="false" confirmType="15" fastFinishTimeLimit="30" floorOpenId="577" fristBloodAwardId="8049" hardFightId="120480022" helpLibId="5" joinLevel="110" normalFightId="120480122" sweepCostNum="5" sweepFightValue="45000"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.activity3.confbean.FloorCfg awardId="8055" canSweep="false" confirmType="15" fastFinishTimeLimit="30" floorOpenId="577" fristBloodAwardId="8050" hardFightId="120480023" helpLibId="5" joinLevel="110" normalFightId="120480123" sweepCostNum="5" sweepFightValue="45000"/>
+      </entry>
+    </floorCfgs>
+  </mzm.gsp.activity3.confbean.STFloorRuleCfg>
+</data>

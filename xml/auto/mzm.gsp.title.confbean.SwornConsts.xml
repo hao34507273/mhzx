@@ -1,0 +1,37 @@
+<root>
+<row name="MIN_MEMBER_COUNT" value="2"/>
+<row name="MAX_MEMBER_COUNT" value="8"/>
+<row name="MIN_PLAYER_LV" value="48"/>
+<row name="MIN_FRIEND_VALUE" value="500"/>
+<row name="SWORN_NEED_SILVER" value="500000"/>
+<row name="SWORN_WAIT_TIME" value="30"/>
+<row name="SET_TITLE_WAIT_TIME" value="120"/>
+<row name="PAY_SILVER_WAIT_TIME" value="30"/>
+<row name="NEW_MEMBER_VOTE_TIME" value="24"/>
+<row name="MEMBER_EXIT_DEL_FRIEND_VALUE" value="5000"/>
+<row name="KICK_OUT_DEL_FRIEND_VALUE" value="5000"/>
+<row name="KICK_OUT_NEED_MEMBER_COUNT" value="3"/>
+<row name="KICK_OUT_NEED_MEMBER_PER" value="6000"/>
+<row name="KICK_OUT_NEED_SILVER" value="200000"/>
+<row name="KICK_OUT_WAIT_TIME" value="24"/>
+<row name="CHANGE_SWORNNAME_NEED_GOLD" value="1000"/>
+<row name="CHANGE_SWORNNAME_NEED_MEMBER_PER" value="10000"/>
+<row name="CHANGE_SWORNNAME_NEED_TIME" value="120"/>
+<row name="CHANGE_SWORNNAME_VOTE_TIME" value="24"/>
+<row name="CHANGE_TITLE_NEED_GOLD" value="1000"/>
+<row name="NEW_MEMBER_VOTE_MAILID" value="340001101"/>
+<row name="NEW_MEMBER_MAILID" value="340001106"/>
+<row name="EXIT_SWORN_SUCCESS_MAILID" value="340001108"/>
+<row name="KICK_OUT_SUCCESS_MAILID" value="340001105"/>
+<row name="KICK_OUT_MEMBER_MAILID" value="340001104"/>
+<row name="CHANGE_SWORNNAME_VOTE_MAILID" value="340001103"/>
+<row name="SWORN_NPC_ID" value="150111300"/>
+<row name="NEW_MEMBER_FAILED_MAILID" value="340001109"/>
+<row name="KICK_OUT_VOTE_MAILID" value="340001102"/>
+<row name="KICK_OUT_FAILED_MAILID" value="340001110"/>
+<row name="CHANGE_SWORNNAME_SUCCESS_MAILID" value="340001107"/>
+<row name="CHANGE_SWORNNAME_FAILED_MAILID" value="340001111"/>
+<row name="SWORN_TITLE_CFGID" value="490100001"/>
+<row name="SWORN_DESC_CFGID" value="701605001"/>
+<row name="SWORN_BUFFER_CFGID" value="701203120"/>
+</root>

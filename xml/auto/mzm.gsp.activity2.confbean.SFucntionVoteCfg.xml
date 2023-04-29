@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="新職業" functionDescribe="全新門派，炫酷技能，御風而來" functionType="1" iconResourceId="6601" id="295200000" joinVote="false" rank="1"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="幫派副本" functionDescribe="無兄弟，不修仙，心隨幫派，奮勇殺敵" functionType="2" iconResourceId="6609" id="295200001" joinVote="true" rank="4"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="成就" functionDescribe="百種趣味成就，在世界，留下你的傳說" functionType="2" iconResourceId="6607" id="295200002" joinVote="true" rank="5"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="飛升&amp;新等級新地圖" functionDescribe="逍遙修仙路，悠悠踏歌行，御劍飛升，征戰更廣闊的世界" functionType="1" iconResourceId="6606" id="295200003" joinVote="false" rank="2"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="跨服戰場" functionDescribe="天地相合，陰陽匯聚，修仙論道必爭之地，面對各方高手，迎接最熱血沸騰的戰斗" functionType="2" iconResourceId="6604" id="295200004" joinVote="true" rank="6"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="陣營玩法" functionDescribe="兩大陣營劍拔弩張，正邪之戰一觸即發，誰勝誰負，由你來主宰" functionType="2" iconResourceId="6600" id="295200005" joinVote="true" rank="7"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="跨服幫戰" functionDescribe="跟隨幫派，征戰四海八荒，譜寫屬于你們的傳奇" functionType="2" iconResourceId="6605" id="295200006" joinVote="true" rank="8"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="無差別競技" functionDescribe="無差別競技，最公平的戰斗，最熱血的較量" functionType="2" iconResourceId="6602" id="295200007" joinVote="true" rank="9"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="變身玩法" functionDescribe="變身大作戰，猜猜我是誰，嘿，看我七十二變" functionType="2" iconResourceId="6608" id="295200008" joinVote="true" rank="10"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="輪回天書" functionDescribe="天道之始，地獄之淵，歷經六道，掌控輪回" functionType="2" iconResourceId="6603" id="295200009" joinVote="true" rank="11"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="第二個新職業" functionDescribe="神秘門派突破桎梏，降臨世間，將掀起怎樣的滄瀾" functionType="2" iconResourceId="6610" id="295200010" joinVote="true" rank="3"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="家園庭院" functionDescribe="曲院風荷，柳浪聞鶯，布置專屬于你的雅致庭院" functionType="2" iconResourceId="6611" id="295200011" joinVote="true" rank="12"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="服戰" functionDescribe="修仙之路，一往無前，全服征戰，體驗最熱血沸騰的戰斗" functionType="2" iconResourceId="6615" id="295200012" joinVote="true" rank="13"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="子女飛升" functionDescribe="萌寶養成記，子女飛升，攜手闖蕩更廣闊的世界" functionType="2" iconResourceId="6614" id="295200013" joinVote="true" rank="14"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="神兵養成" functionDescribe="寶劍鋒從磨礪出，一點一滴，孕育絕世神兵" functionType="2" iconResourceId="6613" id="295200014" joinVote="true" rank="15"/>
+  <mzm.gsp.activity2.confbean.SFucntionVoteCfg describeTitle="朋友圈" functionDescribe="親密社交，零距離互動，夢誅有你，我們不孤單" functionType="2" iconResourceId="6612" id="295200015" joinVote="true" rank="16"/>
+</data>

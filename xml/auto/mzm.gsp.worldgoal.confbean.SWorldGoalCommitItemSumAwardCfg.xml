@@ -1,0 +1,19 @@
+<data>
+  <mzm.gsp.worldgoal.confbean.SWorldGoalCommitItemSumAwardCfg activity_cfg_id="350000106">
+    <trigger_nums>
+      <no-comparator/>
+      <entry>
+        <int>40</int>
+        <int>6903</int>
+      </entry>
+      <entry>
+        <int>80</int>
+        <int>6904</int>
+      </entry>
+      <entry>
+        <int>100</int>
+        <int>6905</int>
+      </entry>
+    </trigger_nums>
+  </mzm.gsp.worldgoal.confbean.SWorldGoalCommitItemSumAwardCfg>
+</data>

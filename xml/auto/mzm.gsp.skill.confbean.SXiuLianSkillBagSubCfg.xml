@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg desc="每级可使人物物理、法术伤害提升2%；提高2%封系成功率" icon="1" id="112400000" levelcfgid="1" name="攻法修炼" templatename="攻法修炼">
+    <skillIdList/>
+  </mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg>
+  <mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg desc="每级可使人物受到的物理伤害减少2%" icon="2" id="112400001" levelcfgid="1" name="物防修炼" templatename="物防修炼">
+    <skillIdList/>
+  </mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg>
+  <mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg desc="每级可使人物受到的法术伤害减少2%" icon="3" id="112400002" levelcfgid="1" name="法防修炼" templatename="法防修炼">
+    <skillIdList/>
+  </mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg>
+  <mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg desc="每级可以提升2%抗封率" icon="4" id="112400003" levelcfgid="1" name="封抗修炼" templatename="封抗修炼">
+    <skillIdList/>
+  </mzm.gsp.skill.confbean.SXiuLianSkillBagSubCfg>
+</data>

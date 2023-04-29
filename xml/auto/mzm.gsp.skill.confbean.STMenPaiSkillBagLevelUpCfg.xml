@@ -1,0 +1,607 @@
+<data>
+  <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfg type="1">
+    <level2skillinfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900000" needRoleLevel="1" needSilver="100" skillbaglevel="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900001" needRoleLevel="2" needSilver="180" skillbaglevel="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900002" needRoleLevel="3" needSilver="260" skillbaglevel="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900003" needRoleLevel="4" needSilver="320" skillbaglevel="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900004" needRoleLevel="5" needSilver="400" skillbaglevel="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900005" needRoleLevel="6" needSilver="495" skillbaglevel="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900006" needRoleLevel="7" needSilver="500" skillbaglevel="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900007" needRoleLevel="8" needSilver="504" skillbaglevel="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900008" needRoleLevel="9" needSilver="509" skillbaglevel="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900009" needRoleLevel="10" needSilver="525" skillbaglevel="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900010" needRoleLevel="11" needSilver="533" skillbaglevel="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900011" needRoleLevel="12" needSilver="541" skillbaglevel="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900012" needRoleLevel="13" needSilver="549" skillbaglevel="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900013" needRoleLevel="14" needSilver="558" skillbaglevel="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900014" needRoleLevel="15" needSilver="567" skillbaglevel="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900016" needRoleLevel="17" needSilver="587" skillbaglevel="17"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900015" needRoleLevel="16" needSilver="577" skillbaglevel="16"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900018" needRoleLevel="19" needSilver="610" skillbaglevel="19"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900017" needRoleLevel="18" needSilver="598" skillbaglevel="18"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900020" needRoleLevel="21" needSilver="731" skillbaglevel="21"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900019" needRoleLevel="20" needSilver="709" skillbaglevel="20"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900022" needRoleLevel="23" needSilver="779" skillbaglevel="23"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900021" needRoleLevel="22" needSilver="754" skillbaglevel="22"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900024" needRoleLevel="25" needSilver="866" skillbaglevel="25"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900023" needRoleLevel="24" needSilver="804" skillbaglevel="24"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900026" needRoleLevel="27" needSilver="929" skillbaglevel="27"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900025" needRoleLevel="26" needSilver="897" skillbaglevel="26"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900028" needRoleLevel="29" needSilver="998" skillbaglevel="29"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900027" needRoleLevel="28" needSilver="963" skillbaglevel="28"/>
+      </entry>
+      <entry>
+        <int>31</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900030" needRoleLevel="31" needSilver="2803" skillbaglevel="31"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900029" needRoleLevel="30" needSilver="2631" skillbaglevel="30"/>
+      </entry>
+      <entry>
+        <int>34</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900033" needRoleLevel="34" needSilver="3370" skillbaglevel="34"/>
+      </entry>
+      <entry>
+        <int>35</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900034" needRoleLevel="35" needSilver="4242" skillbaglevel="35"/>
+      </entry>
+      <entry>
+        <int>32</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900031" needRoleLevel="32" needSilver="2983" skillbaglevel="32"/>
+      </entry>
+      <entry>
+        <int>33</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900032" needRoleLevel="33" needSilver="3172" skillbaglevel="33"/>
+      </entry>
+      <entry>
+        <int>38</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900037" needRoleLevel="38" needSilver="5054" skillbaglevel="38"/>
+      </entry>
+      <entry>
+        <int>39</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900038" needRoleLevel="39" needSilver="5347" skillbaglevel="39"/>
+      </entry>
+      <entry>
+        <int>36</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900035" needRoleLevel="36" needSilver="4502" skillbaglevel="36"/>
+      </entry>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900036" needRoleLevel="37" needSilver="4772" skillbaglevel="37"/>
+      </entry>
+      <entry>
+        <int>42</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900041" needRoleLevel="42" needSilver="8040" skillbaglevel="42"/>
+      </entry>
+      <entry>
+        <int>43</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900042" needRoleLevel="43" needSilver="8470" skillbaglevel="43"/>
+      </entry>
+      <entry>
+        <int>40</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900039" needRoleLevel="40" needSilver="7224" skillbaglevel="40"/>
+      </entry>
+      <entry>
+        <int>41</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900040" needRoleLevel="41" needSilver="7624" skillbaglevel="41"/>
+      </entry>
+      <entry>
+        <int>46</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900045" needRoleLevel="46" needSilver="11665" skillbaglevel="46"/>
+      </entry>
+      <entry>
+        <int>47</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900046" needRoleLevel="47" needSilver="12253" skillbaglevel="47"/>
+      </entry>
+      <entry>
+        <int>44</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900043" needRoleLevel="44" needSilver="8915" skillbaglevel="44"/>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900044" needRoleLevel="45" needSilver="11097" skillbaglevel="45"/>
+      </entry>
+      <entry>
+        <int>51</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900050" needRoleLevel="51" needSilver="13566" skillbaglevel="51"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900049" needRoleLevel="50" needSilver="12963" skillbaglevel="50"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900048" needRoleLevel="49" needSilver="13485" skillbaglevel="49"/>
+      </entry>
+      <entry>
+        <int>48</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900047" needRoleLevel="48" needSilver="12859" skillbaglevel="48"/>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900054" needRoleLevel="55" needSilver="22137" skillbaglevel="55"/>
+      </entry>
+      <entry>
+        <int>54</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900053" needRoleLevel="54" needSilver="15485" skillbaglevel="54"/>
+      </entry>
+      <entry>
+        <int>53</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900052" needRoleLevel="53" needSilver="14827" skillbaglevel="53"/>
+      </entry>
+      <entry>
+        <int>52</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900051" needRoleLevel="52" needSilver="14188" skillbaglevel="52"/>
+      </entry>
+      <entry>
+        <int>59</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900058" needRoleLevel="59" needSilver="26150" skillbaglevel="59"/>
+      </entry>
+      <entry>
+        <int>58</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900057" needRoleLevel="58" needSilver="25106" skillbaglevel="58"/>
+      </entry>
+      <entry>
+        <int>57</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900056" needRoleLevel="57" needSilver="24090" skillbaglevel="57"/>
+      </entry>
+      <entry>
+        <int>56</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900055" needRoleLevel="56" needSilver="23100" skillbaglevel="56"/>
+      </entry>
+      <entry>
+        <int>63</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900062" needRoleLevel="63" needSilver="53894" skillbaglevel="63"/>
+      </entry>
+      <entry>
+        <int>62</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900061" needRoleLevel="62" needSilver="51852" skillbaglevel="62"/>
+      </entry>
+      <entry>
+        <int>61</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900060" needRoleLevel="61" needSilver="49860" skillbaglevel="61"/>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900059" needRoleLevel="60" needSilver="47918" skillbaglevel="60"/>
+      </entry>
+      <entry>
+        <int>68</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900067" needRoleLevel="68" needSilver="72136" skillbaglevel="68"/>
+      </entry>
+      <entry>
+        <int>69</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900068" needRoleLevel="69" needSilver="74757" skillbaglevel="69"/>
+      </entry>
+      <entry>
+        <int>70</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900069" needRoleLevel="70" needSilver="96424" skillbaglevel="70"/>
+      </entry>
+      <entry>
+        <int>71</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900070" needRoleLevel="71" needSilver="99817" skillbaglevel="71"/>
+      </entry>
+      <entry>
+        <int>64</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900063" needRoleLevel="64" needSilver="55987" skillbaglevel="64"/>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900064" needRoleLevel="65" needSilver="64629" skillbaglevel="65"/>
+      </entry>
+      <entry>
+        <int>66</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900065" needRoleLevel="66" needSilver="67073" skillbaglevel="66"/>
+      </entry>
+      <entry>
+        <int>67</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900066" needRoleLevel="67" needSilver="69575" skillbaglevel="67"/>
+      </entry>
+      <entry>
+        <int>76</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900075" needRoleLevel="76" needSilver="125974" skillbaglevel="76"/>
+      </entry>
+      <entry>
+        <int>77</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900076" needRoleLevel="77" needSilver="130095" skillbaglevel="77"/>
+      </entry>
+      <entry>
+        <int>78</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900077" needRoleLevel="78" needSilver="134302" skillbaglevel="78"/>
+      </entry>
+      <entry>
+        <int>79</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900078" needRoleLevel="79" needSilver="138594" skillbaglevel="79"/>
+      </entry>
+      <entry>
+        <int>72</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900071" needRoleLevel="72" needSilver="103286" skillbaglevel="72"/>
+      </entry>
+      <entry>
+        <int>73</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900072" needRoleLevel="73" needSilver="106832" skillbaglevel="73"/>
+      </entry>
+      <entry>
+        <int>74</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900073" needRoleLevel="74" needSilver="110453" skillbaglevel="74"/>
+      </entry>
+      <entry>
+        <int>75</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900074" needRoleLevel="75" needSilver="121938" skillbaglevel="75"/>
+      </entry>
+      <entry>
+        <int>85</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900084" needRoleLevel="85" needSilver="293498" skillbaglevel="85"/>
+      </entry>
+      <entry>
+        <int>84</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900083" needRoleLevel="84" needSilver="200774" skillbaglevel="84"/>
+      </entry>
+      <entry>
+        <int>87</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900086" needRoleLevel="87" needSilver="310937" skillbaglevel="87"/>
+      </entry>
+      <entry>
+        <int>86</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900085" needRoleLevel="86" needSilver="302137" skillbaglevel="86"/>
+      </entry>
+      <entry>
+        <int>81</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900080" needRoleLevel="81" needSilver="183537" skillbaglevel="81"/>
+      </entry>
+      <entry>
+        <int>80</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900079" needRoleLevel="80" needSilver="178009" skillbaglevel="80"/>
+      </entry>
+      <entry>
+        <int>83</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900082" needRoleLevel="83" needSilver="194918" skillbaglevel="83"/>
+      </entry>
+      <entry>
+        <int>82</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900081" needRoleLevel="82" needSilver="189173" skillbaglevel="82"/>
+      </entry>
+      <entry>
+        <int>93</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900092" needRoleLevel="93" needSilver="515435" skillbaglevel="93"/>
+      </entry>
+      <entry>
+        <int>92</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900091" needRoleLevel="92" needSilver="501766" skillbaglevel="92"/>
+      </entry>
+      <entry>
+        <int>95</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900094" needRoleLevel="95" needSilver="636096" skillbaglevel="95"/>
+      </entry>
+      <entry>
+        <int>94</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900093" needRoleLevel="94" needSilver="529341" skillbaglevel="94"/>
+      </entry>
+      <entry>
+        <int>89</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900088" needRoleLevel="89" needSilver="329025" skillbaglevel="89"/>
+      </entry>
+      <entry>
+        <int>88</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900087" needRoleLevel="88" needSilver="319899" skillbaglevel="88"/>
+      </entry>
+      <entry>
+        <int>91</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900090" needRoleLevel="91" needSilver="488331" skillbaglevel="91"/>
+      </entry>
+      <entry>
+        <int>90</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900089" needRoleLevel="90" needSilver="475127" skillbaglevel="90"/>
+      </entry>
+      <entry>
+        <int>102</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900101" needRoleLevel="102" needSilver="797570" skillbaglevel="102"/>
+      </entry>
+      <entry>
+        <int>103</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900102" needRoleLevel="103" needSilver="817245" skillbaglevel="103"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900099" needRoleLevel="100" needSilver="759134" skillbaglevel="100"/>
+      </entry>
+      <entry>
+        <int>101</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900100" needRoleLevel="101" needSilver="778200" skillbaglevel="101"/>
+      </entry>
+      <entry>
+        <int>98</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900097" needRoleLevel="98" needSilver="687457" skillbaglevel="98"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900098" needRoleLevel="99" needSilver="705148" skillbaglevel="99"/>
+      </entry>
+      <entry>
+        <int>96</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900095" needRoleLevel="96" needSilver="652932" skillbaglevel="96"/>
+      </entry>
+      <entry>
+        <int>97</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900096" needRoleLevel="97" needSilver="670052" skillbaglevel="97"/>
+      </entry>
+      <entry>
+        <int>110</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900109" needRoleLevel="110" needSilver="1006341" skillbaglevel="110"/>
+      </entry>
+      <entry>
+        <int>111</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900110" needRoleLevel="111" needSilver="1029395" skillbaglevel="111"/>
+      </entry>
+      <entry>
+        <int>108</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900107" needRoleLevel="108" needSilver="930090" skillbaglevel="108"/>
+      </entry>
+      <entry>
+        <int>109</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900108" needRoleLevel="109" needSilver="951879" skillbaglevel="109"/>
+      </entry>
+      <entry>
+        <int>106</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900105" needRoleLevel="106" needSilver="887479" skillbaglevel="106"/>
+      </entry>
+      <entry>
+        <int>107</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900106" needRoleLevel="107" needSilver="908624" skillbaglevel="107"/>
+      </entry>
+      <entry>
+        <int>104</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900103" needRoleLevel="104" needSilver="837230" skillbaglevel="104"/>
+      </entry>
+      <entry>
+        <int>105</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900104" needRoleLevel="105" needSilver="866652" skillbaglevel="105"/>
+      </entry>
+      <entry>
+        <int>119</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900118" needRoleLevel="119" needSilver="1226493" skillbaglevel="119"/>
+      </entry>
+      <entry>
+        <int>118</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900117" needRoleLevel="118" needSilver="1200680" skillbaglevel="118"/>
+      </entry>
+      <entry>
+        <int>117</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900116" needRoleLevel="117" needSilver="1175219" skillbaglevel="117"/>
+      </entry>
+      <entry>
+        <int>116</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900115" needRoleLevel="116" needSilver="1150107" skillbaglevel="116"/>
+      </entry>
+      <entry>
+        <int>115</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900114" needRoleLevel="115" needSilver="1125343" skillbaglevel="115"/>
+      </entry>
+      <entry>
+        <int>114</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900113" needRoleLevel="114" needSilver="1100583" skillbaglevel="114"/>
+      </entry>
+      <entry>
+        <int>113</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900112" needRoleLevel="113" needSilver="1076514" skillbaglevel="113"/>
+      </entry>
+      <entry>
+        <int>112</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900111" needRoleLevel="112" needSilver="1052785" skillbaglevel="112"/>
+      </entry>
+      <entry>
+        <int>127</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900126" needRoleLevel="127" needSilver="1469834" skillbaglevel="127"/>
+      </entry>
+      <entry>
+        <int>126</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900125" needRoleLevel="126" needSilver="1440802" skillbaglevel="126"/>
+      </entry>
+      <entry>
+        <int>125</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900124" needRoleLevel="125" needSilver="1412141" skillbaglevel="125"/>
+      </entry>
+      <entry>
+        <int>124</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900123" needRoleLevel="124" needSilver="1391827" skillbaglevel="124"/>
+      </entry>
+      <entry>
+        <int>123</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900122" needRoleLevel="123" needSilver="1363742" skillbaglevel="123"/>
+      </entry>
+      <entry>
+        <int>122</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900121" needRoleLevel="122" needSilver="1336023" skillbaglevel="122"/>
+      </entry>
+      <entry>
+        <int>121</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900120" needRoleLevel="121" needSilver="1308669" skillbaglevel="121"/>
+      </entry>
+      <entry>
+        <int>120</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900119" needRoleLevel="120" needSilver="1281676" skillbaglevel="120"/>
+      </entry>
+      <entry>
+        <int>137</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900136" needRoleLevel="137" needSilver="1792470" skillbaglevel="137"/>
+      </entry>
+      <entry>
+        <int>136</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900135" needRoleLevel="136" needSilver="1759553" skillbaglevel="136"/>
+      </entry>
+      <entry>
+        <int>139</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900138" needRoleLevel="139" needSilver="1859490" skillbaglevel="139"/>
+      </entry>
+      <entry>
+        <int>138</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900137" needRoleLevel="138" needSilver="1825782" skillbaglevel="138"/>
+      </entry>
+      <entry>
+        <int>141</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900140" needRoleLevel="141" needSilver="1951399" skillbaglevel="141"/>
+      </entry>
+      <entry>
+        <int>140</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900139" needRoleLevel="140" needSilver="1916640" skillbaglevel="140"/>
+      </entry>
+      <entry>
+        <int>143</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900142" needRoleLevel="143" needSilver="2022127" skillbaglevel="143"/>
+      </entry>
+      <entry>
+        <int>142</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900141" needRoleLevel="142" needSilver="1986560" skillbaglevel="142"/>
+      </entry>
+      <entry>
+        <int>129</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900128" needRoleLevel="129" needSilver="1529022" skillbaglevel="129"/>
+      </entry>
+      <entry>
+        <int>128</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900127" needRoleLevel="128" needSilver="1499240" skillbaglevel="128"/>
+      </entry>
+      <entry>
+        <int>131</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900130" needRoleLevel="131" needSilver="1616006" skillbaglevel="131"/>
+      </entry>
+      <entry>
+        <int>130</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900129" needRoleLevel="130" needSilver="1585115" skillbaglevel="130"/>
+      </entry>
+      <entry>
+        <int>133</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900132" needRoleLevel="133" needSilver="1678943" skillbaglevel="133"/>
+      </entry>
+      <entry>
+        <int>132</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900131" needRoleLevel="132" needSilver="1647281" skillbaglevel="132"/>
+      </entry>
+      <entry>
+        <int>135</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900134" needRoleLevel="135" needSilver="1727027" skillbaglevel="135"/>
+      </entry>
+      <entry>
+        <int>134</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900133" needRoleLevel="134" needSilver="1710994" skillbaglevel="134"/>
+      </entry>
+      <entry>
+        <int>144</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900143" needRoleLevel="144" needSilver="2058102" skillbaglevel="144"/>
+      </entry>
+      <entry>
+        <int>145</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900144" needRoleLevel="145" needSilver="2069987" skillbaglevel="145"/>
+      </entry>
+      <entry>
+        <int>146</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900145" needRoleLevel="146" needSilver="2106352" skillbaglevel="146"/>
+      </entry>
+      <entry>
+        <int>147</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900146" needRoleLevel="147" needSilver="2143127" skillbaglevel="147"/>
+      </entry>
+      <entry>
+        <int>148</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900147" needRoleLevel="148" needSilver="2180313" skillbaglevel="148"/>
+      </entry>
+      <entry>
+        <int>149</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900148" needRoleLevel="149" needSilver="2217912" skillbaglevel="149"/>
+      </entry>
+      <entry>
+        <int>150</int>
+        <mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfgInfo id="110900149" needRoleLevel="150" needSilver="2433620" skillbaglevel="150"/>
+      </entry>
+    </level2skillinfo>
+  </mzm.gsp.skill.confbean.STMenPaiSkillBagLevelUpCfg>
+</data>

@@ -1,0 +1,17 @@
+<data>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="1" defaultRefuse="true" optionDescription="轮回虚空1-10层读秒結束后默认" sortId="1" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="2" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="3" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="15"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="4" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="15"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="5" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="15"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="6" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="15"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="7" defaultRefuse="true" optionDescription="" sortId="9999" timeLimit="15"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="8" defaultRefuse="false" optionDescription="" sortId="9999" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="9" defaultRefuse="true" optionDescription="精英副本读秒結束后默认" sortId="4" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="10" defaultRefuse="true" optionDescription="英雄副本读秒結束后默认" sortId="5" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="11" defaultRefuse="false" optionDescription="" sortId="9999" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="false" confirmType="12" defaultRefuse="false" optionDescription="" sortId="9999" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="13" defaultRefuse="true" optionDescription="轮回虚空11-15层读秒結束后默认" sortId="2" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="14" defaultRefuse="true" optionDescription="轮回虚空16-18层读秒結束后默认" sortId="3" timeLimit="10"/>
+  <mzm.gsp.function.confbean.SCommonTeamConfirmCfg canSet="true" confirmType="15" defaultRefuse="true" optionDescription="轮回虚空19-23层读秒結束后默认" sortId="4" timeLimit="10"/>
+</data>

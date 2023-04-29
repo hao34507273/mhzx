@@ -1,0 +1,13 @@
+<root>
+<row name="SINGLE_INSTANCE_FAIL_TIMES" value="2"/>
+<row name="SINGLG_GUIDE_GRAPHID" value="0"/>
+<row name="SAO_DAO_ITEM_ID" value="210103000"/>
+<row name="FINISH_TIME_CAN_SAO_DANG" value="10"/>
+<row name="WAIT_TEAM_MEMBER_TIME" value="10"/>
+<row name="ROLL_ITEM_SECOND" value="6"/>
+<row name="SINGLE_INSTANCE_LEAVE_TIMER" value="12"/>
+<row name="MULTI_INSTANCE_LEAVE_TIMER" value="30"/>
+<row name="INSTANCE_HERO_VALUE" value="1"/>
+<row name="SINGLE_INSTANCE_ACTIVITY_TYPE_ID" value="350000004"/>
+<row name="INSTANCE_FIGHT_LOGOFF_DELAY" value="15"/>
+</root>

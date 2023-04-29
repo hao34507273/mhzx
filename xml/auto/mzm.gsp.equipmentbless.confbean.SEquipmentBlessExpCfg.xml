@@ -1,0 +1,412 @@
+<data>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="0">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="41" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="20" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="20" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="20" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="20" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="0" requiredExp="41" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="1">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="64" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="32" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="32" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="32" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="32" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="100" requiredExp="64" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="2">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="86" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="43" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="43" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="43" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="43" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="200" requiredExp="86" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="3">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="108" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="54" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="54" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="54" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="54" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="300" requiredExp="108" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="4">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="131" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="65" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="65" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="65" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="65" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="400" requiredExp="131" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="5">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="150" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="75" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="75" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="75" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="75" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="500" requiredExp="150" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="6">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="172" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="86" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="86" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="86" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="86" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="600" requiredExp="172" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="7">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="195" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="97" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="97" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="97" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="97" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="700" requiredExp="195" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="8">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="217" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="108" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="108" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="108" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="108" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="800" requiredExp="217" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="9">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="240" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="120" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="120" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="120" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="120" requiredSuperEquipmentStage="1"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="900" requiredExp="240" requiredSuperEquipmentStage="1"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="10">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="280" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="140" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="140" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="140" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="140" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1000" requiredExp="280" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="11">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="296" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="148" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="148" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="148" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="148" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1100" requiredExp="296" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="12">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="316" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="158" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="158" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="158" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="158" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1200" requiredExp="316" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="13">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="336" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="168" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="168" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="168" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="168" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1300" requiredExp="336" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="14">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="352" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="176" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="176" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="176" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="176" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1400" requiredExp="352" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="15">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="372" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="186" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="186" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="186" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="186" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1500" requiredExp="372" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="16">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="392" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="196" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="196" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="196" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="196" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1600" requiredExp="392" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="17">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="408" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="204" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="204" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="204" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="204" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1700" requiredExp="408" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="18">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="428" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="214" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="214" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="214" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="214" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1800" requiredExp="428" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="19">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="448" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="224" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="224" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="224" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="224" requiredSuperEquipmentStage="2"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="1900" requiredExp="448" requiredSuperEquipmentStage="2"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="20">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="643" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="321" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="321" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="321" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="321" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2000" requiredExp="643" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="21">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="665" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="332" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="332" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="332" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="332" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2100" requiredExp="665" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="22">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="685" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="342" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="342" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="342" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="342" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2200" requiredExp="685" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="23">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="707" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="353" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="353" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="353" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="353" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2300" requiredExp="707" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="24">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="730" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="365" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="365" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="365" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="365" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2400" requiredExp="730" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="25">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="749" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="374" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="374" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="374" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="374" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2500" requiredExp="749" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="26">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="771" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="385" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="385" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="385" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="385" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2600" requiredExp="771" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="27">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="794" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="397" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="397" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="397" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="397" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2700" requiredExp="794" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="28">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="813" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="406" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="406" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="406" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="406" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2800" requiredExp="813" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="29">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="836" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="418" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="418" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="418" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="418" requiredSuperEquipmentStage="3"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="2900" requiredExp="836" requiredSuperEquipmentStage="3"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="30">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="884" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="442" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="442" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="442" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="442" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3000" requiredExp="884" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="31">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="905" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="452" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="452" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="452" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="452" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3100" requiredExp="905" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="32">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="922" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="461" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="461" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="461" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="461" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3200" requiredExp="922" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="33">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="943" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="471" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="471" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="471" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="471" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3300" requiredExp="943" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="34">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="963" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="481" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="481" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="481" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="481" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3400" requiredExp="963" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="35">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="984" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="492" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="492" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="492" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="492" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3500" requiredExp="984" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="36">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="1002" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="501" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="501" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="501" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="501" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3600" requiredExp="1002" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="37">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="1022" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="511" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="511" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="511" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="511" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3700" requiredExp="1022" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="38">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="1043" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="521" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="521" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="521" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="521" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3800" requiredExp="1043" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="39">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="1061" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="530" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="530" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="530" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="530" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="3900" requiredExp="1061" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+  <mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg blessLevel="40">
+    <position2bean>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="1100" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="550" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="550" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="550" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="550" requiredSuperEquipmentStage="4"/>
+      <mzm.gsp.equipmentbless.confbean.EquipmentBlessExpBean propertyBuff="4000" requiredExp="1100" requiredSuperEquipmentStage="4"/>
+    </position2bean>
+  </mzm.gsp.equipmentbless.confbean.SEquipmentBlessExpCfg>
+</data>

@@ -1,0 +1,74 @@
+<data>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="默認稱謂" costYuanBao="0" id="410300000" templatename="默认职位名称">
+    <dutyNameList>
+      <string>幫主</string>
+      <string>副幫主</string>
+      <string>長老</string>
+      <string>堂主</string>
+      <string>香主</string>
+      <string>精英</string>
+      <string>幫眾</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="江左名邦" costYuanBao="200" id="410300001" templatename="职位名称1">
+    <dutyNameList>
+      <string>宗主</string>
+      <string>副宗主</string>
+      <string>大總管</string>
+      <string>內務使</string>
+      <string>花魁</string>
+      <string>分舵主</string>
+      <string>長工</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="化外禪宗" costYuanBao="200" id="410300002" templatename="职位名称2">
+    <dutyNameList>
+      <string>方丈</string>
+      <string>監院</string>
+      <string>戒律僧</string>
+      <string>傳經師</string>
+      <string>修士</string>
+      <string>煉氣士</string>
+      <string>道童</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="盛世王朝" costYuanBao="200" id="410300003" templatename="职位名称3">
+    <dutyNameList>
+      <string>皇帝</string>
+      <string>丞相</string>
+      <string>大臣</string>
+      <string>侍郎</string>
+      <string>參將</string>
+      <string>員外</string>
+      <string>郎中</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="東方神教" costYuanBao="200" id="410300004" templatename="职位名称4">
+    <dutyNameList>
+      <string>教主</string>
+      <string>護法</string>
+      <string>執事</string>
+      <string>供奉</string>
+      <string>圣使</string>
+      <string>親傳</string>
+      <string>外傳</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+  <mzm.gsp.gang.confbean.SDesignDutyNameCfg caseName="不落帝國" costYuanBao="200" id="410300005" templatename="职位名称5">
+    <dutyNameList>
+      <string>帝王</string>
+      <string>公爵</string>
+      <string>侯爵</string>
+      <string>伯爵</string>
+      <string>圣夫人</string>
+      <string>子爵</string>
+      <string>男爵</string>
+      <string>學徒</string>
+    </dutyNameList>
+  </mzm.gsp.gang.confbean.SDesignDutyNameCfg>
+</data>

@@ -1,0 +1,70 @@
+<data>
+  <mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg item_cfg_id="218000000">
+    <grade_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>900500000</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>900500001</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>900500002</int>
+      </entry>
+    </grade_map>
+  </mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg>
+  <mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg item_cfg_id="218000001">
+    <grade_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>900500004</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>900500005</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>900500006</int>
+      </entry>
+    </grade_map>
+  </mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg>
+  <mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg item_cfg_id="218000002">
+    <grade_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>900500008</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>900500009</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>900500010</int>
+      </entry>
+    </grade_map>
+  </mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg>
+  <mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg item_cfg_id="218000003">
+    <grade_map>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>900500012</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>900500013</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>900500014</int>
+      </entry>
+    </grade_map>
+  </mzm.gsp.friends_circle.confbean.SFriendsCircleGivePresentItemGradeCfg>
+</data>

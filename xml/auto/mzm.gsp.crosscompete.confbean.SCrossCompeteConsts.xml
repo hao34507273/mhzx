@@ -1,0 +1,71 @@
+<root>
+<row name="Activityid" value="350000612"/>
+<row name="CreateDays" value="0"/>
+<row name="Scale" value="3"/>
+<row name="Liveness" value="90"/>
+<row name="MinusSeverLevel" value="5"/>
+<row name="PlayerNumberOfQualifiedLevel" value="30"/>
+<row name="SignUpMail" value="410400031"/>
+<row name="ScaleFailMail" value="410400032"/>
+<row name="LivenessFailMail" value="410400033"/>
+<row name="PlayerNumberFailMail" value="410400034"/>
+<row name="MatchMail" value="410400030"/>
+<row name="RemindMail" value="410400035"/>
+<row name="MissTurnMail" value="410400036"/>
+<row name="JoinDays" value="2"/>
+<row name="ControllerIn" value="701108021"/>
+<row name="PrepareMap" value="330000051"/>
+<row name="FightMap" value="330000052"/>
+<row name="Faction1EnterX" value="3806"/>
+<row name="Faction1EnterY" value="803"/>
+<row name="Faction2EnterX" value="487"/>
+<row name="Faction2EnterY" value="2464"/>
+<row name="PrepareBrdMinutes" value="10"/>
+<row name="InitActionPoint" value="150"/>
+<row name="DeductActionPointWhenLose" value="50"/>
+<row name="DeductActionPointWhenPK" value="5"/>
+<row name="WinnerAwardMail" value="340001652"/>
+<row name="LeaveAwardMail" value="340001653"/>
+<row name="WinStreakTimes" value="5"/>
+<row name="WinStreakMail" value="340001650"/>
+<row name="FightAwardMail" value="340001661"/>
+<row name="WinStreakAward" value="8315"/>
+<row name="WinFightAward" value="2810"/>
+<row name="LoseFightAward" value="2811"/>
+<row name="SignUpDays" value="4"/>
+<row name="MatchHours" value="8"/>
+<row name="MailRemindHours" value="4"/>
+<row name="WaitMinutes" value="485"/>
+<row name="PrepareMinutes" value="10"/>
+<row name="ProtectedMinutes" value="1"/>
+<row name="FightMinutes" value="75"/>
+<row name="WaitForceEndMinutes" value="5"/>
+<row name="TriggerMapItemSeconds" value="30"/>
+<row name="RestMinutes" value="5"/>
+<row name="MaxCompeteCountOfOneTime" value="350"/>
+<row name="EarlyCreateFactionMinutes" value="5"/>
+<row name="ItemControllers">
+<mzm.gsp.crosscompete.confbean.ItemController Controller="701109205" TreasureAward="8314" TreasureMapItem="320009302" Weight="3"/>
+<mzm.gsp.crosscompete.confbean.ItemController Controller="701109206" TreasureAward="8313" TreasureMapItem="320009301" Weight="3"/>
+<mzm.gsp.crosscompete.confbean.ItemController Controller="701109207" TreasureAward="8312" TreasureMapItem="320009300" Weight="4"/>
+</row>
+<row name="FactionAgainstMail" value="410400030"/>
+<row name="MatchTimes" value="4"/>
+<row name="NeedRoleActivePoint" value="20"/>
+<row name="Activeness_A" value="0.6"/>
+<row name="Activeness_B" value="0.3"/>
+<row name="Max_GD" value="5"/>
+<row name="WinnerFactionMoney" value="2000000"/>
+<row name="LoserFactionMoney" value="1500000"/>
+<row name="WinnerFactionGift" value="30"/>
+<row name="LoserFactionGift" value="15"/>
+<row name="WinFightExploit" value="3"/>
+<row name="LoseFightExploit" value="1"/>
+<row name="ParticipateExploit" value="1"/>
+<row name="PkScoreA" value="1"/>
+<row name="PkScoreB" value="1"/>
+<row name="PlayerScoreA" value="1"/>
+<row name="PlayerScoreMinutes" value="1"/>
+<row name="ProtectedBuff" value="701203000"/>
+<row name="MaxTreasureNum" value="150"/>
+</root>

@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.partner.confbean.SPartnerYuanShenCfg costId="1" costItemId="210101013" id="140800001">
+    <pasSkillIds>
+      <int>110663010</int>
+      <int>110663000</int>
+      <int>110663020</int>
+      <int>110663030</int>
+      <int>110663040</int>
+      <int>110663050</int>
+    </pasSkillIds>
+  </mzm.gsp.partner.confbean.SPartnerYuanShenCfg>
+  <mzm.gsp.partner.confbean.SPartnerYuanShenCfg costId="1" costItemId="210101013" id="140800002">
+    <pasSkillIds>
+      <int>110663010</int>
+      <int>110663001</int>
+      <int>110663020</int>
+      <int>110663030</int>
+      <int>110663040</int>
+      <int>110663050</int>
+    </pasSkillIds>
+  </mzm.gsp.partner.confbean.SPartnerYuanShenCfg>
+  <mzm.gsp.partner.confbean.SPartnerYuanShenCfg costId="1" costItemId="210101013" id="140800003">
+    <pasSkillIds>
+      <int>110663010</int>
+      <int>110663002</int>
+      <int>110663020</int>
+      <int>110663030</int>
+      <int>110663040</int>
+      <int>110663050</int>
+    </pasSkillIds>
+  </mzm.gsp.partner.confbean.SPartnerYuanShenCfg>
+</data>

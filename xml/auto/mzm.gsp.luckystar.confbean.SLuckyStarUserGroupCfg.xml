@@ -1,0 +1,2407 @@
+<data>
+  <mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg activity_cfg_id="350000442">
+    <luckyStarUserGroupMap>
+      <no-comparator/>
+      <entry>
+        <int>2101</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="199"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2102</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="199"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2103</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2104</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2105</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="9999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2106</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="9999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2107</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2108</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2201</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2202</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>6</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="12"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2203</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>6</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="15"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2204</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>6</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="18"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2205</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>6</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="18"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2206</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>6</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="18"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2301</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2302</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2303</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2304</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2305</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2306</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2307</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2308</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2309</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2310</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2311</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2312</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2313</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2314</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2315</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2316</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2317</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2318</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2319</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2320</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="9"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2401</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2402</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2403</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2404</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2405</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2406</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2407</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2408</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2409</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2410</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>22</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2411</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2412</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2413</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2414</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2415</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2416</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2417</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2418</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2419</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2420</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>21</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2421</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2422</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2423</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2424</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2425</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2426</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2427</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2428</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2429</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2430</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>20</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="7"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2501</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2502</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2503</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2504</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2505</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2506</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2507</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2508</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2509</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2510</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2511</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2512</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2513</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2514</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2515</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2516</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>29</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="0"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2601</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2602</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2603</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2604</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2605</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2701</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2702</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2703</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2704</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2705</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2706</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2707</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2708</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="50" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2801</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2802</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="200" right_value="999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2803</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2804</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1000" right_value="2999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2805</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2806</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2807</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="3000" right_value="4999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2808</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2809</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2810</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2811</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5000" right_value="9999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="15" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2812</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2813</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="5" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2814</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2815</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="15" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2816</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="70" right_value="150"/>
+            </entry>
+            <entry>
+              <int>25</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>27</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="20" right_value="150"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+    </luckyStarUserGroupMap>
+  </mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg>
+  <mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg activity_cfg_id="350008267">
+    <luckyStarUserGroupMap>
+      <no-comparator/>
+      <entry>
+        <int>8005</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8006</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="20000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8007</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="20000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8008</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="10000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8009</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+    </luckyStarUserGroupMap>
+  </mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg>
+  <mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg activity_cfg_id="350000421">
+    <luckyStarUserGroupMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="73" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="60" right_value="150"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+            <entry>
+              <int>9</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+            <entry>
+              <int>10</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="1" right_value="6"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="30000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="2000" right_value="30000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="2000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+    </luckyStarUserGroupMap>
+  </mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg>
+  <mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg activity_cfg_id="350008169">
+    <luckyStarUserGroupMap>
+      <no-comparator/>
+      <entry>
+        <int>8004</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+    </luckyStarUserGroupMap>
+  </mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg>
+  <mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg activity_cfg_id="350008154">
+    <luckyStarUserGroupMap>
+      <no-comparator/>
+      <entry>
+        <int>8000</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="100000" right_value="999999999"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8001</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="20000" right_value="100000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8002</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="10000" right_value="20000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+      <entry>
+        <int>8003</int>
+        <mzm.gsp.luckystar.confbean.ConditionMapBean>
+          <conditionValueMap>
+            <no-comparator/>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.luckystar.confbean.ConditionValueBean left_value="0" right_value="10000"/>
+            </entry>
+          </conditionValueMap>
+        </mzm.gsp.luckystar.confbean.ConditionMapBean>
+      </entry>
+    </luckyStarUserGroupMap>
+  </mzm.gsp.luckystar.confbean.SLuckyStarUserGroupCfg>
+</data>

@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleSelectionMatchCfg id="581200000">
+    <selection_match_list>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="1" corps_b_rank="32"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="16" corps_b_rank="17"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="8" corps_b_rank="25"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="9" corps_b_rank="24"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="4" corps_b_rank="29"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="13" corps_b_rank="20"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="5" corps_b_rank="28"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="12" corps_b_rank="21"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="2" corps_b_rank="31"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="15" corps_b_rank="18"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="7" corps_b_rank="26"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="10" corps_b_rank="23"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="3" corps_b_rank="30"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="14" corps_b_rank="19"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="6" corps_b_rank="27"/>
+      <mzm.gsp.crossbattle.confbean.SelectionMatchBean corps_a_rank="11" corps_b_rank="22"/>
+    </selection_match_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleSelectionMatchCfg>
+</data>

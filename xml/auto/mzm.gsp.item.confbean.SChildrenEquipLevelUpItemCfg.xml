@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.item.confbean.SChildrenEquipLevelUpItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="965" id="216400000" isProprietary="false" name="地元石" namecolor="2" pilemax="999" sellSilver="1000" sort="1" type="104" useLevel="0"/>
+  <mzm.gsp.item.confbean.SChildrenEquipLevelUpItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="965" id="216400001" isProprietary="true" name="地元石" namecolor="2" pilemax="999" sellSilver="1000" sort="2" type="104" useLevel="0"/>
+  <mzm.gsp.item.confbean.SChildrenEquipLevelUpItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="972" id="216400002" isProprietary="false" name="天元石" namecolor="4" pilemax="999" sellSilver="1000" sort="3" type="118" useLevel="0"/>
+  <mzm.gsp.item.confbean.SChildrenEquipLevelUpItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="972" id="216400003" isProprietary="true" name="天元石" namecolor="4" pilemax="999" sellSilver="1000" sort="4" type="118" useLevel="0"/>
+</data>

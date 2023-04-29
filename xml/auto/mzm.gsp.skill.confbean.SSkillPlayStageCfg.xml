@@ -1,0 +1,2608 @@
+<data>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600000" id="160200001">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600001" id="160200002">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600002" id="160200003">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600003" id="160200004">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600004" id="160200005">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600005" id="160200006">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600000" id="160200007">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600001" id="160200008">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600002" id="160200009">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600003" id="160200010">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600004" id="160200011">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600005" id="160200012">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600006" id="160200013">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600007" id="160200014">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600008" id="160200015">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600009" id="160200016">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600010" id="160200017">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600011" id="160200018">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600012" id="160200019">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600013" id="160200020">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600014" id="160200021">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600018" id="160200022">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160200100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="7" id="160200101">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160200102">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160201010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160201020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160201021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160201022">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160201023">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160201024">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160201025">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160201026">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160201030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160201040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1040" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160201050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160201060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1060" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160201070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160201080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1080" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160201090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160201100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1101" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160201110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1110" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160202010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2011" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2021" lateTime="350"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160202030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2031" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2031" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160202041">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2041" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2042" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2051" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2061" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160202080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2081" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160202090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2091" lateTime="2700"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160202091">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160202100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2101" lateTime="1600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160203020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3021" lateTime="1300"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160203021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160203022">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160203023">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160203024">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3041" lateTime="1824"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160203041">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3041" lateTime="1824"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160203051">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3071" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160203090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160203091">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160203092">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160203093">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160203100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3101" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160204010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4011" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4021" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4031" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4041" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4071" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160204090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160204100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4101" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160205010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5021" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5031" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5041" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160205051">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5051" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5052" lateTime="2500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5061" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5071" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5081" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160205090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5091" lateTime="2200"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5101" lateTime="933"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160205110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5110" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5111" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160206010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160206011">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6012" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160206020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160206030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160206031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6032" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160206032">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6033" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160206033">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6034" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="19" id="160206034">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6035" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160206035">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6032" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160206036">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6033" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160206037">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6034" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160206038">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6035" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160206040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6040" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160206041">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6040" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160206050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160206051">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160206060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6061" lateTime="666"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160206070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6071" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160206080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160206090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160206091">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160206100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6101" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160207010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7011" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160207020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160207021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160207030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160207031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160207040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160207050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7050" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160207060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160207070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7071" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160207080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160207090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160207100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7100" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160207101">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7101" lateTime="167"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160207102">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160207110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7111" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="8" id="160207120">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7120" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160207130">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7130" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="7131" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160208010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160208020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8032" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208032">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8033" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160208040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8041" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160208041">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8042" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160208042">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8043" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160208043">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8044" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208044">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8041" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8071" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160208090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8091" lateTime="2000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160208100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="8101" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160209010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9011" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160209020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9021" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160209030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160209031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160209032">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160209033">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160209040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160209041">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9042" lateTime="500"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9043" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209051">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9041" lateTime="1500"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9044" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160209052">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209053">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9042" lateTime="500"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9043" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209054">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9041" lateTime="1500"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9044" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209055">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160209060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="19" id="160209061">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9052" lateTime="200"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160209070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160209080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9071" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160209090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9081" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160209100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160209110">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160209111">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9100" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209112">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209113">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160209114">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9100" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209115">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160209120">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9110" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9116" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160209121">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9111" lateTime="733"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160209122">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9112" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160209123">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9113" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160209124">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9114" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160209125">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9115" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160209130">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9120" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160209131">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9121" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9122" lateTime="1400"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="99" id="160209132">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="8" id="160209140">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9130" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160209150">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="8" id="160209160">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9130" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160209170">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160209180">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9010" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9011" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160209190">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9140" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10000" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210011">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210012">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160210020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10021" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10021" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160210030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10031" lateTime="1757"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10032" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210032">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10033" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210033">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10030" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10031" lateTime="1757"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10041" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10051" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10061" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10070" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10071" lateTime="950"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160210080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10081" lateTime="2266"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160210300">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10320" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10321" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160210310">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10330" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10334" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160210311">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10331" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10335" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160210312">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10332" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10336" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160210313">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10333" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10337" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160210314">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10330" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10334" lateTime="567"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160210315">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10331" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10335" lateTime="400"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160210316">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10332" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10336" lateTime="667"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160210317">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10333" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10337" lateTime="467"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160210320">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10340" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10341" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="21" id="160210321">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10340" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10341" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160210330">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10350" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10351" lateTime="566"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210331">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10350" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10351" lateTime="566"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210340">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10360" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10361" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210350">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10370" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10371" lateTime="1350"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210360">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10310" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10380" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210370">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10310" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10390" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160210380">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10410" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210381">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10411" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210382">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10412" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210383">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10413" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210384">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10414" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210385">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10415" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160210390">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10400" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160210600">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10703" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10704" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160210601">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10705" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10706" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160210602">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10707" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160210603">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10708" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10709" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160210604">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10710" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10711" lateTime="667"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210605">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10712" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210606">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10713" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210607">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10714" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210608">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10715" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10716" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210609">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10702" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10717" lateTime="333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210610">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10731" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10718" lateTime="333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210611">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10702" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10719" lateTime="333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160210612">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10720" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10721" lateTime="2333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210613">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10722" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210614">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10723" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210615">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10724" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160210616">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10725" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160210617">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10726" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10727" lateTime="167"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210618">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10728" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210619">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10730" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160210800">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10803" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10804" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160210801">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10805" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10806" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160210802">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10807" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10808" lateTime="333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160210803">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10809" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10810" lateTime="1116"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160210804">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10811" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10812" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160210805">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10811" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10813" lateTime="1500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160210806">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10814" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10815" lateTime="1333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160210807">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10816" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10817" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160210808">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10818" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10819" lateTime="1833"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="19" id="160210809">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10820" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10821" lateTime="2000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210810">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10823" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160210811">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10824" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10825" lateTime="4000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160210812">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10822" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210813">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10804" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210814">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10827" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160210815">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10826" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="7" id="160210816">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160213010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160213020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160213030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13060" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13080" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13100" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13110" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213120">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13120" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213130">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13130" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213140">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13140" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213150">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13150" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213160">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13160" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213170">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13170" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213180">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13180" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213190">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13190" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213200">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13200" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213210">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13210" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213220">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13220" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213230">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13230" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213240">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13240" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213250">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13250" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213260">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13260" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213270">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13270" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213280">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13280" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213290">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13290" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213300">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13300" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213310">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13310" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213320">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13320" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213330">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13330" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213340">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13340" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213350">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13350" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213360">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13360" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213370">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13370" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213380">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13380" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213390">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13390" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213400">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13400" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13401" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213410">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13410" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213420">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13420" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213430">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13430" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213440">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13440" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213450">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13450" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213460">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13460" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213470">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13470" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213480">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13480" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213490">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13490" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213500">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13500" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213510">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13510" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213520">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13520" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213530">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13530" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213540">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13540" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160213550">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13550" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14060" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14080" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14100" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14110" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214120">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14120" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214130">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14130" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214140">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14140" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214150">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14150" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214160">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14160" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214170">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14170" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214180">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14180" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214190">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14190" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214191">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14191" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214200">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14200" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214210">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14210" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160214220">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14220" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214240">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14240" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214250">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14250" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214260">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14260" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214280">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14280" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214290">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14290" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214300">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214301">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14300" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214303">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214310">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14310" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14311" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160214320">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14320" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214330">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14336" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214340">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14330" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214341">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14333" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214342">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14334" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214343">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14341" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214344">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14343" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214345">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14343" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14342" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214900">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14900" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160214901">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14901" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160214902">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14902" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160215010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160215020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160215030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160215040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160215050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160215060">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15060" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160215070">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160215080">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15080" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160215090">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="15090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160215100">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160216010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="16010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160216020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="16020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160216030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="16030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160216110">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1100" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1101" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160217010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="17010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160217020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="17020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160218010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="18010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160218020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="18020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160219010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="19010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160219020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="19020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160219030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="19030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160219040">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="19040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160219050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="19050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160220000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="20000" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160220001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="20001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="23" id="160220002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="16040" lateTime="266"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="25" id="160220003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="16040" lateTime="100"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="160600015" id="160220004">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4061" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="5041" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13310" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221004">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13140" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160221005">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13340" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160230000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160230001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160230002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160231000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="31000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="31001" lateTime="350"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="1" id="160232000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="32000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="32001" lateTime="300"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160233000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="33000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="33001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160234000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="34000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="34001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160235000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="35000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="35001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160235001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4021" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160236000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="36000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="36001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160237000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="37000" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="37001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="20" id="160238000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="38000" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="39000" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4021" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="6021" lateTime="666"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4020" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4021" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239004">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14070" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239005">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239006">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2061" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160239300">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10310" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="39300" lateTime="500"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25000" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25001" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25001" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25002" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25003" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="13360" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240004">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25004" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240005">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25005" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25003" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="10" id="160240006">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25006" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160240007">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25007" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160240008">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25008" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160240009">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25009" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160240010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240011">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240012">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25012" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240013">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25014" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240014">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25015" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240015">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25016" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240016">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25017" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240017">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25018" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240018">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25019" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240019">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240050">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25050" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240051">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4050" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4051" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240052">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25051" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25052" lateTime="1600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240053">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240054">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="1091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240055">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25053" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240056">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25013" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25015" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240057">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25054" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25055" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240058">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14060" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25052" lateTime="1600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160240059">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14080" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="25052" lateTime="1600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160242000">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160242001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="4" id="160242002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14030" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="4" id="160242003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3040" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="3041" lateTime="1824"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="6" id="160242004">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="14020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160250001">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50001" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50002" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250002">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2091" lateTime="2700"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250003">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="2091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250004">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50005" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50006" lateTime="1824"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="12" id="160250005">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4090" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="4091" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250006">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50009" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250007">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50010" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250008">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50011" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160250009">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50012" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160250010">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50013" lateTime="167"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="18" id="160250011">
+    <effectlist/>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250012">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50014" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250013">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50015" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50016" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250014">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50017" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250015">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50018" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250016">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50019" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250017">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50020" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="0" id="160250018">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50021" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250019">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50022" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="17" id="160250020">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10410" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="15" id="160250021">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10721" lateTime="2333"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="13" id="160250022">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50023" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250023">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9011" lateTime="800"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="16" id="160250024">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50024" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250025">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="9090" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250026">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50025" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250027">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50026" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250028">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50027" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250029">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50028" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50029" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250030">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50030" lateTime="1000"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250031">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50031" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250032">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50032" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250033">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50033" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="11" id="160250034">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="10703" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50034" lateTime="600"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160250035">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50035" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160250036">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50036" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250037">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50037" lateTime="0"/>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50038" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="14" id="160250038">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50039" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+  <mzm.gsp.skill.confbean.SSkillPlayStageCfg actionid="2" id="160250039">
+    <effectlist>
+      <mzm.gsp.skill.confbean.Effectid2LateTime effectid="50040" lateTime="0"/>
+    </effectlist>
+  </mzm.gsp.skill.confbean.SSkillPlayStageCfg>
+</data>

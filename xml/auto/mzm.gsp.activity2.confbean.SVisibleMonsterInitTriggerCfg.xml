@@ -1,0 +1,98 @@
+<data>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350000426" idip_module_switch_id="203">
+    <controller_id_list>
+	<!--bornNotice  出生公告-->
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108015" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350000443" idip_module_switch_id="536">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108023" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099900" idip_module_switch_id="739">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108025" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099901" idip_module_switch_id="740">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108026" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099902" idip_module_switch_id="741">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108027" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099903" idip_module_switch_id="742">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108028" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099904" idip_module_switch_id="743">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108029" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099905" idip_module_switch_id="744">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108030" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099906" idip_module_switch_id="745">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108031" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099907" idip_module_switch_id="746">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108032" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099908" idip_module_switch_id="747">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108033" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099909" idip_module_switch_id="748">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108034" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099910" idip_module_switch_id="749">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108035" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099911" idip_module_switch_id="750">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108036" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099912" idip_module_switch_id="751">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108037" bornNotice=""  refreshSeconds="86400"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099913" idip_module_switch_id="752">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108038" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg>
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099914" idip_module_switch_id="753">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108039" bornNotice=""  refreshSeconds="1800"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099915" idip_module_switch_id="754">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108040" bornNotice=""  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg> 
+  <mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg activity_cfg_id="350099916" idip_module_switch_id="755">
+    <controller_id_list>
+      <mzm.gsp.activity2.confbean.ControllerId2Time controllerId="701108055" bornNotice="四大凶兽已降临，各位仙友请前去消灭他们！！！"  refreshSeconds="3600"/>
+    </controller_id_list>
+  </mzm.gsp.activity2.confbean.SVisibleMonsterInitTriggerCfg> 
+</data>

@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10052" award_index="1" award_item_count="1" award_item_id="210182111" award_type_id="1" id="850500000" is_bind="1" role_level="1"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10053" award_index="2" award_item_count="1" award_item_id="210100052" award_type_id="1" id="850500001" is_bind="1" role_level="1"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10052" award_index="1" award_item_count="1" award_item_id="210182111" award_type_id="1" id="850500002" is_bind="1" role_level="50"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10053" award_index="2" award_item_count="1" award_item_id="210100052" award_type_id="1" id="850500003" is_bind="1" role_level="50"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10052" award_index="1" award_item_count="1" award_item_id="210182111" award_type_id="1" id="850500004" is_bind="1" role_level="150"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10053" award_index="2" award_item_count="1" award_item_id="210100052" award_type_id="1" id="850500005" is_bind="1" role_level="150"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10050" award_index="1" award_item_count="1" award_item_id="210182109" award_type_id="2" id="850500006" is_bind="1" role_level="1"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10051" award_index="2" award_item_count="1" award_item_id="210182110" award_type_id="2" id="850500007" is_bind="1" role_level="1"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10050" award_index="1" award_item_count="1" award_item_id="210182109" award_type_id="2" id="850500008" is_bind="1" role_level="50"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10051" award_index="2" award_item_count="1" award_item_id="210182110" award_type_id="2" id="850500009" is_bind="1" role_level="50"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="30" award_id="10050" award_index="1" award_item_count="1" award_item_id="210182109" award_type_id="2" id="850500010" is_bind="1" role_level="150"/>
+  <mzm.gsp.shitu.confbean.CSShiTuActiveValueRewardCfg activite_value="60" award_id="10051" award_index="2" award_item_count="1" award_item_id="210182110" award_type_id="2" id="850500011" is_bind="1" role_level="150"/>
+</data>

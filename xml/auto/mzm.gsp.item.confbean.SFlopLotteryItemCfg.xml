@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.item.confbean.SFlopLotteryItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" flopLotteryMainCfgId="511100001" icon="90193" id="217500001" isProprietary="false" name="虛空寶藏（一）" namecolor="3" pilemax="99" sellSilver="1" sort="1" type="127" useLevel="1"/>
+  <mzm.gsp.item.confbean.SFlopLotteryItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" flopLotteryMainCfgId="511100002" icon="90194" id="217500002" isProprietary="false" name="虛空寶藏（二）" namecolor="3" pilemax="99" sellSilver="1" sort="2" type="127" useLevel="1"/>
+  <mzm.gsp.item.confbean.SFlopLotteryItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" flopLotteryMainCfgId="511100003" icon="90195" id="217500003" isProprietary="false" name="虛空寶藏（三）" namecolor="4" pilemax="99" sellSilver="1" sort="3" type="127" useLevel="1"/>
+  <mzm.gsp.item.confbean.SFlopLotteryItemCfg awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" flopLotteryMainCfgId="511100004" icon="90196" id="217500004" isProprietary="false" name="虛空寶藏（四）" namecolor="5" pilemax="99" sellSilver="1" sort="4" type="127" useLevel="1"/>
+</data>

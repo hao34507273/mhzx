@@ -1,0 +1,47 @@
+<data>
+  <mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg rechargeAwardTypeId="1">
+    <manekiTokenCfgId2manekiTokenCount>
+      <no-comparator/>
+      <entry>
+        <int>954900000</int>
+        <int>1</int>
+      </entry>
+    </manekiTokenCfgId2manekiTokenCount>
+  </mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg>
+  <mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg rechargeAwardTypeId="2">
+    <manekiTokenCfgId2manekiTokenCount>
+      <no-comparator/>
+      <entry>
+        <int>954900001</int>
+        <int>2</int>
+      </entry>
+    </manekiTokenCfgId2manekiTokenCount>
+  </mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg>
+  <mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg rechargeAwardTypeId="3">
+    <manekiTokenCfgId2manekiTokenCount>
+      <no-comparator/>
+      <entry>
+        <int>954900001</int>
+        <int>5</int>
+      </entry>
+    </manekiTokenCfgId2manekiTokenCount>
+  </mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg>
+  <mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg rechargeAwardTypeId="4">
+    <manekiTokenCfgId2manekiTokenCount>
+      <no-comparator/>
+      <entry>
+        <int>954900002</int>
+        <int>5</int>
+      </entry>
+    </manekiTokenCfgId2manekiTokenCount>
+  </mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg>
+  <mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg rechargeAwardTypeId="5">
+    <manekiTokenCfgId2manekiTokenCount>
+      <no-comparator/>
+      <entry>
+        <int>954900002</int>
+        <int>8</int>
+      </entry>
+    </manekiTokenCfgId2manekiTokenCount>
+  </mzm.gsp.activity3.confbean.STBackGameActivityRechargeAwardCfg>
+</data>

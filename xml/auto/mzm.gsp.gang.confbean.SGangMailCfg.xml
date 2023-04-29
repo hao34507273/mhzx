@@ -1,0 +1,30 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400003" mailId="340001003" templatename="帮派人满但有学徒未转正邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400004" mailId="340001004" templatename="新帮主继位邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400008" mailId="340001008" templatename="帮派活跃度过低邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400009" mailId="340001009" templatename="帮派无法正常维护邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400010" mailId="340001010" templatename="帮派资金不足警告邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400011" mailId="340001011" templatename="帮派活跃度不足警告邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400012" mailId="340001012" templatename="帮派降级邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400014" mailId="340001014" templatename="帮派解散邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="3" dutyMinLevel="1" id="410400015" mailId="340001701" templatename="帮派竞赛通知邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400017" mailId="340001016" templatename="帮派可合并"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400018" mailId="340001017" templatename="帮派合并被拒绝"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400020" mailId="340001018" templatename="帮派合并成功"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400021" mailId="340001019" templatename="帮派合并取消"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400022" mailId="340001020" templatename="帮派合并失败"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400023" mailId="340001021" templatename="帮派合并被同意"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="1" dutyMinLevel="1" id="410400024" mailId="340001023" templatename="帮派解散导致合并失败"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400025" mailId="340001627" templatename="帮派副本设定时间"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400026" mailId="340001629" templatename="帮派副本修改时间"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400027" mailId="340001628" templatename="帮派副本取消时间"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="2" dutyMinLevel="1" id="410400028" mailId="340001631" templatename="帮派副本周一提醒"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="2" dutyMinLevel="1" id="410400029" mailId="340001632" templatename="帮派副本周五提醒"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400030" mailId="340001662" templatename="跨服帮战对阵通知"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400031" mailId="340001654" templatename="跨服帮战报名成功邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="2" dutyMinLevel="1" id="410400032" mailId="340001655" templatename="跨服帮战帮派规模不足邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="2" dutyMinLevel="1" id="410400033" mailId="340001656" templatename="跨服帮战帮派活跃度不足邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="2" dutyMinLevel="1" id="410400034" mailId="340001657" templatename="跨服帮战帮派成员数量不足邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400035" mailId="340001663" templatename="跨服帮战周日通知邮件"/>
+  <mzm.gsp.gang.confbean.SGangMailCfg dutyMaxLevel="8" dutyMinLevel="1" id="410400036" mailId="340001660" templatename="跨服帮战轮空通知邮件"/>
+</data>

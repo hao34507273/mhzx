@@ -1,0 +1,45 @@
+<data>
+  <mzm.gsp.personal.confbean.LinkLocationsCfg locationId="1">
+    <locationCfgIds>
+      <int>102200012</int>
+      <int>102200013</int>
+      <int>102200014</int>
+      <int>102200015</int>
+      <int>102200008</int>
+      <int>102200009</int>
+      <int>102200010</int>
+      <int>102200011</int>
+      <int>102200004</int>
+      <int>102200005</int>
+      <int>102200006</int>
+      <int>102200007</int>
+      <int>102200000</int>
+      <int>102200001</int>
+      <int>102200002</int>
+      <int>102200003</int>
+      <int>102200021</int>
+      <int>102200020</int>
+      <int>102200017</int>
+      <int>102200016</int>
+      <int>102200019</int>
+      <int>102200018</int>
+    </locationCfgIds>
+  </mzm.gsp.personal.confbean.LinkLocationsCfg>
+  <mzm.gsp.personal.confbean.LinkLocationsCfg locationId="2">
+    <locationCfgIds>
+      <int>102200024</int>
+      <int>102200023</int>
+      <int>102200022</int>
+    </locationCfgIds>
+  </mzm.gsp.personal.confbean.LinkLocationsCfg>
+  <mzm.gsp.personal.confbean.LinkLocationsCfg locationId="3">
+    <locationCfgIds>
+      <int>102200025</int>
+    </locationCfgIds>
+  </mzm.gsp.personal.confbean.LinkLocationsCfg>
+  <mzm.gsp.personal.confbean.LinkLocationsCfg locationId="4">
+    <locationCfgIds>
+      <int>102200026</int>
+    </locationCfgIds>
+  </mzm.gsp.personal.confbean.LinkLocationsCfg>
+</data>

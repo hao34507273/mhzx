@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.util.confbean.SSpecialEffectCfg coordX="0" coordY="0" effectId="702000002" id="702400000" loadType="1" npcId="150111019" templatename="六尾死亡消散"/>
+  <mzm.gsp.util.confbean.SSpecialEffectCfg coordX="0" coordY="0" effectId="702000002" id="702400001" loadType="1" npcId="150111022" templatename="三尾死亡消散"/>
+  <mzm.gsp.util.confbean.SSpecialEffectCfg coordX="0" coordY="0" effectId="702020005" id="702400002" loadType="1" npcId="150111008" templatename="石头跑路（召唤特效）"/>
+  <mzm.gsp.util.confbean.SSpecialEffectCfg coordX="0" coordY="0" effectId="702020005" id="702400003" loadType="1" npcId="150100001" templatename="测试特效"/>
+  <mzm.gsp.util.confbean.SSpecialEffectCfg coordX="0" coordY="0" effectId="702000002" id="702400004" loadType="1" npcId="150111009" templatename="狐妖头领死亡"/>
+</data>

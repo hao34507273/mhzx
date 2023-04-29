@@ -1,0 +1,15 @@
+<root>
+<row name="TASK_GRAPHIC_ID" value="30000001"/>
+<row name="TASK_ACTIVITY_ID" value="350000006"/>
+<row name="START_TASK_NEED_SILVER" value="100000"/>
+<row name="CALL_GANG_HELP_COOLDOWN_SECOND" value="60"/>
+<row name="LEGEND_TASK_MINUTE" value="20"/>
+<row name="AWARD_TYPE_ID" value="800"/>
+<row name="ACCEPT_NPC_ID" value="150100367"/>
+<row name="AWARD_VIGOR_ID" value="3"/>
+<row name="AWARD_VIGOR_WEEK_COUNT" value="200"/>
+<row name="LEGEND_DROP_PROP" value="500"/>
+<row name="AWARD_XIAYIZHI" value="5"/>
+<row name="AWARD_BANGGONG" value="5"/>
+<row name="AWARD_BANGGONG_MAX" value="350"/>
+</root>

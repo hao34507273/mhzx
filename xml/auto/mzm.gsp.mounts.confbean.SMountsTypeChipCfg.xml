@@ -1,0 +1,60 @@
+<data>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="1">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100000</int>
+        <int>10</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="2">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100010</int>
+        <int>10</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="3">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100020</int>
+        <int>10</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="4">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100030</int>
+        <int>10</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="5">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100040</int>
+        <int>10</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+  <mzm.gsp.mounts.confbean.SMountsTypeChipCfg mountsType="6">
+    <chipItemId2score>
+      <no-comparator/>
+      <entry>
+        <int>215100100</int>
+        <int>0</int>
+      </entry>
+      <entry>
+        <int>215100110</int>
+        <int>0</int>
+      </entry>
+    </chipItemId2score>
+  </mzm.gsp.mounts.confbean.SMountsTypeChipCfg>
+</data>

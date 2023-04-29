@@ -1,0 +1,321 @@
+<data>
+  <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg id="350000370">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7610" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7611" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7612" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7613" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7614" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7615" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7616" sortId="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7617" sortId="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7618" sortId="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7619" sortId="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7620" sortId="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7621" sortId="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7622" sortId="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7623" sortId="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7624" sortId="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7626" sortId="17"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7625" sortId="16"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7628" sortId="19"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7627" sortId="18"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7630" sortId="21"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7629" sortId="20"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7632" sortId="23"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7631" sortId="22"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7634" sortId="25"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7633" sortId="24"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7636" sortId="27"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7635" sortId="26"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="7637" sortId="28"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg id="350008361">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21942" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21943" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21944" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21945" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21946" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21947" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21948" sortId="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21949" sortId="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21950" sortId="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21951" sortId="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21952" sortId="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21953" sortId="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21954" sortId="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21955" sortId="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21956" sortId="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21958" sortId="17"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21957" sortId="16"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21960" sortId="19"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21959" sortId="18"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21962" sortId="21"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21961" sortId="20"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21964" sortId="23"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21963" sortId="22"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21966" sortId="25"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21965" sortId="24"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21968" sortId="27"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21967" sortId="26"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="21969" sortId="28"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg>
+  <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg id="350009013">
+    <awardInfos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10100" sortId="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10101" sortId="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10102" sortId="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10103" sortId="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10104" sortId="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10105" sortId="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10106" sortId="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10107" sortId="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10108" sortId="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10109" sortId="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10110" sortId="11"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10111" sortId="12"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10112" sortId="13"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10113" sortId="14"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10114" sortId="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10116" sortId="17"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10115" sortId="16"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10118" sortId="19"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10117" sortId="18"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.loginaward.confbean.SLoginSignActivityAwardInfo awardCfgId="10119" sortId="20"/>
+      </entry>
+    </awardInfos>
+  </mzm.gsp.loginaward.confbean.SLoginSignActivityAwardCfg>
+</data>

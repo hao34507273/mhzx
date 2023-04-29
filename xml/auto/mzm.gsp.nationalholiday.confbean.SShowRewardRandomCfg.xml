@@ -1,0 +1,19 @@
+<data>
+  <mzm.gsp.nationalholiday.confbean.SShowRewardRandomCfg groupId="1" randomType="1" sumWight="210">
+    <cfgId2randomWight>
+      <no-comparator/>
+      <entry>
+        <int>958700003</int>
+        <int>100</int>
+      </entry>
+      <entry>
+        <int>958700004</int>
+        <int>200</int>
+      </entry>
+      <entry>
+        <int>958700005</int>
+        <int>210</int>
+      </entry>
+    </cfgId2randomWight>
+  </mzm.gsp.nationalholiday.confbean.SShowRewardRandomCfg>
+</data>

@@ -1,0 +1,31 @@
+﻿<data>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900000" itemNum="0" needItemId="210104004" rank="0" upNeedRoleLv="45" visibleRank="0" wingInfoId="380600000"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900001" itemNum="1" needItemId="210104004" rank="1" upNeedRoleLv="45" visibleRank="0" wingInfoId="380600001"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900002" itemNum="2" needItemId="210104004" rank="2" upNeedRoleLv="45" visibleRank="1" wingInfoId="380600002"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900003" itemNum="3" needItemId="210104004" rank="3" upNeedRoleLv="45" visibleRank="2" wingInfoId="380600003"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900004" itemNum="4" needItemId="210104004" rank="4" upNeedRoleLv="45" visibleRank="3" wingInfoId="380600004"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900005" itemNum="5" needItemId="210104004" rank="5" upNeedRoleLv="45" visibleRank="4" wingInfoId="380600005"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900006" itemNum="7" needItemId="210104004" rank="6" upNeedRoleLv="45" visibleRank="5" wingInfoId="380600006"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900007" itemNum="10" needItemId="210104004" rank="7" upNeedRoleLv="45" visibleRank="6" wingInfoId="380600007"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900008" itemNum="15" needItemId="210104004" rank="8" upNeedRoleLv="45" visibleRank="7" wingInfoId="380600008"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900009" itemNum="23" needItemId="210104004" rank="9" upNeedRoleLv="45" visibleRank="8" wingInfoId="380600009"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900010" itemNum="28" needItemId="210104004" rank="10" upNeedRoleLv="50" visibleRank="9" wingInfoId="380600010"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900011" itemNum="33" needItemId="210104004" rank="11" upNeedRoleLv="55" visibleRank="10" wingInfoId="380600011"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900012" itemNum="38" needItemId="210104050" rank="12" upNeedRoleLv="60" visibleRank="11" wingInfoId="380600012"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900013" itemNum="45" needItemId="210104050" rank="13" upNeedRoleLv="65" visibleRank="12" wingInfoId="380600013"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900014" itemNum="60" needItemId="210104050" rank="14" upNeedRoleLv="70" visibleRank="13" wingInfoId="380600014"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900015" itemNum="80" needItemId="210104050" rank="15" upNeedRoleLv="75" visibleRank="14" wingInfoId="380600015"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900016" itemNum="100" needItemId="210104050" rank="16" upNeedRoleLv="80" visibleRank="15" wingInfoId="380600016"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900017" itemNum="100" needItemId="210104050" rank="17" upNeedRoleLv="85" visibleRank="16" wingInfoId="380600017"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900018" itemNum="100" needItemId="210104050" rank="18" upNeedRoleLv="90" visibleRank="17" wingInfoId="380600018"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900019" itemNum="200" needItemId="210104050" rank="19" upNeedRoleLv="90" visibleRank="18" wingInfoId="380600019"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900020" itemNum="300" needItemId="210104050" rank="20" upNeedRoleLv="90" visibleRank="19" wingInfoId="380600020"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900021" itemNum="400" needItemId="210104050" rank="21" upNeedRoleLv="90" visibleRank="20" wingInfoId="380600021"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900022" itemNum="500" needItemId="210104050" rank="22" upNeedRoleLv="90" visibleRank="21" wingInfoId="380600022"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900023" itemNum="600" needItemId="210104050" rank="23" upNeedRoleLv="90" visibleRank="22" wingInfoId="380600023"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900024" itemNum="700" needItemId="210104050" rank="24" upNeedRoleLv="90" visibleRank="23" wingInfoId="380600024"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900025" itemNum="800" needItemId="210104050" rank="25" upNeedRoleLv="90" visibleRank="24" wingInfoId="380600025"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900026" itemNum="900" needItemId="210104050" rank="26" upNeedRoleLv="90" visibleRank="25" wingInfoId="380600026"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900027" itemNum="1000" needItemId="210104050" rank="27" upNeedRoleLv="90" visibleRank="26" wingInfoId="380600027"/>
+  <mzm.gsp.wing.confbean.SWingRankCfg id="380900028" itemNum="1100" needItemId="210104050" rank="28" upNeedRoleLv="90" visibleRank="27" wingInfoId="380600028"/>
+</data>

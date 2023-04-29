@@ -1,0 +1,128 @@
+﻿<data>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500000" theme_fashion_dress_cfg_Id="860300000" unlock_fashion_dress_type_num="2">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="10"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500001" theme_fashion_dress_cfg_Id="860300000" unlock_fashion_dress_type_num="4">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="20"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500002" theme_fashion_dress_cfg_Id="860300000" unlock_fashion_dress_type_num="6">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="30"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500050" theme_fashion_dress_cfg_Id="860300001" unlock_fashion_dress_type_num="2">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500051" theme_fashion_dress_cfg_Id="860300001" unlock_fashion_dress_type_num="4">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="400"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500052" theme_fashion_dress_cfg_Id="860300001" unlock_fashion_dress_type_num="6">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="600"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500100" theme_fashion_dress_cfg_Id="860300002" unlock_fashion_dress_type_num="2">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="15"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="15"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="15"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500101" theme_fashion_dress_cfg_Id="860300002" unlock_fashion_dress_type_num="4">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="30"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="30"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="30"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500102" theme_fashion_dress_cfg_Id="860300002" unlock_fashion_dress_type_num="6">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="45"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="45"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="45"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500150" theme_fashion_dress_cfg_Id="860300003" unlock_fashion_dress_type_num="2">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="15"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="15"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="15"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500151" theme_fashion_dress_cfg_Id="860300003" unlock_fashion_dress_type_num="4">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="30"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="30"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="30"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500152" theme_fashion_dress_cfg_Id="860300003" unlock_fashion_dress_type_num="6">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="45"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="45"/>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="45"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500200" theme_fashion_dress_cfg_Id="860300004" unlock_fashion_dress_type_num="2">
+    <proList/>
+          <buffList>
+      <int>701211200 </int>
+          </buffList>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500201" theme_fashion_dress_cfg_Id="860300004" unlock_fashion_dress_type_num="4">
+    <proList/>
+          <buffList>
+      <int>701211201 </int>
+          </buffList>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500202" theme_fashion_dress_cfg_Id="860300004" unlock_fashion_dress_type_num="6">
+    <proList/>
+          <buffList>
+      <int>701211204 </int>
+          </buffList>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500250" theme_fashion_dress_cfg_Id="860300005" unlock_fashion_dress_type_num="1">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500300" theme_fashion_dress_cfg_Id="860300006" unlock_fashion_dress_type_num="2">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500301" theme_fashion_dress_cfg_Id="860300006" unlock_fashion_dress_type_num="4">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="400"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg fix_award_id="-1" id="860500302" theme_fashion_dress_cfg_Id="860300006" unlock_fashion_dress_type_num="6">
+    <proList>
+      <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="600"/>
+    </proList>
+    <buffList/>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressUnlockAwardCfg>
+</data>

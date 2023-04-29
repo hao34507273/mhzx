@@ -1,0 +1,13 @@
+<root>
+<row name="MIN_LEVEL" value="30"/>
+<row name="VIGOR" value="10"/>
+<row name="DAYLIY_REPORT_ROLE_MAX" value="1"/>
+<row name="REPORT_CLEAR_TIME" value="350299000"/>
+<row name="FORBID_TALK_FEEDBACK_MAIL_ID" value="340009153"/>
+<row name="FORBID_ROLE_FEEDBACK_MAIL_ID" value="340009154"/>
+<row name="FORBID_USER_FEEDBACK_MAIL_ID" value="340009155"/>
+<row name="FORBID_TALK_NOTIFY_MAIL_ID" value="340009156"/>
+<row name="FORBID_TALK_SYSTEM_NOTICE_SERVER_TEXT_ID" value="703500001"/>
+<row name="FORBID_ROLE_SYSTEM_NOTICE_SERVER_TEXT_ID" value="703500002"/>
+<row name="FORBID_USER_SYSTEM_NOTICE_SERVER_TEXT_ID" value="703500003"/>
+</root>

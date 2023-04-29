@@ -1,0 +1,8 @@
+<root>
+<row name="AWARD_SEED" value="10000"/>
+<row name="AWARD_ITEM_TOTOAL_SEED" value="1000000"/>
+<row name="AWARD_FORMULA_PARAM_BASE" value="100"/>
+<row name="AWARD_ADD_BASE" value="10000"/>
+<row name="MULTI_AWARD_ROLE_END_TIME" value="5"/>
+<row name="isGemOpen" value="FALSE"/>
+</root>

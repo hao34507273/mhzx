@@ -1,0 +1,51 @@
+<root>
+<row name="MIN_ROLE_LEVLE_FOR_WING" value="45"/>
+<row name="WING_INIT_LEVEL" value="1"/>
+<row name="WING_INIT_PHASE" value="0"/>
+<row name="WING_PROPERTY_NUM" value="6"/>
+<row name="NORMAL_PROPERTY_WEIGHT" value="2000"/>
+<row name="EXCELLENT_PROPERTY_WEIGHT" value="2000"/>
+<row name="ELITE_PROPERTY_WEIGHT" value="2000"/>
+<row name="BRILLIANT_PROPERTY_WEIGHT" value="2000"/>
+<row name="PERFECT_PROPERTY_WEIGHT" value="2000"/>
+<row name="GRASPING_TWO_SKILL_RATE" value="2000"/>
+<row name="MAX_WING_VIEW_NUM" value="50"/>
+<row name="SCHEMA2_NEED_YUANBAO" value="600"/>
+<row name="SCHEMA3_NEED_YUANBAO" value="1600"/>
+<row name="WING_DESC_TIP_ID" value="701605006"/>
+<row name="MAX_SCHEMA_NUM" value="3"/>
+<row name="WING_ROOT_ITEM_ID" value="210104001"/>
+<row name="WING_PROPERTY_RESET_ITEM_ID" value="210104002"/>
+<row name="WING_PROPERTY_RESET_ITEM_NUM" value="1"/>
+<row name="RESET_WING_YUANBAO_NUM" value="200"/>
+<row name="WING_DYE_ITEM_ID" value="210104005"/>
+<row name="WING_FAKE_ITEM_ID" value="210104006"/>
+<row name="WING_PRO_RESET_TIP_ID" value="701605003"/>
+<row name="WING_UNDERSTAND_TIP_ID" value="701605003"/>
+<row name="WING_DYE_TIP_ID" value="701605005"/>
+<row name="MIN_LEVLE_FOR_RESET_PROPERTY" value="5"/>
+<row name="SUB_SKILL_NUM" value="3"/>
+<row name="PHASE_UP_RAN_SKILL_NUM" value="2"/>
+<row name="WING_GRAPH_ID" value="50000008"/>
+<row name="TASKS">
+<int>50000071</int>
+<int>50000072</int>
+<int>50000073</int>
+<int>50000074</int>
+<int>50000075</int>
+<int>50000076</int>
+<int>50000077</int>
+<int>50000078</int>
+<int>50000079</int>
+<int>50000080</int>
+<int>50000081</int>
+<int>0</int>
+</row>
+<row name="SKILL_RESET_TIP_ID" value="701605002"/>
+<row name="OUT_LOOK_TIP_ID" value="701605004"/>
+<row name="PRO_TIP_ID" value="701605006"/>
+<row name="LEVEL_PRO_ID" value="7000"/>
+<row name="WING_LV_MAX" value="250"/>
+<row name="WING_RANGE_MAX" value="24"/>
+<row name="TARGET_SKILL_NUM" value="3"/>
+</root>

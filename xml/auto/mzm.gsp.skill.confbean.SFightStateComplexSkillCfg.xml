@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.skill.confbean.SFightStateComplexSkillCfg complexSkillCfgTableId="111100000">
+    <fightStateSkills>
+      <mzm.gsp.skill.confbean.FightStateComplexSkill fightState="1000" fightStateGroupId="1000" modId="113500000" skillid="110006413"/>
+      <mzm.gsp.skill.confbean.FightStateComplexSkill fightState="1001" fightStateGroupId="1000" modId="113500001" skillid="110006414"/>
+    </fightStateSkills>
+  </mzm.gsp.skill.confbean.SFightStateComplexSkillCfg>
+</data>

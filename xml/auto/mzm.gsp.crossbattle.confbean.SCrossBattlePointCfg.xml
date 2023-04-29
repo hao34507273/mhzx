@@ -1,0 +1,38 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg activityCfgid="350010000" activitySwitch="345" changeMailCfgid="340009099" durationInMinute="110" endFightCountDown="10" endTimePoint="352500046" funSwitch="356" lastTimePoint="352500038" leaveMapNpcCfgid="150114103" leaveMapNpcServiceCfgid="150210603" localMapCfgid="330000001" localMapX="6916" localMapY="2375" loseMailCfgid="340009097" losePoint="0" matchDurationInMinute="80" matchIntervalSecond="180" nextMailCfgid="340009098" prepareDurationInMinute="20" promotionCorpsNum="32" remoteMapCfgid="330000961" remoteMapX="3537" remoteMapY="2137" winMailCfgid="340009096" winPoint="3">
+    <timePoints>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500039" timePoint="352500035"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500040" timePoint="352500036"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500041" timePoint="352500037"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500042" timePoint="352500038"/>
+    </timePoints>
+  </mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg activityCfgid="350020000" activitySwitch="345" changeMailCfgid="340009099" durationInMinute="110" endFightCountDown="10" endTimePoint="352500142" funSwitch="356" lastTimePoint="352500134" leaveMapNpcCfgid="150114103" leaveMapNpcServiceCfgid="150210603" localMapCfgid="330000001" localMapX="6916" localMapY="2375" loseMailCfgid="340009097" losePoint="0" matchDurationInMinute="80" matchIntervalSecond="180" nextMailCfgid="340009098" prepareDurationInMinute="20" promotionCorpsNum="32" remoteMapCfgid="330000961" remoteMapX="3537" remoteMapY="2137" winMailCfgid="340009096" winPoint="3">
+    <timePoints>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500135" timePoint="352500131"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500136" timePoint="352500132"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500137" timePoint="352500133"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500138" timePoint="352500134"/>
+    </timePoints>
+  </mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg activityCfgid="350020002" activitySwitch="345" changeMailCfgid="340009099" durationInMinute="110" endFightCountDown="10" endTimePoint="352500242" funSwitch="356" lastTimePoint="352500234" leaveMapNpcCfgid="150114103" leaveMapNpcServiceCfgid="150210603" localMapCfgid="330000001" localMapX="6916" localMapY="2375" loseMailCfgid="340009097" losePoint="0" matchDurationInMinute="80" matchIntervalSecond="180" nextMailCfgid="340009098" prepareDurationInMinute="20" promotionCorpsNum="32" remoteMapCfgid="330000961" remoteMapX="3537" remoteMapY="2137" winMailCfgid="340009096" winPoint="3">
+    <timePoints>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500235" timePoint="352500231"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500236" timePoint="352500232"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500237" timePoint="352500233"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500238" timePoint="352500234"/>
+    </timePoints>
+  </mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg activityCfgid="350020014" activitySwitch="345" changeMailCfgid="340009099" durationInMinute="110" endFightCountDown="10" endTimePoint="352500338" funSwitch="356" lastTimePoint="352500332" leaveMapNpcCfgid="150114103" leaveMapNpcServiceCfgid="150210603" localMapCfgid="330000001" localMapX="6916" localMapY="2375" loseMailCfgid="340009097" losePoint="0" matchDurationInMinute="80" matchIntervalSecond="180" nextMailCfgid="340009098" prepareDurationInMinute="20" promotionCorpsNum="32" remoteMapCfgid="330000961" remoteMapX="3537" remoteMapY="2137" winMailCfgid="340009096" winPoint="3">
+    <timePoints>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500333" timePoint="352500331"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500334" timePoint="352500332"/>
+    </timePoints>
+  </mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg activityCfgid="350020451" activitySwitch="345" changeMailCfgid="340009099" durationInMinute="110" endFightCountDown="10" endTimePoint="352500441" funSwitch="356" lastTimePoint="352500437" leaveMapNpcCfgid="150114103" leaveMapNpcServiceCfgid="150210603" localMapCfgid="330000001" localMapX="6916" localMapY="2375" loseMailCfgid="340009097" losePoint="0" matchDurationInMinute="80" matchIntervalSecond="180" nextMailCfgid="340009098" prepareDurationInMinute="20" promotionCorpsNum="32" remoteMapCfgid="330000961" remoteMapX="3537" remoteMapY="2137" winMailCfgid="340009096" winPoint="3">
+    <timePoints>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500438" timePoint="352500436"/>
+      <mzm.gsp.crossbattle.confbean.TimePointInfo backupTimePoint="352500439" timePoint="352500437"/>
+    </timePoints>
+  </mzm.gsp.crossbattle.confbean.SCrossBattlePointCfg>
+</data>

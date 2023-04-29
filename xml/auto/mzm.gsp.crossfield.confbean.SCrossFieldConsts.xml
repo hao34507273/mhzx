@@ -1,0 +1,18 @@
+<root>
+<row name="ACTIVITY_CFG_ID" value="350009021"/>
+<row name="NPC_ID" value="150114110"/>
+<row name="ATTEND_ACTIVITY_NPC_SERVICE_ID" value="150210610"/>
+<row name="POINT_EXCHANGE_NPC_SERVICE_ID" value="150210612"/>
+<row name="GRADE_INSTRUCTION_NPC_SERVICE_ID" value="150210611"/>
+<row name="CROSS_SERVER_PROTECT_DURATION_IN_SECOND" value="7200"/>
+<row name="RETURN_ORIGINAL_SERVER_PROTECT_DURATION_IN_SECOND" value="15"/>
+<row name="ACTIVE_LEAVE_FIELD_PUNISH_DURATION_IN_SECOND" value="1200"/>
+<row name="WIN_POINT_NUM_UPPER_LIMIT" value="100"/>
+<row name="MVP_GET_WIN_POINT_NUM" value="20"/>
+<row name="STRAIGHT_WIN_GET_WIN_POINT_NUM" value="20"/>
+<row name="STRAIGHT_WIN_NUM" value="3"/>
+<row name="WEEKLY_POINT_UPPER_LIMIT" value="300"/>
+<row name="TRIGGER_BAODI_STAR_NUM" value="25"/>
+<row name="DAILY_AWARD_TIMES" value="1"/>
+<row name="DAILY_AWARD_ID" value="6410"/>
+</root>

@@ -1,0 +1,23 @@
+<root>
+<row name="friendCountMax" value="120"/>
+<row name="applyCountMax" value="50"/>
+<row name="applyTimeMax" value="72"/>
+<row name="valuePerbattle" value="1"/>
+<row name="maxQinMiDu" value="50000"/>
+<row name="validateWordsMax" value="12"/>
+<row name="blackMax" value="20"/>
+<row name="addFriendChatId" value="430500000"/>
+<row name="recommandNum" value="4"/>
+<row name="recomandLevelNum" value="2"/>
+<row name="recomandLevel" value="5"/>
+<row name="addFriendLvSet" value="20"/>
+<row name="refuseBanDetermineDay" value="1"/>
+<row name="refuseBanThreshold" value="5"/>
+<row name="refuseBanHour" value="168"/>
+<row name="refuseBanDescriptionId" value="703500000"/>
+<row name="addFriendMaxLvDiffWithServer" value="5"/>
+<row name="ignoreGrcFriendLoginTimeThreshold" value="72"/>
+<row name="minLevelWarnAddFriendAutoBan" value="60"/>
+<row name="refuseCountWarnAddFriendAutoBan" value="3"/>
+<row name="friendRemarkNameMaxLength" value="6"/>
+</root>

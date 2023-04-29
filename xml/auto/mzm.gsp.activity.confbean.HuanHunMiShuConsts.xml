@@ -1,0 +1,20 @@
+<root>
+<row name="ACTIVITYID" value="350000025"/>
+<row name="NPC_ID" value="150100233"/>
+<row name="TASK_TIME_LIMIT" value="10"/>
+<row name="TASK_GRAPH_ID" value="30000005"/>
+<row name="GUIDE_GRAPH_ID" value="0"/>
+<row name="AWARD_ITEM_ID" value="211900000"/>
+<row name="AWARD_ITEM_NUM" value="1"/>
+<row name="FLUSH_TIME" value="350299005"/>
+<row name="XIULIAN_RATE_LOW" value="1.3500000238"/>
+<row name="XIULIAN_RATE_HIGH" value="1.6499999762"/>
+<row name="NEED_SILVER_PER_XIULIAN" value="1000"/>
+<row name="XIULIAN_PER_ITEM_LOW" value="20"/>
+<row name="FULL_BOX_NUM_BEFORE_SEEK_HRLP" value="5"/>
+<row name="SEEK_HELP_NUM" value="2"/>
+<row name="HELP_OTHER_NUM" value="5"/>
+<row name="HELP_OTHER_GANG_AWARD_ID" value="3200"/>
+<row name="COOK_LIANYAO_AWARD_RANK" value="0"/>
+<row name="HELP_OTHER_LEVEL_LESS" value="40"/>
+</root>

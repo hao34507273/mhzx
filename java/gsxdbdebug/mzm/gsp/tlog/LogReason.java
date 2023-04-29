@@ -1,0 +1,1768 @@
+/*      */ package mzm.gsp.tlog;
+/*      */ 
+/*      */ import java.util.HashMap;
+/*      */ import java.util.HashSet;
+/*      */ import java.util.Map;
+/*      */ import java.util.Set;
+/*      */ import mzm.gsp.arena.main.ArenaItemHandler;
+/*      */ import mzm.gsp.competition.main.CompetitionItemHandler;
+/*      */ import mzm.gsp.firework.main.FireWorkItemHandler;
+/*      */ import mzm.gsp.item.main.ItemReasonHandler;
+/*      */ import mzm.gsp.menpaipvp.main.MenpaiPVPItemHandler;
+/*      */ import mzm.gsp.paraselene.main.ParaseleneItemHandler;
+/*      */ import mzm.gsp.qmhw.main.QMHWItemHandler;
+/*      */ import mzm.gsp.visiblemonsterfight.main.ShengXiaoItemHandler;
+/*      */ import mzm.gsp.visiblemonsterfight.main.YaoShouTuXiItemHandler;
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ public enum LogReason
+/*      */ {
+/*   24 */   ADD_CASH_ADD(1), 
+/*      */   
+/*      */ 
+/*   27 */   SHIMEN_ACTIVITY_ADD(1000), 
+/*   28 */   SHIMEN_DAY_PERFECT_ADD(1001), 
+/*   29 */   SHIMEN_WEEK_PERFECT_ADD(1002), 
+/*   30 */   ZHENYAO_ACTIVITY_ADD(1003), 
+/*   31 */   SCO_CIRCLE_ACTIVITY_ADD(1004), 
+/*   32 */   SCO_RING_ACTIVITY_ADD(1005), 
+/*   33 */   BAOTU_ACTIVITY_ADD(1006), 
+/*   34 */   HUNDUNSHIKONG_ACTIVITY_ADD(1007), 
+/*   35 */   EVERY_DAY_QUESTION_ACTIVITY_ADD(1008), 
+/*   36 */   GANG_ROBBER_ACTIVITY_ADD(1009), 
+/*   37 */   LUANSHIYAOMO_ACTIVITY_ADD(1010), 
+/*   38 */   SHENGXIAO_ACTIVITY_ADD(1011, ShengXiaoItemHandler.getInstance()), 
+/*   39 */   YAOSHOUTUXI_ACTIVITY_ADD(1012, YaoShouTuXiItemHandler.getInstance()), 
+/*   40 */   SHIMEN_ACTIVITY_RECOMMEND_ADD(1013), 
+/*   41 */   BAOTU_ACTIVITY_RECOMMEN_ADD(1014), 
+/*   42 */   SCO_ACTIVITY_RECOMMEND_ADD(1015), 
+/*   43 */   ZHENGYAO_ACTIVITY_RECOMMEND_ADD(1016), 
+/*   44 */   JINGJI_ACTIVITY_FIRST_VICTORY_ADD(1017), 
+/*   45 */   JINGJI_ACTIVITY_FIVE_FIGHT_ADD(1018), 
+/*   46 */   JINGJI_ACTIVITY_SEASON_REWARD_ADD(1019), 
+/*   47 */   JINGJI_ACTIVITY_FIGHT_REWARD_ADD(1020), 
+/*   48 */   KEJU_ACTIVITY_XIANGSHI_WRONG_AWARD(1021), 
+/*   49 */   KEJU_ACTIVITY_XIANGSHI_RIGHT_AWARD(1022), 
+/*   50 */   KEJU_ACTIVITY_HUISHI_WRONG_AWARD(1023), 
+/*   51 */   KEJU_ACTIVITY_HUISHI_RIGHT_AWARD(1024), 
+/*   52 */   KEJU_ACTIVITY_DIANSHI_WRONG_AWARD(1025), 
+/*   53 */   KEJU_ACTIVITY_DIANSHI_RIGHT_AWARD(1026), 
+/*   54 */   KEJU_ACTIVITY_ZHUANGYUAN_AWARD(1027), 
+/*   55 */   KEJU_ACTIVITY_BANGYAN_AWARD(1028), 
+/*   56 */   KEJU_ACTIVITY_TANHUA_AWARD(1029), 
+/*   57 */   KEJU_ACTIVITY_JINSHI_AWARD(1030), 
+/*   58 */   YAOSHOUTUXI_ACTIVITY_NPC_STARTFIGHT_REM(1031), 
+/*   59 */   BIGBOSS_ACTIVITY_REWARD_ADD(1032), 
+/*   60 */   BIGBOSS_ACTIVITY_FIGHT_ADD(1033), 
+/*   61 */   PARASELENE_ACTIVITY_REWARD_ADD(1034, ParaseleneItemHandler.getInstance()), 
+/*      */   
+/*   63 */   JINGJI_ACTIVITY_RECOMMEND_REWARD_ADD(1035), 
+/*   64 */   BIGBOSS_ACTIVITY_RECOMMEND_REWARD_ADD(1036), 
+/*   65 */   PARASELENE_ACTIVITY_RECOMMEND_REWARD_ADD(1037), 
+/*   66 */   BIGBOSS_ACTIVITY_BUY_CHALLENGECOUNR_REM(1038), 
+/*   67 */   JINGJI_ACTIVITY_BUY_CHALLENGECOUNR_REM(1039), 
+/*   68 */   JINGJI_DAY_JIFEN_AWARD(1040), 
+/*      */   
+/*   70 */   WATCH_MOON_ACTIVITY_AWARD(1041), 
+/*   71 */   QYXT_QUESTION_AWARD(1042), 
+/*   72 */   QYXT_EXTRA_AWARD(1043), 
+/*      */   
+/*   74 */   SHIMEN_LOTTERY_AWARD(1044), 
+/*   75 */   KEJU_ACTIVITY_EXP_AWARD(1045), 
+/*   76 */   OPEN_WELFARE_ACTIVITY(1046), 
+/*   77 */   EVERY_DAY_QUESTION_STORAGE_ADD(1047), 
+/*   78 */   JINGJI_DAY_STORAGE_AWARD(1048), 
+/*   79 */   SHIMEN_DAY_STORAGE_AWARD(1049), 
+/*   80 */   ZHENYAO_DAY_STORAGE_AWARD(1050), 
+/*   81 */   OPEN_WELFARE_MAIL(1051), 
+/*   82 */   PUSH_AWARD(1052), 
+/*      */   
+/*   84 */   HULA_ACTIVITY_EXP_AWARD(1053), 
+/*   85 */   HULA_ACTIVITY_KILL_MONSTER_AWARD(1054), 
+/*   86 */   HULA_ACTIVITY_TURN_AWARD(1055), 
+/*   87 */   GUA_JI_FACTION_TAKE_NEW_GUY_AWARD(1056), 
+/*   88 */   ZHEN_YAO_FACTION_TAKE_NEW_GUY_AWARD(1057), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*   93 */   ITEM_ABANDON_REM(1100), 
+/*   94 */   ITEM_SELL(1101), 
+/*   95 */   ITEM_COMPOUND(1102), 
+/*      */   
+/*   97 */   ITEM_EXPEND_BAG_REM(1104), 
+/*   98 */   ITEM_EXPEND_STORAGE_REM(1105), 
+/*   99 */   ITEM_EXCHANGE(1106), 
+/*      */   
+/*  101 */   ITEM_GIVE_ADD(1108), 
+/*  102 */   ITEM_GIVE(1109), 
+/*  103 */   ITEM_GIVE_FLOWER_REM(1110), 
+/*  104 */   ITEM_USE_BAOTU(1111), 
+/*  105 */   ITEM_USE_DOUBLE_POINT_REM(1112), 
+/*  106 */   ITEM_USE_FABAORESET_REM(1113), 
+/*  107 */   ITEM_USE_FUMO_REM(1114), 
+/*  108 */   ITEM_USE_GANGFILE_REM(1115), 
+/*  109 */   ITEM_USE_LIBAO(1116), 
+/*      */   
+/*      */ 
+/*  112 */   ITEM_USE_RIDDERDYE_REM(1118), 
+/*  113 */   ITEM_USE_RIDDER_REM(1119), 
+/*      */   
+/*  115 */   ITEM_USE_GANGFILE_ADD(1121), 
+/*  116 */   ITEM_NPC_SHOP(1123), 
+/*      */   
+/*      */ 
+/*  119 */   ITEM_GANG_YAODIAN_BUY_ADD(1125), 
+/*  120 */   ITEM_LOTTERY_USE(1126), 
+/*      */   
+/*  122 */   ITEM_USE_WINGROOT_REM(1131), 
+/*  123 */   ITEM_USE_WINGVIEW_REM(1132), 
+/*  124 */   ITEM_USE_FIREWORKS_REM(1133), 
+/*  125 */   ITEM_USE_MARRIAGE_SUGER_REM(1134), 
+/*  126 */   ITEM_USE_MARRIAGE_SUGER_ADD(1135), 
+/*  127 */   ITEM_USE_Moneybag(1136), 
+/*  128 */   ITEM_USE_Selectbag(1137), 
+/*  129 */   ITEM_USE_EXHANGE_MOSHOU_REWARD(1138), 
+/*  130 */   ITEM_USE_EXHANGE_NORMAL_REWARD(1139), 
+/*  131 */   ITEM_USE_CAT(1140), 
+/*  132 */   ITEM_CAT_RECOVERY(1141), 
+/*      */   
+/*  134 */   ITEM_USE_PLAY_EXPRESSION_ITEM_RME(1142), 
+/*  135 */   ITEM_USE_EMBRYO_ITEM(1143), 
+/*  136 */   ITEM_USE_SHAPE_SHIFT_ITEM(1144), 
+/*  137 */   ITEM_SPLIT(1145), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  142 */   EQUIP_MAKE(1200), 
+/*  143 */   EQUIP_SKILL_REFRESH(1201), 
+/*  144 */   EQUIP_QILIN_REM(1202), 
+/*  145 */   EQUIP_INHERIT(1203), 
+/*  146 */   EQUIP_FIX_REM(1205), 
+/*  147 */   EQUIP_FUHUN_REM(1206), 
+/*  148 */   EQUIP_LOCKUN_REM(1207), 
+/*  149 */   EQUIP_REFRESH_REM(1208), 
+/*  150 */   EQUIP_ACCUMULATION_QILIN_REM(1209), 
+/*  151 */   EQUIP_DISASSEMBLE(1210), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  155 */   SIGN_IN_ADD(1300), 
+/*  156 */   RE_SIGN_IN_ADD(1301), 
+/*  157 */   LEVEL_UP_ADD(1302), 
+/*  158 */   LOGING_ADD(1303), 
+/*  159 */   USE_GIFT_CODE_ADD(1304), 
+/*  160 */   ONLINE_AWARD_ADD(1305), 
+/*  161 */   OPEN_SERVER_AWARD_ADD(1306), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  165 */   ZHENFA_STUDY_REM(1350), 
+/*  166 */   ZHENFA_ADDEXP_REM(1351), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  170 */   PRECIOUS_MALL(1400), 
+/*  171 */   LIMIT_MALL(1401), 
+/*  172 */   JIFEN_ADD(1402), 
+/*  173 */   FUNCTION_MALL(1403), 
+/*  174 */   TOKEN_EXCHANGE_REM(1404), 
+/*  175 */   YUANBAO_BUY(1405), 
+/*  176 */   INGOT_BUY_GOLD(1406), 
+/*  177 */   OFFER_DOUBLE_POINT(1407), 
+/*  178 */   RE_OFFER_DOUBLE_POINT(1408), 
+/*      */   
+/*  180 */   GET_DOUBLE_POINT(1410), 
+/*  181 */   FROZEN_DOUBLE_POINT(1411), 
+/*  182 */   FASHION_DRESS_MALL(1412), 
+/*  183 */   DAILY_LIMIT_MALL(1413), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  187 */   FIGHTER_USE_DRAG_REM(1500), 
+/*  188 */   FIGHT_END_AWARD_ADD(1501), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  192 */   INSTANCE_BOX_AWARD_ADD(1600), 
+/*  193 */   INSTANCE_SAO_DANG_REM(1601), 
+/*  194 */   INSTANCE_MULTI_AWARD_ADD(1602), 
+/*  195 */   INSTANCE_SINGLE_AWARD_ADD(1603), 
+/*  196 */   INSTANCE_SINGLE_AWARDPOOL_ADD(1604), 
+/*  197 */   INSTANCE_MULTI_HLEPED(1605), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  201 */   TASK_OPER_REM(1701), 
+/*  202 */   TASK_OPER_ADD(1702), 
+/*  203 */   COMMON_MULTI_LINE_TASK_ADD(1703), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  207 */   PARTNER_ACTIVE_REM(1751), 
+/*  208 */   PARTNER_SHUFFLE_LOVES_REM(1752), 
+/*  209 */   PARTNER_SUB_YUANSHEN_LV_UP_REM(1753), 
+/*  210 */   PARTNER_YUANSHEN_CLEAR_ADD(1754), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  214 */   HUN_HANDUP_REM(1801), 
+/*  215 */   HUN_ALL_AWARD_REM(1802), 
+/*  216 */   HUN_GANG_HELP_AWARD(1803), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  220 */   BOUNTY_FLUSH_REM(1901), 
+/*  221 */   BOUNTY_CHECK_AWARD_CONTENT(1902), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  225 */   WING_PHASE_UP_REM(2000), 
+/*  226 */   WING_ADD_EXP_REM(2001), 
+/*  227 */   WING_RESET_PROPERTY_REM(2002), 
+/*  228 */   WING_RESET_SKILL_REM(2003), 
+/*  229 */   WING_MODEL_DYE_REM(2004), 
+/*  230 */   OPEN_NEW_WING_REM(2005), 
+/*  231 */   WING_RESET_REM(2006), 
+/*  232 */   WING_RESET_MAIN_SKILL(2007), 
+/*  233 */   WING_RESET_SUB_SKILL(2008), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  238 */   PET_USE_EXP_REM(3200), 
+/*  239 */   PET_EQUIP_DECORATE_REM(3201), 
+/*  240 */   PET_EXPEND_BAG_REM(3202), 
+/*  241 */   PET_FANSHENG_REM(3203), 
+/*  242 */   PET_HUASHENG_REM(3204), 
+/*  243 */   PET_LIANGU_REM(3205), 
+/*  244 */   PET_MERGE_EQUIP_REM(3206), 
+/*  245 */   PET_MERGE_EQUIP_ADD(3207), 
+/*  246 */   PET_AMULET_REFRESH_REM(3208), 
+/*  247 */   PET_EQUIP_REM(3209), 
+/*  248 */   PET_MINGJI_REM(3210), 
+/*  249 */   PET_RESET_PROP_REM(3211), 
+/*  250 */   PET_STUDY_SKILL_BOOK_REM(3212), 
+/*  251 */   PET_USE_BAOBAODAI_REM(3213), 
+/*  252 */   PET_USE_LIFE_ITEM_REM(3214), 
+/*  253 */   PET_USE_GROW_ITEM_REM(3215), 
+/*  254 */   PET_EXPEND_DEPOT_REM(3216), 
+/*  255 */   PET_SHENSHOU_REDEEM_REM(3217), 
+/*  256 */   PET_SKILL_JIECHU_MINGJI_REM(3218), 
+/*  257 */   PET_NPC_SHOP_REM(3219), 
+/*  258 */   PET_SELL_ADD(3220), 
+/*  259 */   PET_MOSHOU_REDEEM_REM(3221), 
+/*  260 */   PET_FANGSHENG_REWARD_REM(3222), 
+/*  261 */   PET_REPLACE_SKILL_REM(3223), 
+/*      */   
+/*  263 */   PET_PASSIVE_SKILL_LEVELUP_REM(3224), 
+/*  264 */   PET_LEARN_NEW_SKILL_REM(3225), 
+/*  265 */   PET_STAGE_LEVEL_UP_REM(3226), 
+/*  266 */   PET_GET_CHANGE_MODEL_REM(3227), 
+/*  267 */   PET_USE_CHANGE_MODEL_REM(3228), 
+/*  268 */   PET_CANCEL_CHANGE_MODEL_REM(3229), 
+/*  269 */   PET_GET_CHANGE_MODEL_ADD(3230), 
+/*  270 */   PET_SOUL_RANDOM_PROP_COST(3231), 
+/*  271 */   PET_SOUL_LEVEL_UP_COST(3232), 
+/*      */   
+/*  273 */   PET_ARENA_BUY_COUNT_COST(3233), 
+/*  274 */   PET_ARENA_MAX_RANK_AWARD(3234), 
+/*  275 */   PET_ARENA_RANK_AWARD_MAIL(3235), 
+/*      */   
+/*  277 */   PET_MARK_UNLOCK_COST(3236), 
+/*  278 */   PET_MARK_UPGRADE_COST(3237), 
+/*  279 */   PET_MARK_DECOMPOSE_ADD(3238), 
+/*  280 */   PET_MARK_DECOMPOSE_COST(3239), 
+/*  281 */   PET_MARK_LOTTERY_COST(3240), 
+/*  282 */   PET_MARK_LOTTERY_ADD(3241), 
+/*      */   
+/*  284 */   PET_ARENA_FIGHT_END(3250), 
+/*  285 */   PET_ARENA_GM(3251), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  289 */   BAITAN_BUY_ADD(3300), 
+/*  290 */   BAITAN_XIAJIA_ADD(3301), 
+/*  291 */   BAITAN_SHANGJIA_REM(3302), 
+/*  292 */   BAITAN_SHANGJIA_TAX_REM(3303), 
+/*      */   
+/*  294 */   BAITAN_GET_MONEY_ADD(3305), 
+/*  295 */   BAITAN_BUY_SILVER_REM(3306), 
+/*  296 */   BAITAN_REFRESH_GOLD_REM(3307), 
+/*  297 */   BAITAN_UNLOCK_GRID_YUANBAO_REM(3308), 
+/*  298 */   BAITAN_VIGOR_PUTON_REM(3309), 
+/*  299 */   BAITAN_VIGOR_WUQIFU_PUTON(3310), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  303 */   LIFE_SKILL_COOK_ADD(3400), 
+/*  304 */   LIFE_SKILL_LIANYAO_REM(3401), 
+/*  305 */   LIFE_SKILL_LIANYAO_ADD(3402), 
+/*  306 */   LIFE_SKILL_WUQIFU_ADD(3403), 
+/*  307 */   EFFECT_GENERATE_ADD(3404), 
+/*  308 */   LIFE_SKILL_LEVEL_UP_REM(3405), 
+/*  309 */   LIFE_SKILL_LEVEL_RESET_ADD_SILVER(3406), 
+/*  310 */   LIFE_SKILL_LEVEL_RESET_ADD_BANGGONG(3407), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  314 */   GANG_SKILL_LEVEL_UP(3450), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  319 */   MAP_ITEM_OPEN_REM(3500), 
+/*  320 */   MAP_ITEM_OPEN_ADD(3501), 
+/*  321 */   MAP_DOUBLE_POINT_DARK_MONSTER_FIGHT(3502), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  325 */   ROLE_USE_BAOSHIDU_ITEM_REM(3600), 
+/*  326 */   ROLE_USE_DRUG_ITEM_REM(3601), 
+/*  327 */   ROLE_USE_EXP_ITEM(3602), 
+/*  328 */   ROLE_USE_VIGOR_ITEM_REM(3603), 
+/*  329 */   ROLE_ADD_BORN_EQUIPMENT_ADD(3604), 
+/*  330 */   ROLE_RENAME_REM(3605), 
+/*  331 */   ROLE_RESET_PROP_REM(3606), 
+/*  332 */   ROLE_VIGOR_WORK_ADD(3607), 
+/*  333 */   ROLE_ADDBAOSHIDU_SILVER_REM(3608), 
+/*  334 */   ROLE_SWITCH_PROP_SYS_REM(3609), 
+/*      */   
+/*  336 */   ROLE_OFFLINE_EXP_ADD(3611), 
+/*  337 */   SILVER_CUT__TEAM_MATCH_MEMBER_ACTIVE_LEAVE(3612), 
+/*  338 */   SILVER_CUT__TEAM_LEADER_FIRE_MATCH_MEMBER(3613), 
+/*  339 */   ROLE_CHECK_FIX_AWARD(3614), 
+/*  340 */   ROLE_GM_EXP_RELEASE(3615), 
+/*  341 */   ROLE_GM_EXP_ADD_RELEASE(3616), 
+/*  342 */   ROLE_ACTIVIEY_FINISH_RELEASE_EXP(3617), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  347 */   SHANGHUI_BUY_ADD(3700), 
+/*  348 */   SHANGHUI_SELL_REM(3701), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  352 */   XIULIAN_MENPAI_SKILL_LEVELUP(3800), 
+/*  353 */   XIULIAN_XIULIAN_SKILL_LEVELUP(3801), 
+/*  354 */   XIULIAN_LIFE_SKILL_LEVELUP(3802), 
+/*      */   
+/*  356 */   XIULIAN_SKILL_USE_ITEM_REM(3803), 
+/*  357 */   XIULIAN_SKILL_STUDY_REM(3804), 
+/*  358 */   XIULIAN_SKILL_STUDY_GM_ADD(3805), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  362 */   PAOHUAN_AWARD_ADD(3900), 
+/*  363 */   PAOHUAN_LEGEND_DROP_ADD(3901), 
+/*  364 */   PAOHUAN_START_SILVER_REM(3902), 
+/*  365 */   PAOHUAN_AWARD_MONEY_ADD(3903), 
+/*  366 */   PAOHUAN_RENXING_YUANBAO_REM(3904), 
+/*      */   
+/*  368 */   CIRCLE_AWARD_CHIVALRY(3905), 
+/*  369 */   CIRCLE_AWARD_BANGGONG(3906), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  373 */   AWARD_GM_FIX_ADD(4001), 
+/*  374 */   AWARD_GM_NORMAL_ADD(4002), 
+/*  375 */   AWARD_STORAGE_EXP_TIP_MAIL(4003), 
+/*  376 */   AWARD_OFFLINE_EXP_TIP_MAIL(4004), 
+/*  377 */   AWARD_LOST_STORAGE_EXP(4005), 
+/*  378 */   AWARD_EMAIL_LOST_STORAGE_EXP(4006), 
+/*  379 */   AWARD_EMAIL_TIP_LOST_STORAGE_EXP(4007), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  383 */   FABAO_COMPLEX_COST(4100), 
+/*  384 */   FABAO_COMPLEX_REM(4101), 
+/*  385 */   FABAO_COMPLEX_ADD(4105), 
+/*  386 */   FABAO_WASH_REM(4110), 
+/*  387 */   FABAO_ADDEXP_REM(4115), 
+/*  388 */   FABAO_UPRANK_REM(4120), 
+/*  389 */   FABAO_UPRANK_COST(4121), 
+/*  390 */   FABAO_ADD_UPRANK_EXP_REM(4122), 
+/*  391 */   FABAO_AUTO_UPRANK(4123), 
+/*  392 */   FABAO_MOUNT_REM(4125), 
+/*  393 */   FABAO_UNMOUNT_ADD(4130), 
+/*  394 */   FABAO_DECOMPLEX_ADD(4135), 
+/*  395 */   FABAO_LONGJING_ADD(4140), 
+/*  396 */   FABAO_LONGJING_REM(4145), 
+/*  397 */   FABAO_LONGJING_UP_LEVEL_REM(4146), 
+/*  398 */   FABAO_LONGJING_TRANSFER_PROPERTY(4147), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  402 */   JIU_XIAO_FIX_AWARD(4200), 
+/*  403 */   JIU_XIAO_BOSS_AWARD(4201), 
+/*  404 */   JIU_XIAO_FIGHT_BOSS_AWARD(4202), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  409 */   GANG_GET_FENGLU_ADD(4302), 
+/*      */   
+/*  411 */   GANG_LIHE_ADD(4305), 
+/*  412 */   GANG_LEVEL_UP_DONATE_SILVER_REM(4306), 
+/*  413 */   GANG_CREATE_YUANBAO_REM(4307), 
+/*  414 */   GANG_DESIGN_DUTY_YUANBAO_REM(4308), 
+/*  415 */   GANG_RENAME_YUANBAO_REM(4309), 
+/*  416 */   GANG_REDEEM_BANGGONG_SILVER_REM(4310), 
+/*  417 */   GANG_BUY_YAOCAI_SILVER_REM(4311), 
+/*  418 */   GANG_FENGLU_SILVER_ADD(4312), 
+/*  419 */   GANG_BANGGONG_SILVER_ADD(4313), 
+/*  420 */   GANG_BUILDING_LEVELUP_SILVER_DONATE_REM(4314), 
+/*  421 */   GANG_BUY_YAOCAI_REM(4315), 
+/*  422 */   GANG_GET_MIFANG_REM(4316), 
+/*  423 */   GANG_LIFE_SKILL_LEVELUP_REM(4317), 
+/*  424 */   GANG_FORIBD_TALK_REM(4318), 
+/*  425 */   GANG_KICK_MEMBER_REM(4319), 
+/*  426 */   GANG_PUB_ANNOUNCE_REM(4320), 
+/*  427 */   GANG_USE_MIFANG(4321), 
+/*  428 */   GANG_SIGN_AWARD(4322), 
+/*  429 */   GANG_PAY(4323), 
+/*  430 */   GANG_JOIN_GANG_CHANGE_BANGGONG(4324), 
+/*  431 */   GANG_CREAT_GANG_CHANGE_BANGGONG(4325), 
+/*  432 */   GANG_PAY_MANAGER(4326), 
+/*      */   
+/*  434 */   GANG_COMBINE_APPLY_MAIL(4330), 
+/*  435 */   GANG_COMBINE_CANCEL_MAIL(4331), 
+/*  436 */   GANG_COMBINE_FAIL_BY_DISSOLVE_MAIL(4332), 
+/*  437 */   GANG_COMBINE_FAIL_MAIL(4333), 
+/*  438 */   GANG_COMBINE_SUCCEED_MAIL(4334), 
+/*  439 */   GANG_COMBINE_REFUSE_MAIL(4335), 
+/*  440 */   GANG_COMBINE_KICK_MAIL(4336), 
+/*  441 */   GANG_COMBINE_CAN_MAIL(4337), 
+/*  442 */   GANG_COMBINE_AGREE_MAIL(4338), 
+/*      */   
+/*  444 */   GANG_DUTY_CHANGE_MAIL(4356), 
+/*  445 */   GANG_XUETU_CHANGETO_BANGZHONG_MAIL(4357), 
+/*  446 */   GANG_DUTY_CHANGETO_BANGZHU_MAIL(4358), 
+/*  447 */   GANG_MAILTO_OLD_BANGZHU_MAIL(4359), 
+/*  448 */   GANG_KICKOUTGANG_MAIL(4360), 
+/*  449 */   GANG_ADDTO_GANG_MAIL(4361), 
+/*  450 */   GANG_TANHEED_BANGZHU_MAIL(4362), 
+/*  451 */   GANG_TANHE_AUTO_BANGZHU_MAIL(4363), 
+/*  452 */   GANG_CHANGE_BANGZHU_MAIL(4364), 
+/*  453 */   GANG_MAINTIAN_DISSOLVE_MAIL(4365), 
+/*  454 */   GANG_MAINTIAN_LEVELDOWN_MAIL(4366), 
+/*  455 */   GANG_MAINTIAN_NEXTTIME_MAIL(4367), 
+/*  456 */   GANG_DISSOLVE_MAIL(4368), 
+/*  457 */   GANG_TANHE_SUCCESS_MAIL(4369), 
+/*      */   
+/*  459 */   GANG_TEAM_JOIN_TO_OTHERS_MAIL(4380), 
+/*  460 */   GANG_TEAM_JOIN_TO_SELF_MAIL(4381), 
+/*  461 */   GANG_TEAM_LEADER_CHANGE_MAIL(4382), 
+/*  462 */   GANG_TEAM_LEADER_CHANGE_BY_LEAVE_MAIL(4383), 
+/*  463 */   GANG_TEAM_LEAVE_MAIL(4384), 
+/*  464 */   GANG_TEAM_KICKED_MAIL(4385), 
+/*  465 */   GANG_TEAM_LEAVE_BY_LEAVE_GANG_MAIL(4386), 
+/*      */   
+/*  467 */   GANG_BANG_GONG_YUAN_BAO_CHANG_COST(4387), 
+/*  468 */   GANG_BANG_GONG_YUAN_BAO_CHANG(4388), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  473 */   MENPAI_PVP_PREPARE_AWARD(4400, MenpaiPVPItemHandler.getInstance()), 
+/*  474 */   MENPAI_PVP_TOPN_AWARD(4401, MenpaiPVPItemHandler.getInstance()), 
+/*  475 */   MENPAI_PVP_WIN_AWARD(4402, MenpaiPVPItemHandler.getInstance()), 
+/*  476 */   MENPAI_PVP_LOSE_AWARD(4403, MenpaiPVPItemHandler.getInstance()), 
+/*  477 */   MENPAI_PVP_FIGHT_TIMES_AWARD(4404, MenpaiPVPItemHandler.getInstance()), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  481 */   EVERY_DAY_TARGET_AWARD__HUN__FINISH(4500), 
+/*  482 */   EVERY_DAY_TARGET_AWARD__HUSONG__FINISH(4501), 
+/*  483 */   EVERY_DAY_TARGET_AWARD__ZHENYAO__KILL_MONSTER(4502), 
+/*  484 */   EVERY_DAY_TARGET_AWARD__JINGJICHANG__WIN(4503), 
+/*  485 */   EVERY_DAY_TARGET_AWARD__CANGBAOTU__USE(4504), 
+/*  486 */   EVERY_DAY_TARGET_AWARD__HEILONG__WIN(4505), 
+/*  487 */   EVERY_DAY_TARGET_AWARD__DATI__RIGHT(4506), 
+/*  488 */   EVERY_DAY_TARGET_AWARD__LUANSHIYAOMO__WIN(4507), 
+/*  489 */   EVERY_DAY_TARGET_AWARD__CHAT__GANG(4508), 
+/*  490 */   EVERY_DAY_TARGET_AWARD__CHAT__PRIVATE(4509), 
+/*  491 */   EVERY_DAY_TARGET_AWARD__TEAM__CREATE(4510), 
+/*  492 */   EVERY_DAY_TARGET_AWARD__BANGPAIQIANGDAO__FINISH(4511), 
+/*  493 */   EVERY_DAY_TARGET_AWARD__SHIMEN__FINISH(4512), 
+/*      */   
+/*  495 */   EVERY_DAY_TARGET_FLUSH_COST(4600), 
+/*  496 */   EVERY_DAY_TARGET_CHECK_AWARD(4601), 
+/*  497 */   EVERY_DAY_TARGET_AWARD(4999), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  502 */   ARENA_WIN_TIMES_AWARD(5000, ArenaItemHandler.getInstance()), 
+/*  503 */   ARENA_PREPARE_AWARD(5001, ArenaItemHandler.getInstance()), 
+/*  504 */   ARENA_FIGHT_WIN_AWARD(5002, ArenaItemHandler.getInstance()), 
+/*  505 */   ARENA_FIGHT_LOSE_AWARD(5003, ArenaItemHandler.getInstance()), 
+/*  506 */   ARENA_TOP_AWARD(5004, ArenaItemHandler.getInstance()), 
+/*  507 */   ARENA_WINNER_CAMP_AWARD(5005, ArenaItemHandler.getInstance()), 
+/*  508 */   ARENA_EARLY_END(5006, ArenaItemHandler.getInstance()), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  512 */   ROLEDYE_ADD_REM(5100), 
+/*  513 */   FASHION_DRESS_ROLEDYE_ADD_REM(5101), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  517 */   COMPETITION_FIGHT_WIN_AWARD(5200, CompetitionItemHandler.getInstance()), 
+/*  518 */   COMPETITION_FIGHT_LOSE_AWARD(5201, CompetitionItemHandler.getInstance()), 
+/*  519 */   COMPETITION_WIN_STREAK_AWARD(5202, CompetitionItemHandler.getInstance()), 
+/*  520 */   COMPETITION_LEAVE_AWARD(5203, CompetitionItemHandler.getInstance()), 
+/*  521 */   COMPETITION_PREPARE_AWARD(5204, CompetitionItemHandler.getInstance()), 
+/*  522 */   COMPETITION_AGAINST_MAIL(5205), 
+/*  523 */   COMPETITION_MERCENARY_AWAARD(5206), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  527 */   LEVEL_GUIDE_AWARD(5300), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  531 */   SWORN_CHANG_TITLE(6300), 
+/*  532 */   SWORN_CREATE_SWORN(6301), 
+/*  533 */   SWORN_KICKOUT_MEMBER(6302), 
+/*  534 */   SWORN_CHANG_NAME(6303), 
+/*  535 */   SWORN_MAIL_NEW_MEMBER_VOTE(6304), 
+/*  536 */   SWORN_MAIL_CHANG_NAME_VOTE(6305), 
+/*  537 */   SWORN_MAIL_KICKOUT(6306), 
+/*  538 */   SWORN_MAIL_KICKOUT_FAILED(6307), 
+/*  539 */   SWORN_MAIL_KICKOUT_VOTE(6308), 
+/*  540 */   SWORN_MAIL_CHANG_NAME_VOTE_F(6309), 
+/*  541 */   SWORN_MAIL_EXIT_SUCCESS(6310), 
+/*  542 */   SWORN_MAIL_NEW_MEMBER_VOTE_F(6311), 
+/*  543 */   SWORN_MAIL_NEW_MEMBER(6312), 
+/*  544 */   SWORN_MAIL_CHANG_NAME_VOTE_S(6313), 
+/*  545 */   SWORN_MAIL_KICKOUT_SUCCESS(6314), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  550 */   MENPAI_SKILL_LEVEL_UP_REM(6400), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  555 */   HU_SONG_AWARD(6500), 
+/*  556 */   HUSONG_ACTIVITY_REM(6501), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  560 */   MAIL_ADD(6600), 
+/*  561 */   MAIL_REPORT_FEEDBACK_RELATED(6601), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*  567 */   VIGOR_ADD__HUANHUN(6700), 
+/*  568 */   VIGOR_ADD__HUSONG(6701), 
+/*  569 */   VIGOR_ADD__JINGJI(6702), 
+/*  570 */   VIGOR_ADD__GANGROBBER(6703), 
+/*  571 */   VIGOR_ADD__LUAN_SHI_YAO_MO(6704), 
+/*  572 */   VIGOR_ADD__SHIMEN(6705), 
+/*  573 */   VIGOR_ADD__ZHUXIANQIYUAN(6706), 
+/*  574 */   VIGOR_ADD__SINGLE_INSTANCE(6707), 
+/*  575 */   VIGOR_ADD__WABAO(6708), 
+/*  576 */   VIGOR_ADD__ZHENYAO(6709), 
+/*  577 */   VIGOR_ADD__MULTI_INSTANCE(6710), 
+/*      */   
+/*      */ 
+/*  580 */   VIGOR_CUT__DAGONG(6850), 
+/*  581 */   VIGOR_CUT__CHAT(6851), 
+/*  582 */   VIGOR_CUT__WUQIFUMO(6852), 
+/*  583 */   VIGOR_CUT__COOK(6853), 
+/*  584 */   VIGOR_CUT__LIANYAO(6854), 
+/*  585 */   VIGOR_CUT__TEAM_MATCH_MEMBER_ACTIVE_LEAVE(6855), 
+/*  586 */   VIGOR_CUT__TEAM_LEADER_FIRE_MATCH_MEMBER(6856), 
+/*  587 */   VIGOR_CUT__REPORT_ROLE(6857), 
+/*  588 */   VIGOR_CUT__TEAM_MATCH_BRO(6858), 
+/*  589 */   VIGOR_CUT__LIFE_SKILL_ACTIVITY(6859), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  593 */   IDIP_ADD(7000), 
+/*  594 */   IDIP_REM(7001), 
+/*  595 */   IDIP_COMPENSATE(7002), 
+/*  596 */   AQIDIP_ADD(7003), 
+/*  597 */   AQIDIP_REM(7004), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  602 */   ACTIVE_AWARD_ITEM(7500), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  607 */   FUNCTION_OPEN_AWARD(7600), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  612 */   MARRAIGE_REQ_COST(7700), 
+/*  613 */   MARRAIGE_SUC_ADD(7701), 
+/*  614 */   DIVORCE_COST(7702), 
+/*  615 */   FORCE_DIVORCE_COST(7703), 
+/*  616 */   FORCE_DIVORCE_CANCEL_ADD(7704), 
+/*  617 */   MARRIAGE_CHANGE_TITLE_COST(7705), 
+/*  618 */   MARRIAGE_SEND_GIFT_COST(7706), 
+/*  619 */   MARRIAGE_GET_GIFT_ADD(7707), 
+/*  620 */   MARRIAGE_NEW_ADD(7708), 
+/*  621 */   MARRIAGE_PARADE_COST(7709), 
+/*  622 */   MARRIAGE_PARADE_PATH_POINT_AWARD(7710), 
+/*  623 */   MARRIAGE_PARADE_ROB_AWARD(7711), 
+/*  624 */   MARRIAGE_PARADE_ROB_PROCTE_WIN_AWARD(7712), 
+/*  625 */   MARRIAGE_PARADE_ROB_PROCTE_FAIL_AWARD(7713), 
+/*  626 */   MARRIAGE_FORCE_DIVORCE_NOTIFY(7714), 
+/*  627 */   MARRIAGE_FORCE_DIVORCE_EFFECT(7715), 
+/*  628 */   MARRIAGE_FORCE_CANCEL_DIVORCE(7716), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  633 */   FESTIVAL_AWARD_ADD(7800), 
+/*  634 */   FESTIVAL_NOTIFY_MAIL(7801), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  639 */   RECHARGE_ADD(7900), 
+/*  640 */   FIRST_RECHARGE_AWARD_ADD(7901), 
+/*  641 */   SAVE_AMT_ACTIVITY_AWARD_ADD(7902), 
+/*  642 */   LEVEL_GROWTH_FUND_ACTIVITY_AWARD_ADD(7903), 
+/*  643 */   MONTH_CARD_ACTIVITY_AWARD_ADD(7904), 
+/*  644 */   MONTH_CARD_ACTIVITY_DAILY_AWARD_ADD(7905), 
+/*  645 */   ACCUM_TOTAL_COST_ACTIVITY_AWARD_ADD(7906), 
+/*  646 */   TIME_LIMIT_GIFT_ACTIVITY_AWARD_ADD(7907), 
+/*  647 */   RMB_GFIT_ACTIVITY_AWARD_ADD(7908), 
+/*  648 */   DAILY_GIFT_AWARD_ADD(7909), 
+/*  649 */   MONTH_CARD_ACTIVITY_FIX_BUG_AWARD(7910), 
+/*  650 */   DIRECTLY_BUY_ITEMS_AWARD(7911), 
+/*  651 */   TIME_LIMIT_GIFT_ACTIVITY_GIFT_TO_FRIEND(7912), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  656 */   QING_AWARD_ADD(8000), 
+/*  657 */   QING_HELP_AWARD_ADD(8001), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  662 */   GANG_TASK_AWARD_ADD(8100), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  667 */   SUMMER_SINGLE_TASK_AWARD_ADD(8200), 
+/*  668 */   SUMMER_MULTI_TASK_AWARD_ADD(8201), 
+/*  669 */   SUMMER_SINGLE_TASK_STORAGE_EXP_CAL(8202), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  674 */   WORLD_QUESTION_FRIST_AWARD_ADD(8300), 
+/*  675 */   WORLD_QUESTION_NORMAL_AWARD_ADD(8301), 
+/*  676 */   WORLD_QUESTION_RANDOM_AWARD_ADD(8302), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  680 */   MARKET_BUY(8400), 
+/*  681 */   MARKET_XIAJIA(8401), 
+/*  682 */   MARKET_SHANGJIA(8402), 
+/*  683 */   MARKET_RE_SHANGJIA(8403), 
+/*  684 */   MARKET_SELL(8404), 
+/*  685 */   MARKET_AUCTION(8405), 
+/*  686 */   MARKET_AUCTION_PRICE_BE_PASSED(8406), 
+/*  687 */   MARKET_AUCTION_PUBLIC_END_TIP_MAIL(8407), 
+/*  688 */   MARKET_CUSTOMIZED(8408), 
+/*  689 */   MARKET_AUCTION_SUCCESS_MAIL(8409), 
+/*  690 */   MARKET_AUCTION_OFFSHELF_MAIL(8410), 
+/*  691 */   MARKET_AUCTION_GOODS_OFFSHELF(8411), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  696 */   REDGIFT_AWARD_ADD(8500), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  700 */   GRC_RECEIVE_GIFT_AWARD_ADD(8600), 
+/*  701 */   GRC_RECEIVE_ALL_GIFT_AWARD_ADD(8601), 
+/*  702 */   GRC_FRIENDS_COUNT_AWARD_ADD(8602), 
+/*  703 */   GRC_LOGIN_PRIVILEGE_AWARD_ADD(8603), 
+/*  704 */   GRC_PRIVILEGE_SIGN_EXTRA_AWARD_ADD(8604), 
+/*  705 */   GRC_QQ_VIP_PRIVILEGE_FRESHMEN_AWARD_ADD(8605), 
+/*  706 */   GRC_QQ_VIP_PRIVILEGE_PAY_AWARD_ADD(8606), 
+/*  707 */   GRC_INVITEE_FRESHMAN_AWARD_ADD(8607), 
+/*  708 */   GRC_INVITER_REBATE_BIND_YUANBAO_AWARD_ADD(8608), 
+/*  709 */   GRC_INVITER_GIFT_AWARD_ADD(8609), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  713 */   CHU_SHI_APPRENTICE_AWARD(8700), 
+/*  714 */   CHU_SHI_MASTER_AWARD(8701), 
+/*  715 */   RELIEVE_SHI_TU_RELATION(8702), 
+/*  716 */   SHI_TU_APPELLATION_AWARD(8703), 
+/*  717 */   SHI_TU_PAY_RESPECT_AWARD(8704), 
+/*  718 */   APPRENTICE_FORCE_RELIEVE_RELATION(8705), 
+/*  719 */   MASTER_FORCE_RELIEVE_RELATION(8706), 
+/*  720 */   SHI_TU_TASK_APPRENTICE_AWARD(8707), 
+/*  721 */   SHI_TU_TASK_MASTER_AWARD(8708), 
+/*  722 */   SHI_TU_TASK_MASTER_MAIL_AWARD(8709), 
+/*  723 */   SHI_TU_TASK_AWARD_MODEL_MAIl_AWARD(8710), 
+/*  724 */   SHI_TU_ACTIVE_MASTER_AWARD(8711), 
+/*  725 */   SHI_TU_ACTIVE_APPRENTICE_AWARD(8712), 
+/*  726 */   SHI_TU_ACTIVE_APPRENTICE_MAIL_AWARD(8713), 
+/*  727 */   SHI_TU_ACTIVE_AWARD_MODEL_MAIl_AWARD(8714), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  731 */   QMHW_JOIN_COUNT_AWARD(8800, QMHWItemHandler.getInstance()), 
+/*  732 */   QMHW_WIN_COUNT_AWARD(8801, QMHWItemHandler.getInstance()), 
+/*  733 */   QMHW_MATCH_WIN_AWARD(8802, QMHWItemHandler.getInstance()), 
+/*  734 */   QMHW_MATCH_LOSE_AWARD(8803, QMHWItemHandler.getInstance()), 
+/*  735 */   QMHW_RANK_MAIL_AWARD(8804), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  739 */   GANGRACE_VOTE(8900), 
+/*  740 */   GANGRACE_AWARD_WIN(8901), 
+/*  741 */   GANGRACE_AWARD_FAIL(8902), 
+/*  742 */   GANGRACE_AWARD_EXP(8903), 
+/*  743 */   GANGRACE_AWARD_WINNER(8904), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  747 */   XIN_YOU_LING_XI_AWARD(9000), 
+/*  748 */   COUPLE_DAILY_FIGHT_AWARD(9001), 
+/*  749 */   COUPLE_DAILY_PINTU_AWARD(9002), 
+/*  750 */   COUPLE_DAILY_FINAL_AWARD(9003), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  754 */   COMPLETE_CLIENT_AWARD(9100), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  758 */   FSHION_DRESS_COST_ITEM(9200), 
+/*  759 */   FSHION_DRESS_EXTEND_COST_ITEM(9201), 
+/*  760 */   FSHION_DRESS_EXPIRED(9202), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  764 */   YI_XIAN_MI_BAO_COST_YUAN_BAO(9300), 
+/*  765 */   YI_XIAN_MI_BAO_COST_SILVER(9301), 
+/*  766 */   YI_XIAN_MI_BAO_COST_GOLD(9302), 
+/*  767 */   YI_XIAN_MI_BAO_COST_BANG_GONG(9303), 
+/*  768 */   YI_XIAN_MI_BAO_COST_JIN_DING(9304), 
+/*  769 */   YI_XIAN_MI_BAO_COST_SHI_MEN_VALUE(9305), 
+/*  770 */   YI_XIAN_MI_BAO_COST_JING_JI_VALUE(9306), 
+/*  771 */   YI_XIAN_MI_BAO_COST_REPUTATION_VALUE(9307), 
+/*  772 */   YI_XIAN_MI_BAO_COST_XIA_YI_VALUE(9308), 
+/*  773 */   YI_XIAN_MI_BAO_COST_VIGOR(9309), 
+/*  774 */   YI_XIAN_MI_BAO_ADD_BUY_ITEM(9310), 
+/*  775 */   YI_XIAN_MI_BAO_ADD_RANDOM_ITEM(9311), 
+/*  776 */   YI_XIAN_MI_BAO_ADD_EXCHANGE_SCORE_AWARD(9312), 
+/*  777 */   YI_XIAN_MI_BAO_ADD_EXCHANGE_SCORE_WHEN_ACTIVITY_END_AWARD(9313), 
+/*  778 */   YI_XIAN_MI_BAO_COST_EXCHANGE(9314), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  783 */   ONLINE_TREASURE_AWARD_ADD_EXP(9400), 
+/*  784 */   ONLINE_TREASURE_AWARD_ADD_BOX(9401), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  789 */   ACHIEVEMENT_GET_GOAL_AWARD(9500), 
+/*  790 */   ACHIEVEMENT_GET_SCORE_AWARD(9501), 
+/*  791 */   ACHIEVEMENT_GOAL_MAIl_AWARD(9502), 
+/*  792 */   ACHIEVEMENT_GOAL_AWARD_MODEL_MAIl_AWARD(9503), 
+/*  793 */   ACHIEVEMENT_ACTIVITY_JOIN(9504), 
+/*  794 */   ACHIEVEMENT_MAIL_AWARD(9505), 
+/*  795 */   ACHIEVEMENT_MAIL_AUTO_AWARD(9506), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  800 */   EXCHANGE_NEED_ITEM_REM(9600), 
+/*  801 */   EXCHANGE_AWARD(9601), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  806 */   BACK_GAME_SCORE_AWARD(9700), 
+/*  807 */   BACK_GAME_BUY_GIFT_COST_YUAN_BAO(9701), 
+/*  808 */   BACK_GAME_BUY_GIFT_COST_GOLD(9702), 
+/*  809 */   BACK_GAME_BUY_GIFT_COST_SILVER(9703), 
+/*  810 */   BACK_GAME_BUY_GIFT_COST_GANG_CONTRIBUTION(9704), 
+/*  811 */   BACK_GAME_BUY_GIFT_COST_JIN_DING(9705), 
+/*  812 */   BACK_GAME_BUY_GIFT_AWARD(9706), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  817 */   SINGLE_TASK_AWARD(9800), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  822 */   LEVEL_UP_NOTIFY_MAIL(9900), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  827 */   CHART_AWARD(10000), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  831 */   QING_YUAN_RELIEVE_RELATION(10100), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  836 */   LOGIN_AWARD_LOGIN_DAY(10200), 
+/*  837 */   LOGIN_AWARD_LOGIN_SUM(10201), 
+/*  838 */   LOGIN_AWARD_LOGIN_SIGN(10202), 
+/*  839 */   LOGIN_AWARD_BEGINNER_LOGIN_SIGN(10203), 
+/*      */   
+/*      */ 
+/*      */ 
+/*  843 */   MOUNTS_UN_LOCK_COST_ITEM(10300), 
+/*  844 */   MOUNTS_REFRESH_COST_ITEM(10301), 
+/*  845 */   MOUNTS_DYE_COST_ITEM(10302), 
+/*  846 */   MOUNTS_EXPIRED(10303), 
+/*  847 */   MOUNTS_STAR_LIFE_UP_COST_ITEM(10304), 
+/*  848 */   MOUNTS_RANK_UP_COMPENSATE_ITEM(10305), 
+/*  849 */   MOUNTS_EXTEND_TIME_COST_ITEM(10306), 
+/*  850 */   MOUNTS_RANK_UP_COST_ITEM(10307), 
+/*  851 */   MOUNTS_ADD_SCORE_COST_ITEM(10308), 
+/*  852 */   MOUNTS_EXPAND_PROTECT_PET_SIZE_COST_ITEM(10309), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  857 */   CREATE_HOME(10500), 
+/*  858 */   PET_ROOM_LEVEl_UP(10501), 
+/*  859 */   BED_ROOM_LEVEl_UP(10502), 
+/*  860 */   DRUG_ROOM_LEVEl_UP(10503), 
+/*  861 */   KITCHEN_LEVEl_UP(10504), 
+/*  862 */   MAID_ROOM_LEVEl_UP(10505), 
+/*  863 */   HOME_LEVEl_UP(10506), 
+/*  864 */   HOME_ADD_VIGOR(10507), 
+/*  865 */   HOME_CLEAN(10508), 
+/*  866 */   INVITE_MAID(10509), 
+/*  867 */   USE_FURNITURE_ITEM(10510), 
+/*  868 */   SELL_FURNITURE_ITEM(10511), 
+/*  869 */   BUY_FURNITURE_ITEM(10512), 
+/*  870 */   FRAESH_FURNITURE(10513), 
+/*  871 */   COURT_YARD_LEVEl_UP(10514), 
+/*  872 */   COURT_YARD_CLEAN(10515), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  877 */   READ_STORY(10600), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  882 */   MASSWEDDING_SIGN_UP(10700), 
+/*  883 */   MASSWEDDING_SIGN_UP_RETURN(10701), 
+/*  884 */   MASSWEDDING_RAIN_AWARD(10702), 
+/*  885 */   MASSWEDDING_BLESS_AWARD(10703), 
+/*  886 */   MASSWEDDING_ROB_PLAYER_AWARD(10704), 
+/*  887 */   MASSWEDDING_ROB_COUPE_AWARD(10705), 
+/*  888 */   MASSWEDDING_RED_GIFT_AWARD(10706), 
+/*  889 */   MASSWEDDING_LUCKEY_ONE_AWARD(10707), 
+/*  890 */   MASSWEDDING_RE_SIGN_UP(10708), 
+/*  891 */   MASSWEDDING_SIGN_UP_END_FAIL_RETURN(10709), 
+/*  892 */   MASSWEDDING_SIGN_UP_COUPLE_NOT_ENOUGH_RETURN(10710), 
+/*  893 */   MASSWEDDING_SIGN_UP_SERVER_REASON_RETURN(10711), 
+/*  894 */   MASSWEDDING_SIGN_UP_LEAVE_SCENE_RETURN(10712), 
+/*  895 */   MASSWEDDING_AWARD(10713), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  900 */   CAT_CHANGE_PARTNER(10800), 
+/*  901 */   FEED_CAT(10801), 
+/*  902 */   CAT_EXPLORE_AWARD(10802), 
+/*  903 */   SEND_MAIL_ON_EXPLORE_END(10803), 
+/*  904 */   SEND_MAIL_ON_VIGOR_MAX(10804), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  909 */   CHATGIFT_SEND_COST(10900), 
+/*  910 */   CHATGIFT_AUTOBACK_ADD(10901), 
+/*  911 */   CHATGIFT_GET_ADD(10902), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  916 */   WORLD_GOAL_COMMIT_ITEM_REMOVE(11000), 
+/*  917 */   WORLD_GOAL_COMMIT_ITEM_AWARD(11001), 
+/*  918 */   WORLD_GOAL_SECTION_COMPLETE_AWARD(11002), 
+/*  919 */   WORLD_GOAL_ACTIVITY_COMPLETE_AWARD(11003), 
+/*  920 */   WORLD_GOAL_ACTIVITY_EXTRA_AWARD(11004), 
+/*  921 */   WORLD_GOAL_COMMIT_ITEM_SUM_AWARD(11005), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  926 */   COUNT_DOWN_RED_PACKET_AWARD(11100), 
+/*  927 */   COUNT_DOWN_REMIND_MAIL(11101), 
+/*  928 */   COUNT_DOWN_THANK_MAIL(11102), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  933 */   MULTI_OCCUP_ACTIVE(11200), 
+/*  934 */   MULTI_OCCUP_SWITCH(11201), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  939 */   LADDER_MATCH_FIGHT_END(11300), 
+/*  940 */   LADDER_MATCH_DAY_FIGHT_WIN_COUNT(11301), 
+/*  941 */   LADDER_MATCH_STAGE_AWARD(11302), 
+/*  942 */   LADDER_MATCH_WEEK_FIGHT_COUNT(11303), 
+/*  943 */   LADDER_MATCH_FIGHT_GET_FIGHT_SCORE(11304), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  948 */   OPEN_BRASS_LUKCY_BAG(11400), 
+/*  949 */   OPEN_JADE_LUKCY_BAG(11401), 
+/*  950 */   LUKCY_BAG_EXCHANGE_SCORE(11402), 
+/*  951 */   LUKCY_BAG_OPEN_JADE_BOX(11403), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  956 */   RECALL_FRIEND_NUM_AWARD(11500), 
+/*  957 */   RECALL_FRIEND_BIG_GIFT_AWARD(11501), 
+/*  958 */   RECALL_FRIEND_SIGN_AWARD(11502), 
+/*  959 */   RECALL_FRIEND_NOTIFY_MAIL(11503), 
+/*  960 */   RECALL_FRIEND_BIG_GIFT_COMPENSATE_MAIL(11504), 
+/*  961 */   RECALL_FRIEND_AWARD(11505), 
+/*  962 */   RECALL_FRIEND_BIND_MAIL(11506), 
+/*  963 */   RECALL_FRIEND_VITALITY_AWARD(11507), 
+/*  964 */   RECALL_FRIEND_BACK_REBATE(11508), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  969 */   LUCKY_STAR_COST_YUAN_BAO(11600), 
+/*  970 */   LUCKY_STAR_COST_GOLD(11601), 
+/*  971 */   LUCKY_STAR_COST_SILVER(11602), 
+/*  972 */   LUCKY_STAR_COST_JIN_DING(11603), 
+/*  973 */   LUCKY_STAR_COST_BANG_GONG(11604), 
+/*  974 */   LUCKY_STAR_AWARD(11605), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  979 */   MASS_EXP_RETURN_COST(11700), 
+/*  980 */   MASS_EXP_FILL_GRID(11701), 
+/*  981 */   MASS_EXP_GET_AWARD(11702), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  986 */   PAY_NEW_YEAR_AWARD(11800), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  991 */   VISIBLE_MONSTER_AWARD(11900), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*  996 */   MUSIC_GAME_RIGHT_AWARD(12000), 
+/*  997 */   MUSIC_GAME_WRONG_AWARD(12001), 
+/*  998 */   MUSIC_GAME_RIGHT_SUM_AWARD(12002), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1003 */   MAGIC_MARK_EXTEND_COST(12100), 
+/* 1004 */   MAGIC_MARK_UNLOCK_COST(12101), 
+/* 1005 */   MAGIC_MARK_OUT_OF_DATE_MAIL(12102), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1010 */   CHILDREN_PREGNANT_CUT_VIGOR(12200), 
+/* 1011 */   CHILDREN_CHANGE_NAME_CUT_GOLD(12201), 
+/* 1012 */   CHILDREN_FREE_NOTIFY_MAIL(12202), 
+/* 1013 */   CHILDREN_ABORTION_NOTIFY_MAIL(12203), 
+/* 1014 */   CHILDREN_GIVE_UP_PREGNANT_NOTIFY_MAIL(12204), 
+/* 1015 */   CHILDREN_BABY_BREED_COST_YUAN_BAO(12205), 
+/* 1016 */   CHILDREN_BABY_BREED_COST_GOLD(12206), 
+/* 1017 */   CHILDREN_BABY_BREED_COST_SILVER(12207), 
+/* 1018 */   CHILDREN_BABY_BREED_COST_JIN_DING(12208), 
+/* 1019 */   CHILDREN_BABY_BREED_COST_VIGOR(12209), 
+/* 1020 */   CHILDREN_ADULT_ADD_APT_COST(12250), 
+/* 1021 */   CHILDREN_ADULT_ADD_GROW_COST(12251), 
+/* 1022 */   CHILDREN_ADULT_LEVEL_UP_OCCUPATION_SKILL(12252), 
+/* 1023 */   CHILDREN_ADULT_STUDY_COMMON_SKILL(12253), 
+/* 1024 */   CHILDREN_ADULT_STUDY_SPECIAL_SKILL(12254), 
+/* 1025 */   CHILDREN_ADULT_UNLOCK_SKILL_POS(12255), 
+/* 1026 */   CHILDREN_ADULT_RESET_AOTU_SET_COST(12256), 
+/* 1027 */   CHILDREN_ADULT_ADD_CHARACTER_COST(12257), 
+/* 1028 */   CHILDREN_ADULT_CHANGE_OCCUPATION_COST(12258), 
+/* 1029 */   CHILDREN_ADULT_EQUIP_COST(12259), 
+/* 1030 */   CHILDREN_ADULT_EQUIP_RANDOM_PROP_COST(12260), 
+/* 1031 */   CHILDREN_ADULT_EQUIP_LEVEL_UP_COST(12261), 
+/* 1032 */   CHILDREN_ADULT_EQUIP_STAGE_UP_COST(12262), 
+/* 1033 */   CHILDREN_ADULT_EQUIP_REFRESH_AMULET_COST(12263), 
+/* 1034 */   CHILDREN_FASHION_RENEWAL(12264), 
+/* 1035 */   CHILDREN_AUTO_BREED(12265), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1040 */   BUBBLE_GAME_RIGHT_AWARD(12300), 
+/* 1041 */   BUBBLE_GAME_WRONG_AWARD(12301), 
+/* 1042 */   BUBBLE_GAME_RIGHT_SUM_AWARD(12302), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1048 */   GIVE_GIFT_COST(12400), 
+/* 1049 */   RECEIVE_GIFT_ADD(12401), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1054 */   CHILDHOOD_CHOOSE_INTEREST(12500), 
+/* 1055 */   CHILDHOOD_LEARN_COURSE(12501), 
+/* 1056 */   CHILDHOOD_FINISH_COURSE(12502), 
+/* 1057 */   CHILDHOOD_END_COURSE(12503), 
+/* 1058 */   CHILDHOOD_COURSE_MAIL(12504), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1063 */   SHANG_GONG_COST(12600), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1069 */   GIVE_BIRTH_COST(12700), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1074 */   CHILD_FASHION_BUY(12800), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1079 */   CONSTELLATION_CHOOSE_CARD(12900), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1084 */   MONEY_TREE_AWARD(13000), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1089 */   PLANT_TREE_COST(13100), 
+/* 1090 */   PLANT_TREE_REMOVE_SPECIAL_STATE_AWARD(13101), 
+/* 1091 */   PLANT_TREE_SECTION_COMPLETE_AWARD(13102), 
+/* 1092 */   PLANT_TREE_ACTIVITY_COMPLETE_AWARD(13103), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1097 */   COMMON_VOTE_AWAERD(13200), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1102 */   ROMANTIC_DANCE_QUESTION_NORMAL_AWARD(13300), 
+/* 1103 */   ROMANTIC_DANCE_QUESTION_END_AWARD(13301), 
+/* 1104 */   ROMANTIC_DANCE_MALE_FEMALE_AWARD(13302), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1109 */   TRUMPET_COST_ITEM(13400), 
+/* 1110 */   TRUMPET_COST_YUANBAO(13401), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1115 */   WORSHIP_ADD_MIN(13500), 
+/* 1116 */   WORSHIP_ADD_FILE(13501), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1121 */   GMT_AQ_DO_SEND_MSG(13600), 
+/* 1122 */   GMT_AQ_DO_UPDATE_CASH(13601), 
+/* 1123 */   GMT_AQ_DO_UPDATE_MONEY(13602), 
+/* 1124 */   GMT_AQ_DO_UPDATE_OTHER_CASH(13603), 
+/* 1125 */   GMT_DEL_ITEM(13604), 
+/* 1126 */   GMT_ADD_ITEM(13605), 
+/* 1127 */   GMT_DO_UPDATE_CASH(13606), 
+/* 1128 */   GMT_DO_UPDATE_CHIVALROUS(13607), 
+/* 1129 */   GMT_DO_UPDATE_JINGJI(13608), 
+/* 1130 */   GMT_DO_UPDATE_EXP(13609), 
+/* 1131 */   GMT_DO_UPDATE_GANG_CONTRIBUTION(13610), 
+/* 1132 */   GMT_DO_UPDATE_GOLD_INGOT(13611), 
+/* 1133 */   GMT_DO_UPDATE_SHIMEN(13612), 
+/* 1134 */   GMT_DO_UPDATE_GOLD(13613), 
+/* 1135 */   GMT_DO_UPDATE_REPUTATION(13614), 
+/* 1136 */   GMT_DO_UPDATE_SILVER(13615), 
+/* 1137 */   GMT_DO_UPDATE_VIGOR(13616), 
+/* 1138 */   GMT_DO_SEND_ITEM_BY_SYSTEM_MAIL(13617), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1143 */   FOOLS_DAY_COST_VIGOR(13700), 
+/* 1144 */   FOOLS_DAY_ADD_ITEM(13701), 
+/* 1145 */   FOOLS_DAY_COST_ITEM(13702), 
+/* 1146 */   FOOLS_DAY_OPEN_CHEST_AWARD(13703), 
+/* 1147 */   FOOLS_DAY_TITLE_AWARD(13704), 
+/* 1148 */   FOOLS_DAY_ADD_ITEM_BY_IDIP(13705), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1154 */   SIGN_PRECIOUS_AWARD_ITEM(13800), 
+/* 1155 */   SIGN_PRECIOUS_DRAW_LOTTERY_AWARD_ITEM(13801), 
+/* 1156 */   SIGN_PRECIOUS_OPEN_LUCKY_BOX_COST_YUAN_BAO(13802), 
+/* 1157 */   SIGN_PRECIOUS_FAST_ARRIVE_COST_YUAN_BAO(13803), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1162 */   FEI_SHENG_COMMIT_ITEM_COST_ITEM(13900), 
+/* 1163 */   FEI_SHENG_COMMIT_ITEM_AWARD(13901), 
+/* 1164 */   FEI_SHENG_COMMIT_PET_AWARD(13902), 
+/* 1165 */   FEI_SHENG_QING_YUN_ZHI_AWARD(13903), 
+/* 1166 */   FEI_SHENG_TASK_AWARD(13904), 
+/* 1167 */   FEI_SHENG_FIGHT_TEAM_LEADER_AWARD(13905), 
+/* 1168 */   FEI_SHENG_FIGHT_TEAM_MEMBER_AWARD(13906), 
+/* 1169 */   FEI_SHENG_FIGHT_AWARD(13907), 
+/* 1170 */   FEI_SHENG_DEVELOP_ITEM_ADD_ITEM(13908), 
+/* 1171 */   FEI_SHENG_DEVELOP_ITEM_COST_ITEM(13909), 
+/* 1172 */   FEI_SHENG_DEVELOP_ITEM_COST_EXPERIENCE(13910), 
+/* 1173 */   FEI_SHENG_DEVELOP_ITEM_AWARD(13911), 
+/* 1174 */   FEI_SHENG_ZHU_XIAN_JIAN_ZHEN_COST_ITEM(13912), 
+/* 1175 */   FEI_SHENG_ZHU_XIAN_JIAN_ZHEN_AWARD(13913), 
+/* 1176 */   FEI_SHENG_AWARD(13914), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1181 */   MOURN_AWAED(14000), 
+/* 1182 */   MOURN_QUESTION_AWAED(14001), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1187 */   MENPAI_STAR_VOTE_GOLD(14100), 
+/* 1188 */   MENPAI_STAR_VOTE_AWARD(14101), 
+/* 1189 */   MENPAI_STAR_SET_VOTE_AWARD(14102), 
+/* 1190 */   MENPAI_STAR_VOTE_AWARD_RETURN_COST(14103), 
+/* 1191 */   MENPAI_STAR_SUPPLY_VOTE_AWARD(14104), 
+/* 1192 */   MENPAI_STAR_CHAMPION_AWARD(14105), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1197 */   FACTION_PVE_SET_TIME(14200), 
+/* 1198 */   FACTION_PVE_MODIFY_TIME(14201), 
+/* 1199 */   FACTION_PVE_SELF_GOAL(14202), 
+/* 1200 */   FACTION_PVE_KILL_BOSS(14203), 
+/* 1201 */   FACTION_PVE_FACTION_GOAL(14204), 
+/* 1202 */   FACTION_PVE_WEEK_BEGIN_MAIL(14205), 
+/* 1203 */   FACTION_PVE_WEEK_END_MAIL(14206), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1208 */   EXP_BOTTLE_AWARD_EXP(14300), 
+/* 1209 */   CLICK_REMOVE_ITEM(14301), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1214 */   GENIUS_RESET_PLAN(14400), 
+/* 1215 */   GENIUS_SWITCH_PLAN(14401), 
+/* 1216 */   USE_GENIUS_STONE_ITEM(14402), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1221 */   DOUBLE_ITEM_AWARD(14500), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1226 */   MERGE_COMPENSATION_MAIN(14600), 
+/* 1227 */   MERGE_COMPENSATION_VICE(14601), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1232 */   UNLOCK_AVATAR(14700), 
+/* 1233 */   AVATAR_EXPIRED(14701), 
+/* 1234 */   UNLOCK_AVATAR_FRAME(14702), 
+/* 1235 */   AVATAR_FRAME_EXPIRED(14703), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1240 */   SURPRISE_USE_ITEM(14800), 
+/* 1241 */   SURPRISE_COLLECT_AND_REMOVE_ITEM(14801), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1246 */   BLESS(14900), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1251 */   THEME_FASHION_DRESS_AWARD(15000), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1256 */   MYSTERY_SHOP_BUY_COST_YUAN_BAO(15100), 
+/* 1257 */   MYSTERY_SHOP_BUY_COST_GOLD(15101), 
+/* 1258 */   MYSTERY_SHOP_BUY_COST_SILVER(15102), 
+/* 1259 */   MYSTERY_SHOP_BUY_COST_JIN_DING(15103), 
+/* 1260 */   MYSTERY_SHOP_BUY_COST_BANG_GONG(15104), 
+/* 1261 */   MYSTERY_SHOP_BUY_COST_NULL(15105), 
+/*      */   
+/* 1263 */   MYSTERY_SHOP_REFRESH_COST_YUAN_BAO(15150), 
+/* 1264 */   MYSTERY_SHOP_REFRESH_COST_GOLD(15151), 
+/* 1265 */   MYSTERY_SHOP_REFRESH_COST_SILVER(15152), 
+/* 1266 */   MYSTERY_SHOP_REFRESH_COST_JIN_DING(15153), 
+/* 1267 */   MYSTERY_SHOP_REFRESH_COST_BANG_GONG(15154), 
+/* 1268 */   MYSTERY_SHOP_REFRESH_COST_NULL(15155), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1273 */   AXE_ATTEND_ACTIVITY_COST(15200), 
+/* 1274 */   AXE_ATTEND_ACTIVITY_ADD_ITEM(15201), 
+/* 1275 */   AXE_USE_AXE_ITEM_COST_ITEM(15202), 
+/* 1276 */   AXE_USE_AXE_ITEM_AWARD(15203), 
+/* 1277 */   AXE_UNLOCK_ACTIVITY_COST(15204), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1281 */   EXPLOIT_TARGET_CHECK_AWARD(15300), 
+/* 1282 */   EXPLOIT_TARGET_AWARD(15301), 
+/* 1283 */   EXPLOIT_STAGE_CHECK_AWARD(15302), 
+/* 1284 */   EXPLOIT_STAGE_AWARD(15303), 
+/* 1285 */   EXPLOIT_TARGET_MAIl_AWARD(15304), 
+/* 1286 */   EXPLOIT_STAGE_MAIl_AWARD(15305), 
+/* 1287 */   EXPLOIT_AWARD_MODEL_MAIl_AWARD(15306), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1292 */   MYSTERY_VISITOR_REMIND_MAIL(15400), 
+/* 1293 */   MYSTERY_VISITOR_AWARD(15401), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1298 */   ANIMAL_GET_MATE_AWARD(15500), 
+/* 1299 */   ANIMAL_GONE_MAIL(15501), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1304 */   GET_NPC_REWARD(15600), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1309 */   QUESTION_VOICE_REWARD(15650), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1314 */   DELIVERY_REWARD(15700), 
+/* 1315 */   AUTO_REDELIVERY_REWARD(15701), 
+/* 1316 */   DELIVERY_MAIL_REWARD(15702), 
+/* 1317 */   DELIVERY_STAGE_REWARD1(15703), 
+/* 1318 */   DELIVERY_STAGE_REWARD2(15704), 
+/* 1319 */   DELIVERY_STAGE_REWARD3(15705), 
+/* 1320 */   DELIVERY_STAGE_REWARD4(15706), 
+/* 1321 */   DELIVERY_STAGE_REWARD5(15707), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1327 */   SEND_GREETING_CARD(15800), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1333 */   CREATE_CORPS_COST(15900), 
+/* 1334 */   RENAME_CORPS_COST(15901), 
+/* 1335 */   REPLACE_BADGE_COST(15902), 
+/*      */   
+/* 1337 */   CRETE_CORPS_MAIL(15903), 
+/* 1338 */   JOIN_CORPS_MAIL_TO_ORG_MEMBER(15904), 
+/* 1339 */   JOIN_CORPS_MAIL_TO_NEW_MEMBER(15905), 
+/* 1340 */   COPRS_CAPTAIN_CHANGE_MAIL_TO_MEMBER(15906), 
+/* 1341 */   COPRS_CAPTAIN_CHANGE_MAIL_TO_NEW_CAPTIAN(15907), 
+/* 1342 */   FIRE_CORPS_MEMBER_MAIL_TO_MEMBER(15908), 
+/* 1343 */   FIRE_CORPS_MEMBER_MAIL_TO_FIRED_MEMBER(15909), 
+/* 1344 */   ACTIVE_LEAVE_MAIL_TO_MEMBERS(15910), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1349 */   CROSS_BATTLE_OWN_REGISTER_COST(16000), 
+/* 1350 */   CROSS_BATTLE_OWN_REGISTER_MAIL(16001), 
+/* 1351 */   CROSS_BATTLE_OWN_UNREGISTER_MAIL(16002), 
+/* 1352 */   CROSS_BATTLE_OWN_VOTE_STAGE_NOTICE_MAIL(16003), 
+/* 1353 */   CROSS_BATTLE_OWN_VOTE_AWARD(16004), 
+/* 1354 */   CROSS_BATTLE_OWN_VOTE_STAGE_DIRECT_PROMOTION_MAIL(16005), 
+/* 1355 */   CROSS_BATTLE_OWN_VOTE_STAGE_MOST_VOTES_MAIL(16006), 
+/* 1356 */   CROSS_BATTLE_OWN_VOTE_STAGE_ROUND_ROBIN_NOTICE_MAIL(16007), 
+/* 1357 */   CROSS_BATTLE_OWN_VOTE_STAGE_ENCOURAGE_MAIL(16008), 
+/* 1358 */   CROSS_BATTLE_OWN_ROUND_ROBIN_STAGE_MAIN_REMIND_MAIL(16009), 
+/* 1359 */   CROSS_BATTLE_OWN_ROUND_ROBIN_STAGE_BACKUP_REMIND_MAIL(16010), 
+/* 1360 */   CROSS_BATTLE_OWN_ROUND_ROBIN_STAGE_PROMOTION_MAIL(16011), 
+/* 1361 */   CROSS_BATTLE_OWN_ROUND_ROBIN_STAGE_ENCOURAGE_MAIL(16012), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1366 */   CROSS_BATTLE_POINT_DRAW_LOTS_MAIL(16100), 
+/* 1367 */   CROSS_BATTLE_POINT_ZONE_MAIL(16101), 
+/* 1368 */   CROSS_BATTLE_POINT_RACE_PREPARE_MAIL(16102), 
+/* 1369 */   CROSS_BATTLE_POINT_RACE_RESULT_MAIL(16103), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1373 */   DRAW_AND_GUESS_RANK_AWARD(16200), 
+/* 1374 */   DRAW_AND_GUESS_JIFEN_AWARD(16201), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1380 */   CROSS_COMPETE_SIGNUP_MAIL(16300), 
+/* 1381 */   CROSS_COMPETE_LEVEL_FAIL(16301), 
+/* 1382 */   CROSS_COMPETE_ACTIVENESS_FAIL(16302), 
+/* 1383 */   CROSS_COMPETE_PLAYER_NUMBER_FAIL(16303), 
+/* 1384 */   CROSS_COMPETE_WIN_STREAK_AWARD(16304), 
+/* 1385 */   CROSS_COMPETE_TREASURE_AWARD(16305), 
+/* 1386 */   CROSS_COMPETE_LEAVE_AWARD(16306), 
+/* 1387 */   CROSS_COMPETE_FIGHT_AWARD(16307), 
+/* 1388 */   CROSS_COMPETE_MATCH_MAIL(16308), 
+/* 1389 */   CROSS_COMPETE_REMIND_MAIL(16309), 
+/* 1390 */   CROSS_COMPETE_MISS_TURN_MAIL(16310), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1395 */   ACTIVITY_LONNG_BOAT_RACE_BEST_AWARD(16400), 
+/* 1396 */   ACTIVITY_LONNG_BOAT_RACE_MIDDLE_AWARD(16401), 
+/* 1397 */   ACTIVITY_LONNG_BOAT_RACE_MIN_AWARD(16402), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1401 */   CROSS_BATTLE_KNOCK_OUT_WIN(16500), 
+/* 1402 */   CROSS_BATTLE_KNOCK_OUT_FAIL(16501), 
+/* 1403 */   CROSS_BATTLE_RESTART(16504), 
+/* 1404 */   CROSS_BATTLE_AWARD(16505), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1408 */   WIN_FLOOR_AWARD(16600), 
+/* 1409 */   FIRST_BLOOD_FLOOR_AWARD(16601), 
+/* 1410 */   HELP_FLOOR_AWARD(16602), 
+/* 1411 */   SWEEP_FLOOR_COST(16603), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1416 */   CROSS_BATTLE_ROUND_ROBIN_STAGE_BET_COST(16700), 
+/* 1417 */   CROSS_BATTLE_ROUND_ROBIN_STAGE_BET_MAIL(16701), 
+/* 1418 */   CROSS_BATTLE_SELECTION_STAGE_BET_COST(16702), 
+/* 1419 */   CROSS_BATTLE_SELECTION_STAGE_BET_MAIL(16703), 
+/* 1420 */   CROSS_BATTLE_FINAL_STAGE_BET_COST(16704), 
+/* 1421 */   CROSS_BATTLE_FINAL_STAGE_BET_MAIL(16705), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1425 */   FABAO_ARTIFACT_EXPIRED(16800), 
+/* 1426 */   IMPROVE_FABAO_ARTIFACT(16801), 
+/* 1427 */   UPGRADE_FABAO_ARTIFACT(16802), 
+/* 1428 */   UNLOCK_FABAO_ARTIFACT(16803), 
+/* 1429 */   EXTEND_FABAO_ARTIFACT(16804), 
+/*      */   
+/*      */ 
+/* 1432 */   FLOP_LOTTERY_COST(16900), 
+/* 1433 */   FLOP_LOTTERY_DELETE_ITEM(16901), 
+/* 1434 */   FLOP_LOTTERY_AWARD(16902), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1438 */   SUPER_EQUIPMENT_IMPROVE_STAGE(17000), 
+/* 1439 */   SUPER_EQUIPMENT_IMPROVE_LEVEL(17001), 
+/* 1440 */   SUPER_EQUIPMENT_EXCHANGE_DATA(17002), 
+/*      */   
+/*      */ 
+/* 1443 */   SUPER_EQUIPMENT_JEWEL_UNMOUNT(17100), 
+/* 1444 */   SUPER_EQUIPMENT_JEWEL_MOUNT(17101), 
+/* 1445 */   SUPER_EQUIPMENT_JEWEL_COMPOSE(17102), 
+/* 1446 */   SUPER_EQUIPMENT_JEWEL_COMPOSE_COST(17103), 
+/* 1447 */   SUPER_EQUIPMENT_JEWEL_TRANSFER(17104), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1451 */   SUPER_EQUIPMENT_WUSHI_UPGRADE(17200), 
+/* 1452 */   SUPER_EQUIPMENT_WUSHI_AWARD(17201), 
+/* 1453 */   SUPER_EQUIPMENT_WUSHI_USE_ITEM(17202), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1457 */   ACTIVITY_CHESS_WIN_AWARD(17300), 
+/* 1458 */   ACTIVITY_CHESS_LOSE_AWARD(17301), 
+/* 1459 */   ACTIVITY_CHESS_DRAW_AWARD(17302), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1464 */   GET_SINGLE_CROSS_FIELD_SCORE(17400), 
+/* 1465 */   SINGLE_CROSS_FIELD_GRADE_AWARD(17401), 
+/* 1466 */   SINGLE_CROSS_FIELD_DAILY_AWARD(17402), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1470 */   WANTED_AWARD(17500), 
+/* 1471 */   WANTED_PRISON_MAIL(17501), 
+/* 1472 */   WANTED_ROLE_COST(17502), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1476 */   JAIL_BREAK_COST(17600), 
+/* 1477 */   JAIL_OUT_ADD_MORAL(17601), 
+/* 1478 */   JAIL_OUT_MAIL(17602), 
+/* 1479 */   JAIL_BREAK_MAIL(17603), 
+/* 1480 */   JAIL_DELIVERY_MAIL(17604), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1484 */   ENABLE_PK(17700), 
+/* 1485 */   BUY_MORAL_VALUE(17701), 
+/* 1486 */   START_PK(17702), 
+/* 1487 */   REVENGE_ITEM_DEPLETED(17703), 
+/* 1488 */   FINISH_MORAL_VALUE_TASK(17704), 
+/*      */   
+/*      */ 
+/* 1491 */   BACK_GAME_ACTIVITY_SIGN_AWARD(17800), 
+/* 1492 */   BACK_GAME_ACTIVITY_AWARD(17801), 
+/* 1493 */   BACK_GAME_ACTIVITY_POINT_AWARD(17802), 
+/* 1494 */   BACK_GAME_ACTIVITY_EXP_AWARD(17803), 
+/* 1495 */   BACK_GAME_ACTIVITY_GIFT_BUY_COST_YUANBAO(17804), 
+/* 1496 */   BACK_GAME_ACTIVITY_GIFT_BUY_AWARD(17805), 
+/* 1497 */   BACK_GAME_ACTIVITY_GIFT_TASK_AWARD(17806), 
+/* 1498 */   BACK_GAME_ACTIVITY_FINISH_ACTIVITY_GET_POINT(17807), 
+/* 1499 */   BACK_GAME_ACTIVITY_CLEAR_LAST_ACTIVITY_JI_FEN(17808), 
+/* 1500 */   BACK_GAME_ACTIVITY_USE_MANEKI_TOKEN(17809), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1504 */   PARTNER_YUANSHEN_IMPROVE(17900), 
+/*      */   
+/*      */ 
+/* 1507 */   LEGOUSHANGCHENG_BUY_GOODS(18000), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1511 */   AWARD_CHIVALRY_ON_PVE_END(18100), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1515 */   FRIENDS_CIRCLE_BUY_TREASURE_BOX(18200), 
+/* 1516 */   FRIENDS_CIRCLE_UNLOCK_PENDANT(18201), 
+/* 1517 */   FRIENDS_CIRCLE_TRIGGER_TREASURE_BOX_AWARD(18202), 
+/* 1518 */   FRIENDS_CIRCLE_GIVE_PRESENT_REMOVE_ITEM(18203), 
+/* 1519 */   FRIENDS_CIRCLE_GIVE_PRESENT_COST_YUAN_BAO(18204), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1523 */   CHAT_BUBBLE_EXPIRE_MAIL(18300), 
+/* 1524 */   USE_CHAT_BUBBLE_ITEM(18301), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1528 */   CHINESE_VALENTINE(18400), 
+/*      */   
+/*      */ 
+/* 1531 */   FLOWER_PARADE(18420), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1535 */   XIAO_HUI_KUAI_PAO_OUTER_DRAW(18500), 
+/* 1536 */   XIAO_HUI_KUAI_PAO_POINT_EXCHANGE(18501), 
+/* 1537 */   XIAO_HUI_KUAI_PAO_INNER_DRAW(18502), 
+/* 1538 */   XIAO_HUI_KUAI_PAO_INNER_SYSTEM_DRAW(18503), 
+/* 1539 */   XIAO_HUI_KUAI_PAO_OUTER_TURN_CONVERT_TO_POINT(18504), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1543 */   BIRTHDAY_PRAY_REWARD(18600), 
+/* 1544 */   BIRTHDAY_PRAY_REWARD_MAIL(18601), 
+/* 1545 */   BIRTHDAY_PRAY_MODEL_MAIl_AWARD(18602), 
+/*      */   
+/*      */ 
+/* 1548 */   GROUP_SHOPPING_CREATE_SHOPPING_GROUP(18610), 
+/* 1549 */   GROUP_SHOPPING_JOIN_SHOPPING_GROUP(18611), 
+/* 1550 */   GROUP_SHOPPING_COMPLETED(18612), 
+/* 1551 */   GROUP_SHOPPING_REFUND(18613), 
+/* 1552 */   GROUP_SHOPPING_CANCELLED(18614), 
+/* 1553 */   GROUP_SHOPPING_BANNED(18615), 
+/* 1554 */   GROUP_SHOPPING_DIRECT_BUY(18616), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1558 */   BREAK_EGG_INVITER_REWARD(18630), 
+/* 1559 */   BREAK_EGG_INVITEE_REWARD(18631), 
+/*      */   
+/*      */ 
+/* 1562 */   CREATE_ITEM_REMOVE(18640), 
+/* 1563 */   CREATE_ITEM_ADD(18641), 
+/*      */   
+/*      */ 
+/* 1566 */   UNLOCK_NEW_AIRCRAFT(18642), 
+/* 1567 */   DYE_AIRCRAFT(18643), 
+/*      */   
+/*      */ 
+/* 1570 */   ACTIVITY_POINT_EXCHANGE_MANUAL_REFRESH(18660), 
+/* 1571 */   ACTIVITY_POINT_EXCHANGE_POINT_EXCHANGE(18661), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1575 */   CHANGE_MODEL_CARD_UNLOCK_COST(18690), 
+/* 1576 */   CHANGE_MODEL_CARD_USE_COST(18691), 
+/* 1577 */   CHANGE_MODEL_CARD_DECOMPOSE_AWARD(18692), 
+/* 1578 */   CHANGE_MODEL_CARD_DECOMPOSE_COST(18693), 
+/* 1579 */   CHANGE_MODEL_CARD_UPGRADE_COST(18694), 
+/* 1580 */   CHANGE_MODEL_CARD_LOTTERY_AWARD(18695), 
+/* 1581 */   CHANGE_MODEL_CARD_LOTTERY_COST(18696), 
+/*      */   
+/*      */ 
+/* 1584 */   FIREWORK_RANDOM_AWARD(18710, FireWorkItemHandler.getInstance()), 
+/* 1585 */   FIREWORK_FIND_AWARD(18711), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1589 */   MAKE_UP_RIGHT_AWARD(18730), 
+/* 1590 */   MAKE_UP_TURN_SPECIAL_AWARD(18731), 
+/* 1591 */   MAKE_UP_TURN_NORMAL_AWARD(18732), 
+/* 1592 */   MAKE_UP_WRONG_AWARD(18733), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1597 */   ATTEND_INDIANA_COST(18750), 
+/* 1598 */   ATTEND_INDIANA_AWARD(18751), 
+/* 1599 */   ATTEND_INDIANA_FAIL_MAIL(18752), 
+/* 1600 */   ATTEND_INDIANA_SUCCESS_MAIL(18753), 
+/* 1601 */   INDIANA_AWARD(18754), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1606 */   MONDAY_FREE_SUNDAY_AWARD(18800), 
+/* 1607 */   MONDAY_FREE_MONDAY_AWARD(18801), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1612 */   LIFE_SKILL_ACTIVITY_ADD(18850), 
+/* 1613 */   LIFE_SKILL_ACTIVITY_COST_YUAN_BAO(18851), 
+/* 1614 */   LIFE_SKILL_ACTIVITY_COST_GOLD(18852), 
+/* 1615 */   LIFE_SKILL_ACTIVITY_COST_SILVER(18853), 
+/* 1616 */   LIFE_SKILL_ACTIVITY_COST_JIN_DING(18854), 
+/* 1617 */   LIFE_SKILL_ACTIVITY_COST_BANG_GONG(18855), 
+/* 1618 */   LIFE_SKILL_ACTIVITY_COST_NULL(18856), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1622 */   EQUIPMENT_BLESS_USE_ITEM(18860), 
+/*      */   
+/*      */ 
+/* 1625 */   AUCTION_BID_WIN_SEND_ITEM(18870), 
+/* 1626 */   AUCTION_BID_LOSE_REFUND(18871), 
+/* 1627 */   AUCTION_SWITCH_CLOSE_REFUND(18872), 
+/* 1628 */   AUCTION_BID(18873), 
+/* 1629 */   AUCTION_SERVER_CLOSE_REFUND(18874), 
+/* 1630 */   AUCTION_SERVER_MERGE_REFUND(18875), 
+/* 1631 */   AUCTION_ACTIVITY_START_AGAIN_REFUND(18876), 
+/* 1632 */   AUCTION_ACTIVITY_LAST_PERIOD_REFUND(18877), 
+/* 1633 */   AUCTION_SWITCH_OPEN_REFUND(18878), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1637 */   COST_MAKE_CAKE(18890), 
+/* 1638 */   AWARD_GET_CAKE(18891), 
+/* 1639 */   AWARD_EAT_CAKE(18892), 
+/* 1640 */   COST_EAT_CAKE(18893), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1645 */   ALL_LOTTO_WARM_UP_AWARD(18910), 
+/* 1646 */   ALL_LOTTO_AWARD(18911), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1651 */   ACTIVITY_COMPENSATE_GET_ONCE(18920), 
+/* 1652 */   ACTIVITY_COMPENSATE_GET_ALL(18921), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1657 */   TREASURE_BOX_ROAM_REMOVE(18940), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1661 */   BANDSTAND_ANSWER_AWARD(18950), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1665 */   CHILD_CONPENSATE_REMOVE(18960), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1669 */   PET_FIGHT_IMPROVE_FORMATION(18970), 
+/* 1670 */   PET_FIGHT_UNLOCK_SKILL(18971), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1674 */   CROSS_SERVER_FINAL_SERVER_AWARD(18980), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1679 */   CHILDREN_RECALL_COST_YUAN_BAO(18990), 
+/* 1680 */   CHILDREN_RECALL_COST_GOLD(18991), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1684 */   BALL_BATTLE_AWARD(19020), 
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/* 1689 */   CHRISTMAS_STOCKING_HANG_COST(19060), 
+/* 1690 */   CHRISTMAS_STOCKING_AWARD(19061), 
+/* 1691 */   CHRISTMAS_STOCKING_HIDING_AWARD(19062), 
+/* 1692 */   CHRISTMAS_STOCKING_HIDING_NOTIFY_MAIL(19063), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1696 */   TREASURE_HUNT_AWARD(19050), 
+/*      */   
+/*      */ 
+/*      */ 
+/* 1700 */   DRAW_CARNIVAL__DRAW(19070), 
+/*      */   
+/*      */ 
+/* 1703 */   CSP_ADD(99999996), 
+/* 1704 */   CSP_REM(99999997), 
+/* 1705 */   GM_REM(99999998), 
+/* 1706 */   GM_ADD(99999999);
+/*      */   
+/*      */   public static void checkReasonValue()
+/*      */   {
+/* 1710 */     Set<Integer> values = new HashSet();
+/* 1711 */     for (LogReason type : values()) {
+/* 1712 */       value2LogReason.put(Integer.valueOf(type.value), type);
+/*      */       
+/* 1714 */       if (!values.add(Integer.valueOf(type.value)))
+/* 1715 */         throw new RuntimeException(String.format("LogReason中定义的常量重复,name=%s,value=%d", new Object[] { type.name(), Integer.valueOf(type.value) }));
+/*      */     }
+/*      */   }
+/*      */   
+/* 1719 */   private static final Map<Integer, LogReason> value2LogReason = new HashMap();
+/*      */   public final int value;
+/* 1721 */   private ItemReasonHandler handler = null;
+/*      */   
+/*      */   private LogReason(int value) {
+/* 1724 */     this.value = value;
+/*      */   }
+/*      */   
+/*      */   private LogReason(int value, ItemReasonHandler handler) {
+/* 1728 */     this.value = value;
+/* 1729 */     this.handler = handler;
+/*      */   }
+/*      */   
+/*      */   public static LogReason getReason(int value) {
+/* 1733 */     return (LogReason)value2LogReason.get(Integer.valueOf(value));
+/*      */   }
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */   public void gainPreciousItem(long roleid, int itemid, int itemnum)
+/*      */   {
+/* 1744 */     if (this.handler != null) {
+/* 1745 */       Map<Integer, Integer> itemid2num = new HashMap();
+/* 1746 */       itemid2num.put(Integer.valueOf(itemid), Integer.valueOf(itemnum));
+/* 1747 */       gainPreciousItem(roleid, itemid2num);
+/*      */     }
+/*      */   }
+/*      */   
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */ 
+/*      */   public void gainPreciousItem(long roleid, Map<Integer, Integer> itemid2num)
+/*      */   {
+/* 1758 */     if (this.handler != null) {
+/* 1759 */       this.handler.gainPreciousItem(roleid, itemid2num);
+/*      */     }
+/*      */   }
+/*      */ }
+
+
+/* Location:              D:\桌面\山海\gsxdbdebug.jar!\mzm\gsp\tlog\LogReason.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

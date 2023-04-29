@@ -1,0 +1,18 @@
+<root>
+<row name="ACTIVITYID" value="350000012"/>
+<row name="VISIBLE_MONSTER_ID1" value="7"/>
+<row name="AWARD_ID1" value="602"/>
+<row name="VISIBLE_MONSTER_ID2" value="7"/>
+<row name="AWARD_ID2" value="0"/>
+<row name="REWARD_LIMIT" value="10"/>
+<row name="CONTROLLERID1" value="701100002"/>
+<row name="CONTROLLERID2" value="701100008"/>
+<row name="NPC_FIGHT_ITEM_ID" value="210100046"/>
+<row name="NPC_FIGHT_ITEM_NUM" value="1"/>
+<row name="NPCID" value="150111175"/>
+<row name="REFRESH_INTERVAL1_SEC" value="3600"/>
+<row name="REFRESH_INTERVAL2_SEC" value="3600"/>
+<row name="FightIDList">
+<int>120488004</int>
+</row>
+</root>

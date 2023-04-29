@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.item.confbean.SMoneyCfg id="501100000" moneyType="1" name="元寶" ownMax="9999999"/>
+  <mzm.gsp.item.confbean.SMoneyCfg id="501100001" moneyType="2" name="金幣" ownMax="999999999"/>
+  <mzm.gsp.item.confbean.SMoneyCfg id="501100002" moneyType="3" name="銀兩" ownMax="999999999"/>
+  <mzm.gsp.item.confbean.SMoneyCfg id="501100003" moneyType="4" name="幫貢" ownMax="9999999"/>
+  <mzm.gsp.item.confbean.SMoneyCfg id="501100004" moneyType="5" name="金錠" ownMax="999999999"/>
+</data>

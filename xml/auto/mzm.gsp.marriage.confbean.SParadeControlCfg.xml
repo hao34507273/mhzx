@@ -1,0 +1,162 @@
+<data>
+  <mzm.gsp.marriage.confbean.SParadeControlCfg paradeLevelid="190500000">
+    <num2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104001" protectControlid="0" x="4316" y="965"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104002" protectControlid="0" x="4222" y="1116"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104003" protectControlid="0" x="3340" y="1714"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104004" protectControlid="0" x="3734" y="1996"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104005" protectControlid="0" x="4091" y="2196"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104006" protectControlid="0" x="4137" y="2430"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104007" protectControlid="0" x="3613" y="2698"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104008" protectControlid="0" x="2561" y="3275"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104009" protectControlid="0" x="2163" y="3535"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104010" protectControlid="0" x="2187" y="3704"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104011" protectControlid="0" x="2911" y="4123"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104012" protectControlid="0" x="3382" y="3911"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104013" protectControlid="0" x="4118" y="4302"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104014" protectControlid="0" x="4294" y="4300"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104015" protectControlid="0" x="4903" y="4098"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104016" protectControlid="0" x="5420" y="3819"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104017" protectControlid="0" x="6229" y="3344"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104018" protectControlid="0" x="5179" y="2752"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104019" protectControlid="0" x="4677" y="2489"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104020" protectControlid="701107013" x="4655" y="2194"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104021" protectControlid="0" x="5120" y="1983"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104022" protectControlid="0" x="5678" y="1609"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104023" protectControlid="0" x="4770" y="990"/>
+      </entry>
+    </num2CfgMap>
+    <robSeqNums>
+      <int>20</int>
+    </robSeqNums>
+  </mzm.gsp.marriage.confbean.SParadeControlCfg>
+  <mzm.gsp.marriage.confbean.SParadeControlCfg paradeLevelid="190500001">
+    <num2CfgMap>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104101" protectControlid="0" x="4348" y="2502"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104102" protectControlid="0" x="3261" y="1859"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104103" protectControlid="0" x="2611" y="2231"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104104" protectControlid="0" x="2773" y="1568"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104105" protectControlid="0" x="2044" y="1094"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104106" protectControlid="0" x="3286" y="654"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104107" protectControlid="0" x="1294" y="729"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104108" protectControlid="0" x="522" y="285"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104109" protectControlid="0" x="1284" y="739"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104110" protectControlid="0" x="906" y="1905"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104111" protectControlid="701107105" x="2783" y="1578"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104112" protectControlid="0" x="3988" y="1421"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.marriage.confbean.ParadeNumCfg controlNum="10" controlid="701104113" protectControlid="0" x="2054" y="1084"/>
+      </entry>
+    </num2CfgMap>
+    <robSeqNums>
+      <int>11</int>
+    </robSeqNums>
+  </mzm.gsp.marriage.confbean.SParadeControlCfg>
+</data>

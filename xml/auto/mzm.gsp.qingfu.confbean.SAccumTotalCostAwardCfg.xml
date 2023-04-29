@@ -1,0 +1,1607 @@
+<data>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008073" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21599" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21600" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21601" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21602" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21603" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21604" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008072" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21593" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21594" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21595" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21596" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21597" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21598" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008197" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22321" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22322" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22323" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22324" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22325" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22326" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="22327" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="22328" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="50000" award_cfg_id="22329" sort_id="9"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008198" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22330" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22331" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22332" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22333" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22334" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22335" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22336" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008217" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22444" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22445" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22446" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22447" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22448" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22449" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22450" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008216" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22439" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22440" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22441" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22442" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22443" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008084" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21775" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21776" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21777" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21778" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21779" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21780" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008085" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21781" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21782" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21783" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21784" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21785" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21786" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008086" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21787" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21788" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21789" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21790" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21791" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21792" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008095" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21837" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21838" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21839" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21840" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21841" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21842" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008096" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="21843" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21844" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21845" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21846" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21847" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21848" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="21849" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="21850" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="50000" award_cfg_id="21851" sort_id="9"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008101" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21881" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21882" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21883" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21884" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21885" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21886" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008100" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21875" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21876" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21877" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21878" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21879" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21880" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008226" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22994" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22995" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22996" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22997" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22998" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22999" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23000" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008227" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23001" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23002" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23003" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23004" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23005" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23006" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23007" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008109" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21920" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21921" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21922" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21923" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21924" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21925" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008108" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21914" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="21915" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21916" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21917" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21918" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21919" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008253" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23056" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23057" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23058" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23059" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23060" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23061" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23062" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008252" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23051" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23052" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23053" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23054" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23055" sort_id="5"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008126" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22037" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22038" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22039" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22040" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22041" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22042" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22043" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008127" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22044" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22045" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22046" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22047" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22048" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22049" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22050" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008133" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22051" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22052" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22090" sort_id="3"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008132" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22081" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22082" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22083" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22084" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22085" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22086" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22087" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008269" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23099" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23100" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23101" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23102" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23103" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23104" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23105" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23106" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23107" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23108" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23109" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008257" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22483" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22484" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22485" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22486" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22487" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22488" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22489" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008284" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23154" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23155" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23156" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23157" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23158" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23159" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23160" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008145" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22113" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22114" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22115" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22116" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22117" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22118" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="22119" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="22120" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="50000" award_cfg_id="22121" sort_id="9"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008146" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="22122" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22123" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22124" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22125" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22126" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22127" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22128" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008283" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23147" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23148" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23149" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23150" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23151" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23152" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23153" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008001" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="300" award_cfg_id="21100" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="21101" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="21102" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="21103" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="21104" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="21105" sort_id="6"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008167" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22192" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22193" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22194" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22195" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22196" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22197" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22198" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008301" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23221" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23222" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23223" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23224" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23225" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23226" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23227" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008175" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22264" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22265" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22266" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22267" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22268" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22269" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22270" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008341" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23447" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23448" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23449" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23450" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23451" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23452" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23453" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350000213" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="980" award_cfg_id="8711" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008336" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23440" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23441" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23442" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23443" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23444" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23445" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23446" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350000214" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="980" award_cfg_id="8712" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008168" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="22199" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="22200" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="22201" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="22202" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="22203" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="22204" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="22205" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008289" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23178" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23179" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23180" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23181" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23182" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23183" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23184" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23185" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23186" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23187" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23188" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008337" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23326" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23327" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23328" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23329" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23330" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23331" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23332" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23333" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23334" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23335" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23336" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350000201" send_award_mail_cfgid="340008001">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="980" award_cfg_id="8710" sort_id="1"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008333" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23433" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23434" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23435" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23436" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23437" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23438" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23439" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008331" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23426" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23427" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23428" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23429" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23430" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23431" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23432" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008328" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23315" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23316" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23317" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23318" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23319" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23320" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23321" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23322" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23323" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23324" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23325" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008327" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23419" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23420" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23421" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23422" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23423" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23424" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23425" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008322" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23304" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23305" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23306" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23307" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23308" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23309" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23310" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23311" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23312" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23313" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23314" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008305" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23249" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23250" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23251" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23252" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23253" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23254" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23255" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23256" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23257" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23258" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23259" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008304" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23238" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="200" award_cfg_id="23239" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23240" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23241" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="2000" award_cfg_id="23242" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23243" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="5000" award_cfg_id="23244" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="8000" award_cfg_id="23245" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23246" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="20000" award_cfg_id="23247" sort_id="10"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="30000" award_cfg_id="23248" sort_id="11"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+  <mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg id="350008320" send_award_mail_cfgid="340008000">
+    <award_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="100" award_cfg_id="23297" sort_id="1"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="500" award_cfg_id="23298" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="1000" award_cfg_id="23299" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="3000" award_cfg_id="23300" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="6000" award_cfg_id="23301" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="10000" award_cfg_id="23302" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.SAccumTotalCostActivityAwardInfo accum_total_cost_cond="15000" award_cfg_id="23303" sort_id="7"/>
+      </entry>
+    </award_infos>
+  </mzm.gsp.qingfu.confbean.SAccumTotalCostAwardCfg>
+</data>

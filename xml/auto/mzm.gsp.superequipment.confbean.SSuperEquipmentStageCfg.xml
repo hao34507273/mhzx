@@ -1,0 +1,62 @@
+<data>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="0" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="1000000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="0" requiredRoleLevel="100" requiredServerLevel="100" requiredStrengthLevel="15" stage="1">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109006" num="10"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109007" num="10"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="1" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="1500000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="10" requiredRoleLevel="105" requiredServerLevel="105" requiredStrengthLevel="15" stage="2">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109004" num="20"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109005" num="20"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="2" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="2000000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="20" requiredRoleLevel="110" requiredServerLevel="110" requiredStrengthLevel="15" stage="3">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109009" num="30"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109010" num="30"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="3" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="2500000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="30" requiredRoleLevel="115" requiredServerLevel="115" requiredStrengthLevel="15" stage="4">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109013" num="40"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109014" num="40"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="3000000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="40" requiredRoleLevel="117" requiredServerLevel="117" requiredStrengthLevel="15" stage="5">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109019" num="50"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109020" num="50"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="3500000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="50" requiredRoleLevel="119" requiredServerLevel="119" requiredStrengthLevel="15" stage="6">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109006" num="30"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109007" num="30"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="4000000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="60" requiredRoleLevel="120" requiredServerLevel="120" requiredStrengthLevel="15" stage="7">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109004" num="40"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109005" num="40"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="4500000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="70" requiredRoleLevel="123" requiredServerLevel="123" requiredStrengthLevel="15" stage="8">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109009" num="50"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109010" num="50"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="5000000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="80" requiredRoleLevel="125" requiredServerLevel="125" requiredStrengthLevel="15" stage="9">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109013" num="60"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109014" num="60"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+  <mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg gemSlotNum="4" maxGemLevel="15" maxStrengthLevel="30" requiredCurrencyNum="5500000" requiredCurrencyType="3" requiredEquipmentLevel="100" requiredEquipmentQuality="5" requiredLevel="90" requiredRoleLevel="130" requiredServerLevel="130" requiredStrengthLevel="15" stage="10">
+    <requiredItems>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109019" num="70"/>
+      <mzm.gsp.superequipment.confbean.SuperEquipmentStageRequiredItem id="210109020" num="70"/>
+    </requiredItems>
+  </mzm.gsp.superequipment.confbean.SSuperEquipmentStageCfg>
+</data>

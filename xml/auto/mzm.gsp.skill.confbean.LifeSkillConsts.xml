@@ -1,0 +1,10 @@
+<root>
+<row name="OPEN_LEVEL" value="17"/>
+<row name="SKILLBAG_ORGINAL_LEVEL" value="0"/>
+<row name="SKILLBAG_MAX_LEVEL" value="150"/>
+<row name="SKILLBAG_MORE_THAN_ROLE_LEVEL" value="10"/>
+<row name="LIFESKILL_LEVEL_RESET_ROLE_LEVEL" value="30"/>
+<row name="LIFESKILL_LEVEL_RESET_TO" value="0"/>
+<row name="LIFESKILL_LEVEL_RESET_RESTORE_RATE" value="5000"/>
+<row name="LIFESKILL_LEVEL_RESET_EFFECT_ID" value="702020299"/>
+</root>

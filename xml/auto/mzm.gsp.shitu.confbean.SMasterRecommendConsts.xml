@@ -1,0 +1,12 @@
+<root>
+<row name="APPRENTICE_MIN_LEVEL" value="27"/>
+<row name="RECOMMEND_INTERVAL_LEVEL" value="5"/>
+<row name="APPRENTICE_MAX_LEVEL" value="67"/>
+<row name="MASTER_SERVER_DIVERSITY_LEVEL" value="20"/>
+<row name="MASTER_MIN_LEVEL" value="80"/>
+<row name="OPEN_SERVER_LEVEL" value="50"/>
+<row name="MIN_MASTER_RECOMMEND_NUM" value="3"/>
+<row name="YOUYUAN_MASTER_RECOMMEND_NUM" value="2"/>
+<row name="RECOMMEND_MASTER_COUNTDOWN_TIME" value="60"/>
+<row name="RECOMMEND_APPRENTICE_COUNTDOWN_TIME" value="60"/>
+</root>

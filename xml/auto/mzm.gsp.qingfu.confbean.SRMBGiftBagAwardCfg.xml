@@ -1,0 +1,147 @@
+<data>
+  <mzm.gsp.qingfu.confbean.SRMBGiftBagAwardCfg activity_cfg_id="350000205" send_award_mail_cfgid="340008002">
+    <days>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21699" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21706" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21713" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21700" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21707" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21714" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21701" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21708" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21715" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21702" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21709" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21716" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21703" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21710" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21717" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21704" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21711" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21718" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+          <tiers>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21705" buy_max_times="1" product_service_id="40"/>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21712" buy_max_times="1" product_service_id="41"/>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.qingfu.confbean.RMBGiftBagTierInfo award_cfg_id="21719" buy_max_times="1" product_service_id="42"/>
+            </entry>
+          </tiers>
+        </mzm.gsp.qingfu.confbean.RMBGiftBagGenDayInfo>
+      </entry>
+    </days>
+  </mzm.gsp.qingfu.confbean.SRMBGiftBagAwardCfg>
+</data>

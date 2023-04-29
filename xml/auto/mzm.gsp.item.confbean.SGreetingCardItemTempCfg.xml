@@ -1,0 +1,38 @@
+<data>
+  <mzm.gsp.item.confbean.SGreetingCardItemTempCfg id="217200000">
+    <resourcePaths>
+      <string>Panel_Activity_MotherDayCard_1</string>
+      <string>Panel_Activity_MotherDayCard_2</string>
+      <string>Panel_Activity_MotherDayCard_3</string>
+    </resourcePaths>
+    <bgNames>
+      <string>粉色温馨</string>
+      <string>爱的花海</string>
+      <string>水墨丹青</string>
+    </bgNames>
+  </mzm.gsp.item.confbean.SGreetingCardItemTempCfg>
+  <mzm.gsp.item.confbean.SGreetingCardItemTempCfg id="217200001">
+    <resourcePaths>
+      <string>Panel_Activity_MotherDayCard_1</string>
+      <string>Panel_Activity_MotherDayCard_2</string>
+      <string>Panel_Activity_MotherDayCard_3</string>
+    </resourcePaths>
+    <bgNames>
+      <string>粉色温馨</string>
+      <string>爱的花海</string>
+      <string>水墨丹青</string>
+    </bgNames>
+  </mzm.gsp.item.confbean.SGreetingCardItemTempCfg>
+  <mzm.gsp.item.confbean.SGreetingCardItemTempCfg id="217200002">
+    <resourcePaths>
+      <string>Panel_Activity_ZhongQiuCard_1</string>
+      <string>Panel_Activity_ZhongQiuCard_2</string>
+      <string>Panel_Activity_ZhongQiuCard_3</string>
+    </resourcePaths>
+    <bgNames>
+      <string>花好月圆</string>
+      <string>桂子飘香</string>
+      <string>月下婵娟</string>
+    </bgNames>
+  </mzm.gsp.item.confbean.SGreetingCardItemTempCfg>
+</data>

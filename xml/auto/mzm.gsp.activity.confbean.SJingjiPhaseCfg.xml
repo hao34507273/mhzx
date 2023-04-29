@@ -1,0 +1,7 @@
+<data>
+  <mzm.gsp.activity.confbean.SJingjiPhaseCfg firstWinRewardId="3000" fiveFightRewardId="3001" id="353000000" maxWinPoint="1300" minWinPoint="1200" pahse="1" phaseName="入門" seasonRewardId="0"/>
+  <mzm.gsp.activity.confbean.SJingjiPhaseCfg firstWinRewardId="3000" fiveFightRewardId="3001" id="353000001" maxWinPoint="2000" minWinPoint="1301" pahse="2" phaseName="精通" seasonRewardId="3101"/>
+  <mzm.gsp.activity.confbean.SJingjiPhaseCfg firstWinRewardId="3000" fiveFightRewardId="3001" id="353000002" maxWinPoint="2400" minWinPoint="2001" pahse="3" phaseName="大師" seasonRewardId="3102"/>
+  <mzm.gsp.activity.confbean.SJingjiPhaseCfg firstWinRewardId="3000" fiveFightRewardId="3001" id="353000003" maxWinPoint="2800" minWinPoint="2401" pahse="4" phaseName="王者" seasonRewardId="3103"/>
+  <mzm.gsp.activity.confbean.SJingjiPhaseCfg firstWinRewardId="3000" fiveFightRewardId="3001" id="353000004" maxWinPoint="100000" minWinPoint="2801" pahse="5" phaseName="傳說" seasonRewardId="3104"/>
+</data>

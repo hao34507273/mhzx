@@ -1,0 +1,106 @@
+<data>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600000" name="鬼灵御" templatename="鬼王附魔">
+    <paramFormulaIdList>
+      <int>701901004</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600001" name="灵绕" templatename="青云附魔">
+    <paramFormulaIdList>
+      <int>701901005</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600002" name="淬炼" templatename="天音附魔">
+    <paramFormulaIdList>
+      <int>701901008</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600003" name="神行" templatename="合欢附魔">
+    <paramFormulaIdList>
+      <int>701901007</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600004" name="坚韧" templatename="焚香附魔">
+    <paramFormulaIdList>
+      <int>701901006</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600005" name="砺刃" templatename="圣巫附魔">
+    <paramFormulaIdList>
+      <int>701901009</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600006" name="静心" templatename="苍羽附魔">
+    <paramFormulaIdList>
+      <int>701901010</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600007" name="呕血谱琴音" templatename="灵音附魔">
+    <paramFormulaIdList>
+      <int>701901011</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600008" name="热核反应" templatename="异能附魔">
+    <paramFormulaIdList>
+      <int>701901012</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600009" name="蛊毒符文" templatename="万毒附魔">
+    <paramFormulaIdList>
+      <int>701901013</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600010" name="水墨符文" templatename="丹青附魔">
+    <paramFormulaIdList>
+      <int>701901014</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>  
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500049" id="111600011" name="阴阳符文" templatename="阴阳附魔">
+    <paramFormulaIdList>
+      <int>701901015</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>    
+  <mzm.gsp.skill.confbean.SEnchantSkill costFormulaId="701901000" effectId="700500050" id="111600012" name="法老符文" templatename="黄金附魔">
+    <paramFormulaIdList>
+      <int>701901016</int>
+      <int>701901001</int>
+      <int>701901002</int>
+      <int>701901003</int>
+    </paramFormulaIdList>
+  </mzm.gsp.skill.confbean.SEnchantSkill>  
+</data>

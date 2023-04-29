@@ -1,0 +1,220 @@
+﻿<data>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300000">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="10"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="20"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="24" provalue="30"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300001">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="400"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="600"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300002">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="15"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="15"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="15"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="30"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="30"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="30"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="7" provalue="45"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="9" provalue="45"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="16" provalue="45"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300003">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="15"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="15"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="15"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="30"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="30"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="30"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="8" provalue="45"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="10" provalue="45"/>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="17" provalue="45"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300004">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list/>
+          <buff_list>
+            <int>701211200 </int>
+          </buff_list>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list/>
+          <buff_list>
+            <int>701211201 </int>
+          </buff_list>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list/>
+          <buff_list>
+            <int>701211204 </int>
+          </buff_list>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300005">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+  <mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg theme_fashion_dress_cfg_id="860300006">
+    <extra_infos>
+      <no-comparator/>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="200"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="400"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.fashiondress.confbean.ExtraInfo>
+          <prop_list>
+            <mzm.gsp.fashiondress.confbean.Pro2Value protype="1" provalue="600"/>
+          </prop_list>
+          <buff_list/>
+        </mzm.gsp.fashiondress.confbean.ExtraInfo>
+      </entry>
+    </extra_infos>
+  </mzm.gsp.fashiondress.confbean.SThemeFashionDressPropCfg>
+</data>

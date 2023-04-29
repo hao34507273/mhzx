@@ -1,0 +1,57 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000000" petId="130112000" templateName="青龙">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="70"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000001" petId="130112001" templateName="白虎">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="70"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000002" petId="130112002" templateName="朱雀">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="70"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000003" petId="130112003" templateName="玄武">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="70"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000004" petId="130190011" templateName="黄金兜兜">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="69"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000005" petId="130110000" templateName="小灰">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="69"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000006" petId="130110022" templateName="喵喵酱">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="199" itemTypeId="201"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000007" petId="130110025" templateName="九儿">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="199" itemTypeId="209"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000008" petId="130110053" templateName="小厨娘">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="201" itemTypeId="219"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000009" petId="130110054" templateName="天外飞仙">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="350" itemTypeId="69"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg> 
+  <mzm.gsp.pet.confbean.SPetRedeemCostItemCfg id="132000010" petId="130110055" templateName="机械姬">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="350" itemTypeId="69"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRedeemCostItemCfg> 
+</data>

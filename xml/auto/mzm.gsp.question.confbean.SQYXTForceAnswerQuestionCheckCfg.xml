@@ -1,0 +1,999 @@
+<data>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700000" indexId="1" questionLv="0">
+    <answerList>
+      <string>50</string>
+      <string>100</string>
+      <string>500</string>
+      <string>200</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700001" indexId="2" questionLv="0">
+    <answerList>
+      <string>10</string>
+      <string>2</string>
+      <string>3</string>
+      <string>5</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700002" indexId="3" questionLv="0">
+    <answerList>
+      <string>20</string>
+      <string>15</string>
+      <string>10</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700003" indexId="4" questionLv="0">
+    <answerList>
+      <string>10</string>
+      <string>15</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700004" indexId="5" questionLv="0">
+    <answerList>
+      <string>點左上角的地圖名稱</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700005" indexId="6" questionLv="0">
+    <answerList>
+      <string>永生</string>
+      <string>一百萬</string>
+      <string>一萬</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700006" indexId="7" questionLv="0">
+    <answerList>
+      <string>5</string>
+      <string>15</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700007" indexId="8" questionLv="0">
+    <answerList>
+      <string>10</string>
+      <string>15</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700008" indexId="9" questionLv="0">
+    <answerList>
+      <string>4次</string>
+      <string>5次</string>
+      <string>3次</string>
+      <string>2次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700009" indexId="10" questionLv="0">
+    <answerList>
+      <string>一對異性角色</string>
+      <string>一對同性角色</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700010" indexId="11" questionLv="0">
+    <answerList>
+      <string>點擊血條區域</string>
+      <string>無法查看</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700011" indexId="12" questionLv="0">
+    <answerList>
+      <string>1000</string>
+      <string>800</string>
+      <string>500</string>
+      <string>100</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700012" indexId="13" questionLv="0">
+    <answerList>
+      <string>4</string>
+      <string>2</string>
+      <string>3</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700013" indexId="14" questionLv="0">
+    <answerList>
+      <string>神獸</string>
+      <string>魔獸</string>
+      <string>變異寵物</string>
+      <string>寶寶</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700014" indexId="15" questionLv="0">
+    <answerList>
+      <string>同幫三人以上</string>
+      <string>隨便進</string>
+      <string>同幫兩人以上</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700015" indexId="16" questionLv="0">
+    <answerList>
+      <string>長按查看目標</string>
+      <string>點擊目標</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700016" indexId="17" questionLv="0">
+    <answerList>
+      <string>可以</string>
+      <string>不可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700017" indexId="18" questionLv="0">
+    <answerList>
+      <string>在隊伍界面啟用</string>
+      <string>不可以啟用</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700018" indexId="19" questionLv="0">
+    <answerList>
+      <string>20%</string>
+      <string>10%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700019" indexId="20" questionLv="0">
+    <answerList>
+      <string>15</string>
+      <string>10</string>
+      <string>20</string>
+      <string>30</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700020" indexId="21" questionLv="0">
+    <answerList>
+      <string>30級</string>
+      <string>45級</string>
+      <string>20級</string>
+      <string>40級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700021" indexId="22" questionLv="0">
+    <answerList>
+      <string>10%</string>
+      <string>5%</string>
+      <string>8%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700022" indexId="23" questionLv="0">
+    <answerList>
+      <string>混沌時空掛機</string>
+      <string>黑龍浩劫</string>
+      <string>賞金</string>
+      <string>競技場</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700023" indexId="24" questionLv="0">
+    <answerList>
+      <string>可以</string>
+      <string>不可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700024" indexId="25" questionLv="0">
+    <answerList>
+      <string>科舉前三名</string>
+      <string>支線</string>
+      <string>賞金獵人</string>
+      <string>護送</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700025" indexId="26" questionLv="0">
+    <answerList>
+      <string>夫妻</string>
+      <string>結義兄弟</string>
+      <string>同幫之人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700026" indexId="27" questionLv="0">
+    <answerList>
+      <string>點擊左上角的圖標</string>
+      <string>亂點一通</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700027" indexId="28" questionLv="0">
+    <answerList>
+      <string>活動面板左下角進入</string>
+      <string>無法查看</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700028" indexId="29" questionLv="0">
+    <answerList>
+      <string>一次不放棄</string>
+      <string>可以放棄一次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700029" indexId="30" questionLv="0">
+    <answerList>
+      <string>3次</string>
+      <string>2次</string>
+      <string>1次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700030" indexId="31" questionLv="0">
+    <answerList>
+      <string>打開小地圖查詢</string>
+      <string>自己找</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700031" indexId="32" questionLv="0">
+    <answerList>
+      <string>升級</string>
+      <string>放生</string>
+      <string>展示</string>
+      <string>賣掉</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700032" indexId="33" questionLv="37">
+    <answerList>
+      <string>5次</string>
+      <string>4次</string>
+      <string>10次</string>
+      <string>1次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700033" indexId="34" questionLv="0">
+    <answerList>
+      <string>2級護符</string>
+      <string>1級護符</string>
+      <string>3級護符</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700034" indexId="35" questionLv="0">
+    <answerList>
+      <string>啟靈珠</string>
+      <string>返生丹</string>
+      <string>黃金鳥</string>
+      <string>煉骨符</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700035" indexId="36" questionLv="0">
+    <answerList>
+      <string>賞金</string>
+      <string>返生</string>
+      <string>領雙掛機幾率抓取</string>
+      <string>交易行購買</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700036" indexId="37" questionLv="0">
+    <answerList>
+      <string>1次</string>
+      <string>3次</string>
+      <string>4次</string>
+      <string>7次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700037" indexId="38" questionLv="0">
+    <answerList>
+      <string>22級</string>
+      <string>30級</string>
+      <string>31級</string>
+      <string>40級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700038" indexId="39" questionLv="0">
+    <answerList>
+      <string>18級</string>
+      <string>20級</string>
+      <string>30級</string>
+      <string>40級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700039" indexId="40" questionLv="0">
+    <answerList>
+      <string>金瓶兒</string>
+      <string>張小凡</string>
+      <string>陸雪琪</string>
+      <string>鬼厲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700040" indexId="41" questionLv="0">
+    <answerList>
+      <string>2次</string>
+      <string>3次</string>
+      <string>1次</string>
+      <string>4次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700041" indexId="42" questionLv="0">
+    <answerList>
+      <string>3%</string>
+      <string>1%</string>
+      <string>2%</string>
+      <string>5%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700042" indexId="43" questionLv="0">
+    <answerList>
+      <string>完成5次完美20環</string>
+      <string>完成4次完美20環</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700043" indexId="44" questionLv="0">
+    <answerList>
+      <string>5</string>
+      <string>6</string>
+      <string>7</string>
+      <string>10</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700044" indexId="45" questionLv="0">
+    <answerList>
+      <string>5星</string>
+      <string>4星</string>
+      <string>3星</string>
+      <string>1星</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700045" indexId="46" questionLv="35">
+    <answerList>
+      <string>35級</string>
+      <string>25級</string>
+      <string>45級</string>
+      <string>10級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700046" indexId="47" questionLv="0">
+    <answerList>
+      <string>護送</string>
+      <string>試煉</string>
+      <string>師門</string>
+      <string>寶圖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700047" indexId="48" questionLv="40">
+    <answerList>
+      <string>2次</string>
+      <string>3次</string>
+      <string>1次</string>
+      <string>5次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700048" indexId="49" questionLv="0">
+    <answerList>
+      <string>40級</string>
+      <string>50級</string>
+      <string>60級</string>
+      <string>70級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700049" indexId="50" questionLv="0">
+    <answerList>
+      <string>20級</string>
+      <string>30級</string>
+      <string>40級</string>
+      <string>25級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700050" indexId="51" questionLv="0">
+    <answerList>
+      <string>50次</string>
+      <string>80次</string>
+      <string>100次</string>
+      <string>10次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700051" indexId="52" questionLv="0">
+    <answerList>
+      <string>林滄海</string>
+      <string>枯心</string>
+      <string>錢小香</string>
+      <string>呂達</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700052" indexId="53" questionLv="0">
+    <answerList>
+      <string>10張</string>
+      <string>15張</string>
+      <string>20張</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700053" indexId="54" questionLv="0">
+    <answerList>
+      <string>物防</string>
+      <string>法防</string>
+      <string>生命</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700054" indexId="55" questionLv="0">
+    <answerList>
+      <string>3個</string>
+      <string>4個</string>
+      <string>5個</string>
+      <string>6個</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700055" indexId="56" questionLv="0">
+    <answerList>
+      <string>返生</string>
+      <string>放生</string>
+      <string>化生</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700056" indexId="57" questionLv="0">
+    <answerList>
+      <string>30級</string>
+      <string>32級</string>
+      <string>31級</string>
+      <string>29級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700057" indexId="58" questionLv="0">
+    <answerList>
+      <string>隊伍中有輔助職業</string>
+      <string>隊伍純輸出職業</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700058" indexId="59" questionLv="0">
+    <answerList>
+      <string>5顆</string>
+      <string>4顆</string>
+      <string>3顆</string>
+      <string>1顆</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700059" indexId="60" questionLv="0">
+    <answerList>
+      <string>不限制次數</string>
+      <string>5次</string>
+      <string>6次</string>
+      <string>7次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700060" indexId="61" questionLv="0">
+    <answerList>
+      <string>橙色</string>
+      <string>白色</string>
+      <string>紫色</string>
+      <string>藍色</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700061" indexId="62" questionLv="0">
+    <answerList>
+      <string>洗魂</string>
+      <string>鎖魂</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700062" indexId="63" questionLv="0">
+    <answerList>
+      <string>周二、四、六</string>
+      <string>周一、三、五</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700063" indexId="64" questionLv="40">
+    <answerList>
+      <string>周一、日</string>
+      <string>周二、四</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700064" indexId="65" questionLv="0">
+    <answerList>
+      <string>周五</string>
+      <string>周日</string>
+      <string>周三</string>
+      <string>周一</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700065" indexId="66" questionLv="0">
+    <answerList>
+      <string>25%</string>
+      <string>20%</string>
+      <string>15%</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700066" indexId="67" questionLv="45">
+    <answerList>
+      <string>升階獲得</string>
+      <string>學習技能書</string>
+      <string>升級獲得</string>
+      <string>元寶獲得</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700067" indexId="68" questionLv="45">
+    <answerList>
+      <string>黑龍浩劫</string>
+      <string>普通副本</string>
+      <string>十二生肖</string>
+      <string>鎮妖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700068" indexId="69" questionLv="0">
+    <answerList>
+      <string>30次</string>
+      <string>80次</string>
+      <string>20次</string>
+      <string>60次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700069" indexId="70" questionLv="0">
+    <answerList>
+      <string>第一次</string>
+      <string>第二次</string>
+      <string>第三次</string>
+      <string>第五次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700070" indexId="71" questionLv="50">
+    <answerList>
+      <string>200環</string>
+      <string>100環</string>
+      <string>150環</string>
+      <string>300環</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700071" indexId="72" questionLv="50">
+    <answerList>
+      <string>50級</string>
+      <string>60級</string>
+      <string>55級</string>
+      <string>65級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700072" indexId="73" questionLv="50">
+    <answerList>
+      <string>每小時刷新</string>
+      <string>每天刷新</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700073" indexId="74" questionLv="45">
+    <answerList>
+      <string>三人</string>
+      <string>四人</string>
+      <string>五人</string>
+      <string>兩人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700074" indexId="75" questionLv="0">
+    <answerList>
+      <string>洗魂珠</string>
+      <string>返生丹</string>
+      <string>黃金鳥</string>
+      <string>啟靈珠</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700075" indexId="76" questionLv="0">
+    <answerList>
+      <string>前100名</string>
+      <string>前90名</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700076" indexId="77" questionLv="0">
+    <answerList>
+      <string>25名</string>
+      <string>20名</string>
+      <string>30名</string>
+      <string>40名</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700077" indexId="78" questionLv="0">
+    <answerList>
+      <string>30秒</string>
+      <string>50秒</string>
+      <string>60秒</string>
+      <string>100秒</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700078" indexId="79" questionLv="0">
+    <answerList>
+      <string>5輪</string>
+      <string>4輪</string>
+      <string>3輪</string>
+      <string>1輪</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700079" indexId="80" questionLv="0">
+    <answerList>
+      <string>前5次</string>
+      <string>前3次</string>
+      <string>前7次</string>
+      <string>都有</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700080" indexId="81" questionLv="0">
+    <answerList>
+      <string>沒有</string>
+      <string>有</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700081" indexId="82" questionLv="0">
+    <answerList>
+      <string>升級寵物技能</string>
+      <string>開啟仙侶技能</string>
+      <string>提升仙侶屬性</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700082" indexId="83" questionLv="0">
+    <answerList>
+      <string>仙侶修煉等級</string>
+      <string>寵物的等級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700083" indexId="84" questionLv="0">
+    <answerList>
+      <string>周一</string>
+      <string>周五</string>
+      <string>周三</string>
+      <string>周日</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700084" indexId="85" questionLv="0">
+    <answerList>
+      <string>周二、四</string>
+      <string>周三、五</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700085" indexId="86" questionLv="0">
+    <answerList>
+      <string>不會</string>
+      <string>不知道</string>
+      <string>會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700086" indexId="87" questionLv="0">
+    <answerList>
+      <string>2級</string>
+      <string>3級</string>
+      <string>4級</string>
+      <string>5級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700087" indexId="88" questionLv="40">
+    <answerList>
+      <string>每5關</string>
+      <string>每3關</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700088" indexId="89" questionLv="50">
+    <answerList>
+      <string>8人</string>
+      <string>6人</string>
+      <string>4人</string>
+      <string>3人</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700089" indexId="90" questionLv="50">
+    <answerList>
+      <string>500點</string>
+      <string>800點</string>
+      <string>700點</string>
+      <string>100點</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700090" indexId="91" questionLv="0">
+    <answerList>
+      <string>蒼羽</string>
+      <string>鬼王</string>
+      <string>圣巫</string>
+      <string>焚香</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700091" indexId="92" questionLv="0">
+    <answerList>
+      <string>天下會武</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>亂世妖魔</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700092" indexId="93" questionLv="0">
+    <answerList>
+      <string>幻月洞府</string>
+      <string>鎮妖</string>
+      <string>十二生肖</string>
+      <string>妖獸突襲</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700093" indexId="94" questionLv="0">
+    <answerList>
+      <string>決戰九霄</string>
+      <string>鎮妖</string>
+      <string>混沌時空</string>
+      <string>十二生肖</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700094" indexId="95" questionLv="50">
+    <answerList>
+      <string>100</string>
+      <string>50</string>
+      <string>80</string>
+      <string>150</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700095" indexId="96" questionLv="45">
+    <answerList>
+      <string>黑龍浩劫</string>
+      <string>商會購買</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700096" indexId="97" questionLv="45">
+    <answerList>
+      <string>商會購買</string>
+      <string>護送</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700097" indexId="98" questionLv="45">
+    <answerList>
+      <string>在羽翼幻化中操作</string>
+      <string>不能重置</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700098" indexId="99" questionLv="0">
+    <answerList>
+      <string>技能</string>
+      <string>資質</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700099" indexId="100" questionLv="0">
+    <answerList>
+      <string>通過仙侶修煉</string>
+      <string>通過人物技能</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700100" indexId="101" questionLv="40">
+    <answerList>
+      <string>精英青云志</string>
+      <string>普通青云志</string>
+      <string>都不可以</string>
+      <string>都可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700101" indexId="102" questionLv="0">
+    <answerList>
+      <string>周三</string>
+      <string>周二、四、六</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700102" indexId="103" questionLv="0">
+    <answerList>
+      <string>3個</string>
+      <string>2個</string>
+      <string>4個</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700103" indexId="104" questionLv="0">
+    <answerList>
+      <string>2次</string>
+      <string>4次</string>
+      <string>1次</string>
+      <string>3次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700104" indexId="105" questionLv="45">
+    <answerList>
+      <string>精英劇情本</string>
+      <string>普通劇情本</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700105" indexId="106" questionLv="0">
+    <answerList>
+      <string>天音</string>
+      <string>焚香</string>
+      <string>鬼王</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700106" indexId="107" questionLv="60">
+    <answerList>
+      <string>精英副本</string>
+      <string>黑龍浩劫</string>
+      <string>幻月洞府</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700107" indexId="108" questionLv="0">
+    <answerList>
+      <string>80級</string>
+      <string>70級</string>
+      <string>100級</string>
+      <string>90級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700108" indexId="109" questionLv="60">
+    <answerList>
+      <string>60級</string>
+      <string>55級</string>
+      <string>70級</string>
+      <string>80級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700109" indexId="110" questionLv="60">
+    <answerList>
+      <string>變異妖獸</string>
+      <string>普通妖獸</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700110" indexId="111" questionLv="0">
+    <answerList>
+      <string>化生</string>
+      <string>返生</string>
+      <string>放生</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700111" indexId="112" questionLv="0">
+    <answerList>
+      <string>90</string>
+      <string>80</string>
+      <string>70</string>
+      <string>100</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700112" indexId="113" questionLv="40">
+    <answerList>
+      <string>1次</string>
+      <string>2次</string>
+      <string>3次</string>
+      <string>4次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700113" indexId="114" questionLv="0">
+    <answerList>
+      <string>60級</string>
+      <string>50級</string>
+      <string>40級</string>
+      <string>70級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700114" indexId="115" questionLv="60">
+    <answerList>
+      <string>100積分</string>
+      <string>200積分</string>
+      <string>300積分</string>
+      <string>500積分</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700115" indexId="116" questionLv="0">
+    <answerList>
+      <string>7天</string>
+      <string>8天</string>
+      <string>9天</string>
+      <string>10天</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700116" indexId="117" questionLv="0">
+    <answerList>
+      <string>3天</string>
+      <string>4天</string>
+      <string>5天</string>
+      <string>6天</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700117" indexId="118" questionLv="0">
+    <answerList>
+      <string>封號懲罰</string>
+      <string>警告懲罰</string>
+      <string>沒有懲罰</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700118" indexId="119" questionLv="50">
+    <answerList>
+      <string>1次</string>
+      <string>2次</string>
+      <string>3次</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700119" indexId="120" questionLv="50">
+    <answerList>
+      <string>是</string>
+      <string>否</string>
+      <string>不知道</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700120" indexId="121" questionLv="50">
+    <answerList>
+      <string>房屋購買者</string>
+      <string>雙方都可以</string>
+      <string>都不可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="3" id="358700121" indexId="122" questionLv="50">
+    <answerList>
+      <string>不消耗活力</string>
+      <string>節省活力</string>
+      <string>有概率出現雙倍效果</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700122" indexId="123" questionLv="50">
+    <answerList>
+      <string>擺放家具</string>
+      <string>升級房屋</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700123" indexId="124" questionLv="50">
+    <answerList>
+      <string>會</string>
+      <string>不會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700124" indexId="125" questionLv="50">
+    <answerList>
+      <string>會</string>
+      <string>不會</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700125" indexId="126" questionLv="50">
+    <answerList>
+      <string>系統凍結，離婚后會歸還</string>
+      <string>永遠凍結</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700126" indexId="127" questionLv="50">
+    <answerList>
+      <string>正確</string>
+      <string>錯誤</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700127" indexId="128" questionLv="70">
+    <answerList>
+      <string>不能</string>
+      <string>可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700128" indexId="129" questionLv="70">
+    <answerList>
+      <string>24小時</string>
+      <string>48小時</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700129" indexId="130" questionLv="70">
+    <answerList>
+      <string>72小時</string>
+      <string>48小時</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700130" indexId="131" questionLv="70">
+    <answerList>
+      <string>可以</string>
+      <string>不可以</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700131" indexId="132" questionLv="70">
+    <answerList>
+      <string>70級</string>
+      <string>80級</string>
+      <string>65級</string>
+      <string>85級</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700132" indexId="133" questionLv="0">
+    <answerList>
+      <string>合歡</string>
+      <string>青云</string>
+      <string>焚香</string>
+      <string>蒼羽</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700133" indexId="134" questionLv="0">
+    <answerList>
+      <string>青云</string>
+      <string>焚香</string>
+      <string>蒼羽</string>
+      <string>合歡</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700134" indexId="135" questionLv="0">
+    <answerList>
+      <string>異能者</string>
+      <string>靈音殿</string>
+      <string>青云門</string>
+      <string>焚香谷</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="2" id="358700135" indexId="136" questionLv="0">
+    <answerList>
+      <string>錯誤</string>
+      <string>正確</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+  <mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg answerNum="4" id="358700136" indexId="137" questionLv="0">
+    <answerList>
+      <string>都不影響</string>
+      <string>影響屬性</string>
+      <string>影響技能</string>
+      <string>都會影響</string>
+    </answerList>
+  </mzm.gsp.question.confbean.SQYXTForceAnswerQuestionCheckCfg>
+</data>

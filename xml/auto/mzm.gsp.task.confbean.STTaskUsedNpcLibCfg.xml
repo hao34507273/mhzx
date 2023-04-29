@@ -1,0 +1,34 @@
+<data>
+  <mzm.gsp.task.confbean.STTaskUsedNpcLibCfg npcLibId="10000">
+    <npcIds>
+      <int>150112193</int>
+      <int>150112192</int>
+      <int>150112190</int>
+      <int>150112191</int>
+    </npcIds>
+  </mzm.gsp.task.confbean.STTaskUsedNpcLibCfg>
+  <mzm.gsp.task.confbean.STTaskUsedNpcLibCfg npcLibId="10001">
+    <npcIds>
+      <int>150112195</int>
+      <int>150112194</int>
+      <int>150112197</int>
+      <int>150112196</int>
+    </npcIds>
+  </mzm.gsp.task.confbean.STTaskUsedNpcLibCfg>
+  <mzm.gsp.task.confbean.STTaskUsedNpcLibCfg npcLibId="10002">
+    <npcIds>
+      <int>150112199</int>
+      <int>150112198</int>
+      <int>150112201</int>
+      <int>150112200</int>
+    </npcIds>
+  </mzm.gsp.task.confbean.STTaskUsedNpcLibCfg>
+  <mzm.gsp.task.confbean.STTaskUsedNpcLibCfg npcLibId="10003">
+    <npcIds>
+      <int>150112203</int>
+      <int>150112202</int>
+      <int>150112205</int>
+      <int>150112204</int>
+    </npcIds>
+  </mzm.gsp.task.confbean.STTaskUsedNpcLibCfg>
+</data>

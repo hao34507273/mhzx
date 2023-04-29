@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.team.confbean.CTeamPlatformChildCfg id="342000000" templatename="地宫挂野">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="10" optionLvTop="20" optionName="混沌一层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="20" optionLvTop="30" optionName="混沌二层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="30" optionLvTop="40" optionName="混沌三层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="40" optionLvTop="50" optionName="混沌四层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="50" optionLvTop="60" optionName="混沌五层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="70" optionName="混沌六层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="80" optionName="混沌七层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="90" optionName="混沌八层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="100" optionName="混沌九层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="110" optionName="混沌十层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="110" optionLvTop="120" optionName="混沌十一层"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="120" optionLvTop="130" optionName="混沌十二层"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.CTeamPlatformChildCfg>
+</data>

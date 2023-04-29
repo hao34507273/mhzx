@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.grow.confbean.SFunctionOpenForecastCfg fixAwardId="2530" goalDes="[CD8500][i]“瞧那修仙的，一言不合就上天了。”[/i][-] 【功能介紹】 開啟後可以使用飛行器在空中快速長途移動。" goalType="4500" iconId="369" id="563000000" moduleType="2" openLevel="20" templateName="御剑飞行" title="御劍飛行">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SFunctionOpenForecastCfg>
+</data>

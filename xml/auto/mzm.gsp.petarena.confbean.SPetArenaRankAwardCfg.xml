@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1300" maxRank="1" minRank="1"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1301" maxRank="2" minRank="2"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1302" maxRank="3" minRank="3"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1303" maxRank="10" minRank="4"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1304" maxRank="20" minRank="11"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1305" maxRank="30" minRank="21"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1306" maxRank="50" minRank="31"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1307" maxRank="100" minRank="51"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1308" maxRank="200" minRank="101"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1309" maxRank="300" minRank="201"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1310" maxRank="400" minRank="301"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1311" maxRank="500" minRank="401"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1312" maxRank="600" minRank="501"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1313" maxRank="700" minRank="601"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1314" maxRank="800" minRank="701"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1315" maxRank="900" minRank="801"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1316" maxRank="1000" minRank="901"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1317" maxRank="1500" minRank="1001"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1318" maxRank="2000" minRank="1501"/>
+  <mzm.gsp.petarena.confbean.SPetArenaRankAwardCfg award="1319" maxRank="5000" minRank="2001"/>
+</data>

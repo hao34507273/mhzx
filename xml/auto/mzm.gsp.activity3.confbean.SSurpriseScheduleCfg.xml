@@ -1,0 +1,323 @@
+<data>
+  <mzm.gsp.activity3.confbean.SSurpriseScheduleCfg needServerLevel="30">
+    <dayScheduleInfos>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000091</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000076</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000081</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>35</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000088</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+            <entry>
+              <int>20000112</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000096</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>70</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000101</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>98</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000103</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000077</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000092</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000086</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>42</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000097</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000113</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000084</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>77</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000106</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>133</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000110</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000093</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000078</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000082</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>105</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000108</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>119</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000109</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>84</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000102</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000089</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+            <entry>
+              <int>20000114</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000098</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000079</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000095</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000087</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>112</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000104</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>126</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000105</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>56</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000099</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000115</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000085</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>63</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000090</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+            <entry>
+              <int>20000100</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000111</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020012" finishCount="1" joinLevel="30" openId="461" surpriseType="2"/>
+            </entry>
+            <entry>
+              <int>20000080</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020010" finishCount="1" joinLevel="30" openId="460" surpriseType="3"/>
+            </entry>
+            <entry>
+              <int>20000083</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+      <entry>
+        <int>91</int>
+        <mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+          <graphInfos>
+            <no-comparator/>
+            <entry>
+              <int>20000107</int>
+              <mzm.gsp.activity3.confbean.SSurpriseGraphInfo activityId="350020011" finishCount="1" joinLevel="30" openId="462" surpriseType="1"/>
+            </entry>
+          </graphInfos>
+        </mzm.gsp.activity3.confbean.SSurpriseGraphTotalInfo>
+      </entry>
+    </dayScheduleInfos>
+  </mzm.gsp.activity3.confbean.SSurpriseScheduleCfg>
+</data>

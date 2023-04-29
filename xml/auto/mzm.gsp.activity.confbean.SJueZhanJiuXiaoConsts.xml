@@ -1,0 +1,8 @@
+<root>
+<row name="waitTime" value="5"/>
+<row name="awardTimeInterval" value="120"/>
+<row name="outMapid" value="330000001"/>
+<row name="tipMinuteBeforeEnd" value="5"/>
+<row name="nextTipEndIntervalTime" value="5"/>
+<row name="delayTranforTime" value="1"/>
+</root>

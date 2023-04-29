@@ -1,0 +1,252 @@
+<data>
+  <mzm.gsp.activity3.confbean.SBackGameActivityPointCfg id="955300000">
+    <pointGetCfgs>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000005" awardPoint="25" needFinishCount="2"/>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000003" awardPoint="25" needFinishCount="5"/>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000024" awardPoint="25" needFinishCount="5"/>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointGet activityId="350000001" awardPoint="25" needFinishCount="10"/>
+    </pointGetCfgs>
+    <pointDayAwards>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9402" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9403" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9404" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+      <mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+        <awards>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9400" needPoint="50"/>
+          <mzm.gsp.activity3.confbean.BackGameActivityPointAward awardId="9401" needPoint="100"/>
+        </awards>
+      </mzm.gsp.activity3.confbean.BackGameActivityPointDayAward>
+    </pointDayAwards>
+  </mzm.gsp.activity3.confbean.SBackGameActivityPointCfg>
+</data>

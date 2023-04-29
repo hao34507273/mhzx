@@ -1,0 +1,28 @@
+<data>
+  <mzm.gsp.activity.confbean.SHuSongSpecialNpcCfg id="1">
+    <npc_cfgids>
+      <int>150115044</int>
+      <int>150111932</int>
+      <int>150111924</int>
+      <int>150113562</int>
+      <int>150113560</int>
+      <int>150111922</int>
+      <int>150111926</int>
+      <int>150111928</int>
+      <int>150111930</int>
+    </npc_cfgids>
+  </mzm.gsp.activity.confbean.SHuSongSpecialNpcCfg>
+  <mzm.gsp.activity.confbean.SHuSongSpecialNpcCfg id="2">
+    <npc_cfgids>
+      <int>150115043</int>
+      <int>150111931</int>
+      <int>150111925</int>
+      <int>150113561</int>
+      <int>150113559</int>
+      <int>150111929</int>
+      <int>150111923</int>
+      <int>150111927</int>
+      <int>150111921</int>
+    </npc_cfgids>
+  </mzm.gsp.activity.confbean.SHuSongSpecialNpcCfg>
+</data>

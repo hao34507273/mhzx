@@ -1,0 +1,14 @@
+<root>
+<row name="FABAO_OPEN_LEVEL" value="60"/>
+<row name="FABAO_MAX_HOLE" value="3"/>
+<row name="FABAO_MAX" value="6"/>
+<row name="MAX_LONG_JING_TRANSFER_COUNT" value="18"/>
+<row name="LONG_JING_TRANSFER_NPC" value="150113305"/>
+<row name="LONG_JING_TRANSFER_NPC_SERVICE" value="150210401"/>
+<row name="BASE_PRICE_ITEM_LEVEL" value="3"/>
+<row name="MIN_LEVEL_FOR_TRANSFER" value="5"/>
+<row name="specialTypes">
+<int>1</int>
+<int>6</int>
+</row>
+</root>

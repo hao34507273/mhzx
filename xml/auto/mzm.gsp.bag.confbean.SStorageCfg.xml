@@ -1,0 +1,18 @@
+<data>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage1" id="340900000" initcapacity="25" isopen="true" moneytype="3" name="我的倉庫1" num="50000"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage2" id="340900001" initcapacity="25" isopen="true" moneytype="3" name="我的倉庫2" num="100000"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage3" id="340900002" initcapacity="25" isopen="false" moneytype="2" name="我的倉庫3" num="30000"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage4" id="340900003" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫4" num="400"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage5" id="340900004" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫5" num="800"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage6" id="340900005" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫6" num="1000"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage7" id="340900006" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫7" num="1400"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage8" id="340900007" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫8" num="1800"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage9" id="340900008" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫9" num="2200"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage10" id="340900009" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫10" num="2600"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage11" id="340900010" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫11" num="3000"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage12" id="340900011" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫12" num="3400"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage13" id="340900012" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫13" num="3800"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage14" id="340900013" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫14" num="4200"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage15" id="340900014" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫15" num="4600"/>
+  <mzm.gsp.bag.confbean.SStorageCfg classname="role2storage16" id="340900015" initcapacity="25" isopen="false" moneytype="1" name="我的倉庫16" num="5000"/>
+</data>

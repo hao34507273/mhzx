@@ -1,0 +1,1175 @@
+<data>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620007" index="2" nextSkillId="0" skillId="110620008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110620010" skillId="110620009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620009" index="1" nextSkillId="110620011" skillId="110620010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620010" index="2" nextSkillId="0" skillId="110620011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110620013" skillId="110620012">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620012" index="1" nextSkillId="110620014" skillId="110620013">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620013" index="2" nextSkillId="0" skillId="110620014">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620000">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110620001" skillId="110620000">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620000" index="1" nextSkillId="110620002" skillId="110620001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620001" index="2" nextSkillId="0" skillId="110620002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110620004" skillId="110620003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620003" index="1" nextSkillId="110620005" skillId="110620004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620004" index="2" nextSkillId="0" skillId="110620005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110620007" skillId="110620006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110620007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110620006" index="1" nextSkillId="110620008" skillId="110620007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630016">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630015" index="1" nextSkillId="110630017" skillId="110630016">
+        <mutexList>
+          <int>110630017</int>
+          <int>110630012</int>
+          <int>110630013</int>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630017">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630016" index="2" nextSkillId="0" skillId="110630017">
+        <mutexList>
+          <int>110630017</int>
+          <int>110630012</int>
+          <int>110630013</int>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660004" index="1" nextSkillId="110660006" skillId="110660005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660005" skillId="110660004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660008" skillId="110660007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660005" index="2" nextSkillId="0" skillId="110660006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660002" skillId="110660001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660002" index="2" nextSkillId="0" skillId="110660003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660001" index="1" nextSkillId="110660003" skillId="110660002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660014" skillId="110660013">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660011" index="2" nextSkillId="0" skillId="110660012">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660015">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660014" index="2" nextSkillId="0" skillId="110660015">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660013" index="1" nextSkillId="110660015" skillId="110660014">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660008" index="2" nextSkillId="0" skillId="110660009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660007" index="1" nextSkillId="110660009" skillId="110660008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660010" index="1" nextSkillId="110660012" skillId="110660011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660011" skillId="110660010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660020">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660019" index="1" nextSkillId="110660021" skillId="110660020">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660021">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660020" index="2" nextSkillId="0" skillId="110660021">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660022">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660023" skillId="110660022">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660023">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660022" index="1" nextSkillId="110660024" skillId="110660023">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660016">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660017" skillId="110660016">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660017">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660016" index="1" nextSkillId="110660018" skillId="110660017">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660018">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660017" index="2" nextSkillId="0" skillId="110660018">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660019">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660020" skillId="110660019">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660028">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660029" skillId="110660028">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660029">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660028" index="1" nextSkillId="110660030" skillId="110660029">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660030">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660029" index="2" nextSkillId="0" skillId="110660030">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660031">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660032" skillId="110660031">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660024">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660023" index="2" nextSkillId="0" skillId="110660024">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660025">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660026" skillId="110660025">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660026">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660025" index="1" nextSkillId="110660027" skillId="110660026">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660027">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660026" index="2" nextSkillId="0" skillId="110660027">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630009" index="1" nextSkillId="110630011" skillId="110630010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630010" index="2" nextSkillId="0" skillId="110630011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630007" index="2" nextSkillId="0" skillId="110630008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630010" skillId="110630009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630013" index="2" nextSkillId="0" skillId="110630014">
+        <mutexList>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630015">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630016" skillId="110630015">
+        <mutexList>
+          <int>110630017</int>
+          <int>110630012</int>
+          <int>110630013</int>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630013" skillId="110630012">
+        <mutexList>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630012" index="1" nextSkillId="110630014" skillId="110630013">
+        <mutexList>
+          <int>110630014</int>
+          <int>110660001</int>
+          <int>110660002</int>
+          <int>110660003</int>
+        </mutexList>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630001" index="2" nextSkillId="0" skillId="110630002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630004" skillId="110630003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630000">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630001" skillId="110630000">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630000" index="1" nextSkillId="110630002" skillId="110630001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110630007" skillId="110630006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630006" index="1" nextSkillId="110630008" skillId="110630007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630003" index="1" nextSkillId="110630005" skillId="110630004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110630005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110630004" index="2" nextSkillId="0" skillId="110630005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660065">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660064" index="1" nextSkillId="110660066" skillId="110660065">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660064">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660065" skillId="110660064">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660067">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660068" skillId="110660067">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660066">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660065" index="2" nextSkillId="0" skillId="110660066">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660069">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660068" index="2" nextSkillId="0" skillId="110660069">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660068">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660067" index="1" nextSkillId="110660069" skillId="110660068">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660071">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660070" index="1" nextSkillId="110660072" skillId="110660071">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660070">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660071" skillId="110660070">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660072">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660071" index="2" nextSkillId="0" skillId="110660072">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650013" index="2" nextSkillId="0" skillId="110650014">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650015">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650016" skillId="110650015">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650013" skillId="110650012">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650012" index="1" nextSkillId="110650014" skillId="110650013">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610024">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610023" index="2" nextSkillId="0" skillId="110610024">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650009" index="1" nextSkillId="110650011" skillId="110650010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650010" index="2" nextSkillId="0" skillId="110650011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650007" index="2" nextSkillId="0" skillId="110650008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650010" skillId="110650009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650007" skillId="110650006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650006" index="1" nextSkillId="110650008" skillId="110650007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610022">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610023" skillId="110610022">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650003" index="1" nextSkillId="110650005" skillId="110650004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610023">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610022" index="1" nextSkillId="110610024" skillId="110610023">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650004" index="2" nextSkillId="0" skillId="110650005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610016">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610015" index="1" nextSkillId="110610017" skillId="110610016">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650001" index="2" nextSkillId="0" skillId="110650002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610017">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610016" index="2" nextSkillId="0" skillId="110610017">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650004" skillId="110650003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650000">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650001" skillId="110650000">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650000" index="1" nextSkillId="110650002" skillId="110650001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660035">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660034" index="1" nextSkillId="110660036" skillId="110660035">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610015">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610016" skillId="110610015">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640007" index="2" nextSkillId="0" skillId="110640008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610013" index="2" nextSkillId="0" skillId="110610014">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110640010" skillId="110640009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660034">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660035" skillId="110660034">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660033">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660032" index="2" nextSkillId="0" skillId="110660033">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610012" index="1" nextSkillId="110610014" skillId="110610013">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640009" index="1" nextSkillId="110640011" skillId="110640010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660032">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660031" index="1" nextSkillId="110660033" skillId="110660032">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610013" skillId="110610012">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640010" index="2" nextSkillId="0" skillId="110640011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660039">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660038" index="2" nextSkillId="0" skillId="110660039">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610011">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610010" index="2" nextSkillId="0" skillId="110610011">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640012">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110640013" skillId="110640012">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660038">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660037" index="1" nextSkillId="110660039" skillId="110660038">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610010">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610009" index="1" nextSkillId="110610011" skillId="110610010">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640013">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640012" index="1" nextSkillId="110640014" skillId="110640013">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660037">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660038" skillId="110660037">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610009">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610010" skillId="110610009">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640014">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640013" index="2" nextSkillId="0" skillId="110640014">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660036">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660035" index="2" nextSkillId="0" skillId="110660036">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610008">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610007" index="2" nextSkillId="0" skillId="110610008">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660043">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660044" skillId="110660043">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610006" index="1" nextSkillId="110610008" skillId="110610007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650021">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650020" index="2" nextSkillId="0" skillId="110650021">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640000">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110640001" skillId="110640000">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660042">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660041" index="2" nextSkillId="0" skillId="110660042">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610007" skillId="110610006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650020">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650019" index="1" nextSkillId="110650021" skillId="110650020">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640000" index="1" nextSkillId="110640002" skillId="110640001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660041">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660040" index="1" nextSkillId="110660042" skillId="110660041">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610004" index="2" nextSkillId="0" skillId="110610005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640001" index="2" nextSkillId="0" skillId="110640002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660040">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660041" skillId="110660040">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610003" index="1" nextSkillId="110610005" skillId="110610004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110640004" skillId="110640003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660047">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660046" index="1" nextSkillId="110660048" skillId="110660047">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610003">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610004" skillId="110610003">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650017">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650016" index="2" nextSkillId="0" skillId="110650017">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640004">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640003" index="1" nextSkillId="110640005" skillId="110640004">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660046">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660047" skillId="110660046">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610002">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610001" index="2" nextSkillId="0" skillId="110610002">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650016">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110650015" index="1" nextSkillId="110650017" skillId="110650016">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640005">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640004" index="2" nextSkillId="0" skillId="110640005">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660045">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660044" index="2" nextSkillId="0" skillId="110660045">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610001">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110610000" index="1" nextSkillId="110610002" skillId="110610001">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110650019">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110650020" skillId="110650019">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640006">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110640007" skillId="110640006">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660044">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660043" index="1" nextSkillId="110660045" skillId="110660044">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110610000">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110610001" skillId="110610000">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110640007">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110640006" index="1" nextSkillId="110640008" skillId="110640007">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660050">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660049" index="1" nextSkillId="110660051" skillId="110660050">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660051">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660050" index="2" nextSkillId="0" skillId="110660051">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660048">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660047" index="2" nextSkillId="0" skillId="110660048">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660049">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660050" skillId="110660049">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660054">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660053" index="2" nextSkillId="0" skillId="110660054">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660055">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660056" skillId="110660055">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660052">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660053" skillId="110660052">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660053">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660052" index="1" nextSkillId="110660054" skillId="110660053">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660058">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660059" skillId="110660058">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660059">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660058" index="1" nextSkillId="110660060" skillId="110660059">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660056">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660055" index="1" nextSkillId="110660057" skillId="110660056">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660057">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660056" index="2" nextSkillId="0" skillId="110660057">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660062">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660061" index="1" nextSkillId="110660063" skillId="110660062">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660063">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660062" index="2" nextSkillId="0" skillId="110660063">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660060">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="110660059" index="2" nextSkillId="0" skillId="110660060">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+  <mzm.gsp.skill.confbean.STPassiveSkillTypeTable skillId="110660061">
+    <skillTypeInfo>
+      <mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo beforeSkillId="0" index="0" nextSkillId="110660062" skillId="110660061">
+        <mutexList/>
+      </mzm.gsp.skill.confbean.STPassiveSkillTypeTableInfo>
+    </skillTypeInfo>
+  </mzm.gsp.skill.confbean.STPassiveSkillTypeTable>
+</data>

@@ -1,0 +1,17 @@
+<data>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500001" proCfgId="800100000" pvcCfgId="1000" pvcType="1" taskUseId="1" templatename="测试1" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500002" proCfgId="800100000" pvcCfgId="1000" pvcType="1" taskUseId="2" templatename="测试2" useRealPro="1" valueDown="-1" valueType="99" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500003" proCfgId="800100000" pvcCfgId="1000" pvcType="3" taskUseId="3" templatename="测试3" useRealPro="0" valueDown="-10" valueType="1" valueUp="10"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500004" proCfgId="800100000" pvcCfgId="1000" pvcType="3" taskUseId="4" templatename="测试4" useRealPro="1" valueDown="-500" valueType="2" valueUp="100"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500005" proCfgId="800100000" pvcCfgId="1000" pvcType="10" taskUseId="5" templatename="测试5" useRealPro="0" valueDown="-10" valueType="1" valueUp="10"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500006" proCfgId="800100000" pvcCfgId="1000" pvcType="10" taskUseId="6" templatename="测试6" useRealPro="1" valueDown="-500" valueType="2" valueUp="100"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500050" proCfgId="800103000" pvcCfgId="1000" pvcType="1" taskUseId="50" templatename="主线" useRealPro="0" valueDown="-500" valueType="2" valueUp="100"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500100" proCfgId="800102000" pvcCfgId="1000" pvcType="1" taskUseId="100" templatename="赏金-猎杀-自己" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500101" proCfgId="800102000" pvcCfgId="1000" pvcType="10" taskUseId="101" templatename="赏金-猎杀-排行战力" useRealPro="0" valueDown="-500" valueType="2" valueUp="100"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500102" proCfgId="800102000" pvcCfgId="1000" pvcType="11" taskUseId="102" templatename="赏金-猎杀-排行等级" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500200" proCfgId="800104000" pvcCfgId="1000" pvcType="1" taskUseId="200" templatename="师门-自己" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500201" proCfgId="800104000" pvcCfgId="1000" pvcType="10" taskUseId="201" templatename="师门-战力榜" useRealPro="0" valueDown="-500" valueType="2" valueUp="100"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500202" proCfgId="800104000" pvcCfgId="1000" pvcType="2" taskUseId="202" templatename="师门-好友" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500203" proCfgId="800104000" pvcCfgId="1000" pvcType="11" taskUseId="203" templatename="师门-等级榜" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+  <mzm.gsp.task.confbean.STaskPvcCfg id="343500300" proCfgId="800104000" pvcCfgId="1000" pvcType="3" taskUseId="300" templatename="帮派-帮主" useRealPro="0" valueDown="-1" valueType="1" valueUp="1"/>
+</data>

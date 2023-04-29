@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.item.confbean.SPetLianGuItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" expectAddRate="2500" floatExpectRate="10000" floatMaxNum="20" icon="124" id="211300000" isProprietary="false" minAddNum="10" name="煉骨符" namecolor="4" pilemax="99" sellSilver="35000" sort="1" type="20" useLevel="0"/>
+  <mzm.gsp.item.confbean.SPetLianGuItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="false" expectAddRate="2500" floatExpectRate="10000" floatMaxNum="20" icon="124" id="211300001" isProprietary="true" minAddNum="10" name="煉骨符" namecolor="4" pilemax="99" sellSilver="35000" sort="2" type="20" useLevel="0"/>
+</data>

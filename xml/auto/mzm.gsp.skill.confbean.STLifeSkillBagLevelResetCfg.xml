@@ -1,0 +1,611 @@
+<data>
+  <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfg type="1">
+    <level2skillResetInfo>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="714"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="1444"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="2190"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="2952"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="3730"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="4526"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="5338"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="6166"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="7010"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="7872"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="8750"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="9644"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="10554"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="11482"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="12426"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="13386"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="15356"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="14362"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="17400"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="16368"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="19836"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="18600"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="22430"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="21112"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="25226"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="23790"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="28250"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="26712"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="31494"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="0" returnSilver="29844"/>
+      </entry>
+      <entry>
+        <int>31</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="4" returnSilver="37474"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2" returnSilver="34404"/>
+      </entry>
+      <entry>
+        <int>34</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="13" returnSilver="47724"/>
+      </entry>
+      <entry>
+        <int>35</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="15" returnSilver="53208"/>
+      </entry>
+      <entry>
+        <int>32</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="7" returnSilver="40712"/>
+      </entry>
+      <entry>
+        <int>33</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="10" returnSilver="44126"/>
+      </entry>
+      <entry>
+        <int>38</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="23" returnSilver="71602"/>
+      </entry>
+      <entry>
+        <int>39</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="26" returnSilver="78426"/>
+      </entry>
+      <entry>
+        <int>36</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="17" returnSilver="59006"/>
+      </entry>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="20" returnSilver="65134"/>
+      </entry>
+      <entry>
+        <int>42</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="39" returnSilver="117552"/>
+      </entry>
+      <entry>
+        <int>43</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="44" returnSilver="132038"/>
+      </entry>
+      <entry>
+        <int>40</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="30" returnSilver="90772"/>
+      </entry>
+      <entry>
+        <int>41</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="34" returnSilver="103806"/>
+      </entry>
+      <entry>
+        <int>46</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="65" returnSilver="186242"/>
+      </entry>
+      <entry>
+        <int>47</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="74" returnSilver="207216"/>
+      </entry>
+      <entry>
+        <int>44</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="49" returnSilver="147288"/>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="57" returnSilver="166276"/>
+      </entry>
+      <entry>
+        <int>51</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="116" returnSilver="297178"/>
+      </entry>
+      <entry>
+        <int>50</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="104" returnSilver="274086"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="92" returnSilver="251150"/>
+      </entry>
+      <entry>
+        <int>48</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="83" returnSilver="229134"/>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="172" returnSilver="409842"/>
+      </entry>
+      <entry>
+        <int>54</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="156" returnSilver="372414"/>
+      </entry>
+      <entry>
+        <int>53</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="142" returnSilver="346234"/>
+      </entry>
+      <entry>
+        <int>52</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="129" returnSilver="321166"/>
+      </entry>
+      <entry>
+        <int>59</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="241" returnSilver="576284"/>
+      </entry>
+      <entry>
+        <int>58</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="223" returnSilver="532072"/>
+      </entry>
+      <entry>
+        <int>57</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="205" returnSilver="489626"/>
+      </entry>
+      <entry>
+        <int>56</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="188" returnSilver="448898"/>
+      </entry>
+      <entry>
+        <int>63</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="401" returnSilver="920380"/>
+      </entry>
+      <entry>
+        <int>62</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="359" returnSilver="829262"/>
+      </entry>
+      <entry>
+        <int>61</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="318" returnSilver="741596"/>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="279" returnSilver="657298"/>
+      </entry>
+      <entry>
+        <int>68</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="740" returnSilver="1477292"/>
+      </entry>
+      <entry>
+        <int>69</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="819" returnSilver="1603682"/>
+      </entry>
+      <entry>
+        <int>70</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="917" returnSilver="1766704"/>
+      </entry>
+      <entry>
+        <int>71</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1018" returnSilver="1935464"/>
+      </entry>
+      <entry>
+        <int>64</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="444" returnSilver="1015036"/>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="515" returnSilver="1124304"/>
+      </entry>
+      <entry>
+        <int>66</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="588" returnSilver="1237702"/>
+      </entry>
+      <entry>
+        <int>67</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="663" returnSilver="1355332"/>
+      </entry>
+      <entry>
+        <int>76</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1580" returnSilver="2896588"/>
+      </entry>
+      <entry>
+        <int>77</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1706" returnSilver="3116538"/>
+      </entry>
+      <entry>
+        <int>78</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1836" returnSilver="3343600"/>
+      </entry>
+      <entry>
+        <int>79</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1969" returnSilver="3577918"/>
+      </entry>
+      <entry>
+        <int>72</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1122" returnSilver="2110088"/>
+      </entry>
+      <entry>
+        <int>73</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1228" returnSilver="2290706"/>
+      </entry>
+      <entry>
+        <int>74</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1337" returnSilver="2477448"/>
+      </entry>
+      <entry>
+        <int>75</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="1457" returnSilver="2683606"/>
+      </entry>
+      <entry>
+        <int>85</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="3093" returnSilver="5674204"/>
+      </entry>
+      <entry>
+        <int>84</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2830" returnSilver="5177994"/>
+      </entry>
+      <entry>
+        <int>87</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="3637" returnSilver="6710714"/>
+      </entry>
+      <entry>
+        <int>86</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="3362" returnSilver="6185020"/>
+      </entry>
+      <entry>
+        <int>81</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2301" returnSilver="4189176"/>
+      </entry>
+      <entry>
+        <int>80</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2133" returnSilver="3878874"/>
+      </entry>
+      <entry>
+        <int>83</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2649" returnSilver="4838550"/>
+      </entry>
+      <entry>
+        <int>82</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="2473" returnSilver="4509006"/>
+      </entry>
+      <entry>
+        <int>93</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="5861" returnSilver="11156494"/>
+      </entry>
+      <entry>
+        <int>92</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="5434" returnSilver="10285058"/>
+      </entry>
+      <entry>
+        <int>95</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="6820" returnSilver="13126870"/>
+      </entry>
+      <entry>
+        <int>94</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="6298" returnSilver="12051438"/>
+      </entry>
+      <entry>
+        <int>89</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="4207" returnSilver="7807836"/>
+      </entry>
+      <entry>
+        <int>88</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="3919" returnSilver="7251560"/>
+      </entry>
+      <entry>
+        <int>91</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="5016" returnSilver="9436734"/>
+      </entry>
+      <entry>
+        <int>90</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="4607" returnSilver="8611124"/>
+      </entry>
+      <entry>
+        <int>102</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="10823" returnSilver="21665624"/>
+      </entry>
+      <entry>
+        <int>103</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="11448" returnSilver="23047322"/>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="9609" returnSilver="19001506"/>
+      </entry>
+      <entry>
+        <int>101</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="10210" returnSilver="20317190"/>
+      </entry>
+      <entry>
+        <int>98</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="8453" returnSilver="16525878"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="9020" returnSilver="17718056"/>
+      </entry>
+      <entry>
+        <int>96</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="7353" returnSilver="14230768"/>
+      </entry>
+      <entry>
+        <int>97</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="7897" returnSilver="15363610"/>
+      </entry>
+      <entry>
+        <int>110</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="16217" returnSilver="33847868"/>
+      </entry>
+      <entry>
+        <int>111</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="16954" returnSilver="35588242"/>
+      </entry>
+      <entry>
+        <int>108</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="14786" returnSilver="30537150"/>
+      </entry>
+      <entry>
+        <int>109</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="15493" returnSilver="32146470"/>
+      </entry>
+      <entry>
+        <int>106</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="13410" returnSilver="27428478"/>
+      </entry>
+      <entry>
+        <int>107</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="14092" returnSilver="28964668"/>
+      </entry>
+      <entry>
+        <int>104</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="12085" returnSilver="24462808"/>
+      </entry>
+      <entry>
+        <int>105</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="12741" returnSilver="25928038"/>
+      </entry>
+      <entry>
+        <int>119</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="23340" returnSilver="50986460"/>
+      </entry>
+      <entry>
+        <int>118</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="22493" returnSilver="48912856"/>
+      </entry>
+      <entry>
+        <int>117</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="21660" returnSilver="46882894"/>
+      </entry>
+      <entry>
+        <int>116</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="20841" returnSilver="44895980"/>
+      </entry>
+      <entry>
+        <int>115</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="20036" returnSilver="42951520"/>
+      </entry>
+      <entry>
+        <int>114</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="19245" returnSilver="41048928"/>
+      </entry>
+      <entry>
+        <int>113</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="18468" returnSilver="39188198"/>
+      </entry>
+      <entry>
+        <int>112</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="17704" returnSilver="37368162"/>
+      </entry>
+      <entry>
+        <int>127</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="30603" returnSilver="69591872"/>
+      </entry>
+      <entry>
+        <int>126</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="29647" returnSilver="67106858"/>
+      </entry>
+      <entry>
+        <int>125</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="28706" returnSilver="64670928"/>
+      </entry>
+      <entry>
+        <int>124</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="27779" returnSilver="62283454"/>
+      </entry>
+      <entry>
+        <int>123</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="26862" returnSilver="59930324"/>
+      </entry>
+      <entry>
+        <int>122</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="25960" returnSilver="57624678"/>
+      </entry>
+      <entry>
+        <int>121</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="25072" returnSilver="55365896"/>
+      </entry>
+      <entry>
+        <int>120</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="24199" returnSilver="53153360"/>
+      </entry>
+      <entry>
+        <int>137</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="40922" returnSilver="97565220"/>
+      </entry>
+      <entry>
+        <int>136</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="39828" returnSilver="94534732"/>
+      </entry>
+      <entry>
+        <int>139</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="43158" returnSilver="103795822"/>
+      </entry>
+      <entry>
+        <int>138</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="42032" returnSilver="100652026"/>
+      </entry>
+      <entry>
+        <int>141</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="45434" returnSilver="110335424"/>
+      </entry>
+      <entry>
+        <int>140</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="44288" returnSilver="107036240"/>
+      </entry>
+      <entry>
+        <int>143</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="47776" returnSilver="117112820"/>
+      </entry>
+      <entry>
+        <int>142</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="46597" returnSilver="113694056"/>
+      </entry>
+      <entry>
+        <int>129</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="32562" returnSilver="74711684"/>
+      </entry>
+      <entry>
+        <int>128</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="31575" returnSilver="72126602"/>
+      </entry>
+      <entry>
+        <int>131</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="34566" returnSilver="80123746"/>
+      </entry>
+      <entry>
+        <int>130</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="33556" returnSilver="77391602"/>
+      </entry>
+      <entry>
+        <int>133</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="36632" returnSilver="85747316"/>
+      </entry>
+      <entry>
+        <int>132</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="35591" returnSilver="82908766"/>
+      </entry>
+      <entry>
+        <int>135</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="38750" returnSilver="91559898"/>
+      </entry>
+      <entry>
+        <int>134</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="37688" returnSilver="88640054"/>
+      </entry>
+      <entry>
+        <int>144</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="48972" returnSilver="120592404"/>
+      </entry>
+      <entry>
+        <int>145</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="50170" returnSilver="124092082"/>
+      </entry>
+      <entry>
+        <int>146</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="51385" returnSilver="127653242"/>
+      </entry>
+      <entry>
+        <int>147</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="52616" returnSilver="131276576"/>
+      </entry>
+      <entry>
+        <int>148</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="53864" returnSilver="134962780"/>
+      </entry>
+      <entry>
+        <int>149</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="55129" returnSilver="138712552"/>
+      </entry>
+      <entry>
+        <int>150</int>
+        <mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfgInfo returnBanggong="56483" returnSilver="142827016"/>
+      </entry>
+    </level2skillResetInfo>
+  </mzm.gsp.skill.confbean.STLifeSkillBagLevelResetCfg>
+</data>

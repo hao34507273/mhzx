@@ -1,0 +1,58 @@
+<data>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200000" logincount="1">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="1" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909511"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909508"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200001" logincount="2">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909509"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909510"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200002" logincount="3">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="3" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="212909512"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909511"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200003" logincount="4">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909508"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909509"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200004" logincount="5">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="5" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909510"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="4" itemid="212909512"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200005" logincount="6">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="1" itemid="210159014"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="6" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="30" itemid="210159021"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200006" logincount="7">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="210159014"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="7" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="60" itemid="210159021"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+  <mzm.gsp.signaward.confbean.SLoginAward id="480200007" logincount="8">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="3" itemid="210159014"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="8" itemid="212909507"/>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="90" itemid="210159021"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SLoginAward>
+</data>

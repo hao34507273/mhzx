@@ -1,0 +1,60 @@
+<data>
+  <mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridWeightCfg activityId="350020100">
+    <index2gridWeightInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="1" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="2" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="3" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="4" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="5" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020100" index="6" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+    </index2gridWeightInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridWeightCfg>
+  <mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridWeightCfg activityId="350020101">
+    <index2gridWeightInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="1" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="2" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="3" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="4" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="5" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridWeightInfo activityId="350020101" index="6" itemWeight="100" yuanBaoWeight="100"/>
+      </entry>
+    </index2gridWeightInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridWeightCfg>
+</data>

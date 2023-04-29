@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="false" historyDescribe="[654cff]%1$s[-]創建了[ff0033]%2$s[-]戰隊" type="1"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="true" historyDescribe="[654cff]%1$s[-]邀請[654cff]%2$s[-]加入了戰隊" type="2"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="true" historyDescribe="[654cff]%1$s[-]離開了戰隊" type="3"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="true" historyDescribe="[654cff]%1$s[-]把[654cff]%2$s[-]請離了戰隊" type="4"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="true" historyDescribe="[654cff]%1$s[-]把戰隊名[ff0033]%2$s[-]修改為[ff0033]%3$s[-]" type="5"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="false" historyDescribe="[654cff]%1$s[-]成為戰隊聯合創始人" type="6"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="false" historyDescribe="第[654cff]%1$s[-]屆青云之巔中[654cff]%2$s[-]" type="7"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="false" historyDescribe="第[654cff]%1$s[-]屆青云之巔中獲得分賽區[654cff]%2$s[-]" type="8"/>
+  <mzm.gsp.corps.confbean.SCorpsHistoryCfg canDel="false" historyDescribe="第[654cff]%1$s[-]屆青云之巔中獲得總決賽[654cff]%2$s[-]" type="9"/>
+</data>

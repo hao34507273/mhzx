@@ -1,0 +1,38 @@
+<data>
+  <mzm.gsp.team.confbean.STHeartSeedCfg lvMin="1">
+    <lvMax>
+      <no-comparator/>
+      <entry>
+        <int>29</int>
+        <int>5</int>
+      </entry>
+    </lvMax>
+  </mzm.gsp.team.confbean.STHeartSeedCfg>
+  <mzm.gsp.team.confbean.STHeartSeedCfg lvMin="30">
+    <lvMax>
+      <no-comparator/>
+      <entry>
+        <int>39</int>
+        <int>50</int>
+      </entry>
+    </lvMax>
+  </mzm.gsp.team.confbean.STHeartSeedCfg>
+  <mzm.gsp.team.confbean.STHeartSeedCfg lvMin="40">
+    <lvMax>
+      <no-comparator/>
+      <entry>
+        <int>59</int>
+        <int>100</int>
+      </entry>
+    </lvMax>
+  </mzm.gsp.team.confbean.STHeartSeedCfg>
+  <mzm.gsp.team.confbean.STHeartSeedCfg lvMin="60">
+    <lvMax>
+      <no-comparator/>
+      <entry>
+        <int>200</int>
+        <int>300</int>
+      </entry>
+    </lvMax>
+  </mzm.gsp.team.confbean.STHeartSeedCfg>
+</data>

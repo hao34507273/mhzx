@@ -1,0 +1,13 @@
+<root>
+<row name="qingYuanNpcId" value="150112189"/>
+<row name="maxQingYuanRelationNum" value="5"/>
+<row name="minRoleLevel" value="30"/>
+<row name="minFriendValue" value="700"/>
+<row name="waitSeconds" value="30"/>
+<row name="qingYuanRelationTeamBuffId" value="701203130"/>
+<row name="friendValueAfterRelieve" value="100"/>
+<row name="relieveQingYuanMailId" value="340008004"/>
+<row name="makeQingYuanRelationTips" value="701609910"/>
+<row name="introduceQingYuanNpcServiceId" value="150210300"/>
+<row name="makeQingYuanNpcServiceId" value="150210301"/>
+</root>

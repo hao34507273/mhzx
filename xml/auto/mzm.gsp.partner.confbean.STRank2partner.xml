@@ -1,0 +1,40 @@
+<data>
+  <mzm.gsp.partner.confbean.STRank2partner rank="2">
+    <partnerIds>
+      <int>140107001</int>
+      <int>140109001</int>
+      <int>140108001</int>
+    </partnerIds>
+  </mzm.gsp.partner.confbean.STRank2partner>
+  <mzm.gsp.partner.confbean.STRank2partner rank="3">
+    <partnerIds>
+      <int>140105001</int>
+      <int>140106002</int>
+      <int>140106003</int>
+      <int>140104001</int>
+      <int>140102001</int>
+      <int>140103002</int>
+      <int>140101001</int>
+    </partnerIds>
+  </mzm.gsp.partner.confbean.STRank2partner>
+  <mzm.gsp.partner.confbean.STRank2partner rank="4">
+    <partnerIds>
+      <int>140105003</int>
+      <int>140106001</int>
+      <int>140103001</int>
+      <int>140102003</int>
+      <int>140102002</int>
+      <int>140104002</int>
+      <int>140101003</int>
+    </partnerIds>
+  </mzm.gsp.partner.confbean.STRank2partner>
+  <mzm.gsp.partner.confbean.STRank2partner rank="5">
+    <partnerIds>
+      <int>140105002</int>
+      <int>140102004</int>
+      <int>140104003</int>
+      <int>140103003</int>
+      <int>140101002</int>
+    </partnerIds>
+  </mzm.gsp.partner.confbean.STRank2partner>
+</data>

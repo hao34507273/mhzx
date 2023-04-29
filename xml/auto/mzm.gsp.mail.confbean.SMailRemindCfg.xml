@@ -1,0 +1,22 @@
+<data>
+  <mzm.gsp.mail.confbean.SMailRemindCfg triggerLevel="25">
+    <mailcfgList>
+      <int>340007000</int>
+    </mailcfgList>
+  </mzm.gsp.mail.confbean.SMailRemindCfg>
+  <mzm.gsp.mail.confbean.SMailRemindCfg triggerLevel="30">
+    <mailcfgList>
+      <int>340007001</int>
+    </mailcfgList>
+  </mzm.gsp.mail.confbean.SMailRemindCfg>
+  <mzm.gsp.mail.confbean.SMailRemindCfg triggerLevel="48">
+    <mailcfgList>
+      <int>340007002</int>
+    </mailcfgList>
+  </mzm.gsp.mail.confbean.SMailRemindCfg>
+  <mzm.gsp.mail.confbean.SMailRemindCfg triggerLevel="50">
+    <mailcfgList>
+      <int>340007004</int>
+    </mailcfgList>
+  </mzm.gsp.mail.confbean.SMailRemindCfg>
+</data>

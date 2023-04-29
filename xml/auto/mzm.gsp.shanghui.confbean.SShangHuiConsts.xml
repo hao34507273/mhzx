@@ -1,0 +1,17 @@
+<root>
+<row name="OPEN_LEVEL" value="20"/>
+<row name="PRICE_DAY_MAX_FLOW_LIMIT" value="1000"/>
+<row name="PRICE_DAY_MIN_FLOW_LIMIT" value="-1000"/>
+<row name="RISE_FALL_BACK_RATE" value="5000"/>
+<row name="FALL_RISE_BACK_RATE" value="5000"/>
+<row name="STOP_RISE_BUY_RATE" value="1"/>
+<row name="STOP_FALL_SELL_RATE" value="0.5"/>
+<row name="SHOW_ALL_SELLED_MORE_THAN_ORG_PRICE_RATE" value="5000"/>
+<row name="NO_ITEM_SELLED_MORE_THAN_ORG_PRICE_RATE" value="5000"/>
+<row name="ITEM_FROM_SHANGHUI_SELL_BASE_BUY_RATE" value="8000"/>
+<row name="ITEM_NOT_FROM_SHANGHUI_SELL_BASE_MARKET_RATE" value="9000"/>
+<row name="EXCHANGE_ONE_PRICE_CHANGE_RATE" value="10"/>
+<row name="SHOW_CHANGE_NEED_EXCHANGE_ITEM_NUM" value="4"/>
+<row name="SHANGHUI_PRICE_UDPATE_OBSERVER_ID" value="350200033"/>
+<row name="SHANGHUI_PAGE_NUM" value="4"/>
+</root>

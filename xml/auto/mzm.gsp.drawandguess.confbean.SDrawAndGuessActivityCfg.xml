@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.drawandguess.confbean.SDrawAndGuessActivityCfg activityCfgid="350000613" jifenLibId="1" maxRewardTimes="1" maxTeamMember="5" minTeamMember="3" npcCfgid="150113612" npcServiceCfgid="150210047" openCfgid="346" ruleId="950100001">
+    <awardCfgidList>
+      <int>7640</int>
+      <int>7641</int>
+      <int>7642</int>
+      <int>7643</int>
+      <int>7644</int>
+    </awardCfgidList>
+  </mzm.gsp.drawandguess.confbean.SDrawAndGuessActivityCfg>
+</data>

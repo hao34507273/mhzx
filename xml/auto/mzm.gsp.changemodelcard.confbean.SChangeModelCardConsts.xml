@@ -1,0 +1,14 @@
+<root>
+<row name="OPEN_LEVEL" value="80"/>
+<row name="DEFAULT_CLASS" value="0"/>
+<row name="DEFAULT_CLASS_LEVEL" value="1"/>
+<row name="INIT_ESSENCE" value="0"/>
+<row name="INIT_SCORE" value="0"/>
+<row name="MAX_OVERLAY_COUNT" value="5"/>
+<row name="LOTTERY_COST" value="40"/>
+<row name="TEN_LOTTERY_COST" value="400"/>
+<row name="LOTTERY_AWARD_POOL_TYPE_ID" value="8512"/>
+<row name="LOTTERY_ANIMATION_DURATION" value="1"/>
+<row name="EXPIRE_NOTIFY_REMAIN_PVP_COUNT" value="1"/>
+<row name="EXPIRE_NOTIFY_REMAIN_MINUTES" value="15"/>
+</root>

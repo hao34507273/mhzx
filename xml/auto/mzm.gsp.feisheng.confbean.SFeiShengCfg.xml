@@ -1,0 +1,14 @@
+<data>
+  <mzm.gsp.feisheng.confbean.SFeiShengCfg activity_cfg_id="350000044" activity_map_cfg_id="330000929" activity_map_transfer_x="763" activity_map_transfer_y="920" award_id="7410" level="119" moduleid="274" npc_controller_id="701100022" serverlevel="115" task_graph_id="30000033">
+    <sub_activity_cfg_ids>
+      <int>350000045</int>
+      <int>350000046</int>
+      <int>350000047</int>
+      <int>350000049</int>
+      <int>350000048</int>
+      <int>350000051</int>
+      <int>350000050</int>
+      <int>350000052</int>
+    </sub_activity_cfg_ids>
+  </mzm.gsp.feisheng.confbean.SFeiShengCfg>
+</data>

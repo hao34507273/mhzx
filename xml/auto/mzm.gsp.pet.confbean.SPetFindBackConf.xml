@@ -1,0 +1,35 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="0" costCopper="100" costRMB="0" dayLimit="10" petType="1" templateId="130700000" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="5" costCopper="200" costRMB="0" dayLimit="10" petType="1" templateId="130700001" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="15" costCopper="300" costRMB="0" dayLimit="10" petType="1" templateId="130700002" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="25" costCopper="400" costRMB="0" dayLimit="10" petType="1" templateId="130700003" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="35" costCopper="500" costRMB="0" dayLimit="10" petType="1" templateId="130700004" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="45" costCopper="600" costRMB="0" dayLimit="10" petType="1" templateId="130700005" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="55" costCopper="700" costRMB="0" dayLimit="10" petType="1" templateId="130700006" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="65" costCopper="800" costRMB="0" dayLimit="10" petType="1" templateId="130700007" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="75" costCopper="900" costRMB="0" dayLimit="10" petType="1" templateId="130700008" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="85" costCopper="1000" costRMB="0" dayLimit="10" petType="1" templateId="130700009" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="95" costCopper="1100" costRMB="0" dayLimit="10" petType="1" templateId="130700010" templateName="宝宝找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="0" costCopper="0" costRMB="10" dayLimit="30" petType="2" templateId="130700011" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="5" costCopper="0" costRMB="20" dayLimit="30" petType="2" templateId="130700012" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="15" costCopper="0" costRMB="30" dayLimit="30" petType="2" templateId="130700013" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="25" costCopper="0" costRMB="40" dayLimit="30" petType="2" templateId="130700014" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="35" costCopper="0" costRMB="50" dayLimit="30" petType="2" templateId="130700015" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="45" costCopper="0" costRMB="60" dayLimit="30" petType="2" templateId="130700016" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="55" costCopper="0" costRMB="70" dayLimit="30" petType="2" templateId="130700017" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="65" costCopper="0" costRMB="80" dayLimit="30" petType="2" templateId="130700018" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="75" costCopper="0" costRMB="90" dayLimit="30" petType="2" templateId="130700019" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="85" costCopper="0" costRMB="100" dayLimit="30" petType="2" templateId="130700020" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="95" costCopper="0" costRMB="110" dayLimit="30" petType="2" templateId="130700021" templateName="变异找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="0" costCopper="0" costRMB="20" dayLimit="60" petType="3" templateId="130700022" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="5" costCopper="0" costRMB="40" dayLimit="60" petType="3" templateId="130700023" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="15" costCopper="0" costRMB="60" dayLimit="60" petType="3" templateId="130700024" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="25" costCopper="0" costRMB="80" dayLimit="60" petType="3" templateId="130700025" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="35" costCopper="0" costRMB="100" dayLimit="60" petType="3" templateId="130700026" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="45" costCopper="0" costRMB="120" dayLimit="60" petType="3" templateId="130700027" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="55" costCopper="0" costRMB="140" dayLimit="60" petType="3" templateId="130700028" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="65" costCopper="0" costRMB="160" dayLimit="60" petType="3" templateId="130700029" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="75" costCopper="0" costRMB="180" dayLimit="60" petType="3" templateId="130700030" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="85" costCopper="0" costRMB="200" dayLimit="60" petType="3" templateId="130700031" templateName="神兽找回"/>
+  <mzm.gsp.pet.confbean.SPetFindBackConf awardId="0" catchLevel="95" costCopper="0" costRMB="220" dayLimit="60" petType="3" templateId="130700032" templateName="神兽找回"/>
+</data>

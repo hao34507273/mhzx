@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.activity.confbean.SWorShipSalaryCfg maxNum="70" minNum="1" salaryPerOneFile="80"/>
+  <mzm.gsp.activity.confbean.SWorShipSalaryCfg maxNum="120" minNum="71" salaryPerOneFile="70"/>
+  <mzm.gsp.activity.confbean.SWorShipSalaryCfg maxNum="170" minNum="121" salaryPerOneFile="60"/>
+  <mzm.gsp.activity.confbean.SWorShipSalaryCfg maxNum="1000" minNum="171" salaryPerOneFile="40"/>
+</data>

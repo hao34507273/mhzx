@@ -1,0 +1,6 @@
+<root>
+<row name="cell_total_num" value="30"/>
+<row name="item_cell_delay_award_seconds" value="30"/>
+<row name="draw_lottery_delay_award_seconds" value="30"/>
+<row name="arrive_first_box_max_days" value="3"/>
+</root>

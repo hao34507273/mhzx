@@ -1,0 +1,15 @@
+<root>
+<row name="COUPLE_DAILY_ACTIVITY_ID" value="350000304"/>
+<row name="NPC_ID" value="150111048"/>
+<row name="NPC_SERVER_ID" value="150210000"/>
+<row name="QUESTION_NUM" value="3"/>
+<row name="WAIT_COUPLE_ANSWER_TIME" value="30"/>
+<row name="WAIT_COUPLE_QUESTION_CONFIRM_TIME" value="10"/>
+<row name="WAIT_COUPLE_PINTU_CONFIRM_TIME" value="10"/>
+<row name="AWARD_ITEM_ID_1" value="210132015"/>
+<row name="AWARD_ITEM_ID_2" value="210132016"/>
+<row name="AWARD_ITEM_ID_3" value="212000100"/>
+<row name="RANDOM_TASK_NUM" value="3"/>
+<row name="FINISH_ALL_TASK_AWARD_ID" value="5301"/>
+<row name="ANSWER_QUESTION_INTERVAL" value="2"/>
+</root>

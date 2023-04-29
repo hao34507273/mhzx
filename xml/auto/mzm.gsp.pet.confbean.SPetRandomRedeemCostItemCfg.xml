@@ -1,0 +1,12 @@
+<data>
+  <mzm.gsp.pet.confbean.SPetRandomRedeemCostItemCfg id="131900000" petType="3" templateName="神兽兑换">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="69"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRandomRedeemCostItemCfg>
+  <mzm.gsp.pet.confbean.SPetRandomRedeemCostItemCfg id="131900001" petType="4" templateName="魔兽兑换">
+    <itemCostList>
+      <mzm.gsp.pet.confbean.RedeemCostItem itemNum="99" itemTypeId="70"/>
+    </itemCostList>
+  </mzm.gsp.pet.confbean.SPetRandomRedeemCostItemCfg>
+</data>

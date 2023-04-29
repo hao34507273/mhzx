@@ -1,0 +1,4 @@
+<data>
+  <mzm.gsp.marriage.confbean.SMarriageParadeCfg awardid="5600" benefitScacle="200" giveMoneyCount="6" id="190500000" maxRoleNum="10" notifyInGang="0" notifyInWorld="0" npcInMap="0" paradeMapid="330000001" paradeMaxTimeSec="1800" paradeSpeed="100" pathPointScale="40" prepareSec="0" rate="2000" rideIconid="661" stopMapItemCount="6" stopSec="8" yuanBaoNum="666"/>
+  <mzm.gsp.marriage.confbean.SMarriageParadeCfg awardid="5600" benefitScacle="200" giveMoneyCount="4" id="190500001" maxRoleNum="10" notifyInGang="60" notifyInWorld="60" npcInMap="150112179" paradeMapid="330001000" paradeMaxTimeSec="1800" paradeSpeed="100" pathPointScale="40" prepareSec="10" rate="2000" rideIconid="661" stopMapItemCount="6" stopSec="8" yuanBaoNum="1314"/>
+</data>

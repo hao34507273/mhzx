@@ -1,0 +1,13 @@
+<root>
+<row name="ACTIVITYID" value="350000002"/>
+<row name="GRAPH_ID" value="20000015"/>
+<row name="NPC_ID" value="150100252"/>
+<row name="NPC_SERVICE" value="150200015"/>
+<row name="REWARDID1" value="305"/>
+<row name="AWARDRATE1" value="10000"/>
+<row name="REWARDID2" value="305"/>
+<row name="AWARDRATE2" value="0"/>
+<row name="MAX_AWARD_COUNT" value="5"/>
+<row name="MONSTER_TYPE_ID" value="30"/>
+<row name="GUIDE_GRAPH_ID" value="30000025"/>
+</root>

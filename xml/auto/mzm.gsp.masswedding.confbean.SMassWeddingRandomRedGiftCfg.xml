@@ -1,0 +1,27 @@
+<data>
+  <mzm.gsp.masswedding.confbean.SMassWeddingRandomRedGiftCfg id="192100000">
+    <rate2RedgiftCfgid>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <int>0</int>
+      </entry>
+      <entry>
+        <int>1500</int>
+        <int>192200002</int>
+      </entry>
+      <entry>
+        <int>2000</int>
+        <int>192200003</int>
+      </entry>
+      <entry>
+        <int>7000</int>
+        <int>192200000</int>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <int>192200001</int>
+      </entry>
+    </rate2RedgiftCfgid>
+  </mzm.gsp.masswedding.confbean.SMassWeddingRandomRedGiftCfg>
+</data>

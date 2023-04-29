@@ -1,0 +1,194 @@
+<data>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="0" levelUpNeedMoney="2004800" levelUpNeedTimeM="180" maintainCostMoneyPerDay="376000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>10</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="1" levelUpNeedMoney="3117600" levelUpNeedTimeM="240" maintainCostMoneyPerDay="408000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>10</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="2" levelUpNeedMoney="4300800" levelUpNeedTimeM="300" maintainCostMoneyPerDay="448000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>10</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="3" levelUpNeedMoney="5528000" levelUpNeedTimeM="360" maintainCostMoneyPerDay="744000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>15</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="4" levelUpNeedMoney="6837600" levelUpNeedTimeM="420" maintainCostMoneyPerDay="804000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>15</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="5" levelUpNeedMoney="8013600" levelUpNeedTimeM="480" maintainCostMoneyPerDay="1152000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>15</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="6" levelUpNeedMoney="9548800" levelUpNeedTimeM="540" maintainCostMoneyPerDay="1264000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>20</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="7" levelUpNeedMoney="11016000" levelUpNeedTimeM="600" maintainCostMoneyPerDay="1360000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>20</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="8" levelUpNeedMoney="12180000" levelUpNeedTimeM="660" maintainCostMoneyPerDay="1820000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>20</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="9" levelUpNeedMoney="13904000" levelUpNeedTimeM="720" maintainCostMoneyPerDay="1960000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>25</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="10" levelUpNeedMoney="14976000" levelUpNeedTimeM="780" maintainCostMoneyPerDay="2520000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>25</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="11" levelUpNeedMoney="16556800" levelUpNeedTimeM="840" maintainCostMoneyPerDay="2664000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>25</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="12" levelUpNeedMoney="18368000" levelUpNeedTimeM="900" maintainCostMoneyPerDay="2880000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>30</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="13" levelUpNeedMoney="19266000" levelUpNeedTimeM="960" maintainCostMoneyPerDay="3556000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>30</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="14" levelUpNeedMoney="20876800" levelUpNeedTimeM="1020" maintainCostMoneyPerDay="3752000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>30</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+  <mzm.gsp.gang.confbean.SGangXiangFangCfg level="15" levelUpNeedMoney="22487600" levelUpNeedTimeM="1080" maintainCostMoneyPerDay="4576000">
+    <dutyList>
+      <int>1</int>
+      <int>2</int>
+      <int>4</int>
+      <int>8</int>
+      <int>10</int>
+      <int>35</int>
+      <int>500</int>
+      <int>500</int>
+    </dutyList>
+  </mzm.gsp.gang.confbean.SGangXiangFangCfg>
+</data>

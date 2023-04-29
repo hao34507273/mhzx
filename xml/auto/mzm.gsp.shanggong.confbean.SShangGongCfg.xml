@@ -1,0 +1,19 @@
+<data>
+  <mzm.gsp.shanggong.confbean.SShangGongCfg moduleid="215" shanggong_id="1">
+    <gongpin_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.shanggong.confbean.SGongPinInfo money_num="1280000" money_type="3" point="52"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.shanggong.confbean.SGongPinInfo money_num="10000" money_type="2" point="60"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.shanggong.confbean.SGongPinInfo money_num="88" money_type="1" point="80"/>
+      </entry>
+    </gongpin_infos>
+  </mzm.gsp.shanggong.confbean.SShangGongCfg>
+</data>

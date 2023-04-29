@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="1" content="集火" id="121100000"/>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="1" content="封印" id="121100001"/>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="1" content="守屍" id="121100002"/>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="0" content="治療" id="121100010"/>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="0" content="復活" id="121100011"/>
+  <mzm.gsp.fight.confbean.SFightCommandCfg commandType="0" content="解封" id="121100012"/>
+</data>

@@ -1,0 +1,23 @@
+<root>
+<row name="ACTIVITY_ID" value="350000306"/>
+<row name="NPC_ID" value="150111306"/>
+<row name="START_CONTROL_ID" value="701103201"/>
+<row name="LAST_MATH_TO_END_MIN" value="3"/>
+<row name="COMMON_AWARD_ID" value="5500"/>
+<row name="COMMON_AWARD_INTERVAL_MIN" value="3"/>
+<row name="MATCH_INTERVAL_SEC" value="75"/>
+<row name="PREPARE_TIME_MIN" value="15"/>
+<row name="ACTIVITY_MAP_ID" value="330000923"/>
+<row name="OUT_MAP_ID" value="330000001"/>
+<row name="FIRST_WIN_AWARDID" value="5503"/>
+<row name="FIGHT_COUNT" value="5"/>
+<row name="FIGHT_COUNT_AWARDID" value="5504"/>
+<row name="WIN_AWARDID" value="5501"/>
+<row name="LOSE_AWARDID" value="5502"/>
+<row name="INI_SCORE" value="1000"/>
+<row name="K" value="200"/>
+<row name="CONTINU_WIN_COUNT" value="5"/>
+<row name="NOTIFY_MAIL_ID" value="340005300"/>
+<row name="MATCH_SCORE_INTERVAL" value="400"/>
+<row name="MATCH_FAIL_EXTEND_SCORE" value="200"/>
+</root>

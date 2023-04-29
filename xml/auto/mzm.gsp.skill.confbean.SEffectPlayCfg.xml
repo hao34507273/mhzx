@@ -1,0 +1,2716 @@
+<data>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="0" effectid="1" id="160400001" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702000001" effectid="2" id="160400002" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002021" effectid="3" id="160400003" lastTime="800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001000" effectid="1" id="160400101" lastTime="0" modelid="700300004"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001000" effectid="1" id="160400102" lastTime="0" modelid="700300005"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002000" effectid="1" id="160400103" lastTime="0" modelid="700300000"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002000" effectid="1" id="160400104" lastTime="0" modelid="700300001"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003000" effectid="1" id="160400105" lastTime="0" modelid="700300002"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003000" effectid="1" id="160400106" lastTime="0" modelid="700300003"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004000" effectid="1" id="160400107" lastTime="0" modelid="700300006"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004000" effectid="1" id="160400108" lastTime="0" modelid="700300007"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005000" effectid="1" id="160400109" lastTime="0" modelid="700300010"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005000" effectid="1" id="160400110" lastTime="0" modelid="700300011"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006000" effectid="1" id="160400111" lastTime="0" modelid="700300008"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006000" effectid="1" id="160400112" lastTime="0" modelid="700300009"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015010" effectid="1" id="160400113" lastTime="0" modelid="700300133"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015020" effectid="1" id="160400114" lastTime="0" modelid="700301033"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015030" effectid="1" id="160400115" lastTime="0" modelid="700301018"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015040" effectid="1" id="160400116" lastTime="0" modelid="700301020"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015050" effectid="1" id="160400117" lastTime="0" modelid="700300126"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015060" effectid="1" id="160400118" lastTime="0" modelid="700301002"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015070" effectid="1" id="160400119" lastTime="0" modelid="700300119"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015080" effectid="1" id="160400120" lastTime="0" modelid="700301012"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015090" effectid="1" id="160400121" lastTime="0" modelid="700300101"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015100" effectid="1" id="160400122" lastTime="0" modelid="700300121"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015110" effectid="1" id="160400123" lastTime="0" modelid="700301000"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015120" effectid="1" id="160400124" lastTime="0" modelid="700300120"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015130" effectid="1" id="160400125" lastTime="0" modelid="700300100"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015140" effectid="1" id="160400126" lastTime="0" modelid="700300141"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015150" effectid="1" id="160400127" lastTime="0" modelid="700300139"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015160" effectid="1" id="160400128" lastTime="0" modelid="700300109"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015170" effectid="1" id="160400129" lastTime="0" modelid="700301007"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015180" effectid="1" id="160400130" lastTime="0" modelid="700301004"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015190" effectid="1" id="160400131" lastTime="0" modelid="700301001"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015200" effectid="1" id="160400132" lastTime="0" modelid="700300111"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015210" effectid="1" id="160400133" lastTime="0" modelid="700301016"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015220" effectid="1" id="160400134" lastTime="0" modelid="700301030"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015230" effectid="1" id="160400135" lastTime="0" modelid="700300115"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015240" effectid="1" id="160400136" lastTime="0" modelid="700300110"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015250" effectid="1" id="160400137" lastTime="0" modelid="700300134"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015260" effectid="1" id="160400138" lastTime="0" modelid="700300132"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015270" effectid="1" id="160400139" lastTime="0" modelid="700301005"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015280" effectid="1" id="160400140" lastTime="0" modelid="700301043"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015290" effectid="1" id="160400141" lastTime="0" modelid="700300105"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015300" effectid="1" id="160400142" lastTime="0" modelid="700300137"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015320" effectid="1" id="160400143" lastTime="0" modelid="700301011"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015330" effectid="1" id="160400144" lastTime="0" modelid="700300140"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015350" effectid="1" id="160400145" lastTime="0" modelid="700300103"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015360" effectid="1" id="160400146" lastTime="0" modelid="700301035"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015370" effectid="1" id="160400147" lastTime="0" modelid="700301009"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015380" effectid="1" id="160400148" lastTime="0" modelid="700301010"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015390" effectid="1" id="160400149" lastTime="0" modelid="700300106"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015400" effectid="1" id="160400150" lastTime="0" modelid="700301028"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015410" effectid="1" id="160400151" lastTime="0" modelid="700300108"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015420" effectid="1" id="160400152" lastTime="0" modelid="700300136"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015430" effectid="1" id="160400153" lastTime="0" modelid="700301006"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015440" effectid="1" id="160400154" lastTime="0" modelid="700300104"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015450" effectid="1" id="160400155" lastTime="0" modelid="700300124"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015460" effectid="1" id="160400156" lastTime="0" modelid="700301053"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015470" effectid="1" id="160400157" lastTime="0" modelid="700301036"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015480" effectid="1" id="160400158" lastTime="0" modelid="700301040"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015490" effectid="1" id="160400159" lastTime="0" modelid="700300117"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015500" effectid="1" id="160400160" lastTime="0" modelid="700300118"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015510" effectid="1" id="160400161" lastTime="0" modelid="700301003"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015520" effectid="1" id="160400162" lastTime="0" modelid="700301042"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015530" effectid="1" id="160400163" lastTime="0" modelid="700301013"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015540" effectid="1" id="160400164" lastTime="0" modelid="700301014"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015550" effectid="1" id="160400165" lastTime="0" modelid="700301023"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015560" effectid="1" id="160400166" lastTime="0" modelid="700300125"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015570" effectid="1" id="160400167" lastTime="0" modelid="700300102"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015580" effectid="1" id="160400168" lastTime="0" modelid="700300122"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015590" effectid="1" id="160400169" lastTime="0" modelid="700300128"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015600" effectid="1" id="160400170" lastTime="0" modelid="700301073"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015610" effectid="1" id="160400171" lastTime="0" modelid="700301072"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015620" effectid="1" id="160400172" lastTime="0" modelid="700301064"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015630" effectid="1" id="160400173" lastTime="0" modelid="700301065"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015640" effectid="1" id="160400174" lastTime="0" modelid="700301079"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015650" effectid="1" id="160400175" lastTime="0" modelid="700301066"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015660" effectid="1" id="160400176" lastTime="0" modelid="700301078"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015670" effectid="1" id="160400177" lastTime="0" modelid="700301067"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015680" effectid="1" id="160400178" lastTime="0" modelid="700301070"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015690" effectid="1" id="160400179" lastTime="0" modelid="700301077"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015700" effectid="1" id="160400180" lastTime="0" modelid="700301080"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015710" effectid="1" id="160400181" lastTime="0" modelid="700301071"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015720" effectid="1" id="160400182" lastTime="0" modelid="700301074"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015730" effectid="1" id="160400183" lastTime="0" modelid="700301069"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015740" effectid="1" id="160400184" lastTime="0" modelid="700301049"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015750" effectid="1" id="160400185" lastTime="0" modelid="700301068"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015760" effectid="1" id="160400186" lastTime="0" modelid="700301038"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015770" effectid="1" id="160400187" lastTime="0" modelid="700301057"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015780" effectid="1" id="160400188" lastTime="0" modelid="700301019"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015790" effectid="1" id="160400189" lastTime="0" modelid="700301075"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015800" effectid="1" id="160400190" lastTime="0" modelid="700300127"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015810" effectid="1" id="160400191" lastTime="0" modelid="700301032"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015820" effectid="1" id="160400192" lastTime="0" modelid="700300107"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015830" effectid="1" id="160400193" lastTime="0" modelid="700301034"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015840" effectid="1" id="160400194" lastTime="0" modelid="700301058"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015850" effectid="1" id="160400195" lastTime="0" modelid="700301026"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015860" effectid="1" id="160400196" lastTime="0" modelid="700301047"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015870" effectid="1" id="160400197" lastTime="0" modelid="700301025"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015880" effectid="1" id="160400198" lastTime="0" modelid="700301045"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015890" effectid="1" id="160400199" lastTime="0" modelid="700301021"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015900" effectid="1" id="160400200" lastTime="0" modelid="700301024"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015910" effectid="1" id="160400201" lastTime="0" modelid="700301052"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015920" effectid="1" id="160400202" lastTime="0" modelid="700301022"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015930" effectid="1" id="160400203" lastTime="0" modelid="700301029"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015940" effectid="1" id="160400204" lastTime="0" modelid="700301054"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015950" effectid="1" id="160400205" lastTime="0" modelid="700301051"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015960" effectid="1" id="160400206" lastTime="0" modelid="700301062"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015970" effectid="1" id="160400207" lastTime="0" modelid="700301048"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015980" effectid="1" id="160400208" lastTime="0" modelid="700301061"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702015990" effectid="1" id="160400209" lastTime="0" modelid="700300123"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016000" effectid="1" id="160400210" lastTime="0" modelid="700301037"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016010" effectid="1" id="160400211" lastTime="0" modelid="700301039"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016030" effectid="1" id="160400213" lastTime="0" modelid="700301046"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016040" effectid="1" id="160400214" lastTime="0" modelid="700301031"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016050" effectid="1" id="160400215" lastTime="0" modelid="700301056"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016060" effectid="1" id="160400216" lastTime="0" modelid="700301044"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016070" effectid="1" id="160400217" lastTime="0" modelid="700301060"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016080" effectid="1" id="160400218" lastTime="0" modelid="700301015"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016090" effectid="1" id="160400219" lastTime="0" modelid="700301081"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016100" effectid="1" id="160400220" lastTime="0" modelid="700301082"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016110" effectid="1" id="160400221" lastTime="0" modelid="700301083"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016120" effectid="1" id="160400222" lastTime="0" modelid="700301084"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016130" effectid="1" id="160400223" lastTime="0" modelid="700301085"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016140" effectid="1" id="160400224" lastTime="0" modelid="700301086"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016150" effectid="1" id="160400225" lastTime="0" modelid="700301114"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016151" effectid="1" id="160400226" lastTime="0" modelid="700301108"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016152" effectid="1" id="160400227" lastTime="0" modelid="700301116"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016153" effectid="1" id="160400228" lastTime="0" modelid="700301098"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016154" effectid="1" id="160400229" lastTime="0" modelid="700301107"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016155" effectid="1" id="160400230" lastTime="0" modelid="700301113"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016156" effectid="1" id="160400231" lastTime="0" modelid="700301117"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016157" effectid="1" id="160400232" lastTime="0" modelid="700301109"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016158" effectid="1" id="160400233" lastTime="0" modelid="700301106"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016159" effectid="1" id="160400234" lastTime="0" modelid="700301119"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016160" effectid="1" id="160400235" lastTime="0" modelid="700301111"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016161" effectid="1" id="160400236" lastTime="0" modelid="700301112"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016162" effectid="1" id="160400237" lastTime="0" modelid="700301115"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016163" effectid="1" id="160400238" lastTime="0" modelid="700301118"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016164" effectid="1" id="160400239" lastTime="0" modelid="700301099"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016165" effectid="1" id="160400240" lastTime="0" modelid="700301130"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016166" effectid="1" id="160400241" lastTime="0" modelid="700301129"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016167" effectid="1" id="160400242" lastTime="0" modelid="700301125"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016168" effectid="1" id="160400243" lastTime="0" modelid="700301127"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016171" effectid="1" id="160400244" lastTime="0" modelid="700301158"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016172" effectid="1" id="160400245" lastTime="0" modelid="700300143"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016173" effectid="1" id="160400246" lastTime="0" modelid="700301159"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702017004" effectid="1" id="160400247" lastTime="0" modelid="700309070"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018000" effectid="1" id="160400248" lastTime="0" modelid="700301185"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018001" effectid="1" id="160400249" lastTime="0" modelid="700301186"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018002" effectid="1" id="160400250" lastTime="0" modelid="700301187"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018003" effectid="1" id="160400251" lastTime="0" modelid="700301188"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016176" effectid="1" id="160400252" lastTime="0" modelid="700309075"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016178" effectid="1" id="160400253" lastTime="0" modelid="700301206"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016192" effectid="1" id="160400254" lastTime="0" modelid="700301213"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016201" effectid="1" id="160400255" lastTime="0" modelid="700300146"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016202" effectid="1" id="160400256" lastTime="0" modelid="700300147"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016203" effectid="1" id="160400257" lastTime="0" modelid="700300148"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016204" effectid="1" id="160400258" lastTime="0" modelid="700301224"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018007" effectid="1" id="160400259" lastTime="0" modelid="700301260"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018010" effectid="1" id="160400260" lastTime="0" modelid="700301263"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018004" effectid="1" id="160400261" lastTime="0" modelid="700301257"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018006" effectid="1" id="160400262" lastTime="0" modelid="700301259"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018008" effectid="1" id="160400263" lastTime="0" modelid="700301261"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018009" effectid="1" id="160400264" lastTime="0" modelid="700301262"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018005" effectid="1" id="160400265" lastTime="0" modelid="700301258"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018018" effectid="1" id="160400266" lastTime="0" modelid="700300167"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702017009" effectid="1" id="160400267" lastTime="0" modelid="700301150"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702017008" effectid="1" id="160400268" lastTime="0" modelid="700301151"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702017007" effectid="1" id="160400269" lastTime="0" modelid="700301149"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016208" effectid="1" id="160400270" lastTime="0" modelid="700301353"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016209" effectid="1" id="160400271" lastTime="0" modelid="700301354"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016207" effectid="1" id="160400272" lastTime="0" modelid="700301355"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018020" effectid="1" id="160400273" lastTime="0" modelid="700300158"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018022" effectid="1" id="160400274" lastTime="0" modelid="700300188"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018023" effectid="1" id="160400275" lastTime="0" modelid="700300181"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018024" effectid="1" id="160400276" lastTime="0" modelid="700300185"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018025" effectid="1" id="160400277" lastTime="0" modelid="700300186"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018026" effectid="1" id="160400278" lastTime="0" modelid="700300182"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018027" effectid="1" id="160400279" lastTime="0" modelid="700300180"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018028" effectid="1" id="160400280" lastTime="0" modelid="700300187"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018029" effectid="1" id="160400281" lastTime="0" modelid="700300184"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018035" effectid="1" id="160400282" lastTime="0" modelid="700301361"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018036" effectid="1" id="160400283" lastTime="0" modelid="700301360"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018037" effectid="1" id="160400284" lastTime="0" modelid="700301362"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018013" effectid="1" id="160400285" lastTime="0" modelid="700301212"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018031" effectid="1" id="160400286" lastTime="0" modelid="700300191"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020532" effectid="1" id="160400287" lastTime="0" modelid="700300219"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020535" effectid="1" id="160400288" lastTime="0" modelid="700300220"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020531" effectid="1" id="160400289" lastTime="0" modelid="700300221"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020534" effectid="1" id="160400290" lastTime="0" modelid="700300222"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020533" effectid="1" id="160400291" lastTime="0" modelid="700300223"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001011" effectid="1010" id="160401010" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001020" effectid="1020" id="160401020" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="433" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001023" effectid="1021" id="160401021" lastTime="633" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001024" effectid="1022" id="160401022" lastTime="733" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001025" effectid="1023" id="160401023" lastTime="1133" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001030" effectid="1030" id="160401030" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001041" effectid="1040" id="160401040" lastTime="764" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001050" effectid="1050" id="160401050" lastTime="2360" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001060" effectid="1060" id="160401060" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001070" effectid="1070" id="160401070" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001080" effectid="1080" id="160401080" lastTime="2476" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2476" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001090" effectid="1090" id="160401090" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001091" effectid="1091" id="160401091" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001100" effectid="1100" id="160401100" lastTime="1980" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001101" effectid="1101" id="160401101" lastTime="6120" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="2" beAttackedActionid="160800000" beAttackedTime="1900" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="2" beAttackedActionid="160800000" beAttackedTime="2300" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="2" beAttackedActionid="160800001" beAttackedTime="3400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001110" effectid="1110" id="160401110" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002010" effectid="2010" id="160402010" lastTime="2000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002011" effectid="2011" id="160402011" lastTime="1617" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002020" effectid="2020" id="160402020" lastTime="1724" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002021" effectid="2021" id="160402021" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002030" effectid="2030" id="160402030" lastTime="1538" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002031" effectid="2031" id="160402031" lastTime="1468" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002040" effectid="2040" id="160402040" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002041" effectid="2041" id="160402041" lastTime="1797" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002042" effectid="2042" id="160402042" lastTime="850" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002050" effectid="2050" id="160402050" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002051" effectid="2051" id="160402051" lastTime="1120" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002060" effectid="2060" id="160402060" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002061" effectid="2061" id="160402061" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002070" effectid="2070" id="160402070" lastTime="1100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002080" effectid="2080" id="160402080" lastTime="1200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002081" effectid="2081" id="160402081" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002090" effectid="2090" id="160402090" lastTime="2500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002091" effectid="2091" id="160402091" lastTime="300" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="250" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002100" effectid="2100" id="160402100" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002101" effectid="2101" id="160402101" lastTime="2340" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003010" effectid="3010" id="160403010" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003011" effectid="3011" id="160403011" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003020" effectid="3020" id="160403020" lastTime="2500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="0" effectid="3021" id="160403021" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003023" effectid="3022" id="160403022" lastTime="1400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003024" effectid="3023" id="160403023" lastTime="1267" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003030" effectid="3030" id="160403030" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003031" effectid="3031" id="160403031" lastTime="1600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003033" effectid="3032" id="160403032" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003040" effectid="3040" id="160403040" lastTime="1824" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003041" effectid="3041" id="160403041" lastTime="2215" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003050" effectid="3050" id="160403050" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003051" effectid="3051" id="160403051" lastTime="1100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003060" effectid="3060" id="160403060" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003061" effectid="3061" id="160403061" lastTime="2453" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003070" effectid="3070" id="160403070" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003071" effectid="3071" id="160403071" lastTime="2100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003080" effectid="3080" id="160403080" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003081" effectid="3081" id="160403081" lastTime="2100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003090" effectid="3090" id="160403090" lastTime="1200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="0" effectid="3091" id="160403091" lastTime="700" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003100" effectid="3100" id="160403100" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003101" effectid="3101" id="160403101" lastTime="1033" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004010" effectid="4010" id="160404010" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004011" effectid="4011" id="160404011" lastTime="1900" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1350" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004020" effectid="4020" id="160404020" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004021" effectid="4021" id="160404021" lastTime="2127" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004030" effectid="4030" id="160404030" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004031" effectid="4031" id="160404031" lastTime="2760" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004040" effectid="4040" id="160404040" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004041" effectid="4041" id="160404041" lastTime="3200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004050" effectid="4050" id="160404050" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004051" effectid="4051" id="160404051" lastTime="1650" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004060" effectid="4060" id="160404060" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004061" effectid="4061" id="160404061" lastTime="1926" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004070" effectid="4070" id="160404070" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004071" effectid="4071" id="160404071" lastTime="1600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004080" effectid="4080" id="160404080" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004081" effectid="4081" id="160404081" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004090" effectid="4090" id="160404090" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004091" effectid="4091" id="160404091" lastTime="3353" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3000" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004100" effectid="4100" id="160404100" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004101" effectid="4101" id="160404101" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005010" effectid="5010" id="160405010" lastTime="1350" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005013" effectid="5011" id="160405011" lastTime="2700" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005020" effectid="5020" id="160405020" lastTime="1590" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005021" effectid="5021" id="160405021" lastTime="1401" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005030" effectid="5030" id="160405030" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005031" effectid="5031" id="160405031" lastTime="1100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005040" effectid="5040" id="160405040" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005041" effectid="5041" id="160405041" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005050" effectid="5050" id="160405050" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005051" effectid="5051" id="160405051" lastTime="4000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005052" effectid="5052" id="160405052" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005060" effectid="5060" id="160405060" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005061" effectid="5061" id="160405061" lastTime="1400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005070" effectid="5070" id="160405070" lastTime="900" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005071" effectid="5071" id="160405071" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005080" effectid="5080" id="160405080" lastTime="1200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005081" effectid="5081" id="160405081" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005090" effectid="5090" id="160405090" lastTime="2750" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005091" effectid="5091" id="160405091" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005100" effectid="5100" id="160405100" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005101" effectid="5101" id="160405101" lastTime="1370" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005110" effectid="5110" id="160405110" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005111" effectid="5111" id="160405111" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006010" effectid="6010" id="160406010" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1083" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006011" effectid="6011" id="160406011" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006012" effectid="6012" id="160406012" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="2" beAttackedActionid="160800004" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006020" effectid="6020" id="160406020" lastTime="1172" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006030" effectid="6030" id="160406030" lastTime="4623" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="833" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1867" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2567" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3333" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="0" effectid="6031" id="160406031" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006032" effectid="6032" id="160406032" lastTime="1167" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006033" effectid="6033" id="160406033" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006034" effectid="6034" id="160406034" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006035" effectid="6035" id="160406035" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006040" effectid="6040" id="160406040" lastTime="850" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006050" effectid="6050" id="160406050" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006051" effectid="6051" id="160406051" lastTime="1200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006060" effectid="6060" id="160406060" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006061" effectid="6061" id="160406061" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006070" effectid="6070" id="160406070" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006071" effectid="6071" id="160406071" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006080" effectid="6080" id="160406080" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006081" effectid="6081" id="160406081" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006093" effectid="6090" id="160406090" lastTime="3500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006091" effectid="6091" id="160406091" lastTime="2200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1700" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006100" effectid="6100" id="160406100" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006100" effectid="6101" id="160406101" lastTime="1172" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007010" effectid="7010" id="160407010" lastTime="1750" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007011" effectid="7011" id="160407011" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007021" effectid="7020" id="160407020" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007021" effectid="7021" id="160407021" lastTime="850" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007030" effectid="7030" id="160407030" lastTime="2200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007040" effectid="7040" id="160407040" lastTime="1403" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1403" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007050" effectid="7050" id="160407050" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007060" effectid="7060" id="160407060" lastTime="1560" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007061" effectid="7061" id="160407061" lastTime="2100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007070" effectid="7070" id="160407070" lastTime="1560" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007071" effectid="7071" id="160407071" lastTime="1750" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007080" effectid="7080" id="160407080" lastTime="1560" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007081" effectid="7081" id="160407081" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007090" effectid="7090" id="160407090" lastTime="1560" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007091" effectid="7091" id="160407091" lastTime="1750" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007100" effectid="7100" id="160407100" lastTime="1333" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007101" effectid="7101" id="160407101" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007110" effectid="7110" id="160407110" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007112" effectid="7111" id="160407111" lastTime="1418" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007120" effectid="7120" id="160407120" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007130" effectid="7130" id="160407130" lastTime="200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007131" effectid="7131" id="160407131" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008010" effectid="8010" id="160408010" lastTime="2031" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008011" effectid="8011" id="160408011" lastTime="1928" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008020" effectid="8020" id="160408020" lastTime="2031" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008021" effectid="8021" id="160408021" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008030" effectid="8030" id="160408030" lastTime="1133" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008031" effectid="8031" id="160408031" lastTime="1133" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008032" effectid="8032" id="160408032" lastTime="1133" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008033" effectid="8033" id="160408033" lastTime="1133" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008040" effectid="8040" id="160408040" lastTime="1402" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008041" effectid="8041" id="160408041" lastTime="2388" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008042" effectid="8042" id="160408042" lastTime="876" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008043" effectid="8043" id="160408043" lastTime="953" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008044" effectid="8044" id="160408044" lastTime="1049" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008050" effectid="8050" id="160408050" lastTime="1881" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008051" effectid="8051" id="160408051" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008060" effectid="8060" id="160408060" lastTime="1881" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008061" effectid="8061" id="160408061" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008070" effectid="8070" id="160408070" lastTime="1881" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008071" effectid="8071" id="160408071" lastTime="2250" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008080" effectid="8080" id="160408080" lastTime="1881" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008081" effectid="8081" id="160408081" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008090" effectid="8090" id="160408090" lastTime="4752" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008091" effectid="8091" id="160408091" lastTime="3205" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008100" effectid="8100" id="160408100" lastTime="1881" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008101" effectid="8101" id="160408101" lastTime="1568" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009000" effectid="9010" id="160409010" lastTime="1937" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009002" effectid="9011" id="160409011" lastTime="1766" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009010" effectid="9020" id="160409020" lastTime="2000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009012" effectid="9021" id="160409021" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009020" effectid="9030" id="160409030" lastTime="433" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009021" effectid="9031" id="160409031" lastTime="1894" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009030" effectid="9040" id="160409040" lastTime="1133" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009031" effectid="9041" id="160409041" lastTime="1850" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="950" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009035" effectid="9042" id="160409042" lastTime="500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009032" effectid="9043" id="160409043" lastTime="500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009036" effectid="9044" id="160409044" lastTime="3000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009040" effectid="9050" id="160409050" lastTime="900" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009044" effectid="9051" id="160409051" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009041" effectid="9052" id="160409052" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009050" effectid="9060" id="160409060" lastTime="4556" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009051" effectid="9061" id="160409061" lastTime="4556" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009060" effectid="9070" id="160409070" lastTime="2752" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009061" effectid="9071" id="160409071" lastTime="2752" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009070" effectid="9080" id="160409080" lastTime="1562" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009071" effectid="9081" id="160409081" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009081" effectid="9090" id="160409090" lastTime="2183" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009081" effectid="9091" id="160409091" lastTime="2183" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009090" effectid="9100" id="160409100" lastTime="1736" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009101" effectid="9110" id="160409110" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009102" effectid="9111" id="160409111" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009103" effectid="9112" id="160409112" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009104" effectid="9113" id="160409113" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009105" effectid="9114" id="160409114" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009106" effectid="9115" id="160409115" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009100" effectid="9116" id="160409116" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009110" effectid="9120" id="160409120" lastTime="1233" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1230" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009140" effectid="9121" id="160409121" lastTime="2000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009112" effectid="9122" id="160409122" lastTime="600" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009121" effectid="9130" id="160409130" lastTime="200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009110" effectid="9140" id="160409140" lastTime="1233" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1230" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010000" effectid="10000" id="160410000" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010001" effectid="10001" id="160410001" lastTime="3472" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010010" effectid="10010" id="160410010" lastTime="1350" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010011" effectid="10011" id="160410011" lastTime="510" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010020" effectid="10020" id="160410020" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010021" effectid="10021" id="160410021" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010030" effectid="10030" id="160410030" lastTime="2267" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010031" effectid="10031" id="160410031" lastTime="510" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010032" effectid="10032" id="160410032" lastTime="510" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010033" effectid="10033" id="160410033" lastTime="1110" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010040" effectid="10040" id="160410040" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010041" effectid="10041" id="160410041" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010050" effectid="10050" id="160410050" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010051" effectid="10051" id="160410051" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010060" effectid="10060" id="160410060" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010061" effectid="10061" id="160410061" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1950" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010070" effectid="10070" id="160410070" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010071" effectid="10071" id="160410071" lastTime="1950" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010080" effectid="10080" id="160410080" lastTime="900" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010081" effectid="10081" id="160410081" lastTime="6000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="4500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="4700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010090" effectid="10090" id="160410090" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010091" effectid="10091" id="160410091" lastTime="1900" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1350" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010300" effectid="1" id="160410300" lastTime="0" modelid="700300020"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010300" effectid="1" id="160410301" lastTime="0" modelid="700300021"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010302" effectid="10310" id="160410310" lastTime="1550" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010303" effectid="10320" id="160410320" lastTime="1667" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010304" effectid="10321" id="160410321" lastTime="867" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="750" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010305" effectid="10330" id="160410330" lastTime="667" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="567" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010306" effectid="10331" id="160410331" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010307" effectid="10332" id="160410332" lastTime="767" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="667" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010308" effectid="10333" id="160410333" lastTime="567" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="467" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010309" effectid="10334" id="160410334" lastTime="20" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010310" effectid="10335" id="160410335" lastTime="20" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010311" effectid="10336" id="160410336" lastTime="20" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010312" effectid="10337" id="160410337" lastTime="20" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010313" effectid="10340" id="160410340" lastTime="2100" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010314" effectid="10341" id="160410341" lastTime="1300" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="950" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010300" effectid="10350" id="160410350" lastTime="1167" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010315" effectid="10351" id="160410351" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="10" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010317" effectid="10360" id="160410360" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010318" effectid="10361" id="160410361" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010320" effectid="10370" id="160410370" lastTime="2400" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010321" effectid="10371" id="160410371" lastTime="2351" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010325" effectid="10380" id="160410380" lastTime="2350" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010327" effectid="10390" id="160410390" lastTime="2350" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010300" effectid="10400" id="160410400" lastTime="1167" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010329" effectid="10410" id="160410410" lastTime="4000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010330" effectid="10411" id="160410411" lastTime="1020" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="820" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010331" effectid="10412" id="160410412" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010332" effectid="10413" id="160410413" lastTime="1060" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="860" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010333" effectid="10414" id="160410414" lastTime="780" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="680" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010334" effectid="10415" id="160410415" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2170" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010527" effectid="1" id="160410700" lastTime="0" modelid="700300022"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010527" effectid="1" id="160410701" lastTime="0" modelid="700300023"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010516" effectid="10702" id="160410702" lastTime="1200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010526" effectid="10703" id="160410703" lastTime="1350" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010525" effectid="10704" id="160410704" lastTime="2166" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="250" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010513" effectid="10705" id="160410705" lastTime="1350" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010514" effectid="10706" id="160410706" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="833" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010515" effectid="10707" id="160410707" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010504" effectid="10708" id="160410708" lastTime="1300" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010503" effectid="10709" id="160410709" lastTime="2167" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010518" effectid="10710" id="160410710" lastTime="1533" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010519" effectid="10711" id="160410711" lastTime="800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="567" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010520" effectid="10712" id="160410712" lastTime="700" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="433" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010521" effectid="10713" id="160410713" lastTime="400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="233" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010522" effectid="10714" id="160410714" lastTime="2033" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="467" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010502" effectid="10715" id="160410715" lastTime="1850" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010501" effectid="10716" id="160410716" lastTime="1750" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010524" effectid="10717" id="160410717" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010500" effectid="10718" id="160410718" lastTime="700" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010517" effectid="10719" id="160410719" lastTime="3166" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3166" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010508" effectid="10720" id="160410720" lastTime="2567" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010509" effectid="10721" id="160410721" lastTime="2000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010510" effectid="10722" id="160410722" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="267" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010511" effectid="10723" id="160410723" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="167" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010512" effectid="10724" id="160410724" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="167" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010527" effectid="10725" id="160410725" lastTime="1277" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010507" effectid="10726" id="160410726" lastTime="1783" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010506" effectid="10727" id="160410727" lastTime="2334" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010505" effectid="10728" id="160410728" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1333" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010532" effectid="10730" id="160410730" lastTime="1250" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010516" effectid="10731" id="160410731" lastTime="800" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010579" effectid="1" id="160410800" lastTime="0" modelid="700300025"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010579" effectid="1" id="160410801" lastTime="0" modelid="700300024"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010575" effectid="10802" id="160410802" lastTime="1200" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010550" effectid="10803" id="160410803" lastTime="2720" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010551" effectid="10804" id="160410804" lastTime="3500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010552" effectid="10805" id="160410805" lastTime="2899" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010553" effectid="10806" id="160410806" lastTime="2300" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="833" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010554" effectid="10807" id="160410807" lastTime="2382" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010555" effectid="10808" id="160410808" lastTime="4500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010556" effectid="10809" id="160410809" lastTime="2257" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010557" effectid="10810" id="160410810" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="567" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010559" effectid="10811" id="160410811" lastTime="2700" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010560" effectid="10812" id="160410812" lastTime="2400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010561" effectid="10813" id="160410813" lastTime="2233" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010563" effectid="10814" id="160410814" lastTime="2240" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010564" effectid="10815" id="160410815" lastTime="2400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010566" effectid="10816" id="160410816" lastTime="1750" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010567" effectid="10817" id="160410817" lastTime="3000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="3000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010569" effectid="10818" id="160410818" lastTime="2666" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010570" effectid="10819" id="160410819" lastTime="3500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010571" effectid="10820" id="160410820" lastTime="4400" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010572" effectid="10821" id="160410821" lastTime="3200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="267" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010579" effectid="10822" id="160410822" lastTime="1200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="267" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010575" effectid="10823" id="160410823" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010576" effectid="10824" id="160410824" lastTime="6000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010577" effectid="10825" id="160410825" lastTime="1680" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1333" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010582" effectid="10826" id="160410826" lastTime="1915" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010553" effectid="10827" id="160410827" lastTime="2931" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="833" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013011" effectid="13010" id="160413010" lastTime="1084" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013021" effectid="13020" id="160413020" lastTime="1388" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013031" effectid="13030" id="160413030" lastTime="1650" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="850" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013041" effectid="13040" id="160413040" lastTime="1285" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013051" effectid="13050" id="160413050" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013061" effectid="13060" id="160413060" lastTime="1493" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013071" effectid="13070" id="160413070" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013081" effectid="13080" id="160413080" lastTime="1305" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1305" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013091" effectid="13090" id="160413090" lastTime="1278" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013101" effectid="13100" id="160413100" lastTime="1201" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="550" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013111" effectid="13110" id="160413110" lastTime="1462" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013121" effectid="13120" id="160413120" lastTime="1450" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1250" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013131" effectid="13130" id="160413130" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013141" effectid="13140" id="160413140" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013151" effectid="13150" id="160413150" lastTime="1734" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013161" effectid="13160" id="160413160" lastTime="1300" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013171" effectid="13170" id="160413170" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013181" effectid="13180" id="160413180" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013191" effectid="13190" id="160413190" lastTime="2127" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013201" effectid="13200" id="160413200" lastTime="2400" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013211" effectid="13210" id="160413210" lastTime="2127" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013221" effectid="13220" id="160413220" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013231" effectid="13230" id="160413230" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013241" effectid="13240" id="160413240" lastTime="2127" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013251" effectid="13250" id="160413250" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013261" effectid="13260" id="160413260" lastTime="3200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013271" effectid="13270" id="160413270" lastTime="1558" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1050" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013281" effectid="13280" id="160413280" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013291" effectid="13290" id="160413290" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013301" effectid="13300" id="160413300" lastTime="1900" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013311" effectid="13310" id="160413310" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013321" effectid="13320" id="160413320" lastTime="1900" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013331" effectid="13330" id="160413330" lastTime="1850" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013341" effectid="13340" id="160413340" lastTime="997" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013351" effectid="13350" id="160413350" lastTime="1900" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013361" effectid="13360" id="160413360" lastTime="1100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013371" effectid="13370" id="160413370" lastTime="1594" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013381" effectid="13380" id="160413380" lastTime="1650" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="750" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013391" effectid="13390" id="160413390" lastTime="1697" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013400" effectid="13400" id="160413400" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013401" effectid="13401" id="160413401" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013411" effectid="13410" id="160413410" lastTime="855" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013421" effectid="13420" id="160413420" lastTime="1107" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013431" effectid="13430" id="160413430" lastTime="1401" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013441" effectid="13440" id="160413440" lastTime="1401" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013451" effectid="13450" id="160413450" lastTime="500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013461" effectid="13460" id="160413460" lastTime="1487" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1487" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013471" effectid="13470" id="160413470" lastTime="2100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013481" effectid="13480" id="160413480" lastTime="2100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013491" effectid="13490" id="160413490" lastTime="1905" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013501" effectid="13500" id="160413500" lastTime="1100" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013511" effectid="13510" id="160413510" lastTime="1600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013521" effectid="13520" id="160413520" lastTime="2500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702033003" effectid="13530" id="160413530" lastTime="2000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014202" effectid="13540" id="160413540" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016205" effectid="13550" id="160413550" lastTime="2200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014010" effectid="14010" id="160414010" lastTime="1719" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014020" effectid="14020" id="160414020" lastTime="1750" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014030" effectid="14030" id="160414030" lastTime="1464" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1250" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014040" effectid="14040" id="160414040" lastTime="1830" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1050" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014050" effectid="14050" id="160414050" lastTime="2315" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014060" effectid="14060" id="160414060" lastTime="1850" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014070" effectid="14070" id="160414070" lastTime="1550" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014080" effectid="14080" id="160414080" lastTime="1500" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014090" effectid="14090" id="160414090" lastTime="1000" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="350" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014100" effectid="14100" id="160414100" lastTime="1677" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="850" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014160" effectid="14110" id="160414110" lastTime="1750" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1150" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014120" effectid="14120" id="160414120" lastTime="844" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014130" effectid="14130" id="160414130" lastTime="2087" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014140" effectid="14140" id="160414140" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014150" effectid="14150" id="160414150" lastTime="1800" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014170" effectid="14160" id="160414160" lastTime="1450" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014130" effectid="14170" id="160414170" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014180" effectid="14180" id="160414180" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1250" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014120" effectid="14190" id="160414190" lastTime="1084" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014184" effectid="14191" id="160414191" lastTime="1600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1200" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014182" effectid="14200" id="160414200" lastTime="1600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014190" effectid="14210" id="160414210" lastTime="1800" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014195" effectid="14220" id="160414220" lastTime="1550" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014196" effectid="14240" id="160414240" lastTime="1200" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014200" effectid="14250" id="160414250" lastTime="1985" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014201" effectid="14260" id="160414260" lastTime="600" modelid="0"> 
+    <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018021" effectid="14280" id="160414280" lastTime="1200" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013530" effectid="14290" id="160414290" lastTime="600" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018032" effectid="14300" id="160414300" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018012" effectid="14310" id="160414310" lastTime="1300" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006100" effectid="14311" id="160414311" lastTime="1172" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016212" effectid="14320" id="160414320" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014203" effectid="14330" id="160414330" lastTime="2100" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1300" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014204" effectid="14331" id="160414331" lastTime="1300" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014206" effectid="14332" id="160414332" lastTime="510" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014207" effectid="14333" id="160414333" lastTime="560" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="350" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014208" effectid="14334" id="160414334" lastTime="910" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014203" effectid="14335" id="160414335" lastTime="1500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014209" effectid="14336" id="160414336" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016213" effectid="14340" id="160414340" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016213" effectid="14341" id="160414341" lastTime="500" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="510" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016231" effectid="14342" id="160414342" lastTime="1600" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016230" effectid="14343" id="160414343" lastTime="1600" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014170" effectid="14900" id="160414900" lastTime="1450" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014209" effectid="14901" id="160414901" lastTime="1300" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="100" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702018021" effectid="14902" id="160414902" lastTime="1200" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="601" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="701" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001000" effectid="15010" id="160415010" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001041" effectid="15020" id="160415020" lastTime="764" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006051" effectid="15030" id="160415030" lastTime="1000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006000" effectid="15040" id="160415040" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001011" effectid="15050" id="160415050" lastTime="2000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001000" effectid="15060" id="160415060" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001050" effectid="15070" id="160415070" lastTime="2360" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001041" effectid="15080" id="160415080" lastTime="764" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="0" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013251" effectid="15090" id="160415090" lastTime="2500" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016990" effectid="16010" id="160416010" lastTime="2768" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016991" effectid="16020" id="160416020" lastTime="1715" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016992" effectid="16030" id="160416030" lastTime="1779" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1067" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020404" effectid="16040" id="160416040" lastTime="334" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013910" effectid="17010" id="160417010" lastTime="1000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013920" effectid="17020" id="160417020" lastTime="1350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="800" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="900" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016981" effectid="18010" id="160418010" lastTime="2350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016980" effectid="18020" id="160418020" lastTime="1950" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1350" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014502" effectid="19010" id="160419010" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014504" effectid="19020" id="160419020" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014503" effectid="19030" id="160419030" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014500" effectid="19040" id="160419040" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702014501" effectid="19050" id="160419050" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016197" effectid="20000" id="160420000" lastTime="1500" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702016199" effectid="20001" id="160420001" lastTime="1500" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020493" effectid="25000" id="160425000" lastTime="3099" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020498" effectid="25001" id="160425001" lastTime="4044" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020499" effectid="25002" id="160425002" lastTime="1500" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020496" effectid="25003" id="160425003" lastTime="1562" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020500" effectid="25004" id="160425004" lastTime="2302" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008110" effectid="25005" id="160425005" lastTime="3281" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1750" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020506" effectid="25006" id="160425006" lastTime="350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020507" effectid="25007" id="160425007" lastTime="350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020508" effectid="25008" id="160425008" lastTime="350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020509" effectid="25009" id="160425009" lastTime="350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="233" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020510" effectid="25010" id="160425010" lastTime="350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="300" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702001080" effectid="25011" id="160425011" lastTime="2476" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2467" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020512" effectid="25012" id="160425012" lastTime="1000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020494" effectid="25013" id="160425013" lastTime="1750" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020485" effectid="25014" id="160425014" lastTime="2400" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020486" effectid="25015" id="160425015" lastTime="1750" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020490" effectid="25016" id="160425016" lastTime="2350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020488" effectid="25017" id="160425017" lastTime="2000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1700" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702013041" effectid="25018" id="160425018" lastTime="1285" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="550" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005091" effectid="25019" id="160425019" lastTime="3000" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007091" effectid="25020" id="160425020" lastTime="1750" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1100" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004031" effectid="25021" id="160425021" lastTime="2760" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020511" effectid="25022" id="160425022" lastTime="2940" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1110" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="2070" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702034283" effectid="25050" id="160425050" lastTime="1350" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020527" effectid="25051" id="160425051" lastTime="1650" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020529" effectid="25052" id="160425052" lastTime="500" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702020526" effectid="25053" id="160425053" lastTime="1550" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010090" effectid="25054" id="160425054" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010091" effectid="25055" id="160425055" lastTime="1900" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1350" shock="0"/>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1450" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002020" effectid="31000" id="160431000" lastTime="1150" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702002110" effectid="31001" id="160431001" lastTime="800" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="600" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006020" effectid="32000" id="160432000" lastTime="1172" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702006112" effectid="32001" id="160432001" lastTime="1000" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003010" effectid="33000" id="160433000" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702003110" effectid="33001" id="160433001" lastTime="0" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="650" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005070" effectid="34000" id="160434000" lastTime="900" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702005120" effectid="34001" id="160434001" lastTime="1512" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004050" effectid="35000" id="160435000" lastTime="0" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702004110" effectid="35001" id="160435001" lastTime="2250" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1800" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007090" effectid="36000" id="160436000" lastTime="1560" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702007140" effectid="36001" id="160436001" lastTime="2468" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1500" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008010" effectid="37000" id="160437000" lastTime="2031" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702008101" effectid="37001" id="160437001" lastTime="1568" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702009160" effectid="38000" id="160438000" lastTime="1600" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="400" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010100" effectid="39000" id="160439000" lastTime="1582" modelid="0"> 
+    <beAttackedList/>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+  <mzm.gsp.skill.confbean.SEffectPlayCfg attackEffect="702010336" effectid="39300" id="160439300" lastTime="2423" modelid="0"> 
+     <beAttackedList>
+      <mzm.gsp.skill.confbean.BeAttackedBean beAttackedAction="0" beAttackedActionid="0" beAttackedTime="1000" shock="0"/>
+    </beAttackedList>
+  </mzm.gsp.skill.confbean.SEffectPlayCfg>
+</data>

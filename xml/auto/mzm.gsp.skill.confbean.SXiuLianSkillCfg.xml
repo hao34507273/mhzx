@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400000" levelcfgid="1" skillId="110690000" target="1" templatename="角色攻法"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400001" levelcfgid="2" skillId="110690001" target="1" templatename="角色物防"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400002" levelcfgid="2" skillId="110690002" target="1" templatename="角色法防"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400003" levelcfgid="2" skillId="110690003" target="1" templatename="角色封抗"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400004" levelcfgid="5" skillId="110690010" target="4" templatename="伙伴修炼"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400005" levelcfgid="3" skillId="110690020" target="2" templatename="宠物攻法"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400006" levelcfgid="4" skillId="110690021" target="2" templatename="宠物物防"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400007" levelcfgid="4" skillId="110690022" target="2" templatename="宠物法防"/>
+  <mzm.gsp.skill.confbean.SXiuLianSkillCfg id="112400008" levelcfgid="6" skillId="110690023" target="8" templatename="子女修炼"/>
+</data>

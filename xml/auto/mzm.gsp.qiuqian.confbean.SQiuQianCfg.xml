@@ -1,0 +1,43 @@
+<data>
+  <mzm.gsp.qiuqian.confbean.SQiuQianCfg moduleid="216" qiuqian_id="1">
+    <qianwen_infos>
+      <no-comparator/>
+      <entry>
+        <int>1100</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="35" sort_id="9"/>
+      </entry>
+      <entry>
+        <int>2200</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="35" sort_id="8"/>
+      </entry>
+      <entry>
+        <int>3300</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="35" sort_id="7"/>
+      </entry>
+      <entry>
+        <int>4500</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="40" sort_id="6"/>
+      </entry>
+      <entry>
+        <int>5600</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="40" sort_id="5"/>
+      </entry>
+      <entry>
+        <int>6700</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="40" sort_id="4"/>
+      </entry>
+      <entry>
+        <int>7800</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="54" sort_id="3"/>
+      </entry>
+      <entry>
+        <int>8900</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="54" sort_id="2"/>
+      </entry>
+      <entry>
+        <int>10000</int>
+        <mzm.gsp.qiuqian.confbean.SQianWenInfo point="54" sort_id="1"/>
+      </entry>
+    </qianwen_infos>
+  </mzm.gsp.qiuqian.confbean.SQiuQianCfg>
+</data>

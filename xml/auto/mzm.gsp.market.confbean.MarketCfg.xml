@@ -1,0 +1,8 @@
+<data>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="665" id="420100000" isSearch="true" sort="10" templatename="装备"/>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="664" id="420100001" isSearch="true" sort="20" templatename="宠物"/>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="663" id="420100002" isSearch="false" sort="30" templatename="宠物技能"/>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="662" id="420100003" isSearch="true" sort="40" templatename="宠物装备"/>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="6503" id="420100004" isSearch="false" sort="1" templatename="热卖"/>
+  <mzm.gsp.market.confbean.MarketCfg conditionEffectTime="168" iconId="6504" id="420100005" isSearch="false" sort="50" templatename="家具"/>
+</data>

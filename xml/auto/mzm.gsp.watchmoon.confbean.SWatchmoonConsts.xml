@@ -1,0 +1,11 @@
+<root>
+<row name="ACTIVITY_ID" value="350000301"/>
+<row name="MAX_AWARD_COUNT" value="5"/>
+<row name="DEFAULT_REFUSE_TIME" value="10"/>
+<row name="DEFAULT_FEIJIAN_CFG_ID" value="470000001"/>
+<row name="MIN_LEVEL_FOR_COUPLE_FLY" value="30"/>
+<row name="STAY_TIME" value="10"/>
+<row name="MAX_FLY_TIME" value="10"/>
+<row name="PREPARE_FLY_TIME" value="2"/>
+<row name="ACTIVITY_COMPENSATE_COUNT" value="1"/>
+</root>

@@ -1,0 +1,510 @@
+<data>
+  <mzm.gsp.auction.confbean.SAuctionItemCfg itemSumTypeId="1">
+    <serverLevel2itemTypeInfo>
+      <no-comparator/>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300001" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300002" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300003" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300004" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300005" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300007" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300008" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300006" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="6000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300016" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300017" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300012" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300015" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300014" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300009" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300010" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300013" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300018" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300011" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="9000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300034" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300035" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300032" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300033" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300036" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300037" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300029" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300030" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300031" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="7000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300038" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300022" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300019" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300024" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300025" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300026" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300027" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300020" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300039" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300023" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300021" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300028" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="9000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300058" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300057" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300056" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300051" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300050" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300055" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300054" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300053" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300052" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="11000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300064" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300059" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300063" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300062" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300061" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300048" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300043" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300040" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300046" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300047" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300045" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300041" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300060" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300044" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300049" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962300042" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+    </serverLevel2itemTypeInfo>
+  </mzm.gsp.auction.confbean.SAuctionItemCfg>
+  <mzm.gsp.auction.confbean.SAuctionItemCfg itemSumTypeId="2">
+    <serverLevel2itemTypeInfo>
+      <no-comparator/>
+      <entry>
+        <int>37</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301001" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301002" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>45</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301003" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301004" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>55</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="5000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301010" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301008" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301009" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301007" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301005" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301006" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>60</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="9000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301025" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301024" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301022" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301023" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301020" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301021" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301018" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301019" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301017" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="6000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301026" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301016" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301014" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301015" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301013" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301011" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301012" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>65</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="9000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301040" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301041" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301037" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301036" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301039" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301038" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301033" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301035" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301034" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="10000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301044" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301045" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301046" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301042" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301043" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301032" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301029" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301031" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301030" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301027" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301047" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301028" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="1000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301048" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+      <entry>
+        <int>100</int>
+        <mzm.gsp.auction.confbean.SItemTypeInfo>
+          <itemTypeId2itemInfoList>
+            <no-comparator/>
+            <entry>
+              <int>1</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="9000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301058" itemBindType="2" itemCfgId="211001029" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301059" itemBindType="2" itemCfgId="211001033" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301056" itemBindType="2" itemCfgId="211001023" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301057" itemBindType="2" itemCfgId="211001026" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301062" itemBindType="2" itemCfgId="211001060" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301063" itemBindType="2" itemCfgId="211001061" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301060" itemBindType="2" itemCfgId="211001038" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301061" itemBindType="2" itemCfgId="211001059" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301055" itemBindType="2" itemCfgId="211001019" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>2</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="10000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301066" itemBindType="2" itemCfgId="211001064" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301067" itemBindType="2" itemCfgId="211001065" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301064" itemBindType="2" itemCfgId="211001062" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301065" itemBindType="2" itemCfgId="211001063" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301068" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301052" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301053" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301054" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301049" itemBindType="2" itemCfgId="212435111" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301051" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>3</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301069" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="10000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301050" itemBindType="2" itemCfgId="212435112" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>4</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301070" itemBindType="2" itemCfgId="211001003" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301071" itemBindType="2" itemCfgId="211001015" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+            <entry>
+              <int>5</int>
+              <mzm.gsp.auction.confbean.SItemInfoList weightSum="2000">
+                <itemInfoList>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301073" itemBindType="2" itemCfgId="211001017" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                  <mzm.gsp.auction.confbean.SItemInfo basePrice="5000000" bidBaseTime="900" bidEndCountDownTime="60" bidOverTimeMaxCount="15" bidOverTimeUnit="60" id="962301072" itemBindType="2" itemCfgId="211001016" itemWeight="1000" moneyType="1" premiumRate="1000" yuanBaoType="1"/>
+                </itemInfoList>
+              </mzm.gsp.auction.confbean.SItemInfoList>
+            </entry>
+          </itemTypeId2itemInfoList>
+        </mzm.gsp.auction.confbean.SItemTypeInfo>
+      </entry>
+    </serverLevel2itemTypeInfo>
+  </mzm.gsp.auction.confbean.SAuctionItemCfg>
+</data>

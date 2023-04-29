@@ -1,0 +1,95 @@
+<data>
+  <mzm.gsp.lonngboatrace.confbean.STLonngBoatRaceEventCfg id="0">
+    <eventTypeId2Events>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.lonngboatrace.confbean.EventId2Event>
+          <eventId2Event>
+            <no-comparator/>
+            <entry>
+              <int>951100002</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100002" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100003</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100003" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100000</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100000" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100001</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100001" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100004</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100004" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100005</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100005" weight="15"/>
+            </entry>
+          </eventId2Event>
+        </mzm.gsp.lonngboatrace.confbean.EventId2Event>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.lonngboatrace.confbean.EventId2Event>
+          <eventId2Event>
+            <no-comparator/>
+            <entry>
+              <int>951100006</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="2.0" id="951100006" weight="100"/>
+            </entry>
+          </eventId2Event>
+        </mzm.gsp.lonngboatrace.confbean.EventId2Event>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.lonngboatrace.confbean.EventId2Event>
+          <eventId2Event>
+            <no-comparator/>
+            <entry>
+              <int>951100010</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100010" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100011</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100011" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100008</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100008" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100009</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100009" weight="17"/>
+            </entry>
+            <entry>
+              <int>951100012</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="1.0" id="951100012" weight="15"/>
+            </entry>
+            <entry>
+              <int>951100007</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="-1.0" id="951100007" weight="17"/>
+            </entry>
+          </eventId2Event>
+        </mzm.gsp.lonngboatrace.confbean.EventId2Event>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.lonngboatrace.confbean.EventId2Event>
+          <eventId2Event>
+            <no-comparator/>
+            <entry>
+              <int>951100013</int>
+              <mzm.gsp.lonngboatrace.confbean.Event delta="2.0" id="951100013" weight="100"/>
+            </entry>
+          </eventId2Event>
+        </mzm.gsp.lonngboatrace.confbean.EventId2Event>
+      </entry>
+    </eventTypeId2Events>
+  </mzm.gsp.lonngboatrace.confbean.STLonngBoatRaceEventCfg>
+</data>

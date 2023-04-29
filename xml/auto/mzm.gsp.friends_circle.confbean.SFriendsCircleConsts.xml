@@ -1,0 +1,16 @@
+<root>
+<row name="friends_circle_open_role_level" value="50"/>
+<row name="tread_open_role_level" value="50"/>
+<row name="give_gift_open_role_level" value="50"/>
+<row name="treasure_box_gold_price" value="100"/>
+<row name="place_treasure_box_max_num" value="20"/>
+<row name="max_treasure_box_num_get_every_day" value="5"/>
+<row name="treasure_box_award_fix_id" value="10060"/>
+<row name="tread_circle_get_treasure_box_probability" value="5000"/>
+<row name="tread_circle_get_popularity_value" value="1"/>
+<row name="max_tread_num_every_circle_every_day" value="1"/>
+<row name="popularity_chart_clear_time" value="350299614"/>
+<row name="present_message_character_max_num" value="50"/>
+<row name="max_get_popularity_by_tread" value="50"/>
+<row name="max_black_role_num_limit" value="100"/>
+</root>

@@ -1,0 +1,62 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020451" canvass_trumpet_cfg_id="431100004" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" daily_vote_times_limit="1" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_max_corps_num="4" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_corps_num="2" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_win_point="3" serverlevel="90" vote_fix_award_id="7121" vote_level_limit="70" vote_stage_direct_promotion_corps_num="4" vote_stage_direct_promotion_mail_cfg_id="340009072" vote_stage_encourage_mail_cfg_id="340009075" vote_stage_moduleid="352" vote_stage_most_votes_mail_cfg_id="340009073" vote_stage_notice_mail_cfg_id="340009076" vote_stage_rank_page_num="5" vote_stage_round_robin_notice_mail_cfg_id="340009074">
+    <round_robin_time_points>
+      <int>352500400</int>
+      <int>352500402</int>
+      <int>352500404</int>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <int>352500401</int>
+      <int>352500403</int>
+      <int>352500405</int>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020014" canvass_trumpet_cfg_id="431100004" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" daily_vote_times_limit="1" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_max_corps_num="4" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_corps_num="2" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_win_point="3" serverlevel="90" vote_fix_award_id="7121" vote_level_limit="70" vote_stage_direct_promotion_corps_num="1" vote_stage_direct_promotion_mail_cfg_id="340009072" vote_stage_encourage_mail_cfg_id="340009075" vote_stage_moduleid="352" vote_stage_most_votes_mail_cfg_id="340009073" vote_stage_notice_mail_cfg_id="340009076" vote_stage_rank_page_num="5" vote_stage_round_robin_notice_mail_cfg_id="340009074">
+    <round_robin_time_points>
+      <int>352500300</int>
+      <int>352500302</int>
+      <int>352500304</int>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <int>352500301</int>
+      <int>352500303</int>
+      <int>352500305</int>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020002" canvass_trumpet_cfg_id="431100004" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" daily_vote_times_limit="1" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_max_corps_num="4" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_corps_num="2" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_win_point="3" serverlevel="90" vote_fix_award_id="7121" vote_level_limit="70" vote_stage_direct_promotion_corps_num="1" vote_stage_direct_promotion_mail_cfg_id="340009072" vote_stage_encourage_mail_cfg_id="340009075" vote_stage_moduleid="352" vote_stage_most_votes_mail_cfg_id="340009073" vote_stage_notice_mail_cfg_id="340009076" vote_stage_rank_page_num="5" vote_stage_round_robin_notice_mail_cfg_id="340009074">
+    <round_robin_time_points>
+      <int>352500200</int>
+      <int>352500202</int>
+      <int>352500204</int>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <int>352500201</int>
+      <int>352500203</int>
+      <int>352500205</int>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg active_unregister_mail_cfg_id="340009071" activity_cfg_id="350010000" canvass_trumpet_cfg_id="431100004" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" daily_vote_times_limit="1" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_max_corps_num="4" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_corps_num="2" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_win_point="3" serverlevel="90" vote_fix_award_id="7121" vote_level_limit="70" vote_stage_direct_promotion_corps_num="1" vote_stage_direct_promotion_mail_cfg_id="340009072" vote_stage_encourage_mail_cfg_id="340009075" vote_stage_moduleid="352" vote_stage_most_votes_mail_cfg_id="340009073" vote_stage_notice_mail_cfg_id="340009076" vote_stage_rank_page_num="5" vote_stage_round_robin_notice_mail_cfg_id="340009074">
+    <round_robin_time_points>
+      <int>352500004</int>
+      <int>352500006</int>
+      <int>352500008</int>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <int>352500005</int>
+      <int>352500007</int>
+      <int>352500009</int>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg active_unregister_mail_cfg_id="340009071" activity_cfg_id="350020000" canvass_trumpet_cfg_id="431100004" corps_member_num_dissatisfied_unregister_mail_cfg_id="340009092" daily_vote_times_limit="1" moduleid="345" npc_controller_id="701109201" npc_id="150114101" npc_service_id="150210601" register_corps_member_num_lower_limit="5" register_corps_member_num_upper_limit="8" register_cost_num="100000" register_cost_type="2" register_mail_cfg_id="340009070" register_stage_moduleid="351" round_robin_backup_remind_mail_cfg_id="340009079" round_robin_lose_point="0" round_robin_main_remind_mail_cfg_id="340009093" round_robin_map_cfg_id="330000960" round_robin_map_transfer_x="3537" round_robin_map_transfer_y="2137" round_robin_max_corps_num="4" round_robin_out_map_cfg_id="330000001" round_robin_out_map_transfer_x="6916" round_robin_out_map_transfer_y="2375" round_robin_out_npc_id="150114102" round_robin_out_npc_service_id="150210602" round_robin_stage_encourage_mail_cfg_id="340009078" round_robin_stage_fight_max_duration_in_minute="100" round_robin_stage_moduleid="353" round_robin_stage_prepare_duration_in_minute="20" round_robin_stage_promotion_corps_num="2" round_robin_stage_promotion_mail_cfg_id="340009077" round_robin_win_point="3" serverlevel="90" vote_fix_award_id="7121" vote_level_limit="70" vote_stage_direct_promotion_corps_num="1" vote_stage_direct_promotion_mail_cfg_id="340009072" vote_stage_encourage_mail_cfg_id="340009075" vote_stage_moduleid="352" vote_stage_most_votes_mail_cfg_id="340009073" vote_stage_notice_mail_cfg_id="340009076" vote_stage_rank_page_num="5" vote_stage_round_robin_notice_mail_cfg_id="340009074">
+    <round_robin_time_points>
+      <int>352500100</int>
+      <int>352500102</int>
+      <int>352500104</int>
+    </round_robin_time_points>
+    <round_robin_backup_time_points>
+      <int>352500101</int>
+      <int>352500103</int>
+      <int>352500105</int>
+    </round_robin_backup_time_points>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleOwnCfg>
+</data>

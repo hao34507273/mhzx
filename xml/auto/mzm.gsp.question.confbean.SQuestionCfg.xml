@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.question.confbean.SQuestionCfg activityId="350000000" callGangHelp="2" id="340200000" maxQuestionLimit="10" passOneWrongAnswer="2" rightRewardId="303" templatename="测试答题1" wrongRewardId="304">
+    <questionDepotIdList>
+      <int>340300000</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </questionDepotIdList>
+  </mzm.gsp.question.confbean.SQuestionCfg>
+</data>

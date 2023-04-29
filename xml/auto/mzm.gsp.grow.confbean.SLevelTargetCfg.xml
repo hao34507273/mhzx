@@ -1,0 +1,416 @@
+<data>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2000" goalDes="擁有第一隻寵物" goalType="2" iconId="229" id="560100000" moduleType="1" openLevel="0" templateName="第一只宠物" title="第一隻寵物">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="31" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2047" goalDes="擁有任意%2$s只變異寵物" goalType="2" iconId="230" id="560100001" moduleType="1" openLevel="45" templateName="变异宠物" title="變異寵物">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="4" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2053" goalDes="擁有%2$s只攜帶等級%3$s級的%1$s寵物" goalType="2" iconId="229" id="560100003" moduleType="1" openLevel="50" templateName="55级宠物" title="%3$s級寵物">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="31" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="55" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2060" goalDes="擁有%2$s只攜帶等級%3$s級的%1$s寵物" goalType="2" iconId="229" id="560100004" moduleType="1" openLevel="60" templateName="65级宠物" title="%3$s級寵物">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="31" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="65" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2044" goalDes="完成%1$s次寵物化生" goalType="4" iconId="123" id="560100008" moduleType="1" openLevel="1" templateName="宠物化生" title="寵物化生">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2046" goalDes="擁有%2$s只攜帶等級%3$s級的%1$s寵物" goalType="2" iconId="229" id="560100011" moduleType="1" openLevel="45" templateName="45级宠物" title="%3$s級寵物">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="31" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="45" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2001" goalDes="擁有第%1$s個好友" goalType="300" iconId="335" id="560100100" moduleType="1" openLevel="0" templateName="第一个好友" title="第一個好友">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2002" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100201" moduleType="1" openLevel="0" templateName="0-9级主线任务" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000675" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2010" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100202" moduleType="1" openLevel="10" templateName="10-19级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000719" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2019" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100203" moduleType="1" openLevel="20" templateName="20-29级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000417" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2031" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100204" moduleType="1" openLevel="30" templateName="30-39级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000482" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2042" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100205" moduleType="1" openLevel="40" templateName="40-49级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000512" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2054" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100206" moduleType="1" openLevel="50" templateName="50-59级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000777" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2064" goalDes="完成主線任務%1$s" goalType="1" iconId="361" id="560100207" moduleType="1" openLevel="60" templateName="60-69级主线" title="%1$s">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="20000853" type="3"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2016" goalDes="上陣%1$s個仙侶" goalType="601" iconId="332" id="560100301" moduleType="1" openLevel="13" templateName="上阵四个仙侣" title="上陣仙侶">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="4" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2012" goalDes="加入一個幫派" goalType="900" iconId="327" id="560100400" moduleType="1" openLevel="12" templateName="加入帮派" title="加入幫派">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2013" goalDes="在幫派頻道喊話%1$s次" goalType="1200" iconId="327" id="560100500" moduleType="1" openLevel="12" templateName="帮派聊天" title="幫派聊天">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2021" goalDes="完成%1$s次擺攤上架" goalType="1500" iconId="337" id="560100600" moduleType="1" openLevel="20" templateName="摆摊上架" title="擺攤上架">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2017" goalDes="門派全部心法技能升到%1$s級" goalType="1800" iconId="330" id="560100700" moduleType="1" openLevel="15" templateName="心法升级15" title="心法升級">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="15" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2038" goalDes="門派全部心法技能升到%1$s級" goalType="1800" iconId="330" id="560100701" moduleType="1" openLevel="35" templateName="心法进阶35" title="心法進階">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="35" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2027" goalDes="第%1$s次製造附魔符" goalType="1801" iconId="343" id="560100702" moduleType="1" openLevel="21" templateName="附魔技能" title="附魔符製造">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2022" goalDes="第%1$s次製造生產物品" goalType="1802" iconId="330" id="560100703" moduleType="1" openLevel="20" templateName="第一次生产" title="第一次生產">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2055" goalDes="製造出%1$s件品質%2$s星以上的生產物品" goalType="1802" iconId="330" id="560100706" moduleType="1" openLevel="50" templateName="五星制造" title="%2$s星製造">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="5" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2039" goalDes="任意修煉技能達到%2$s級" goalType="1805" iconId="330" id="560100707" moduleType="1" openLevel="40" templateName="修炼1级" title="勤學苦練">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2048" goalDes="門派全部心法技能升到%1$s級" goalType="1800" iconId="330" id="560100708" moduleType="1" openLevel="45" templateName="心法进阶45" title="心法進階">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="45" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2069" goalDes="任意修煉技能達到%2$s級" goalType="1805" iconId="330" id="560100709" moduleType="1" openLevel="65" templateName="修炼10级" title="勤學苦練">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="10" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2023" goalDes="使用%1$s次活力打工" goalType="2100" iconId="116" id="560100800" moduleType="1" openLevel="20" templateName="活力打工" title="活力打工">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2018" goalDes="完成%2$s次師門" goalType="2400" iconId="365" id="560100900" moduleType="1" openLevel="18" templateName="师门任务10次" title="師門">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000000" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="10" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2029" goalDes="完成%2$s次鎮妖" goalType="2400" iconId="376" id="560100901" moduleType="1" openLevel="25" templateName="镇妖1次" title="鎮妖">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000001" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2028" goalDes="完成%2$s次誅仙奇緣" goalType="2400" iconId="359" id="560100902" moduleType="1" openLevel="22" templateName="诛仙奇缘1次" title="誅仙奇緣">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000009" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2030" goalDes="使用藏寶圖完成%2$s次挖寶" goalType="2400" iconId="371" id="560100904" moduleType="1" openLevel="33" templateName="藏宝图1次" title="第一次挖寶">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000002" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2037" goalDes="完成%2$s次賞金任務" goalType="2400" iconId="363" id="560100905" moduleType="1" openLevel="30" templateName="赏金1次" title="賞金">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000003" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2036" goalDes="完成%2$s次護送任務" goalType="2400" iconId="353" id="560100906" moduleType="1" openLevel="28" templateName="护送1次" title="金瓶兒的護送">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000005" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2033" goalDes="擊殺%3$s次幫派強盜" goalType="2400" iconId="350" id="560100907" moduleType="1" openLevel="30" templateName="帮派强盗1次" title="幫派強盜">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000013" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2040" goalDes="參加%2$s次黑龍浩劫" goalType="2400" iconId="373" id="560100908" moduleType="1" openLevel="35" templateName="黑龙浩劫1次" title="黑龍浩劫">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000004" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="520000000" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2045" goalDes="完成%2$s次黑石問情" goalType="2400" iconId="374" id="560100909" moduleType="1" openLevel="45" templateName="剧情副本1" title="黑石問情">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000007" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="520000002" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2056" goalDes="擊殺%3$s次十二生肖" goalType="2400" iconId="364" id="560100911" moduleType="1" openLevel="50" templateName="生肖1次" title="十二生肖">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="350000011" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2024" goalDes="打造%1$s次裝備" goalType="3000" iconId="107" id="560101100" moduleType="1" openLevel="30" templateName="装备打造1次" title="裝備打造">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2041" goalDes="對裝備進行%1$s次啟靈" goalType="3001" iconId="106" id="560101101" moduleType="1" openLevel="30" templateName="装备启灵1次" title="裝備啟靈">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2034" goalDes="完成%1$s次角色加點" goalType="3300" iconId="341" id="560101200" moduleType="1" openLevel="30" templateName="角色加点1次" title="角色加點">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2049" goalDes="羽翼功能開啟並且獲得第%1$s個羽翼方案" goalType="3900" iconId="297" id="560101400" moduleType="1" openLevel="45" templateName="羽翼开启" title="羽翼開啟">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2050" goalDes="完成第%1$s次羽翼升級" goalType="3901" iconId="298" id="560101401" moduleType="1" openLevel="45" templateName="羽翼升级1次" title="羽翼升級">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2051" goalDes="完成第%1$s次羽翼升階" goalType="3902" iconId="296" id="560101402" moduleType="1" openLevel="45" templateName="羽翼升阶1次" title="羽翼升階">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2058" goalDes="獲得第%1$s個法寶" goalType="4200" iconId="328" id="560101500" moduleType="1" openLevel="60" templateName="第一个法宝" title="第一個法寶">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="2"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="210000039" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2059" goalDes="法寶第1次升級" goalType="4201" iconId="301" id="560101501" moduleType="1" openLevel="60" templateName="法宝升级" title="法寶升級">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="1" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+  <mzm.gsp.grow.confbean.SLevelTargetCfg fixAwardId="2061" goalDes="法寶第1次升星" goalType="4202" iconId="689" id="560101502" moduleType="1" openLevel="60" templateName="法宝升星" title="法寶升星">
+    <goalParameters>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="2" type="1"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+      <mzm.gsp.grow.confbean.GoalParameter parameter="0" type="0"/>
+    </goalParameters>
+  </mzm.gsp.grow.confbean.SLevelTargetCfg>
+</data>

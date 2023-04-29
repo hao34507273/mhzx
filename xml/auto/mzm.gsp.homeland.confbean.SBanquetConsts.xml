@@ -1,0 +1,20 @@
+<root>
+<row name="ACTIVITY_ID" value="350000318"/>
+<row name="HOLD_BANQUEST_NPC" value="150113026"/>
+<row name="HOLD_BANQUEST_NPC_SERVICE" value="150210311"/>
+<row name="HOLD_BANQUEST_ROLE_LEVEL" value="30"/>
+<row name="JOIN_BANQUEST_PEOPLE_UPPER" value="50"/>
+<row name="HOLD_BANQUEST_TIME_LIMIT" value="6"/>
+<row name="BANQUEST_RESERVE_TIME" value="50"/>
+<row name="DISHES_INTERVAL_TIME" value="60"/>
+<row name="DISHES_TIP_TIME" value="10"/>
+<row name="CLEAR_CONTROLLER_INTERVAL" value="55"/>
+<row name="DISHES_COUNT_MAX" value="5"/>
+<row name="TRANSFORM_MAP_ID" value="330000001"/>
+<row name="DAY_CAN_GET_MAX" value="5"/>
+<row name="EACH_BANQUEST_CAN_GET_MAX" value="5"/>
+<row name="EACH_DISH_CAN_GET_MAX" value="1"/>
+<row name="DAY_CAN_HOLD_BANQUEST_MAX" value="1"/>
+<row name="CHECK_ID" value="1"/>
+<row name="JOIN_LEVEL_MIN" value="30"/>
+</root>

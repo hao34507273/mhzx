@@ -1,0 +1,181 @@
+<data>
+  <mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg goodsCfgTypeId="1">
+    <id2pointExchangeGoodsInfo>
+      <no-comparator/>
+      <entry>
+        <int>534100007</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="50" fixAwardId="9444" id="534100007" tokenCount="15"/>
+      </entry>
+      <entry>
+        <int>534100006</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="9443" id="534100006" tokenCount="10"/>
+      </entry>
+      <entry>
+        <int>534100005</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="9442" id="534100005" tokenCount="5"/>
+      </entry>
+      <entry>
+        <int>534100004</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="9441" id="534100004" tokenCount="15"/>
+      </entry>
+      <entry>
+        <int>534100003</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="9440" id="534100003" tokenCount="10"/>
+      </entry>
+      <entry>
+        <int>534100002</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="2" fixAwardId="9447" id="534100002" tokenCount="100"/>
+      </entry>
+      <entry>
+        <int>534100001</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="9448" id="534100001" tokenCount="1000"/>
+      </entry>
+      <entry>
+        <int>534100000</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="9449" id="534100000" tokenCount="1000"/>
+      </entry>
+      <entry>
+        <int>534100009</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="50" fixAwardId="9446" id="534100009" tokenCount="25"/>
+      </entry>
+      <entry>
+        <int>534100008</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="50" fixAwardId="9445" id="534100008" tokenCount="30"/>
+      </entry>
+    </id2pointExchangeGoodsInfo>
+  </mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg>
+  <mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg goodsCfgTypeId="2">
+    <id2pointExchangeGoodsInfo>
+      <no-comparator/>
+      <entry>
+        <int>534100015</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50133" id="534100015" tokenCount="200"/>
+      </entry>
+      <entry>
+        <int>534100014</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50132" id="534100014" tokenCount="200"/>
+      </entry>
+      <entry>
+        <int>534100013</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50131" id="534100013" tokenCount="200"/>
+      </entry>
+      <entry>
+        <int>534100012</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50130" id="534100012" tokenCount="600"/>
+      </entry>
+      <entry>
+        <int>534100022</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50140" id="534100022" tokenCount="1000"/>
+      </entry>
+      <entry>
+        <int>534100023</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50141" id="534100023" tokenCount="900"/>
+      </entry>
+      <entry>
+        <int>534100020</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="12" fixAwardId="50138" id="534100020" tokenCount="20"/>
+      </entry>
+      <entry>
+        <int>534100021</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="12" fixAwardId="50139" id="534100021" tokenCount="20"/>
+      </entry>
+      <entry>
+        <int>534100018</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="22" fixAwardId="50136" id="534100018" tokenCount="20"/>
+      </entry>
+      <entry>
+        <int>534100019</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="50" fixAwardId="50137" id="534100019" tokenCount="5"/>
+      </entry>
+      <entry>
+        <int>534100016</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50134" id="534100016" tokenCount="90"/>
+      </entry>
+      <entry>
+        <int>534100017</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="1" fixAwardId="50135" id="534100017" tokenCount="90"/>
+      </entry>
+      <entry>
+        <int>534100028</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50146" id="534100028" tokenCount="5"/>
+      </entry>
+      <entry>
+        <int>534100029</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50147" id="534100029" tokenCount="1"/>
+      </entry>
+      <entry>
+        <int>534100026</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50144" id="534100026" tokenCount="10"/>
+      </entry>
+      <entry>
+        <int>534100027</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50145" id="534100027" tokenCount="5"/>
+      </entry>
+      <entry>
+        <int>534100024</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50142" id="534100024" tokenCount="200"/>
+      </entry>
+      <entry>
+        <int>534100025</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="50143" id="534100025" tokenCount="200"/>
+      </entry>
+    </id2pointExchangeGoodsInfo>
+  </mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg>
+  <mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg goodsCfgTypeId="3">
+    <id2pointExchangeGoodsInfo>
+      <no-comparator/>
+      <entry>
+        <int>534100030</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51100" id="534100030" tokenCount="50"/>
+      </entry>
+      <entry>
+        <int>534100031</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51101" id="534100031" tokenCount="500"/>
+      </entry>
+      <entry>
+        <int>534100032</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51102" id="534100032" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100033</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51103" id="534100033" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100034</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51104" id="534100034" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100035</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51105" id="534100035" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100036</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51106" id="534100036" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100037</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51107" id="534100037" tokenCount="5000"/>
+      </entry>
+      <entry>
+        <int>534100038</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51108" id="534100038" tokenCount="99999"/>
+      </entry>
+      <entry>
+        <int>534100039</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51109" id="534100039" tokenCount="99999"/>
+      </entry>
+      <entry>
+        <int>534100040</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51110" id="534100040" tokenCount="99999"/>
+      </entry>
+      <entry>
+        <int>534100041</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51111" id="534100041" tokenCount="99999"/>
+      </entry>
+      <entry>
+        <int>534100042</int>
+        <mzm.gsp.activitypointexchange.confbean.SPointExchangeGoodsInfo exchangeMaxCount="-1" fixAwardId="51112" id="534100042" tokenCount="99999"/>
+      </entry>
+    </id2pointExchangeGoodsInfo>
+  </mzm.gsp.activitypointexchange.confbean.STActivityPointExchangeGoodsCfg>
+</data>

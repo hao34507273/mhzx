@@ -1,0 +1,16 @@
+<data>
+  <mzm.gsp.lonngboatrace.confbean.TLonngBoatRaceConsoleCfg raceId="951500000">
+    <commandList>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="全速前进" commandType="1" id="951300002"/>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="左划桨" commandType="0" id="951300000"/>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="右划桨" commandType="2" id="951300001"/>
+    </commandList>
+  </mzm.gsp.lonngboatrace.confbean.TLonngBoatRaceConsoleCfg>
+  <mzm.gsp.lonngboatrace.confbean.TLonngBoatRaceConsoleCfg raceId="951500001">
+    <commandList>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="右运功" commandType="2" id="951300004"/>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="全速前进" commandType="1" id="951300005"/>
+      <mzm.gsp.lonngboatrace.confbean.Command commandName="左运功" commandType="0" id="951300003"/>
+    </commandList>
+  </mzm.gsp.lonngboatrace.confbean.TLonngBoatRaceConsoleCfg>
+</data>

@@ -1,0 +1,6 @@
+<root>
+<row name="max_double_item_times_every_day" value="2"/>
+<row name="trigger_rate" value="2500"/>
+<row name="trigger_minimum_guarantee_need_times" value="4"/>
+<row name="max_minimum_guarantee_times_every_day" value="2"/>
+</root>

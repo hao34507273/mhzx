@@ -1,0 +1,329 @@
+<data>
+  <mzm.gsp.ladder.confbean.SLadderGradeCfg level="60" levelUpReductionRate="8000" localChartType="52" remoteChartType="53">
+    <grade_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白銀1段" levelDownScoreMin="1025" levelUpScoreMin="600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白銀2段" levelDownScoreMin="1075" levelUpScoreMin="1050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白銀3段" levelDownScoreMin="1125" levelUpScoreMin="1100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白銀4段" levelDownScoreMin="1175" levelUpScoreMin="1150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白銀5段" levelDownScoreMin="1225" levelUpScoreMin="1200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5410" honorName="黃金1段" levelDownScoreMin="1275" levelUpScoreMin="1250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="黃金2段" levelDownScoreMin="1325" levelUpScoreMin="1300" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="黃金3段" levelDownScoreMin="1375" levelUpScoreMin="1350" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="黃金4段" levelDownScoreMin="1425" levelUpScoreMin="1400" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="黃金5段" levelDownScoreMin="1475" levelUpScoreMin="1450" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5411" honorName="白金1段" levelDownScoreMin="1525" levelUpScoreMin="1500" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白金2段" levelDownScoreMin="1575" levelUpScoreMin="1550" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白金3段" levelDownScoreMin="1625" levelUpScoreMin="1600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白金4段" levelDownScoreMin="1675" levelUpScoreMin="1650" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="白金5段" levelDownScoreMin="1725" levelUpScoreMin="1700" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="鉆石2段" levelDownScoreMin="1825" levelUpScoreMin="1800" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5412" honorName="鉆石1段" levelDownScoreMin="1775" levelUpScoreMin="1750" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="鉆石4段" levelDownScoreMin="1925" levelUpScoreMin="1900" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="鉆石3段" levelDownScoreMin="1875" levelUpScoreMin="1850" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5413" honorName="大師1段" levelDownScoreMin="2025" levelUpScoreMin="2000" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="鉆石5段" levelDownScoreMin="1975" levelUpScoreMin="1950" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="大師3段" levelDownScoreMin="2125" levelUpScoreMin="2100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="大師2段" levelDownScoreMin="2075" levelUpScoreMin="2050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="大師5段" levelDownScoreMin="2225" levelUpScoreMin="2200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="大師4段" levelDownScoreMin="2175" levelUpScoreMin="2150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5414" honorName="王者" levelDownScoreMin="99999" levelUpScoreMin="2250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+    </grade_infos>
+  </mzm.gsp.ladder.confbean.SLadderGradeCfg>
+  <mzm.gsp.ladder.confbean.SLadderGradeCfg level="100" levelUpReductionRate="8000" localChartType="54" remoteChartType="55">
+    <grade_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白銀1段" levelDownScoreMin="1025" levelUpScoreMin="600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白銀2段" levelDownScoreMin="1075" levelUpScoreMin="1050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白銀3段" levelDownScoreMin="1125" levelUpScoreMin="1100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白銀4段" levelDownScoreMin="1175" levelUpScoreMin="1150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白銀5段" levelDownScoreMin="1225" levelUpScoreMin="1200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5402" honorName="宗·黃金1段" levelDownScoreMin="1275" levelUpScoreMin="1250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·黃金2段" levelDownScoreMin="1325" levelUpScoreMin="1300" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·黃金3段" levelDownScoreMin="1375" levelUpScoreMin="1350" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·黃金4段" levelDownScoreMin="1425" levelUpScoreMin="1400" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·黃金5段" levelDownScoreMin="1475" levelUpScoreMin="1450" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5403" honorName="宗·白金1段" levelDownScoreMin="1525" levelUpScoreMin="1500" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白金2段" levelDownScoreMin="1575" levelUpScoreMin="1550" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白金3段" levelDownScoreMin="1625" levelUpScoreMin="1600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白金4段" levelDownScoreMin="1675" levelUpScoreMin="1650" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·白金5段" levelDownScoreMin="1725" levelUpScoreMin="1700" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·鉆石2段" levelDownScoreMin="1825" levelUpScoreMin="1800" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5404" honorName="宗·鉆石1段" levelDownScoreMin="1775" levelUpScoreMin="1750" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·鉆石4段" levelDownScoreMin="1925" levelUpScoreMin="1900" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·鉆石3段" levelDownScoreMin="1875" levelUpScoreMin="1850" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5405" honorName="宗·大師1段" levelDownScoreMin="2025" levelUpScoreMin="2000" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·鉆石5段" levelDownScoreMin="1975" levelUpScoreMin="1950" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·大師3段" levelDownScoreMin="2125" levelUpScoreMin="2100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·大師2段" levelDownScoreMin="2075" levelUpScoreMin="2050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·大師5段" levelDownScoreMin="2225" levelUpScoreMin="2200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="宗·大師4段" levelDownScoreMin="2175" levelUpScoreMin="2150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5406" honorName="宗·王者" levelDownScoreMin="99999" levelUpScoreMin="2250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+    </grade_infos>
+  </mzm.gsp.ladder.confbean.SLadderGradeCfg>
+  <mzm.gsp.ladder.confbean.SLadderGradeCfg level="120" levelUpReductionRate="8000" localChartType="56" remoteChartType="57">
+    <grade_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白銀1段" levelDownScoreMin="1025" levelUpScoreMin="600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白銀2段" levelDownScoreMin="1075" levelUpScoreMin="1050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白銀3段" levelDownScoreMin="1125" levelUpScoreMin="1100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白銀4段" levelDownScoreMin="1175" levelUpScoreMin="1150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白銀5段" levelDownScoreMin="1225" levelUpScoreMin="1200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5420" honorName="尊·黃金1段" levelDownScoreMin="1275" levelUpScoreMin="1250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·黃金2段" levelDownScoreMin="1325" levelUpScoreMin="1300" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·黃金3段" levelDownScoreMin="1375" levelUpScoreMin="1350" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·黃金4段" levelDownScoreMin="1425" levelUpScoreMin="1400" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·黃金5段" levelDownScoreMin="1475" levelUpScoreMin="1450" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5421" honorName="尊·白金1段" levelDownScoreMin="1525" levelUpScoreMin="1500" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白金2段" levelDownScoreMin="1575" levelUpScoreMin="1550" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白金3段" levelDownScoreMin="1625" levelUpScoreMin="1600" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白金4段" levelDownScoreMin="1675" levelUpScoreMin="1650" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·白金5段" levelDownScoreMin="1725" levelUpScoreMin="1700" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·鉆石2段" levelDownScoreMin="1825" levelUpScoreMin="1800" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5422" honorName="尊·鉆石1段" levelDownScoreMin="1775" levelUpScoreMin="1750" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·鉆石4段" levelDownScoreMin="1925" levelUpScoreMin="1900" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·鉆石3段" levelDownScoreMin="1875" levelUpScoreMin="1850" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5423" honorName="尊·大師1段" levelDownScoreMin="2025" levelUpScoreMin="2000" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·鉆石5段" levelDownScoreMin="1975" levelUpScoreMin="1950" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·大師3段" levelDownScoreMin="2125" levelUpScoreMin="2100" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·大師2段" levelDownScoreMin="2075" levelUpScoreMin="2050" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·大師5段" levelDownScoreMin="2225" levelUpScoreMin="2200" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="0" honorName="尊·大師4段" levelDownScoreMin="2175" levelUpScoreMin="2150" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.ladder.confbean.SLadderGradeInfo awardid="5424" honorName="尊·王者" levelDownScoreMin="99999" levelUpScoreMin="2250" loseToken="0" reductionRate="8000" winToken="15"/>
+      </entry>
+    </grade_infos>
+  </mzm.gsp.ladder.confbean.SLadderGradeCfg>
+</data>

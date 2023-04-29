@@ -1,0 +1,2636 @@
+<data>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000000" profitControlType="2" profitType="1" templatename="稳定队伍buff角色经验" value="1000">
+    <conditionList>
+      <int>703100000</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000001" profitControlType="2" profitType="32" templatename="稳定队伍buff银两" value="1000">
+    <conditionList>
+      <int>703100001</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000100" profitControlType="2" profitType="1" templatename="永结同心buff角色经验" value="500">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000101" profitControlType="2" profitType="32" templatename="永结同心buff银两" value="500">
+    <conditionList>
+      <int>703100101</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000150" profitControlType="2" profitType="1" templatename="义结金兰buff角色经验" value="300">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000151" profitControlType="2" profitType="32" templatename="义结金兰buff银两" value="300">
+    <conditionList>
+      <int>703100101</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000160" profitControlType="2" profitType="1" templatename="红尘作伴buff角色经验" value="400">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000161" profitControlType="2" profitType="32" templatename="红尘作伴buff银两" value="400">
+    <conditionList>
+      <int>703100101</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000170" profitControlType="2" profitType="1" templatename="帮派固定队buff角色经验" value="500">
+    <conditionList>
+      <int>703110036</int>
+      <int>703110023</int>
+      <int>703110018</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000200" profitControlType="2" profitType="1" templatename="新婚buff角色经验" value="500">
+    <conditionList>
+      <int>703100200</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000201" profitControlType="2" profitType="32" templatename="新婚buff银两" value="500">
+    <conditionList>
+      <int>703100201</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000202" profitControlType="2" profitType="1" templatename="集体婚礼buff角色经验" value="500">
+    <conditionList>
+      <int>703100200</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000203" profitControlType="2" profitType="32" templatename="集体婚礼buff银两" value="500">
+    <conditionList>
+      <int>703100201</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000300" profitControlType="2" profitType="1" templatename="新婚组队buff角色经验" value="500">
+    <conditionList>
+      <int>703100300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000301" profitControlType="2" profitType="32" templatename="新婚组队buff银两" value="500">
+    <conditionList>
+      <int>703100301</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000302" profitControlType="2" profitType="1" templatename="集体婚礼组队buff角色经验" value="500">
+    <conditionList>
+      <int>703100300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000303" profitControlType="2" profitType="32" templatename="集体婚礼组队buff银两" value="500">
+    <conditionList>
+      <int>703100301</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000500" profitControlType="3" profitType="1" templatename="零收益buff角色经验" value="0">
+    <conditionList>
+      <int>703100500</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000501" profitControlType="3" profitType="32" templatename="零收益buff银两" value="0">
+    <conditionList>
+      <int>703100501</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000502" profitControlType="3" profitType="2" templatename="零收益buff宠物经验" value="0">
+    <conditionList>
+      <int>703100502</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000503" profitControlType="3" profitType="4" templatename="零收益buff修炼经验" value="0">
+    <conditionList>
+      <int>703100503</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000504" profitControlType="3" profitType="8" templatename="零收益buff元宝" value="0">
+    <conditionList>
+      <int>703100504</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000505" profitControlType="3" profitType="16" templatename="零收益buff金币" value="0">
+    <conditionList>
+      <int>703100505</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000506" profitControlType="3" profitType="64" templatename="零收益buff帮贡" value="0">
+    <conditionList>
+      <int>703100506</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000507" profitControlType="3" profitType="128" templatename="零收益buff侠义值" value="0">
+    <conditionList>
+      <int>703100507</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000508" profitControlType="3" profitType="256" templatename="零收益buff竞技积分" value="0">
+    <conditionList>
+      <int>703100508</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000509" profitControlType="3" profitType="512" templatename="零收益buff师门贡献" value="0">
+    <conditionList>
+      <int>703100509</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000510" profitControlType="3" profitType="1024" templatename="零收益buff声望值" value="0">
+    <conditionList>
+      <int>703100510</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703000511" profitControlType="3" profitType="2048" templatename="零收益buff物品概率" value="0">
+    <conditionList>
+      <int>703100511</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010000" profitControlType="2" profitType="1" templatename="主线N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110000</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010001" profitControlType="2" profitType="1" templatename="支线N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110001</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010002" profitControlType="2" profitType="1" templatename="师门任务N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010003" profitControlType="2" profitType="1" templatename="藏宝图N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110003</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010004" profitControlType="2" profitType="1" templatename="试炼N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110004</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010005" profitControlType="2" profitType="1" templatename="黑龙浩劫N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110005</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010006" profitControlType="2" profitType="1" templatename="竞技场N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110006</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010007" profitControlType="2" profitType="1" templatename="镇妖活动N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010008" profitControlType="2" profitType="1" templatename="护送N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110008</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010009" profitControlType="2" profitType="1" templatename="地宫挂野N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110009</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010010" profitControlType="2" profitType="1" templatename="乱世妖魔N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110010</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010011" profitControlType="2" profitType="1" templatename="十二生肖N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110011</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010012" profitControlType="2" profitType="1" templatename="副本N倍buff生效配置人物经验*0.05" value="500">
+    <conditionList>
+      <int>703110012</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010013" profitControlType="2" profitType="1" templatename="诛仙奇缘N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110013</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010014" profitControlType="2" profitType="1" templatename="科举考试N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110014</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010015" profitControlType="2" profitType="1" templatename="决战九霄N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110015</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010016" profitControlType="2" profitType="1" templatename="帮派精英N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110016</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010017" profitControlType="2" profitType="1" templatename="门派挑战N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110017</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010018" profitControlType="2" profitType="1" templatename="帮派战争N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110018</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010019" profitControlType="2" profitType="1" templatename="幻月洞府N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110019</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010020" profitControlType="2" profitType="1" templatename="世界BOSSN倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110020</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010021" profitControlType="2" profitType="1" templatename="天下会武N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110021</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010022" profitControlType="2" profitType="1" templatename="首席争霸N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110022</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010023" profitControlType="2" profitType="1" templatename="帮派强盗N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110023</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010024" profitControlType="2" profitType="1" templatename="妖兽突袭N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110024</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010025" profitControlType="2" profitType="1" templatename="单人节日活动N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110025</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010026" profitControlType="2" profitType="1" templatename="组队节日活动N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110026</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010027" profitControlType="2" profitType="1" templatename="还魂秘术N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110027</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010028" profitControlType="2" profitType="1" templatename="赏金N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110028</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010029" profitControlType="2" profitType="1" templatename="帮派周常N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110029</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010030" profitControlType="2" profitType="1" templatename="双飞活动N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110030</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010031" profitControlType="2" profitType="1" templatename="帮派篝火N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110031</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010032" profitControlType="2" profitType="1" templatename="赛跑N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110032</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010033" profitControlType="2" profitType="1" templatename="晚间答题N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110033</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010034" profitControlType="2" profitType="1" templatename="夫妻活动N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110034</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010035" profitControlType="2" profitType="1" templatename="世界答题N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110035</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010036" profitControlType="2" profitType="1" templatename="副本N倍buff生效配置人物经验*0.1" value="1000">
+    <conditionList>
+      <int>703110012</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010037" profitControlType="2" profitType="1" templatename="钻石签到宝箱-师门" value="3000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010038" profitControlType="2" profitType="1" templatename="钻石签到宝箱-镇妖" value="3000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010039" profitControlType="2" profitType="1" templatename="钻石签到宝箱-赏金" value="3000">
+    <conditionList>
+      <int>703110028</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010040" profitControlType="2" profitType="1" templatename="钻石签到宝箱-奇缘" value="3000">
+    <conditionList>
+      <int>703110013</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010041" profitControlType="2" profitType="1" templatename="钻石签到宝箱-竞技场" value="3000">
+    <conditionList>
+      <int>703110006</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010042" profitControlType="2" profitType="1" templatename="黄金签到宝箱-师门" value="2000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010043" profitControlType="2" profitType="1" templatename="黄金签到宝箱-镇妖" value="2000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010044" profitControlType="2" profitType="1" templatename="黄金签到宝箱-赏金" value="2000">
+    <conditionList>
+      <int>703110028</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010045" profitControlType="2" profitType="1" templatename="黄金签到宝箱-奇缘" value="2000">
+    <conditionList>
+      <int>703110013</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010046" profitControlType="2" profitType="1" templatename="黄金签到宝箱-竞技场" value="2000">
+    <conditionList>
+      <int>703110006</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010047" profitControlType="2" profitType="1" templatename="白银签到宝箱-师门" value="1000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010048" profitControlType="2" profitType="1" templatename="白银签到宝箱-镇妖" value="1000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010049" profitControlType="2" profitType="1" templatename="白银签到宝箱-赏金" value="1000">
+    <conditionList>
+      <int>703110028</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010050" profitControlType="2" profitType="1" templatename="白银签到宝箱-奇缘" value="1000">
+    <conditionList>
+      <int>703110013</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010051" profitControlType="2" profitType="1" templatename="白银签到宝箱-竞技场" value="1000">
+    <conditionList>
+      <int>703110006</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010099" profitControlType="2" profitType="1" templatename="青云志N倍buff生效配置人物经验" value="10000">
+    <conditionList>
+      <int>703110099</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010100" profitControlType="2" profitType="32" templatename="主线N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010101" profitControlType="2" profitType="32" templatename="支线N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110101</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010102" profitControlType="2" profitType="32" templatename="师门任务N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110102</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010103" profitControlType="2" profitType="32" templatename="藏宝图N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110103</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010104" profitControlType="2" profitType="32" templatename="试炼N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110104</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010105" profitControlType="2" profitType="32" templatename="黑龙浩劫N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110105</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010106" profitControlType="2" profitType="32" templatename="竞技场N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110106</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010107" profitControlType="2" profitType="32" templatename="镇妖活动N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110107</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010108" profitControlType="2" profitType="32" templatename="护送N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110108</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010109" profitControlType="2" profitType="32" templatename="地宫挂野N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010110" profitControlType="2" profitType="32" templatename="乱世妖魔N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110110</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010111" profitControlType="2" profitType="32" templatename="十二生肖N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110111</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010112" profitControlType="2" profitType="32" templatename="副本N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110112</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010113" profitControlType="2" profitType="32" templatename="诛仙奇缘N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110113</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010114" profitControlType="2" profitType="32" templatename="科举考试N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110114</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010115" profitControlType="2" profitType="32" templatename="决战九霄N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110115</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010116" profitControlType="2" profitType="32" templatename="帮派精英N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110116</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010117" profitControlType="2" profitType="32" templatename="门派挑战N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110117</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010118" profitControlType="2" profitType="32" templatename="帮派战争N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110118</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010119" profitControlType="2" profitType="32" templatename="幻月洞府N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110119</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010120" profitControlType="2" profitType="32" templatename="世界BOSSN倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110120</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010121" profitControlType="2" profitType="32" templatename="天下会武N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110121</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010122" profitControlType="2" profitType="32" templatename="首席争霸N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110122</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010123" profitControlType="2" profitType="32" templatename="帮派强盗N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110123</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010124" profitControlType="2" profitType="32" templatename="妖兽突袭N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110124</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010125" profitControlType="2" profitType="32" templatename="单人节日活动N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110125</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010126" profitControlType="2" profitType="32" templatename="组队节日活动N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110126</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010127" profitControlType="2" profitType="32" templatename="还魂秘术N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110127</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010128" profitControlType="2" profitType="32" templatename="赏金N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110128</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010129" profitControlType="2" profitType="32" templatename="帮派周常N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110129</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010130" profitControlType="2" profitType="32" templatename="双飞活动N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110130</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010131" profitControlType="2" profitType="32" templatename="帮派篝火N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110131</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010132" profitControlType="2" profitType="32" templatename="赛跑N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110132</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010133" profitControlType="2" profitType="32" templatename="晚间答题N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110133</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010134" profitControlType="2" profitType="32" templatename="夫妻活动N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110134</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010135" profitControlType="2" profitType="32" templatename="世界答题N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110135</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010199" profitControlType="2" profitType="32" templatename="青云志N倍buff生效配置银币" value="10000">
+    <conditionList>
+      <int>703110199</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010200" profitControlType="2" profitType="2" templatename="主线N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110200</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010201" profitControlType="2" profitType="2" templatename="支线N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110201</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010202" profitControlType="2" profitType="2" templatename="师门任务N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110202</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010203" profitControlType="2" profitType="2" templatename="藏宝图N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110203</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010204" profitControlType="2" profitType="2" templatename="试炼N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110204</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010205" profitControlType="2" profitType="2" templatename="黑龙浩劫N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110205</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010206" profitControlType="2" profitType="2" templatename="竞技场N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110206</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010207" profitControlType="2" profitType="2" templatename="镇妖活动N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110207</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010208" profitControlType="2" profitType="2" templatename="护送N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110208</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010209" profitControlType="2" profitType="2" templatename="地宫挂野N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110209</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010210" profitControlType="2" profitType="2" templatename="乱世妖魔N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110210</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010211" profitControlType="2" profitType="2" templatename="十二生肖N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110211</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010212" profitControlType="2" profitType="2" templatename="副本N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110212</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010213" profitControlType="2" profitType="2" templatename="诛仙奇缘N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110213</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010214" profitControlType="2" profitType="2" templatename="科举考试N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110214</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010215" profitControlType="2" profitType="2" templatename="决战九霄N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110215</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010216" profitControlType="2" profitType="2" templatename="帮派精英N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110216</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010217" profitControlType="2" profitType="2" templatename="门派挑战N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110217</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010218" profitControlType="2" profitType="2" templatename="帮派战争N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110218</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010219" profitControlType="2" profitType="2" templatename="幻月洞府N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110219</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010220" profitControlType="2" profitType="2" templatename="世界BOSSN倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110220</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010221" profitControlType="2" profitType="2" templatename="天下会武N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110221</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010222" profitControlType="2" profitType="2" templatename="首席争霸N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110222</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010223" profitControlType="2" profitType="2" templatename="帮派强盗N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110223</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010224" profitControlType="2" profitType="2" templatename="妖兽突袭N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110224</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010225" profitControlType="2" profitType="2" templatename="单人节日活动N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110225</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010226" profitControlType="2" profitType="2" templatename="组队节日活动N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110226</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010227" profitControlType="2" profitType="2" templatename="还魂秘术N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110227</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010228" profitControlType="2" profitType="2" templatename="赏金N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110228</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010229" profitControlType="2" profitType="2" templatename="帮派周常N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110229</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010230" profitControlType="2" profitType="2" templatename="双飞活动N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110230</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010231" profitControlType="2" profitType="2" templatename="帮派篝火N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110231</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010232" profitControlType="2" profitType="2" templatename="赛跑N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110232</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010233" profitControlType="2" profitType="2" templatename="晚间答题N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110233</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010234" profitControlType="2" profitType="2" templatename="夫妻活动N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110234</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010235" profitControlType="2" profitType="2" templatename="世界答题N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110235</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010299" profitControlType="2" profitType="2" templatename="青云志N倍buff生效配置宠物经验" value="10000">
+    <conditionList>
+      <int>703110299</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010300" profitControlType="2" profitType="4" templatename="主线N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010301" profitControlType="2" profitType="4" templatename="支线N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110301</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010302" profitControlType="2" profitType="4" templatename="师门任务N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110302</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010303" profitControlType="2" profitType="4" templatename="藏宝图N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110303</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010304" profitControlType="2" profitType="4" templatename="试炼N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110304</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010305" profitControlType="2" profitType="4" templatename="黑龙浩劫N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110305</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010306" profitControlType="2" profitType="4" templatename="竞技场N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110306</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010307" profitControlType="2" profitType="4" templatename="镇妖活动N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110307</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010308" profitControlType="2" profitType="4" templatename="护送N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110308</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010309" profitControlType="2" profitType="4" templatename="地宫挂野N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110309</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010310" profitControlType="2" profitType="4" templatename="乱世妖魔N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110310</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010311" profitControlType="2" profitType="4" templatename="十二生肖N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110311</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010312" profitControlType="2" profitType="4" templatename="副本N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110312</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010313" profitControlType="2" profitType="4" templatename="诛仙奇缘N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110313</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010314" profitControlType="2" profitType="4" templatename="科举考试N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110314</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010315" profitControlType="2" profitType="4" templatename="决战九霄N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110315</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010316" profitControlType="2" profitType="4" templatename="帮派精英N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110316</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010317" profitControlType="2" profitType="4" templatename="门派挑战N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110317</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010318" profitControlType="2" profitType="4" templatename="帮派战争N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110318</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010319" profitControlType="2" profitType="4" templatename="幻月洞府N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110319</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010320" profitControlType="2" profitType="4" templatename="世界BOSSN倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110320</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010321" profitControlType="2" profitType="4" templatename="天下会武N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110321</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010322" profitControlType="2" profitType="4" templatename="首席争霸N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110322</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010323" profitControlType="2" profitType="4" templatename="帮派强盗N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110323</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010324" profitControlType="2" profitType="4" templatename="妖兽突袭N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110324</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010325" profitControlType="2" profitType="4" templatename="单人节日活动N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110325</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010326" profitControlType="2" profitType="4" templatename="组队节日活动N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110326</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010327" profitControlType="2" profitType="4" templatename="还魂秘术N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110327</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010328" profitControlType="2" profitType="4" templatename="赏金N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110328</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010329" profitControlType="2" profitType="4" templatename="帮派周常N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110329</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010330" profitControlType="2" profitType="4" templatename="双飞活动N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110330</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010331" profitControlType="2" profitType="4" templatename="帮派篝火N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110331</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010332" profitControlType="2" profitType="4" templatename="赛跑N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110332</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010333" profitControlType="2" profitType="4" templatename="晚间答题N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110333</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010334" profitControlType="2" profitType="4" templatename="夫妻活动N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110334</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010335" profitControlType="2" profitType="4" templatename="世界答题N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110335</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010399" profitControlType="2" profitType="4" templatename="青云志N倍buff生效配置修炼经验" value="10000">
+    <conditionList>
+      <int>703110399</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010400" profitControlType="2" profitType="8" templatename="主线N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110400</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010401" profitControlType="2" profitType="8" templatename="支线N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110401</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010402" profitControlType="2" profitType="8" templatename="师门任务N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110402</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010403" profitControlType="2" profitType="8" templatename="藏宝图N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110403</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010404" profitControlType="2" profitType="8" templatename="试炼N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110404</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010405" profitControlType="2" profitType="8" templatename="黑龙浩劫N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110405</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010406" profitControlType="2" profitType="8" templatename="竞技场N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110406</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010407" profitControlType="2" profitType="8" templatename="镇妖活动N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110407</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010408" profitControlType="2" profitType="8" templatename="护送N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110408</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010409" profitControlType="2" profitType="8" templatename="地宫挂野N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110409</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010410" profitControlType="2" profitType="8" templatename="乱世妖魔N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110410</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010411" profitControlType="2" profitType="8" templatename="十二生肖N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110411</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010412" profitControlType="2" profitType="8" templatename="副本N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110412</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010413" profitControlType="2" profitType="8" templatename="诛仙奇缘N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110413</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010414" profitControlType="2" profitType="8" templatename="科举考试N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110414</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010415" profitControlType="2" profitType="8" templatename="决战九霄N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110415</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010416" profitControlType="2" profitType="8" templatename="帮派精英N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110416</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010417" profitControlType="2" profitType="8" templatename="门派挑战N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110417</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010418" profitControlType="2" profitType="8" templatename="帮派战争N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110418</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010419" profitControlType="2" profitType="8" templatename="幻月洞府N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110419</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010420" profitControlType="2" profitType="8" templatename="世界BOSSN倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110420</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010421" profitControlType="2" profitType="8" templatename="天下会武N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110421</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010422" profitControlType="2" profitType="8" templatename="首席争霸N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110422</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010423" profitControlType="2" profitType="8" templatename="帮派强盗N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110423</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010424" profitControlType="2" profitType="8" templatename="妖兽突袭N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110424</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010425" profitControlType="2" profitType="8" templatename="单人节日活动N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110425</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010426" profitControlType="2" profitType="8" templatename="组队节日活动N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110426</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010427" profitControlType="2" profitType="8" templatename="还魂秘术N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110427</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010428" profitControlType="2" profitType="8" templatename="赏金N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110428</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010429" profitControlType="2" profitType="8" templatename="帮派周常N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110429</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010430" profitControlType="2" profitType="8" templatename="双飞活动N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110430</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010431" profitControlType="2" profitType="8" templatename="帮派篝火N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110431</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010432" profitControlType="2" profitType="8" templatename="赛跑N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110432</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010433" profitControlType="2" profitType="8" templatename="晚间答题N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110433</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010434" profitControlType="2" profitType="8" templatename="夫妻活动N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110434</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010435" profitControlType="2" profitType="8" templatename="世界答题N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110435</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010499" profitControlType="2" profitType="8" templatename="青云志N倍buff生效配置元宝" value="10000">
+    <conditionList>
+      <int>703110499</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010500" profitControlType="2" profitType="16" templatename="主线N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110500</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010501" profitControlType="2" profitType="16" templatename="支线N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110501</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010502" profitControlType="2" profitType="16" templatename="师门任务N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110502</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010503" profitControlType="2" profitType="16" templatename="藏宝图N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110503</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010504" profitControlType="2" profitType="16" templatename="试炼N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110504</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010505" profitControlType="2" profitType="16" templatename="黑龙浩劫N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110505</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010506" profitControlType="2" profitType="16" templatename="竞技场N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110506</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010507" profitControlType="2" profitType="16" templatename="镇妖活动N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110507</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010508" profitControlType="2" profitType="16" templatename="护送N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110508</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010509" profitControlType="2" profitType="16" templatename="地宫挂野N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110509</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010510" profitControlType="2" profitType="16" templatename="乱世妖魔N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110510</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010511" profitControlType="2" profitType="16" templatename="十二生肖N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110511</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010512" profitControlType="2" profitType="16" templatename="副本N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110512</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010513" profitControlType="2" profitType="16" templatename="诛仙奇缘N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110513</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010514" profitControlType="2" profitType="16" templatename="科举考试N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110514</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010515" profitControlType="2" profitType="16" templatename="决战九霄N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110515</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010516" profitControlType="2" profitType="16" templatename="帮派精英N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110516</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010517" profitControlType="2" profitType="16" templatename="门派挑战N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110517</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010518" profitControlType="2" profitType="16" templatename="帮派战争N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110518</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010519" profitControlType="2" profitType="16" templatename="幻月洞府N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110519</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010520" profitControlType="2" profitType="16" templatename="世界BOSSN倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110520</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010521" profitControlType="2" profitType="16" templatename="天下会武N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110521</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010522" profitControlType="2" profitType="16" templatename="首席争霸N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110522</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010523" profitControlType="2" profitType="16" templatename="帮派强盗N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110523</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010524" profitControlType="2" profitType="16" templatename="妖兽突袭N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110524</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010525" profitControlType="2" profitType="16" templatename="单人节日活动N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110525</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010526" profitControlType="2" profitType="16" templatename="组队节日活动N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110526</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010527" profitControlType="2" profitType="16" templatename="还魂秘术N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110527</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010528" profitControlType="2" profitType="16" templatename="赏金N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110528</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010529" profitControlType="2" profitType="16" templatename="帮派周常N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110529</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010530" profitControlType="2" profitType="16" templatename="双飞活动N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110530</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010531" profitControlType="2" profitType="16" templatename="帮派篝火N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110531</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010532" profitControlType="2" profitType="16" templatename="赛跑N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110532</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010533" profitControlType="2" profitType="16" templatename="晚间答题N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110533</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010534" profitControlType="2" profitType="16" templatename="夫妻活动N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110534</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010535" profitControlType="2" profitType="16" templatename="世界答题N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110535</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010599" profitControlType="2" profitType="16" templatename="青云志N倍buff生效配置金币" value="10000">
+    <conditionList>
+      <int>703110599</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010600" profitControlType="2" profitType="64" templatename="主线N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110600</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010601" profitControlType="2" profitType="64" templatename="支线N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110601</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010602" profitControlType="2" profitType="64" templatename="师门任务N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110602</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010603" profitControlType="2" profitType="64" templatename="藏宝图N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110603</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010604" profitControlType="2" profitType="64" templatename="试炼N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110604</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010605" profitControlType="2" profitType="64" templatename="黑龙浩劫N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110605</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010606" profitControlType="2" profitType="64" templatename="竞技场N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110606</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010607" profitControlType="2" profitType="64" templatename="镇妖活动N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110607</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010608" profitControlType="2" profitType="64" templatename="护送N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110608</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010609" profitControlType="2" profitType="64" templatename="地宫挂野N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110609</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010610" profitControlType="2" profitType="64" templatename="乱世妖魔N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110610</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010611" profitControlType="2" profitType="64" templatename="十二生肖N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110611</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010612" profitControlType="2" profitType="64" templatename="副本N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110612</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010613" profitControlType="2" profitType="64" templatename="诛仙奇缘N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110613</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010614" profitControlType="2" profitType="64" templatename="科举考试N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110614</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010615" profitControlType="2" profitType="64" templatename="决战九霄N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110615</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010616" profitControlType="2" profitType="64" templatename="帮派精英N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110616</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010617" profitControlType="2" profitType="64" templatename="门派挑战N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110617</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010618" profitControlType="2" profitType="64" templatename="帮派战争N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110618</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010619" profitControlType="2" profitType="64" templatename="幻月洞府N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110619</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010620" profitControlType="2" profitType="64" templatename="世界BOSSN倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110620</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010621" profitControlType="2" profitType="64" templatename="天下会武N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110621</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010622" profitControlType="2" profitType="64" templatename="首席争霸N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110622</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010623" profitControlType="2" profitType="64" templatename="帮派强盗N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110623</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010624" profitControlType="2" profitType="64" templatename="妖兽突袭N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110624</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010625" profitControlType="2" profitType="64" templatename="单人节日活动N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110625</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010626" profitControlType="2" profitType="64" templatename="组队节日活动N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110626</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010627" profitControlType="2" profitType="64" templatename="还魂秘术N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110627</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010628" profitControlType="2" profitType="64" templatename="赏金N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110628</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010629" profitControlType="2" profitType="64" templatename="帮派周常N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110629</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010630" profitControlType="2" profitType="64" templatename="双飞活动N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110630</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010631" profitControlType="2" profitType="64" templatename="帮派篝火N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110631</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010632" profitControlType="2" profitType="64" templatename="赛跑N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110632</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010633" profitControlType="2" profitType="64" templatename="晚间答题N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110633</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010634" profitControlType="2" profitType="64" templatename="夫妻活动N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110634</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010635" profitControlType="2" profitType="64" templatename="世界答题N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110635</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010699" profitControlType="2" profitType="64" templatename="青云志N倍buff生效配置帮贡" value="10000">
+    <conditionList>
+      <int>703110699</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010700" profitControlType="2" profitType="128" templatename="主线N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110700</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010701" profitControlType="2" profitType="128" templatename="支线N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110701</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010702" profitControlType="2" profitType="128" templatename="师门任务N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110702</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010703" profitControlType="2" profitType="128" templatename="藏宝图N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110703</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010704" profitControlType="2" profitType="128" templatename="试炼N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110704</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010705" profitControlType="2" profitType="128" templatename="黑龙浩劫N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110705</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010706" profitControlType="2" profitType="128" templatename="竞技场N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110706</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010707" profitControlType="2" profitType="128" templatename="镇妖活动N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110707</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010708" profitControlType="2" profitType="128" templatename="护送N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110708</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010709" profitControlType="2" profitType="128" templatename="地宫挂野N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110709</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010710" profitControlType="2" profitType="128" templatename="乱世妖魔N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110710</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010711" profitControlType="2" profitType="128" templatename="十二生肖N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110711</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010712" profitControlType="2" profitType="128" templatename="副本N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110712</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010713" profitControlType="2" profitType="128" templatename="诛仙奇缘N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110713</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010714" profitControlType="2" profitType="128" templatename="科举考试N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110714</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010715" profitControlType="2" profitType="128" templatename="决战九霄N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110715</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010716" profitControlType="2" profitType="128" templatename="帮派精英N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110716</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010717" profitControlType="2" profitType="128" templatename="门派挑战N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110717</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010718" profitControlType="2" profitType="128" templatename="帮派战争N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110718</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010719" profitControlType="2" profitType="128" templatename="幻月洞府N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110719</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010720" profitControlType="2" profitType="128" templatename="世界BOSSN倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110720</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010721" profitControlType="2" profitType="128" templatename="天下会武N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110721</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010722" profitControlType="2" profitType="128" templatename="首席争霸N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110722</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010723" profitControlType="2" profitType="128" templatename="帮派强盗N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110723</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010724" profitControlType="2" profitType="128" templatename="妖兽突袭N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110724</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010725" profitControlType="2" profitType="128" templatename="单人节日活动N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110725</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010726" profitControlType="2" profitType="128" templatename="组队节日活动N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110726</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010727" profitControlType="2" profitType="128" templatename="还魂秘术N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110727</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010728" profitControlType="2" profitType="128" templatename="赏金N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110728</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010729" profitControlType="2" profitType="128" templatename="帮派周常N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110729</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010730" profitControlType="2" profitType="128" templatename="双飞活动N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110730</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010731" profitControlType="2" profitType="128" templatename="帮派篝火N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110731</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010732" profitControlType="2" profitType="128" templatename="赛跑N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110732</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010733" profitControlType="2" profitType="128" templatename="晚间答题N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110733</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010734" profitControlType="2" profitType="128" templatename="夫妻活动N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110734</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010735" profitControlType="2" profitType="128" templatename="世界答题N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110735</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010799" profitControlType="2" profitType="128" templatename="青云志N倍buff生效配置侠义值" value="10000">
+    <conditionList>
+      <int>703110799</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010800" profitControlType="2" profitType="256" templatename="主线N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110800</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010801" profitControlType="2" profitType="256" templatename="支线N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110801</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010802" profitControlType="2" profitType="256" templatename="师门任务N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110802</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010803" profitControlType="2" profitType="256" templatename="藏宝图N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110803</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010804" profitControlType="2" profitType="256" templatename="试炼N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110804</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010805" profitControlType="2" profitType="256" templatename="黑龙浩劫N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110805</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010806" profitControlType="2" profitType="256" templatename="竞技场N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110806</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010807" profitControlType="2" profitType="256" templatename="镇妖活动N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110807</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010808" profitControlType="2" profitType="256" templatename="护送N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110808</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010809" profitControlType="2" profitType="256" templatename="地宫挂野N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110809</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010810" profitControlType="2" profitType="256" templatename="乱世妖魔N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110810</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010811" profitControlType="2" profitType="256" templatename="十二生肖N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110811</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010812" profitControlType="2" profitType="256" templatename="副本N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110812</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010813" profitControlType="2" profitType="256" templatename="诛仙奇缘N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110813</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010814" profitControlType="2" profitType="256" templatename="科举考试N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110814</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010815" profitControlType="2" profitType="256" templatename="决战九霄N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110815</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010816" profitControlType="2" profitType="256" templatename="帮派精英N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110816</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010817" profitControlType="2" profitType="256" templatename="门派挑战N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110817</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010818" profitControlType="2" profitType="256" templatename="帮派战争N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110818</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010819" profitControlType="2" profitType="256" templatename="幻月洞府N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110819</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010820" profitControlType="2" profitType="256" templatename="世界BOSSN倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110820</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010821" profitControlType="2" profitType="256" templatename="天下会武N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110821</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010822" profitControlType="2" profitType="256" templatename="首席争霸N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110822</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010823" profitControlType="2" profitType="256" templatename="帮派强盗N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110823</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010824" profitControlType="2" profitType="256" templatename="妖兽突袭N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110824</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010825" profitControlType="2" profitType="256" templatename="单人节日活动N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110825</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010826" profitControlType="2" profitType="256" templatename="组队节日活动N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110826</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010827" profitControlType="2" profitType="256" templatename="还魂秘术N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110827</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010828" profitControlType="2" profitType="256" templatename="赏金N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110828</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010829" profitControlType="2" profitType="256" templatename="帮派周常N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110829</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010830" profitControlType="2" profitType="256" templatename="双飞活动N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110830</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010831" profitControlType="2" profitType="256" templatename="帮派篝火N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110831</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010832" profitControlType="2" profitType="256" templatename="赛跑N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110832</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010833" profitControlType="2" profitType="256" templatename="晚间答题N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110833</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010834" profitControlType="2" profitType="256" templatename="夫妻活动N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110834</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010835" profitControlType="2" profitType="256" templatename="世界答题N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110835</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010899" profitControlType="2" profitType="256" templatename="青云志N倍buff生效配置竞技积分" value="10000">
+    <conditionList>
+      <int>703110899</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010900" profitControlType="2" profitType="512" templatename="主线N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110900</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010901" profitControlType="2" profitType="512" templatename="支线N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110901</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010902" profitControlType="2" profitType="512" templatename="师门任务N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110902</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010903" profitControlType="2" profitType="512" templatename="藏宝图N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110903</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010904" profitControlType="2" profitType="512" templatename="试炼N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110904</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010905" profitControlType="2" profitType="512" templatename="黑龙浩劫N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110905</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010906" profitControlType="2" profitType="512" templatename="竞技场N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110906</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010907" profitControlType="2" profitType="512" templatename="镇妖活动N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110907</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010908" profitControlType="2" profitType="512" templatename="护送N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110908</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010909" profitControlType="2" profitType="512" templatename="地宫挂野N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110909</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010910" profitControlType="2" profitType="512" templatename="乱世妖魔N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110910</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010911" profitControlType="2" profitType="512" templatename="十二生肖N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110911</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010912" profitControlType="2" profitType="512" templatename="副本N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110912</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010913" profitControlType="2" profitType="512" templatename="诛仙奇缘N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110913</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010914" profitControlType="2" profitType="512" templatename="科举考试N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110914</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010915" profitControlType="2" profitType="512" templatename="决战九霄N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110915</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010916" profitControlType="2" profitType="512" templatename="帮派精英N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110916</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010917" profitControlType="2" profitType="512" templatename="门派挑战N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110917</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010918" profitControlType="2" profitType="512" templatename="帮派战争N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110918</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010919" profitControlType="2" profitType="512" templatename="幻月洞府N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110919</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010920" profitControlType="2" profitType="512" templatename="世界BOSSN倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110920</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010921" profitControlType="2" profitType="512" templatename="天下会武N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110921</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010922" profitControlType="2" profitType="512" templatename="首席争霸N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110922</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010923" profitControlType="2" profitType="512" templatename="帮派强盗N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110923</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010924" profitControlType="2" profitType="512" templatename="妖兽突袭N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110924</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010925" profitControlType="2" profitType="512" templatename="单人节日活动N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110925</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010926" profitControlType="2" profitType="512" templatename="组队节日活动N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110926</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010927" profitControlType="2" profitType="512" templatename="还魂秘术N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110927</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010928" profitControlType="2" profitType="512" templatename="赏金N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110928</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010929" profitControlType="2" profitType="512" templatename="帮派周常N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110929</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010930" profitControlType="2" profitType="512" templatename="双飞活动N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110930</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010931" profitControlType="2" profitType="512" templatename="帮派篝火N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110931</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010932" profitControlType="2" profitType="512" templatename="赛跑N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110932</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010933" profitControlType="2" profitType="512" templatename="晚间答题N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110933</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010934" profitControlType="2" profitType="512" templatename="夫妻活动N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110934</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010935" profitControlType="2" profitType="512" templatename="世界答题N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110935</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703010999" profitControlType="2" profitType="512" templatename="青云志N倍buff生效配置师门" value="10000">
+    <conditionList>
+      <int>703110999</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011000" profitControlType="2" profitType="1024" templatename="主线N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111000</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011001" profitControlType="2" profitType="1024" templatename="支线N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111001</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011002" profitControlType="2" profitType="1024" templatename="师门任务N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011003" profitControlType="2" profitType="1024" templatename="藏宝图N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111003</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011004" profitControlType="2" profitType="1024" templatename="试炼N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111004</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011005" profitControlType="2" profitType="1024" templatename="黑龙浩劫N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111005</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011006" profitControlType="2" profitType="1024" templatename="竞技场N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111006</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011007" profitControlType="2" profitType="1024" templatename="镇妖活动N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011008" profitControlType="2" profitType="1024" templatename="护送N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111008</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011009" profitControlType="2" profitType="1024" templatename="地宫挂野N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111009</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011010" profitControlType="2" profitType="1024" templatename="乱世妖魔N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111010</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011011" profitControlType="2" profitType="1024" templatename="十二生肖N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111011</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011012" profitControlType="2" profitType="1024" templatename="副本N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111012</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011013" profitControlType="2" profitType="1024" templatename="诛仙奇缘N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111013</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011014" profitControlType="2" profitType="1024" templatename="科举考试N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111014</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011015" profitControlType="2" profitType="1024" templatename="决战九霄N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111015</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011016" profitControlType="2" profitType="1024" templatename="帮派精英N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111016</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011017" profitControlType="2" profitType="1024" templatename="门派挑战N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111017</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011018" profitControlType="2" profitType="1024" templatename="帮派战争N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111018</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011019" profitControlType="2" profitType="1024" templatename="幻月洞府N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111019</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011020" profitControlType="2" profitType="1024" templatename="世界BOSSN倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111020</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011021" profitControlType="2" profitType="1024" templatename="天下会武N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111021</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011022" profitControlType="2" profitType="1024" templatename="首席争霸N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111022</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011023" profitControlType="2" profitType="1024" templatename="帮派强盗N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111023</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011024" profitControlType="2" profitType="1024" templatename="妖兽突袭N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111024</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011025" profitControlType="2" profitType="1024" templatename="单人节日活动N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111025</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011026" profitControlType="2" profitType="1024" templatename="组队节日活动N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111026</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011027" profitControlType="2" profitType="1024" templatename="还魂秘术N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111027</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011028" profitControlType="2" profitType="1024" templatename="赏金N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111028</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011029" profitControlType="2" profitType="1024" templatename="帮派周常N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111029</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011030" profitControlType="2" profitType="1024" templatename="双飞活动N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111030</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011031" profitControlType="2" profitType="1024" templatename="帮派篝火N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111031</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011032" profitControlType="2" profitType="1024" templatename="赛跑N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111032</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011033" profitControlType="2" profitType="1024" templatename="晚间答题N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111033</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011034" profitControlType="2" profitType="1024" templatename="夫妻活动N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111034</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011035" profitControlType="2" profitType="1024" templatename="世界答题N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111035</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011099" profitControlType="2" profitType="1024" templatename="青云志N倍buff生效配置声望" value="10000">
+    <conditionList>
+      <int>703111099</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011100" profitControlType="2" profitType="2048" templatename="主线N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011101" profitControlType="2" profitType="2048" templatename="支线N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111101</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011102" profitControlType="2" profitType="2048" templatename="师门任务N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111102</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011103" profitControlType="2" profitType="2048" templatename="藏宝图N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111103</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011104" profitControlType="2" profitType="2048" templatename="试炼N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111104</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011105" profitControlType="2" profitType="2048" templatename="黑龙浩劫N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111105</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011106" profitControlType="2" profitType="2048" templatename="竞技场N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111106</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011107" profitControlType="2" profitType="2048" templatename="镇妖活动N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111107</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011108" profitControlType="2" profitType="2048" templatename="护送N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111108</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011109" profitControlType="2" profitType="2048" templatename="地宫挂野N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011110" profitControlType="2" profitType="2048" templatename="乱世妖魔N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111110</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011111" profitControlType="2" profitType="2048" templatename="十二生肖N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111111</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011112" profitControlType="2" profitType="2048" templatename="副本N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111112</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011113" profitControlType="2" profitType="2048" templatename="诛仙奇缘N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111113</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011114" profitControlType="2" profitType="2048" templatename="科举考试N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111114</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011115" profitControlType="2" profitType="2048" templatename="决战九霄N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111115</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011116" profitControlType="2" profitType="2048" templatename="帮派精英N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111116</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011117" profitControlType="2" profitType="2048" templatename="门派挑战N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111117</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011118" profitControlType="2" profitType="2048" templatename="帮派战争N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111118</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011119" profitControlType="2" profitType="2048" templatename="幻月洞府N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111119</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011120" profitControlType="2" profitType="2048" templatename="世界BOSSN倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111120</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011121" profitControlType="2" profitType="2048" templatename="天下会武N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111121</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011122" profitControlType="2" profitType="2048" templatename="首席争霸N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111122</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011123" profitControlType="2" profitType="2048" templatename="帮派强盗N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111123</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011124" profitControlType="2" profitType="2048" templatename="妖兽突袭N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111124</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011125" profitControlType="2" profitType="2048" templatename="单人节日活动N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111125</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011126" profitControlType="2" profitType="2048" templatename="组队节日活动N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111126</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011127" profitControlType="2" profitType="2048" templatename="还魂秘术N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111127</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011128" profitControlType="2" profitType="2048" templatename="赏金N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111128</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011129" profitControlType="2" profitType="2048" templatename="帮派周常N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111129</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011130" profitControlType="2" profitType="2048" templatename="双飞活动N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111130</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011131" profitControlType="2" profitType="2048" templatename="帮派篝火N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111131</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011132" profitControlType="2" profitType="2048" templatename="赛跑N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111132</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011133" profitControlType="2" profitType="2048" templatename="晚间答题N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111133</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011134" profitControlType="2" profitType="2048" templatename="夫妻活动N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111134</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011135" profitControlType="2" profitType="2048" templatename="世界答题N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111135</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011199" profitControlType="2" profitType="2048" templatename="青云志N倍buff生效配置物品概率" value="10000">
+    <conditionList>
+      <int>703111199</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011230" profitControlType="2" profitType="1" templatename="回流组队N倍buff生效配置角色经验" value="1000">
+    <conditionList>
+      <int>703111400</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011231" profitControlType="2" profitType="1" templatename="回流个人N倍buff1生效配置角色经验" value="500">
+    <conditionList>
+      <int>703111300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011232" profitControlType="2" profitType="1" templatename="回流个人N倍buff2生效配置角色经验" value="1000">
+    <conditionList>
+      <int>703111300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011233" profitControlType="2" profitType="1" templatename="回流个人N倍buff3生效配置角色经验" value="1500">
+    <conditionList>
+      <int>703111300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011234" profitControlType="2" profitType="1" templatename="回流个人N倍buff4生效配置角色经验" value="2000">
+    <conditionList>
+      <int>703111300</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011300" profitControlType="2" profitType="1" templatename="主题时装N倍buff1生效配置角色经验" value="500">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011301" profitControlType="2" profitType="1" templatename="主题时装N倍buff2生效配置角色经验" value="500">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011302" profitControlType="2" profitType="32" templatename="主题时装N倍buff3生效配置银币" value="5000">
+    <conditionList>
+      <int>703110108</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011303" profitControlType="2" profitType="32" templatename="主题时装N倍buff4生效配置银币" value="2500">
+    <conditionList>
+      <int>703110108</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011400" profitControlType="2" profitType="1" templatename="青云之巅冠军N倍buff生效配置师门经验" value="10000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011401" profitControlType="2" profitType="1" templatename="青云之巅冠军N倍buff生效配置镇妖经验" value="10000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011402" profitControlType="2" profitType="1" templatename="青云之巅亚军N倍buff生效配置师门经验" value="10000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011403" profitControlType="2" profitType="1" templatename="青云之巅亚军N倍buff生效配置镇妖经验" value="10000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011404" profitControlType="2" profitType="1" templatename="青云之巅季军N倍buff生效配置师门经验" value="10000">
+    <conditionList>
+      <int>703110002</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011405" profitControlType="2" profitType="1" templatename="青云之巅季军N倍buff生效配置镇妖经验" value="10000">
+    <conditionList>
+      <int>703110007</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  
+  <!--buff道具加成-->
+  <!--1级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011406" profitControlType="2" profitType="1" templatename="0.5倍经验buff" value="5000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011407" profitControlType="2" profitType="2048" templatename="5%挂野掉落buff" value="500">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--2级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011408" profitControlType="2" profitType="1" templatename="0.8倍经验buff" value="8000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011409" profitControlType="2" profitType="2048" templatename="8%挂野掉落buff" value="800">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--3级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011410" profitControlType="2" profitType="1" templatename="1倍经验buff" value="10000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011411" profitControlType="2" profitType="2048" templatename="10%挂野掉落buff" value="1000">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--4级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011412" profitControlType="2" profitType="1" templatename="1.5倍经验buff" value="15000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011413" profitControlType="2" profitType="2048" templatename="15%挂野掉落buff" value="1500">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--5级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011414" profitControlType="2" profitType="1" templatename="2倍经验buff" value="20000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011415" profitControlType="2" profitType="2048" templatename="18%挂野掉落buff" value="1800">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--6级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011416" profitControlType="2" profitType="1" templatename="3倍经验buff" value="30000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011417" profitControlType="2" profitType="2048" templatename="20%挂野掉落buff" value="2000">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--7级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011418" profitControlType="2" profitType="1" templatename="4倍经验buff" value="40000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011419" profitControlType="2" profitType="2048" templatename="22%挂野掉落buff" value="2200">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--8级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011420" profitControlType="2" profitType="1" templatename="5倍经验buff" value="50000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011421" profitControlType="2" profitType="2048" templatename="25%挂野掉落buff" value="2500">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--9级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011422" profitControlType="2" profitType="1" templatename="7倍经验buff" value="70000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011423" profitControlType="2" profitType="2048" templatename="27%挂野掉落buff" value="2700">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <!--10级buff道具加成-->
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011424" profitControlType="2" profitType="1" templatename="10倍经验buff" value="100000">
+    <conditionList>
+      <int>703100100</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+  <mzm.gsp.effect.confbean.SProfitEffectCfg id="703011425" profitControlType="2" profitType="2048" templatename="30%挂野掉落buff" value="3000">
+    <conditionList>
+      <int>703111109</int>
+    </conditionList>
+  </mzm.gsp.effect.confbean.SProfitEffectCfg>
+</data>

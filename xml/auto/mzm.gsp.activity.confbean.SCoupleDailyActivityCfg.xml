@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.activity.confbean.SCoupleDailyActivityCfg failAwardId="5304" id="356700000" successAwardId="5303" taskDes="来试试你们俩是不是心有灵犀吧，双方答案一致才能证明你们有默契噢！[ffff00]（双方答案一致奖励更丰厚。）[-]" taskType="0" templatename="心有灵犀"/>
+  <mzm.gsp.activity.confbean.SCoupleDailyActivityCfg failAwardId="5302" id="356700001" successAwardId="5300" taskDes="还记得你们之间的烂漫回忆吗？快将这些回忆的碎片重新组合起来吧。[ffff00]（规定时间内拼图成功可过关。）[-]" taskType="1" templatename="烂漫回忆"/>
+  <mzm.gsp.activity.confbean.SCoupleDailyActivityCfg failAwardId="5300" id="356700002" successAwardId="5300" taskDes="听说每天一次表白能增进感情，快来喊出你们的爱情宣言吧，可千万别念错了哟！[ffff00]（按正确顺序击杀怪物即可过关。）[-]" taskType="2" templatename="爱情宣言"/>
+</data>

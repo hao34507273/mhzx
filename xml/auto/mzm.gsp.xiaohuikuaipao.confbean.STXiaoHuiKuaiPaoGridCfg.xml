@@ -1,0 +1,252 @@
+<data>
+  <mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridCfg activityId="350020100">
+    <index2gridInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="1" poolTypeId="9200" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="2" poolTypeId="9201" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="3" poolTypeId="9202" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="4" poolTypeId="9203" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="5" poolTypeId="9204" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="1" index="6" poolTypeId="9205" weightCorrectCfgId="511304000"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="7" poolTypeId="9206" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="8" poolTypeId="9207" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="9" poolTypeId="9208" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="10" poolTypeId="9209" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="11" poolTypeId="9210" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="12" poolTypeId="9211" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="13" poolTypeId="9212" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="14" poolTypeId="9213" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="15" poolTypeId="9214" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="16" poolTypeId="9215" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="17" poolTypeId="9216" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="18" poolTypeId="9217" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="19" poolTypeId="9218" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="20" poolTypeId="9219" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="21" poolTypeId="9220" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="22" poolTypeId="9221" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="23" poolTypeId="9222" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="24" poolTypeId="9223" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="25" poolTypeId="9224" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="26" poolTypeId="9225" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="50" index="27" poolTypeId="9226" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="28" poolTypeId="9227" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="0" index="29" poolTypeId="9228" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020100" hitRate="1" index="30" poolTypeId="9229" weightCorrectCfgId="511304001"/>
+      </entry>
+    </index2gridInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridCfg>
+  <mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridCfg activityId="350020101">
+    <index2gridInfo>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="1" poolTypeId="9200" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="2" poolTypeId="9201" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="3" poolTypeId="9202" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="4" poolTypeId="9203" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="5" poolTypeId="9204" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="6" poolTypeId="9205" weightCorrectCfgId="511304000"/>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="7" poolTypeId="9206" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="8" poolTypeId="9207" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="9" poolTypeId="9208" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>10</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="10" poolTypeId="9209" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>11</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="11" poolTypeId="9210" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>12</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="12" poolTypeId="9211" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>13</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="13" poolTypeId="9212" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>14</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="14" poolTypeId="9213" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>15</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="15" poolTypeId="9214" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>16</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="16" poolTypeId="9215" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>17</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="17" poolTypeId="9216" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>18</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="18" poolTypeId="9217" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="19" poolTypeId="9218" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>20</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="20" poolTypeId="9219" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>21</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="21" poolTypeId="9220" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>22</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="22" poolTypeId="9221" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>23</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="23" poolTypeId="9222" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>24</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="24" poolTypeId="9223" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>25</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="25" poolTypeId="9224" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>26</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="26" poolTypeId="9225" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>27</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="27" poolTypeId="9226" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>28</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="28" poolTypeId="9227" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>29</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="0" index="29" poolTypeId="9228" weightCorrectCfgId="0"/>
+      </entry>
+      <entry>
+        <int>30</int>
+        <mzm.gsp.xiaohuikuaipao.confbean.SXiaoHuiKuaiPaoGridInfo activityId="350020101" hitRate="50" index="30" poolTypeId="9229" weightCorrectCfgId="511304001"/>
+      </entry>
+    </index2gridInfo>
+  </mzm.gsp.xiaohuikuaipao.confbean.STXiaoHuiKuaiPaoGridCfg>
+</data>

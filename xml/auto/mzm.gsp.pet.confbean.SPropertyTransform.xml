@@ -1,0 +1,15 @@
+<data>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="4" fightProp="1" id="130200000" templatename="属性转换" transformValue="8"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="4" fightProp="7" id="130200001" templatename="属性转换" transformValue="0.4"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="4" fightProp="20" id="130200002" templatename="属性转换" transformValue="0.2"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="3" fightProp="2" id="130200003" templatename="属性转换" transformValue="5"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="3" fightProp="6" id="130200004" templatename="属性转换" transformValue="1"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="3" fightProp="7" id="130200005" templatename="属性转换" transformValue="1"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="1" fightProp="4" id="130200006" templatename="属性转换" transformValue="1"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="1" fightProp="5" id="130200007" templatename="属性转换" transformValue="0.6"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="1" fightProp="20" id="130200008" templatename="属性转换" transformValue="0.2"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="5" fightProp="5" id="130200009" templatename="属性转换" transformValue="2.4"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="5" fightProp="7" id="130200010" templatename="属性转换" transformValue="0.2"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="5" fightProp="20" id="130200011" templatename="属性转换" transformValue="0.2"/>
+  <mzm.gsp.pet.confbean.SPropertyTransform baseProp="2" fightProp="20" id="130200012" templatename="属性转换" transformValue="1.5"/>
+</data>

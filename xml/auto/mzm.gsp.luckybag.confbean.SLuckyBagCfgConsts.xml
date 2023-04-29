@@ -1,0 +1,19 @@
+<root>
+<row name="BRASS_ITEM_ID" value="210140200"/>
+<row name="OPEN_BRASS_BAG_NEED_NUM" value="1"/>
+<row name="BRASS_BAG_AWARD_ID" value="7501"/>
+<row name="BRASS_UI_CFG_ID" value="510708000"/>
+<row name="BRASS_MAP_ITEM_HANDLER_TYPE" value="3"/>
+<row name="JADE_ITEM_ID" value="210140201"/>
+<row name="OPEN_JADE_BAG_NEED_NUM" value="1"/>
+<row name="JADE_BAG_AWARD_ID" value="7500"/>
+<row name="JADE_UI_CFG_ID" value="510708001"/>
+<row name="JADE_MAP_ITEM_HANDLER_TYPE" value="2"/>
+<row name="ACTIVITY_CFG_ID" value="350000411"/>
+<row name="MIN_LEVEL" value="30"/>
+<row name="INIT_LUCKY_BAG_NUM_LEVEL_CFG_ID" value="290100000"/>
+<row name="BRASS_BAG_GET_AWARD_ID" value="5902"/>
+<row name="JADE_BAG_GET_AWARD_ID" value="5901"/>
+<row name="BOX_MAP_ITEM_HANDLER_TYPE" value="4"/>
+<row name="BOX_BAG_GET_AWARD_ID" value="5903"/>
+</root>

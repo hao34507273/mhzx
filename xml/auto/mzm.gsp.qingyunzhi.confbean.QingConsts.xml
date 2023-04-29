@@ -1,0 +1,15 @@
+<root>
+<row name="ACTIVITYID" value="350000026"/>
+<row name="NPC_SERVICE" value="150208001"/>
+<row name="NORMAL_OPEN_LEVEL" value="40"/>
+<row name="ELITE_OPEN_LEVEL" value="55"/>
+<row name="HERO_OPEN_LEVEL" value="80"/>
+<row name="XIAYI_VALUE" value="5"/>
+<row name="QING_NPC_ID" value="150111860"/>
+<row name="ELITE_ACTIVITYID" value="350000308"/>
+<row name="HERO_ACTIVITYID" value="350000320"/>
+<row name="HELP_ELITE_COUNT_MAX" value="5"/>
+<row name="HELP_HERO_COUNT_MAX" value="5"/>
+<row name="HELP_ELITE_AWARD_ID" value="2150"/>
+<row name="HELP_HERO_AWARD_ID" value="2151"/>
+</root>

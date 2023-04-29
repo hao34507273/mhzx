@@ -1,0 +1,5 @@
+<root>
+<row name="SELL_PER_DAY_LIMIT" value="35"/>
+<row name="SELL_2_BUY_RATE" value="8000"/>
+<row name="CAN_BUY_MORE_THAN_ROLE_LEVEL" value="10"/>
+</root>

@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.item.confbean.SMarriageSugerItem awardRoleLevelMax="200" awardRoleLevelMin="0" awardpoolTypeid="600" canSellAndThrow="true" carrymax="30" icon="461" id="214100000" isProprietary="false" name="喜糖" namecolor="3" pilemax="30" sellSilver="1000" sort="1" type="74" useCount="5" useLevel="0"/>
+  <mzm.gsp.item.confbean.SMarriageSugerItem awardRoleLevelMax="200" awardRoleLevelMin="0" awardpoolTypeid="601" canSellAndThrow="true" carrymax="999" icon="8003" id="214100001" isProprietary="true" name="邀請大禮包" namecolor="3" pilemax="30" sellSilver="1000" sort="2" type="74" useCount="1" useLevel="0"/>
+  <mzm.gsp.item.confbean.SMarriageSugerItem awardRoleLevelMax="200" awardRoleLevelMin="0" awardpoolTypeid="602" canSellAndThrow="true" carrymax="999" icon="8009" id="214100002" isProprietary="true" name="龍翔九天禮包" namecolor="5" pilemax="30" sellSilver="1000" sort="3" type="74" useCount="20" useLevel="0"/>
+  <mzm.gsp.item.confbean.SMarriageSugerItem awardRoleLevelMax="200" awardRoleLevelMin="0" awardpoolTypeid="600" canSellAndThrow="true" carrymax="30" icon="461" id="214100003" isProprietary="false" name="喜糖" namecolor="3" pilemax="30" sellSilver="1000" sort="4" type="74" useCount="5" useLevel="0"/>
+</data>

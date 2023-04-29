@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.item.confbean.SFabaoExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="301" id="213600000" isProprietary="false" name="法寶經驗丹" namecolor="3" pilemax="999" sellSilver="5000" sort="1" type="57" useLevel="50"/>
+  <mzm.gsp.item.confbean.SFabaoExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="100" icon="301" id="213600001" isProprietary="false" name="小法寶經驗丹" namecolor="3" pilemax="999" sellSilver="25000" sort="2" type="57" useLevel="50"/>
+  <mzm.gsp.item.confbean.SFabaoExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="200" icon="301" id="213600002" isProprietary="false" name="小法寶經驗丹" namecolor="3" pilemax="999" sellSilver="25000" sort="3" type="57" useLevel="50"/>
+  <mzm.gsp.item.confbean.SFabaoExpItem awardRoleLevelMax="200" awardRoleLevelMin="0" canSellAndThrow="true" exp="1000000" icon="631" id="213600100" isProprietary="false" name="法寶靈髓" namecolor="4" pilemax="999" sellSilver="25000" sort="4" type="57" useLevel="50"/>
+</data>

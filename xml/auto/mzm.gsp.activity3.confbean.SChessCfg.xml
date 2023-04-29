@@ -1,0 +1,31 @@
+<data>
+  <mzm.gsp.activity3.confbean.SChessCfg chessGameCfgId="952800000" drawRoundCount="20" durationAfterMove="1.5" durationAfterMoveAttack="3.0" durationAfterTurnAttack="4.5" durationAfterTurnBeAttacked="3.5" maxColumn="6" maxRoundCount="100" maxRow="6" noOperateLoseRoundCount="5" roundTimeLimit="15" surrenderRoundCount="10">
+    <chessPieceIndex2count>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <int>1</int>
+      </entry>
+      <entry>
+        <int>2</int>
+        <int>2</int>
+      </entry>
+      <entry>
+        <int>3</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>4</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>5</int>
+        <int>3</int>
+      </entry>
+      <entry>
+        <int>6</int>
+        <int>6</int>
+      </entry>
+    </chessPieceIndex2count>
+  </mzm.gsp.activity3.confbean.SChessCfg>
+</data>

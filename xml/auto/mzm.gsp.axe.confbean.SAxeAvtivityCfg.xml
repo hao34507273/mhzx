@@ -1,0 +1,123 @@
+<data>
+  <mzm.gsp.axe.confbean.SAxeAvtivityCfg activity_cfg_id="350008360" baodi_trigger_times="1000" lock_trigger_interval_in_day="3" moduleid="325" unlock_cost_num="1000" unlock_cost_type="2">
+    <section_infos>
+      <no-comparator/>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="1000" cost_type="2" max_grid_num="1">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>7000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800102" axe_num="1" sortid="3"/>
+            </entry>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800101" axe_num="1" sortid="2"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="3000" cost_type="2" max_grid_num="1">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>7000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800102" axe_num="3" sortid="3"/>
+            </entry>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800101" axe_num="3" sortid="2"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>3</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="5000" cost_type="2" max_grid_num="1">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>3000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800101" axe_num="5" sortid="2"/>
+            </entry>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800102" axe_num="5" sortid="3"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="50" cost_type="1" max_grid_num="1">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800003" axe_num="2" sortid="3"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>5</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="200" cost_type="1" max_grid_num="1">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800003" axe_num="6" sortid="3"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>6</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="800" cost_type="1" max_grid_num="2">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800003" axe_num="16" sortid="3"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>7</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="2800" cost_type="1" max_grid_num="6">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800003" axe_num="56" sortid="3"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+      <entry>
+        <int>8</int>
+        <mzm.gsp.axe.confbean.SAxeSectionInfo cost_num="8800" cost_type="1" max_grid_num="18">
+          <results>
+            <no-comparator/>
+            <entry>
+              <int>2000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800002" axe_num="176" sortid="2"/>
+            </entry>
+            <entry>
+              <int>9000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800003" axe_num="176" sortid="3"/>
+            </entry>
+            <entry>
+              <int>10000</int>
+              <mzm.gsp.axe.confbean.SAxeResultInfo axe_item_cfg_id="216800001" axe_num="176" sortid="1"/>
+            </entry>
+          </results>
+        </mzm.gsp.axe.confbean.SAxeSectionInfo>
+      </entry>
+    </section_infos>
+  </mzm.gsp.axe.confbean.SAxeAvtivityCfg>
+</data>

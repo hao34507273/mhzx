@@ -1,0 +1,32 @@
+<data>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500000" time="5">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="1" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500001" time="10">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="1" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500002" time="30">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="1" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500003" time="60">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500004" time="90">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="2" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+  <mzm.gsp.signaward.confbean.SOnlineAward id="480500005" time="120">
+    <itemIdCountList>
+      <mzm.gsp.signaward.confbean.ItemId2Count itemcount="3" itemid="968500300"/>
+    </itemIdCountList>
+  </mzm.gsp.signaward.confbean.SOnlineAward>
+</data>

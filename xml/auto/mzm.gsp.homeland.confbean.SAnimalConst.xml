@@ -1,0 +1,10 @@
+<root>
+<row name="NAME_MIN_LENGTH" value="2"/>
+<row name="NAME_MAX_LENGTH" value="6"/>
+<row name="CHECK_YARD_CLEAN_TIME" value="350299319"/>
+<row name="ANIMAL_GONE_MAIL_CFG_ID" value="340001805"/>
+<row name="OPEN_LEVEL" value="30"/>
+<row name="YARD_MIN_CLEAN" value="10"/>
+<row name="MATE_RECORD_LIMIT" value="5"/>
+<row name="ANIMAL_LIFE_END_MAIL_CFG_ID" value="340001806"/>
+</root>

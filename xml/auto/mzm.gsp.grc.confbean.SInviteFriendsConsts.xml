@@ -1,0 +1,16 @@
+<root>
+<row name="OPEN_NEED_ROLE_LEVEL" value="5"/>
+<row name="INVITER_MIN_ROLE_LEVEL" value="5"/>
+<row name="AWARD_INVITER_NEED_INVITEE_ROLE_LEVEL" value="60"/>
+<row name="AWARD_INVITER_INVITEE_USER_CREATE_MAX_DAYS" value="1000"/>
+<row name="AWARD_INVITER_INVITEE_DONE_SHIMEN_TOTAL_DAYS" value="10"/>
+<row name="AWARD_INVITER_INVITEE_DONE_SHIMEN_RING_NUM" value="20"/>
+<row name="AWARD_INVITER_GIFT_MAX_TIMES" value="10"/>
+<row name="AWARD_INVITER_CFG_ID" value="7101"/>
+<row name="AWARD_INVITEE_CFG_ID" value="7100"/>
+<row name="AWARD_INVITEE_MAIL_CFG_ID" value="340008006"/>
+<row name="PRESENT_BIND_YUANBAO_DAYS_ON_INVITEE_CASH" value="30"/>
+<row name="PRESENT_BIND_YUANBAO_RATIO_ON_INVITEE_CASH" value="500"/>
+<row name="WITHDRAW_BIND_YUANBAO_DAILY_MAX_NUM" value="200"/>
+<row name="INVITEE_PRESENT_BIND_YUANBAO_MAX_NUM" value="2147483647"/>
+</root>

@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.treasurehunt.confbean.STreasureHuntCfg activity_cfg_id="350020036" all_pass_chapter_award_id="0" map_item_handler_type="105" npc_controller_id="701109230" npc_id="150113615" npc_service_id="150210950" out_map_cfg_id="330000001" out_position_x="5264" out_position_y="1725" switch_type="581">
+    <chapter_id_list>
+      <int>901000000</int>
+      <int>901000001</int>
+      <int>901000002</int>
+    </chapter_id_list>
+  </mzm.gsp.treasurehunt.confbean.STreasureHuntCfg>
+</data>

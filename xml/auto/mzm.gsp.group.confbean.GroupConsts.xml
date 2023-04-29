@@ -1,0 +1,10 @@
+<root>
+<row name="CREATE_GROUP_LEVEL" value="50"/>
+<row name="JOIN_GROUP_LEVEL" value="50"/>
+<row name="JOIN_GROUP_MAX_NUM" value="50"/>
+<row name="GROUP_MEMBER_MAX_NUM" value="50"/>
+<row name="MEMBER_NUM_IN_GROUP_IMAGE" value="4"/>
+<row name="GROUP_NAME_MAX_LENGTH" value="6"/>
+<row name="GROUP_ANNOUNCEMENT_MAX_LENGTH" value="50"/>
+<row name="CLIENT_GROUP_LIST_REFRESH_INTERVAL" value="60"/>
+</root>

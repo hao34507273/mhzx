@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.ranklist.confbean.SSubTypeCfg capacity="50" id="540100000" name="角色战斗力" rankType="1" refreshTimeCfg="350299000" templatename="角色战斗力" tips="0"/>
+  <mzm.gsp.ranklist.confbean.SSubTypeCfg capacity="100" id="540100001" name="角色等级" rankType="3" refreshTimeCfg="350299005" templatename="角色等级" tips="0"/>
+  <mzm.gsp.ranklist.confbean.SSubTypeCfg capacity="200" id="540101000" name="宠物妖力" rankType="2" refreshTimeCfg="350299005" templatename="宠物妖力" tips="0"/>
+</data>

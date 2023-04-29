@@ -1,0 +1,60 @@
+<data>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="裝備相關" id="360000000" templatename="装备相关">
+    <SubTypeIdList>
+      <int>360100000</int>
+      <int>360100001</int>
+      <int>360100002</int>
+      <int>360100003</int>
+      <int>360100004</int>
+      <int>360100005</int>
+      <int>360100006</int>
+      <int>360100007</int>
+      <int>360100010</int>
+      <int>360100011</int>
+      <int>360100012</int>
+      <int>360100013</int>
+      <int>360100014</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="寵物相關" id="360000001" templatename="宠物相关">
+    <SubTypeIdList>
+      <int>360100020</int>
+      <int>360100021</int>
+      <int>360100023</int>
+      <int>360100024</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="法寶相關" id="360000002" templatename="法宝相关">
+    <SubTypeIdList>
+      <int>360100030</int>
+      <int>360100031</int>
+      <int>360100032</int>
+      <int>360100033</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="羽翼相關" id="360000003" templatename="羽翼相关">
+    <SubTypeIdList>
+      <int>360100040</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="陣法" id="360000004" templatename="阵法">
+    <SubTypeIdList>
+      <int>360100050</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="其他" id="360000005" templatename="其他">
+    <SubTypeIdList>
+      <int>360100060</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="坐騎相關" id="360000006" templatename="坐骑相关">
+    <SubTypeIdList>
+      <int>360100070</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+  <mzm.gsp.shanghui.confbean.SShangHuiCfg BigTypeName="子女相關" id="360000007" templatename="子女相关">
+    <SubTypeIdList>
+      <int>360100080</int>
+    </SubTypeIdList>
+  </mzm.gsp.shanghui.confbean.SShangHuiCfg>
+</data>

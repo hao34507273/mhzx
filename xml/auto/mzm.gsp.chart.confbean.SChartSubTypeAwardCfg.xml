@@ -1,0 +1,921 @@
+<data>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="0">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="810" awardid="0" rankMail="340001620"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="811" awardid="0" rankMail="340001620"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="812" awardid="0" rankMail="340001620"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="813" awardid="0" rankMail="340001620"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="1">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="820" awardid="0" rankMail="340001619"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="821" awardid="0" rankMail="340001619"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="822" awardid="0" rankMail="340001619"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="823" awardid="0" rankMail="340001619"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="2">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="730" awardid="0" rankMail="340001610"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="731" awardid="0" rankMail="340001610"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="732" awardid="0" rankMail="340001610"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="733" awardid="0" rankMail="340001610"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="5">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="793" awardid="0" rankMail="340001614"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="794" awardid="0" rankMail="340001614"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="795" awardid="0" rankMail="340001614"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="6">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="790" awardid="0" rankMail="340001613"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="791" awardid="0" rankMail="340001613"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="792" awardid="0" rankMail="340001613"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="8">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="9">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="760" awardid="0" rankMail="340001616"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="761" awardid="0" rankMail="340001616"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="10">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="770" awardid="0" rankMail="340001617"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="771" awardid="0" rankMail="340001617"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="12">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="710" awardid="0" rankMail="340001611"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="711" awardid="0" rankMail="340001611"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="712" awardid="0" rankMail="340001611"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="713" awardid="0" rankMail="340001611"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="14">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>19</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="660" awardid="0" rankMail="340001624"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="15">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="780" awardid="0" rankMail="340001618"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="781" awardid="0" rankMail="340001618"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="17">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="721" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="16">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="720" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="19">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="722" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="18">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="724" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="21">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="725" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="20">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="723" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="22">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="830" awardid="0" rankMail="340001621"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="831" awardid="0" rankMail="340001621"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="832" awardid="0" rankMail="340001621"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="833" awardid="0" rankMail="340001621"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="25">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="850" awardid="1202" rankMail="340001625"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="0" awardid="1205" rankMail="340001626"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="26">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="726" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="29">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="28">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="31">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="30">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="32">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="33">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="39">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5658" awardid="5650" rankMail="340009136"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5659" awardid="5651" rankMail="340009137"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5660" awardid="5652" rankMail="340009138"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5661" awardid="5653" rankMail="340009139"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="40">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5662" awardid="5654" rankMail="340009140"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5663" awardid="5655" rankMail="340009141"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5664" awardid="5656" rankMail="340009142"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5665" awardid="5657" rankMail="340009143"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="41">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="45">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="860" awardid="0" rankMail="340009144"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="861" awardid="0" rankMail="340009145"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="862" awardid="0" rankMail="340009146"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="51">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="0" awardid="6453" rankMail="340009152"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="50">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="0" awardid="6452" rankMail="340009151"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="55">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5463" awardid="5455" rankMail="340007113"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5464" awardid="5456" rankMail="340007114"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5465" awardid="5457" rankMail="340007115"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5466" awardid="5458" rankMail="340007116"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="54">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5459" awardid="5451" rankMail="340007109"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5460" awardid="5452" rankMail="340007110"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5461" awardid="5453" rankMail="340007111"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5462" awardid="5454" rankMail="340007112"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="53">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5482" awardid="5474" rankMail="340007105"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5483" awardid="5475" rankMail="340007106"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5484" awardid="5476" rankMail="340007107"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5485" awardid="5477" rankMail="340007108"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="52">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5478" awardid="5470" rankMail="340007101"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5479" awardid="5471" rankMail="340007102"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5480" awardid="5472" rankMail="340007103"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5481" awardid="5473" rankMail="340007104"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="42">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="727" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="59">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="728" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="85">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="729" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="95">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="734" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="120">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="735" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="134">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="735" awardid="0" rankMail="340001612"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="58">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="84">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>  
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="96">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>  
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="122">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>  
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="136">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="750" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>1</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="751" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>2</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="752" awardid="0" rankMail="340001615"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="753" awardid="0" rankMail="340001615"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="57">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5522" awardid="5514" rankMail="340007121"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5523" awardid="5515" rankMail="340007122"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5524" awardid="5516" rankMail="340007123"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5525" awardid="5517" rankMail="340007124"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="56">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>4</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5518" awardid="5510" rankMail="340007117"/>
+      </entry>
+      <entry>
+        <int>9</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5519" awardid="5511" rankMail="340007118"/>
+      </entry>
+      <entry>
+        <int>49</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5520" awardid="5512" rankMail="340007119"/>
+      </entry>
+      <entry>
+        <int>99</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="5521" awardid="5513" rankMail="340007120"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="63">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="62">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="61">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="60">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="68">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="64">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="65">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="66">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="67">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="86">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="97">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="123">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="128">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+  <mzm.gsp.chart.confbean.SChartSubTypeAwardCfg chartType="137">
+    <awardMap>
+      <no-comparator/>
+      <entry>
+        <int>0</int>
+        <mzm.gsp.chart.confbean.RankAwardBean awardHonorid="754" awardid="0" rankMail="340001633"/>
+      </entry>
+    </awardMap>
+  </mzm.gsp.chart.confbean.SChartSubTypeAwardCfg>
+</data>

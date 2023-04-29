@@ -1,0 +1,23 @@
+<root>
+<row name="ACTIVITYID" value="350000302"/>
+<row name="RAN_TIME_HIGH" value="50"/>
+<row name="RAN_TIME_LOW" value="20"/>
+<row name="NOTIC_QUESTION_INTERVAL" value="10"/>
+<row name="ANSWER_TIME" value="60"/>
+<row name="NORMAL_AWARD_ID" value="5400"/>
+<row name="NORMAL_AWARD_ROLE_NUM" value="100"/>
+<row name="NB_AWARD_ID" value="5401"/>
+<row name="NB_AWARD_ROLE_NUM" value="10"/>
+<row name="MASTER_PIC_ID" value="3032"/>
+<row name="BULLETIN_TIME_BEF_QU" value="10"/>
+<row name="BULLETIN_TIME_AFT_RS" value="8"/>
+<row name="MINI_TILE_COLOR_CFG" value="701303000"/>
+<row name="MINI_QUSTION_COLOR_CFG" value="701303001"/>
+<row name="BIG_TITLE_COLOR_CFG" value="701303002"/>
+<row name="BIG_QUESTION_COLOR_CFG" value="701303003"/>
+<row name="BULLETIN_COLOR_CFG" value="701303004"/>
+<row name="ON_TOP_TIME" value="5"/>
+<row name="TURN_DOWN__TIME" value="10"/>
+<row name="RANDOM_AWARD_GUY_NUM" value="25"/>
+<row name="NB_AWARD_MAX_PER_DAY" value="2"/>
+</root>

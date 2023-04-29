@@ -1,0 +1,254 @@
+<data>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100000" menpai="1" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100102" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100102" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100001" menpai="1" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100108" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100114" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100002" menpai="1" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100120" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100126" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100010" menpai="2" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100103" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100103" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100011" menpai="2" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100109" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100115" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100012" menpai="2" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100121" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100127" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100020" menpai="3" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100106" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100106" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100021" menpai="3" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100112" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100118" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100022" menpai="3" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100124" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100130" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100030" menpai="4" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100104" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100104" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100031" menpai="4" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100110" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100116" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100032" menpai="4" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100122" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100128" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100040" menpai="5" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100105" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100105" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100041" menpai="5" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100111" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100117" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100042" menpai="5" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100123" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100129" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100050" menpai="6" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100107" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100107" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100051" menpai="6" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100113" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100119" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100052" menpai="6" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100125" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100131" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100060" menpai="7" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100132" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100132" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100061" menpai="7" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100133" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100134" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100062" menpai="7" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100135" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100136" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100070" menpai="8" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100137" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100137" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100071" menpai="8" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100138" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100139" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100072" menpai="8" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100140" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100141" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100080" menpai="9" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100142" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100142" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100081" menpai="9" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100143" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100144" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100082" menpai="9" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100145" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100146" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100090" menpai="10" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100147" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100147" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100091" menpai="10" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100148" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100149" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100092" menpai="10" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100150" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100151" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100093" menpai="11" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100152" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100152" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100094" menpai="11" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100153" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100154" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100095" menpai="11" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100155" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100156" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100096" menpai="12" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100157" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100158" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100097" menpai="12" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100159" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100160" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100098" menpai="12" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100161" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100162" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100099" menpai="13" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100965" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100965" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100100" menpai="13" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100966" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100967" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100101" menpai="13" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100968" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100969" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100102" menpai="14" rank="1">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100972" gender="1" mail="340001300"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100972" gender="2" mail="340001300"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100103" menpai="14" rank="2">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100973" gender="1" mail="340001301"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100974" gender="2" mail="340001301"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+  <mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg id="355100104" menpai="14" rank="3">
+    <award>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100975" gender="1" mail="340001302"/>
+      <mzm.gsp.menpaipvp.confbean.MenpaiRankAward appellation="490100976" gender="2" mail="340001302"/>
+    </award>
+  </mzm.gsp.menpaipvp.confbean.SMenpaiRankAwardCfg>
+</data>

@@ -1,0 +1,89 @@
+<data>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000000" templatename="混沌时空">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="1" optionLvTop="9" optionName="混沌一層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="10" optionLvTop="19" optionName="混沌二層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="20" optionLvTop="29" optionName="混沌三層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="30" optionLvTop="39" optionName="混沌四層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="40" optionLvTop="49" optionName="混沌五層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="50" optionLvTop="59" optionName="混沌六層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="69" optionName="混沌七層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="79" optionName="混沌八層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="89" optionName="混沌九層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="99" optionName="混沌十層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="109" optionName="混沌十一層"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="110" optionLvTop="119" optionName="混沌十二層"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000001" templatename="乱世妖魔">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="20" optionLvTop="29" optionName="死亡沼澤妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="30" optionLvTop="39" optionName="萬蝠古洞妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="40" optionLvTop="49" optionName="小池鎮妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="50" optionLvTop="59" optionName="流波山妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="69" optionName="流波迷宮妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="79" optionName="玉清宮妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="89" optionName="十萬大山妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="99" optionName="蠻荒妖魔"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="109" optionName="玄火壇妖魔"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000002" templatename="主线任务">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="30" optionLvTop="39" optionName="30級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="40" optionLvTop="49" optionName="40級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="50" optionLvTop="59" optionName="50級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="69" optionName="60級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="79" optionName="70級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="89" optionName="80級主線"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="99" optionName="90級主線"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000003" templatename="剧情副本">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="45" optionLvTop="57" optionName="45普通副本"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="45" optionLvTop="57" optionName="45精英副本"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="58" optionLvTop="70" optionName="58普通副本"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="58" optionLvTop="70" optionName="58精英副本"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000004" templatename="青云志-精英">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="55" optionLvTop="60" optionName="青雲志精英一"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="65" optionName="青雲志精英二"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="65" optionLvTop="70" optionName="青雲志精英三"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="75" optionName="青雲志精英四"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="75" optionLvTop="80" optionName="青雲志精英五"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="85" optionName="青雲志精英六"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="85" optionLvTop="90" optionName="青雲志精英七"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="95" optionName="青云志精英八"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="95" optionLvTop="100" optionName="青云志精英九"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="105" optionName="青云志精英十"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="105" optionLvTop="110" optionName="青云志精英十一"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="110" optionLvTop="115" optionName="青云志精英十二"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="115" optionLvTop="120" optionName="青云志精英十三"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000005" templatename="跨服天梯">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="60" optionLvTop="69" optionName="上古戰場"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="70" optionLvTop="79" optionName="上古戰場"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="89" optionName="上古戰場"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="99" optionName="上古戰場"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="109" optionName="上古戰場"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="110" optionLvTop="119" optionName="上古戰場"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+  <mzm.gsp.team.confbean.STeamPlatformChildCfg id="342000006" templatename="青云志-英雄">
+    <opertionCfgList>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="80" optionLvTop="85" optionName="青云志英雄一"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="85" optionLvTop="90" optionName="青云志英雄二"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="90" optionLvTop="95" optionName="青云志英雄三"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="95" optionLvTop="100" optionName="青云志英雄四"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="100" optionLvTop="105" optionName="青云志英雄五"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="105" optionLvTop="110" optionName="青云志英雄六"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="110" optionLvTop="115" optionName="青云志英雄七"/>
+      <mzm.gsp.team.confbean.OpertionCfg optionLvFloor="115" optionLvTop="120" optionName="青云志英雄八"/>
+    </opertionCfgList>
+  </mzm.gsp.team.confbean.STeamPlatformChildCfg>
+</data>

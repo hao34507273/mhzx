@@ -1,0 +1,33 @@
+<root>
+<row name="OPEN_LEVEL" value="70"/>
+<row name="FIGHT_WIN_ADD_POINT" value="20"/>
+<row name="FIGHT_LOSE_ADD_POINT" value="10"/>
+<row name="TOP_NUM" value="4"/>
+<row name="LOW_NUM" value="1"/>
+<row name="FREE_CHALLENGE_COUNT" value="5"/>
+<row name="ROBOT_NUM" value="5000"/>
+<row name="TOP_NUM_HIDE_SCORE" value="10"/>
+<row name="TOP_NUM_HIDE_FORMATION" value="10"/>
+<row name="TOP_NUM_HIDE_PART" value="10"/>
+<row name="TOP_NUM_HIDE_ALL" value="10"/>
+<row name="AWARD_TIME_CFG_ID" value="350299941"/>
+<row name="REFRESH_CD" value="60"/>
+<row name="RANK_MAIL_CFG_ID" value="340010027"/>
+<row name="MAX_RANK_MAIL_CFG_ID" value="340010028"/>
+<row name="FIRST_BUY_YUANBAO_PRICE" value="50"/>
+<row name="YUANBAO_PRICE_ADD_NUM" value="10"/>
+<row name="ACTIVITY_CFG_ID" value="350020402"/>
+<row name="MAX_POINT" value="6000"/>
+<row name="FORMATION_PARAM" value="9"/>
+<row name="MAX_BUY_COUNT" value="10"/>
+<row name="MONEY_TYPE" value="1"/>
+<row name="ROBOT_PET_LEVEL" value="10"/>
+<row name="MAX_RECORD_NUM" value="10"/>
+<row name="MAX_RANK_MAIL_CFG_ID_PROMOTE" value="340010035"/>
+<row name="ADD_POINT_FIGHT_MAX_NUM" value="5"/>
+<row name="ROBOT_LEVEL" value="5"/>
+<row name="FIGHT_WIN_AWARD" value="2002"/>
+<row name="FIGHT_LOSE_AWARD" value="2003"/>
+<row name="ROBOT_NAME" value="神秘人"/>
+<row name="PET_ARENA_FIGHT_MAX_TIME" value="60"/>
+</root>

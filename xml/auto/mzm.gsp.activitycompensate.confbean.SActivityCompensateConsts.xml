@@ -1,0 +1,13 @@
+<root>
+<row name="FreeAwardModifyid" value="501412000"/>
+<row name="GoldAwardModifyid" value="501412001"/>
+<row name="YuanBaoAwardModifyid" value="501412002"/>
+<row name="MaxCompensateDays" value="2"/>
+<row name="RefreshTimeCfgid" value="350299940"/>
+<row name="NeedLevel" value="60"/>
+<row name="ZhenYaoActivityid" value="350000001"/>
+<row name="ZhenYaoDoublePointCost" value="40"/>
+<row name="ZhenYaoDoublePointFreeAward" value="42048"/>
+<row name="ZhenYaoDoublePointGoldAward" value="42048"/>
+<row name="ZhenYaoDoublePointYuanbaoAward" value="42048"/>
+</root>

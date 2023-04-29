@@ -1,0 +1,5 @@
+<data>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalBigAwardCfg awardPoolYuanBaoCountMin="100000" awardRate="2000" countTypeId="1" nextAwardDrawCountRate="8000" randomTypeCfgId="56010" roleLevelMin="30" rolePointCountMin="100" roleRechargeCountMin="5000"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalBigAwardCfg awardPoolYuanBaoCountMin="50000" awardRate="1000" countTypeId="2" nextAwardDrawCountRate="8000" randomTypeCfgId="56020" roleLevelMin="30" rolePointCountMin="100" roleRechargeCountMin="2000"/>
+  <mzm.gsp.drawcarnival.confbean.SOrigDrawCarnivalBigAwardCfg awardPoolYuanBaoCountMin="20000" awardRate="500" countTypeId="3" nextAwardDrawCountRate="8000" randomTypeCfgId="56030" roleLevelMin="30" rolePointCountMin="100" roleRechargeCountMin="1000"/>
+</data>

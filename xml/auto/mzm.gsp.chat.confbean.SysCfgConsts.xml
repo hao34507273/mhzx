@@ -1,0 +1,14 @@
+<root>
+<row name="autoPlayVoiceMap" value="1"/>
+<row name="autoPlayVoiceWorld" value="1"/>
+<row name="autoPlayVoiceTeam" value="1"/>
+<row name="autoPlayVoiceGang" value="1"/>
+<row name="shieldMessageMap" value="-1"/>
+<row name="shieldMessageWorld" value="-1"/>
+<row name="shieldMessageTeam" value="-1"/>
+<row name="shieldMessageGang" value="-1"/>
+<row name="screenLv1" value="5"/>
+<row name="screenLv2" value="10"/>
+<row name="screenLv3" value="20"/>
+<row name="thresholdToShowMultiRoleMounts" value="10"/>
+</root>

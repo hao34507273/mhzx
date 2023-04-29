@@ -1,0 +1,20 @@
+<root>
+<row name="ACTIVITY_CFG_ID" value="350000109"/>
+<row name="REFRESH_MAX_TIME" value="3"/>
+<row name="REFRESH_BUFF_NUM" value="5"/>
+<row name="MIN_AWARD_ID_1" value="8201"/>
+<row name="MIN_AWARD_ID_2" value="8202"/>
+<row name="MIN_AWARD_ID_3" value="8203"/>
+<row name="OPEN_CHEST_POINT" value="1"/>
+<row name="TITLE_AWARD_NEED_POINT" value="10"/>
+<row name="TITLE_AWARD_ID" value="8230"/>
+<row name="TITLE_AWARD_ICON_ID" value="219"/>
+<row name="MAKE_CHEST_EFFECT_ID" value="702034037"/>
+<row name="MAKE_CHEST_MAX_NUM" value="5"/>
+<row name="OPEN_CHEST_MAX_TIME" value="5"/>
+<row name="OPEN_SAME_ROLE_CHEST_MAX_TIME" value="1"/>
+<row name="ACTIVITY_TIPS_CONTENT_ID" value="701609928"/>
+<row name="BUFF_TIPS_CONTENT_ID" value="701609927"/>
+<row name="CHEST_ITEM_CFG_ID" value="210140470"/>
+<row name="OPEN_CHEST_MIN_LEVLE" value="30"/>
+</root>

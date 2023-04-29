@@ -1,0 +1,100 @@
+<data>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="59005" id="217300000" isProprietary="false" name="變身道具測試" namecolor="5" pilemax="1" rewardCfgid="1" sellSilver="1" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701204112</int>
+      <int>701208010</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="3492" id="217300001" isProprietary="false" name="女巫幻化丹" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211310</int>
+      <int>701211300</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="3490" id="217300002" isProprietary="false" name="南瓜頭幻化丹" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211311</int>
+      <int>701211301</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="3496" id="217300003" isProprietary="false" name="鬼魂幻化丹" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211312</int>
+      <int>701211302</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91387" id="217300004" isProprietary="false" name="千幻丹-小丑變身" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211325</int>
+      <int>701211324</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91387" id="217300005" isProprietary="false" name="千幻丹-小虎變身" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211326</int>
+      <int>701211324</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91387" id="217300006" isProprietary="false" name="千幻丹-小象變身" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211327</int>
+      <int>701211324</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91387" id="217300007" isProprietary="false" name="千幻丹-小鹿變身" namecolor="4" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701211328</int>
+      <int>701211324</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301000" isProprietary="false" name="☆青莲地心火☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220000</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301001" isProprietary="false" name="☆海心焰☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220001</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301002" isProprietary="false" name="☆陨落心炎☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220002</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301003" isProprietary="false" name="☆九龙雷罡火☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220003</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301004" isProprietary="false" name="☆骨灵冷火☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220004</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301005" isProprietary="false" name="☆三千焱炎火☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220005</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301006" isProprietary="false" name="☆金帝焚天炎☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220006</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301007" isProprietary="false" name="☆净莲妖火☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220007</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301008" isProprietary="false" name="☆虚无吞炎☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220008</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+  <mzm.gsp.item.confbean.SShapeShiftItemCfg awardRoleLevelMax="200" awardRoleLevelMin="30" awardType="2" canSellAndThrow="true" icon="91784" id="217301009" isProprietary="false" name="☆帝炎☆" namecolor="5" pilemax="999" rewardCfgid="0" sellSilver="100" sort="1" type="124" useLevel="30" useLevelMax="200">
+    <buffIds>
+      <int>701220009</int>
+    </buffIds>
+  </mzm.gsp.item.confbean.SShapeShiftItemCfg>
+</data>

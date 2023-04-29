@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.fight.confbean.SFightAiCfg classname="text_000" id="710000000" isBossAi="false">
+    <parameters/>
+  </mzm.gsp.fight.confbean.SFightAiCfg>
+  <mzm.gsp.fight.confbean.SFightAiCfg classname="DefenceSkill" id="710000001" isBossAi="false">
+    <parameters/>
+  </mzm.gsp.fight.confbean.SFightAiCfg>
+  <mzm.gsp.fight.confbean.SFightAiCfg classname="test" id="710000002" isBossAi="false">
+    <parameters/>
+  </mzm.gsp.fight.confbean.SFightAiCfg>
+</data>

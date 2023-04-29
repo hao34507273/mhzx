@@ -1,0 +1,34 @@
+<data>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalMatchCfg id="581900000">
+    <final_match_list>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="1" corps_b_fight_zone="5" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="1" corps_b_fight_zone="6" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="1" corps_b_fight_zone="7" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="1" corps_b_fight_zone="8" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="2" corps_b_fight_zone="5" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="2" corps_b_fight_zone="6" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="2" corps_b_fight_zone="7" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="2" corps_b_fight_zone="8" corps_b_zone_rank="1"/>
+    </final_match_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalMatchCfg>
+  <mzm.gsp.crossbattle.confbean.SCrossBattleFinalMatchCfg id="581900001">
+    <final_match_list>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="1" corps_b_fight_zone="8" corps_b_zone_rank="3"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="4" corps_b_fight_zone="5" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="4" corps_b_fight_zone="7" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="1" corps_b_fight_zone="6" corps_b_zone_rank="3"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="3" corps_b_fight_zone="8" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="2" corps_b_fight_zone="5" corps_b_zone_rank="4"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="2" corps_b_fight_zone="7" corps_b_zone_rank="4"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="3" corps_b_fight_zone="6" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="2" corps_b_fight_zone="8" corps_b_zone_rank="4"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="3" corps_b_fight_zone="5" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="3" corps_b_fight_zone="7" corps_b_zone_rank="1"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="2" corps_b_fight_zone="6" corps_b_zone_rank="4"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="1" corps_a_zone_rank="4" corps_b_fight_zone="8" corps_b_zone_rank="2"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="4" corps_a_zone_rank="1" corps_b_fight_zone="5" corps_b_zone_rank="3"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="2" corps_a_zone_rank="1" corps_b_fight_zone="7" corps_b_zone_rank="3"/>
+      <mzm.gsp.crossbattle.confbean.FinalMatchBean corps_a_fight_zone="3" corps_a_zone_rank="4" corps_b_fight_zone="6" corps_b_zone_rank="2"/>
+    </final_match_list>
+  </mzm.gsp.crossbattle.confbean.SCrossBattleFinalMatchCfg>
+</data>

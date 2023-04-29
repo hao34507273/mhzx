@@ -1,0 +1,9 @@
+<data>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="4" lostHpRateMax="300"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="8" lostHpRateMax="999"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="10" lostHpRateMax="2000"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="15" lostHpRateMax="3000"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="25" lostHpRateMax="5000"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="40" lostHpRateMax="8000"/>
+  <mzm.gsp.fight.confbean.SLostHpToAngerCfg anger="55" lostHpRateMax="10000"/>
+</data>

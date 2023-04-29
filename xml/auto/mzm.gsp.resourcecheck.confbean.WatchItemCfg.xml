@@ -1,0 +1,26 @@
+<data>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100000" itemId="210101002" maxNum="99" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100001" itemId="210101001" maxNum="99" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100002" itemId="211000013" maxNum="10" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100003" itemId="211000034" maxNum="10" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100004" itemId="211000014" maxNum="5" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100005" itemId="211000035" maxNum="5" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100006" itemId="211600001" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100007" itemId="211600002" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100008" itemId="211600003" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100009" itemId="224006001" maxNum="10" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100010" itemId="224006002" maxNum="10" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100011" itemId="213700001" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100012" itemId="210104100" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100013" itemId="210101000" maxNum="100" typeId="1"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100014" itemId="210101002" maxNum="501" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100015" itemId="210101001" maxNum="501" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100016" itemId="211000013" maxNum="21" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100017" itemId="211000034" maxNum="21" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100018" itemId="211600001" maxNum="101" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100019" itemId="211600002" maxNum="101" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100020" itemId="211600003" maxNum="101" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100021" itemId="213700001" maxNum="301" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100022" itemId="210104100" maxNum="51" typeId="2"/>
+  <mzm.gsp.resourcecheck.confbean.WatchItemCfg id="740100023" itemId="210101000" maxNum="1001" typeId="2"/>
+</data>

@@ -1,0 +1,11 @@
+<root>
+<row name="AUCTION_PRE_TIP_ID" value="701650033"/>
+<row name="AUCTION_FUN_TIP_ID" value="701650030"/>
+<row name="WIN_BID_MAIL_ID" value="340010021"/>
+<row name="LOSE_BID_MAIL_ID" value="340010022"/>
+<row name="SWITCH_CLOSE_REFUND_MAIL_ID" value="340010023"/>
+<row name="SERVER_CLOSE_REFUND_MAIL_ID" value="340010024"/>
+<row name="SERVER_MERGE_REFUND_MAIL_ID" value="340010025"/>
+<row name="BID_BEGIN_PANEL_CFG_ID" value="346500025"/>
+<row name="BID_PRICE_MAX" value="999999999"/>
+</root>

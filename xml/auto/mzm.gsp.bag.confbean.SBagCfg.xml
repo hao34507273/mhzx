@@ -1,0 +1,11 @@
+<data>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="5" classname="bag" expendItemId="210100016" id="340600000" initcapacity="60" maxcapacity="150" name="背包" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="equipbag" expendItemId="210100000" id="340600001" initcapacity="9" maxcapacity="9" name="裝備欄" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="role2petbag" expendItemId="210100015" id="340600003" initcapacity="7" maxcapacity="15" name="寵物欄" type="2"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="role2petdepot" expendItemId="210100043" id="340600004" initcapacity="5" maxcapacity="20" name="寵物倉庫" type="2"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="superequipmentjewelbag" expendItemId="210100016" id="340600005" initcapacity="100" maxcapacity="100" name="靈石包裹" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="4" classname="role2fabaobag" expendItemId="210100016" id="340600006" initcapacity="150" maxcapacity="150" name="法寶包裹" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="4" classname="role2changemodelcardbag" expendItemId="210100016" id="340600007" initcapacity="150" maxcapacity="150" name="變身卡包裹" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="role2treasurebag" expendItemId="210100016" id="340600008" initcapacity="150" maxcapacity="150" name="珍品包裹" type="1"/>
+  <mzm.gsp.bag.confbean.SBagCfg addCount="1" classname="role2petmarkbag" expendItemId="210100016" id="340600009" initcapacity="150" maxcapacity="150" name="寵物印記包裹" type="1"/>
+</data>

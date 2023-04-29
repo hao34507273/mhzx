@@ -1,0 +1,979 @@
+<data>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100000" templatename="妖兽突袭·骨妖" visibleMonsterId="300002013">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405100" monsterName="變異骨妖（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405200" monsterName="變異骨妖（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405300" monsterName="變異骨妖（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405400" monsterName="變異骨妖（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405500" monsterName="變異骨妖（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100001" templatename="妖兽突袭·年兽" visibleMonsterId="300002014">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405101" monsterName="變異年獸（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405201" monsterName="變異年獸（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405301" monsterName="變異年獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405401" monsterName="變異年獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405501" monsterName="變異年獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100002" templatename="妖兽突袭·黑犼" visibleMonsterId="300002015">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405102" monsterName="變異黑犼（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405202" monsterName="變異黑犼（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405302" monsterName="變異黑犼（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405402" monsterName="變異黑犼（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405502" monsterName="變異黑犼（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100003" templatename="妖兽突袭·裂风" visibleMonsterId="300002016">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405103" monsterName="變異裂風（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405203" monsterName="變異裂風（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405303" monsterName="變異裂風（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405403" monsterName="變異裂風（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405503" monsterName="變異裂風（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100004" templatename="妖兽突袭·修罗" visibleMonsterId="300002017">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405104" monsterName="變異修羅（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405204" monsterName="變異修羅（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405304" monsterName="變異修羅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405404" monsterName="變異修羅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405504" monsterName="變異修羅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100005" templatename="妖兽突袭·鬼母" visibleMonsterId="300002018">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405105" monsterName="變異鬼母（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405205" monsterName="變異鬼母（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405305" monsterName="變異鬼母（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405405" monsterName="變異鬼母（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405505" monsterName="變異鬼母（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100006" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002019">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405106" monsterName="變異荒鴞（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405206" monsterName="變異荒鴞（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405306" monsterName="變異荒鴞（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405406" monsterName="變異荒鴞（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405506" monsterName="變異荒鴞（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100007" templatename="妖兽突袭·金翅" visibleMonsterId="300002020">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405107" monsterName="變異金翅（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405207" monsterName="變異金翅（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405307" monsterName="變異金翅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405407" monsterName="變異金翅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405507" monsterName="變異金翅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100008" templatename="妖兽突袭·饕餮" visibleMonsterId="300002021">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405108" monsterName="變異饕餮（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405208" monsterName="變異饕餮（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405308" monsterName="變異饕餮（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405408" monsterName="變異饕餮（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405508" monsterName="變異饕餮（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100009" templatename="妖兽突袭·万蛊" visibleMonsterId="300002022">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405109" monsterName="變異萬蠱（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405209" monsterName="變異萬蠱（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405309" monsterName="變異萬蠱（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405409" monsterName="變異萬蠱（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405509" monsterName="變異萬蠱（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100010" templatename="妖兽突袭·冰兽" visibleMonsterId="300002023">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405110" monsterName="變異冰獸（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405210" monsterName="變異冰獸（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405310" monsterName="變異冰獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405410" monsterName="變異冰獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405510" monsterName="變異冰獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100011" templatename="妖兽突袭·死神" visibleMonsterId="300002024">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="603" fightId="120405111" monsterName="變異死神（1☆）" startLevel="1"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405211" monsterName="變異死神（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405311" monsterName="變異死神（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405411" monsterName="變異死神（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405511" monsterName="變異死神（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100012" templatename="妖兽突袭·骨妖" visibleMonsterId="300002025">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405200" monsterName="變異骨妖（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405300" monsterName="變異骨妖（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405400" monsterName="變異骨妖（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405500" monsterName="變異骨妖（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100013" templatename="妖兽突袭·年兽" visibleMonsterId="300002026">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405201" monsterName="變異年獸（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405301" monsterName="變異年獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405401" monsterName="變異年獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405501" monsterName="變異年獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100014" templatename="妖兽突袭·黑犼" visibleMonsterId="300002027">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405202" monsterName="變異黑犼（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405302" monsterName="變異黑犼（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405402" monsterName="變異黑犼（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405502" monsterName="變異黑犼（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100015" templatename="妖兽突袭·裂风" visibleMonsterId="300002028">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405203" monsterName="變異裂風（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405303" monsterName="變異裂風（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405403" monsterName="變異裂風（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405503" monsterName="變異裂風（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100016" templatename="妖兽突袭·修罗" visibleMonsterId="300002029">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405204" monsterName="變異修羅（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405304" monsterName="變異修羅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405404" monsterName="變異修羅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405504" monsterName="變異修羅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100017" templatename="妖兽突袭·鬼母" visibleMonsterId="300002030">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405205" monsterName="變異鬼母（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405305" monsterName="變異鬼母（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405405" monsterName="變異鬼母（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405505" monsterName="變異鬼母（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100018" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002031">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405206" monsterName="變異荒鴞（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405306" monsterName="變異荒鴞（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405406" monsterName="變異荒鴞（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405506" monsterName="變異荒鴞（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100019" templatename="妖兽突袭·金翅" visibleMonsterId="300002032">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405207" monsterName="變異金翅（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405307" monsterName="變異金翅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405407" monsterName="變異金翅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405507" monsterName="變異金翅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100020" templatename="妖兽突袭·饕餮" visibleMonsterId="300002033">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405208" monsterName="變異饕餮（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405308" monsterName="變異饕餮（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405408" monsterName="變異饕餮（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405508" monsterName="變異饕餮（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100021" templatename="妖兽突袭·万蛊" visibleMonsterId="300002034">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405209" monsterName="變異萬蠱（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405309" monsterName="變異萬蠱（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405409" monsterName="變異萬蠱（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405509" monsterName="變異萬蠱（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100022" templatename="妖兽突袭·冰兽" visibleMonsterId="300002035">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405210" monsterName="變異冰獸（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405310" monsterName="變異冰獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405410" monsterName="變異冰獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405510" monsterName="變異冰獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100023" templatename="妖兽突袭·死神" visibleMonsterId="300002036">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="604" fightId="120405211" monsterName="變異死神（2☆）" startLevel="2"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405311" monsterName="變異死神（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405411" monsterName="變異死神（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405511" monsterName="變異死神（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100024" templatename="妖兽突袭·骨妖" visibleMonsterId="300002037">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405300" monsterName="變異骨妖（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405400" monsterName="變異骨妖（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405500" monsterName="變異骨妖（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100025" templatename="妖兽突袭·年兽" visibleMonsterId="300002038">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405301" monsterName="變異年獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405401" monsterName="變異年獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405501" monsterName="變異年獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100026" templatename="妖兽突袭·黑犼" visibleMonsterId="300002039">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405302" monsterName="變異黑犼（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405402" monsterName="變異黑犼（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405502" monsterName="變異黑犼（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100027" templatename="妖兽突袭·裂风" visibleMonsterId="300002040">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405303" monsterName="變異裂風（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405403" monsterName="變異裂風（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405503" monsterName="變異裂風（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100028" templatename="妖兽突袭·修罗" visibleMonsterId="300002041">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405304" monsterName="變異修羅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405404" monsterName="變異修羅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405504" monsterName="變異修羅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100029" templatename="妖兽突袭·鬼母" visibleMonsterId="300002042">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405305" monsterName="變異鬼母（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405405" monsterName="變異鬼母（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405505" monsterName="變異鬼母（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100030" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002043">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405306" monsterName="變異荒鴞（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405406" monsterName="變異荒鴞（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405506" monsterName="變異荒鴞（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100031" templatename="妖兽突袭·金翅" visibleMonsterId="300002044">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405307" monsterName="變異金翅（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405407" monsterName="變異金翅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405507" monsterName="變異金翅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100032" templatename="妖兽突袭·饕餮" visibleMonsterId="300002045">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405308" monsterName="變異饕餮（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405408" monsterName="變異饕餮（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405508" monsterName="變異饕餮（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100033" templatename="妖兽突袭·万蛊" visibleMonsterId="300002046">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405309" monsterName="變異萬蠱（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405409" monsterName="變異萬蠱（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405509" monsterName="變異萬蠱（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100034" templatename="妖兽突袭·冰兽" visibleMonsterId="300002047">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405310" monsterName="變異冰獸（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405410" monsterName="變異冰獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405510" monsterName="變異冰獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100035" templatename="妖兽突袭·死神" visibleMonsterId="300002048">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="605" fightId="120405311" monsterName="變異死神（3☆）" startLevel="3"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405411" monsterName="變異死神（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405511" monsterName="變異死神（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100036" templatename="妖兽突袭·骨妖" visibleMonsterId="300002049">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405400" monsterName="變異骨妖（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405500" monsterName="變異骨妖（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100037" templatename="妖兽突袭·年兽" visibleMonsterId="300002050">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405401" monsterName="變異年獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405501" monsterName="變異年獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100038" templatename="妖兽突袭·黑犼" visibleMonsterId="300002051">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405402" monsterName="變異黑犼（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405502" monsterName="變異黑犼（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100039" templatename="妖兽突袭·裂风" visibleMonsterId="300002052">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405403" monsterName="變異裂風（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405503" monsterName="變異裂風（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100040" templatename="妖兽突袭·修罗" visibleMonsterId="300002053">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405404" monsterName="變異修羅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405504" monsterName="變異修羅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100041" templatename="妖兽突袭·鬼母" visibleMonsterId="300002054">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405405" monsterName="變異鬼母（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405505" monsterName="變異鬼母（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100042" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002055">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405406" monsterName="變異荒鴞（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405506" monsterName="變異荒鴞（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100043" templatename="妖兽突袭·金翅" visibleMonsterId="300002056">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405407" monsterName="變異金翅（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405507" monsterName="變異金翅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100044" templatename="妖兽突袭·饕餮" visibleMonsterId="300002057">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405408" monsterName="變異饕餮（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405508" monsterName="變異饕餮（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100045" templatename="妖兽突袭·万蛊" visibleMonsterId="300002058">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405409" monsterName="變異萬蠱（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405509" monsterName="變異萬蠱（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100046" templatename="妖兽突袭·冰兽" visibleMonsterId="300002059">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405410" monsterName="變異冰獸（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405510" monsterName="變異冰獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100047" templatename="妖兽突袭·死神" visibleMonsterId="300002060">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="606" fightId="120405411" monsterName="變異死神（4☆）" startLevel="4"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405511" monsterName="變異死神（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100048" templatename="妖兽突袭·骨妖" visibleMonsterId="300002061">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405500" monsterName="變異骨妖（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100049" templatename="妖兽突袭·年兽" visibleMonsterId="300002062">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405501" monsterName="變異年獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100050" templatename="妖兽突袭·黑犼" visibleMonsterId="300002063">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405502" monsterName="變異黑犼（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100051" templatename="妖兽突袭·裂风" visibleMonsterId="300002064">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405503" monsterName="變異裂風（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100052" templatename="妖兽突袭·修罗" visibleMonsterId="300002065">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405504" monsterName="變異修羅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100053" templatename="妖兽突袭·鬼母" visibleMonsterId="300002066">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405505" monsterName="變異鬼母（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100054" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002067">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405506" monsterName="變異荒鴞（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100055" templatename="妖兽突袭·金翅" visibleMonsterId="300002068">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405507" monsterName="變異金翅（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100056" templatename="妖兽突袭·饕餮" visibleMonsterId="300002069">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405508" monsterName="變異饕餮（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100057" templatename="妖兽突袭·万蛊" visibleMonsterId="300002070">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405509" monsterName="變異萬蠱（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100058" templatename="妖兽突袭·冰兽" visibleMonsterId="300002071">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405510" monsterName="變異冰獸（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100059" templatename="妖兽突袭·死神" visibleMonsterId="300002072">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="607" fightId="120405511" monsterName="變異死神（5☆）" startLevel="5"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100060" templatename="妖兽突袭·骨妖" visibleMonsterId="300002073">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405600" monsterName="變異骨妖（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100061" templatename="妖兽突袭·年兽" visibleMonsterId="300002074">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405601" monsterName="變異年獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100062" templatename="妖兽突袭·黑犼" visibleMonsterId="300002075">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405602" monsterName="變異黑犼（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100063" templatename="妖兽突袭·裂风" visibleMonsterId="300002076">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405603" monsterName="變異裂風（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100064" templatename="妖兽突袭·修罗" visibleMonsterId="300002077">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405604" monsterName="變異修羅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100065" templatename="妖兽突袭·鬼母" visibleMonsterId="300002078">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405605" monsterName="變異鬼母（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100066" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002079">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405606" monsterName="變異荒鴞（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100067" templatename="妖兽突袭·金翅" visibleMonsterId="300002080">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405607" monsterName="變異金翅（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100068" templatename="妖兽突袭·饕餮" visibleMonsterId="300002081">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405608" monsterName="變異饕餮（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100069" templatename="妖兽突袭·万蛊" visibleMonsterId="300002082">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405609" monsterName="變異萬蠱（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100070" templatename="妖兽突袭·冰兽" visibleMonsterId="300002083">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405610" monsterName="變異冰獸（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100071" templatename="妖兽突袭·死神" visibleMonsterId="300002084">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="608" fightId="120405611" monsterName="變異死神（6☆）" startLevel="6"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100072" templatename="妖兽突袭·骨妖" visibleMonsterId="300002085">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405700" monsterName="變異骨妖（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100073" templatename="妖兽突袭·年兽" visibleMonsterId="300002086">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405701" monsterName="變異年獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100074" templatename="妖兽突袭·黑犼" visibleMonsterId="300002087">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405702" monsterName="變異黑犼（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100075" templatename="妖兽突袭·裂风" visibleMonsterId="300002088">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405703" monsterName="變異裂風（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100076" templatename="妖兽突袭·修罗" visibleMonsterId="300002089">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405704" monsterName="變異修羅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100077" templatename="妖兽突袭·鬼母" visibleMonsterId="300002090">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405705" monsterName="變異鬼母（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100078" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002091">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405706" monsterName="變異荒鴞（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100079" templatename="妖兽突袭·金翅" visibleMonsterId="300002092">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405707" monsterName="變異金翅（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100080" templatename="妖兽突袭·饕餮" visibleMonsterId="300002093">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405708" monsterName="變異饕餮（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100081" templatename="妖兽突袭·万蛊" visibleMonsterId="300002094">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405709" monsterName="變異萬蠱（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100082" templatename="妖兽突袭·冰兽" visibleMonsterId="300002095">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405710" monsterName="變異冰獸（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100083" templatename="妖兽突袭·死神" visibleMonsterId="300002096">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="609" fightId="120405711" monsterName="變異死神（7☆）" startLevel="7"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100084" templatename="妖兽突袭·骨妖" visibleMonsterId="300002097">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405800" monsterName="變異骨妖（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100085" templatename="妖兽突袭·年兽" visibleMonsterId="300002098">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405801" monsterName="變異年獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100086" templatename="妖兽突袭·黑犼" visibleMonsterId="300002099">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405802" monsterName="變異黑犼（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100087" templatename="妖兽突袭·裂风" visibleMonsterId="300002100">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405803" monsterName="變異裂風（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100088" templatename="妖兽突袭·修罗" visibleMonsterId="300002101">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405804" monsterName="變異修羅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100089" templatename="妖兽突袭·鬼母" visibleMonsterId="300002102">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405805" monsterName="變異鬼母（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100090" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002103">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405806" monsterName="變異荒鴞（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100091" templatename="妖兽突袭·金翅" visibleMonsterId="300002104">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405807" monsterName="變異金翅（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100092" templatename="妖兽突袭·饕餮" visibleMonsterId="300002105">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405808" monsterName="變異饕餮（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100093" templatename="妖兽突袭·万蛊" visibleMonsterId="300002106">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405809" monsterName="變異萬蠱（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100094" templatename="妖兽突袭·冰兽" visibleMonsterId="300002107">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405810" monsterName="變異冰獸（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100095" templatename="妖兽突袭·死神" visibleMonsterId="300002108">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="610" fightId="120405811" monsterName="變異死神（8☆）" startLevel="8"/>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100096" templatename="妖兽突袭·骨妖" visibleMonsterId="300002109">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405900" monsterName="變異骨妖（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100097" templatename="妖兽突袭·年兽" visibleMonsterId="300002110">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405901" monsterName="變異年獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100098" templatename="妖兽突袭·黑犼" visibleMonsterId="300002111">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405902" monsterName="變異黑犼（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100099" templatename="妖兽突袭·裂风" visibleMonsterId="300002112">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405903" monsterName="變異裂風（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100100" templatename="妖兽突袭·修罗" visibleMonsterId="300002113">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405904" monsterName="變異修羅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100101" templatename="妖兽突袭·鬼母" visibleMonsterId="300002114">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405905" monsterName="變異鬼母（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100102" templatename="妖兽突袭·荒鸮" visibleMonsterId="300002115">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405906" monsterName="變異荒鴞（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100103" templatename="妖兽突袭·金翅" visibleMonsterId="300002116">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405907" monsterName="變異金翅（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100104" templatename="妖兽突袭·饕餮" visibleMonsterId="300002117">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405908" monsterName="變異饕餮（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100105" templatename="妖兽突袭·万蛊" visibleMonsterId="300002118">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405909" monsterName="變異萬蠱（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100106" templatename="妖兽突袭·冰兽" visibleMonsterId="300002119">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405910" monsterName="變異冰獸（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100107" templatename="妖兽突袭·死神" visibleMonsterId="300002120">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="611" fightId="120405911" monsterName="變異死神（9☆）" startLevel="9"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+  <mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg id="352100108" templatename="妖兽突袭·死神" visibleMonsterId="300002121">
+    <starLevelList>
+      <mzm.gsp.visiblemonsterfight.confbean.MonsterStarLevelBean awardTypeId="612" fightId="120488023" monsterName="變異死神（10☆）" startLevel="10"/>
+    </starLevelList>
+  </mzm.gsp.visiblemonsterfight.confbean.YaoShouTuXiStartLevelCfg>
+</data>

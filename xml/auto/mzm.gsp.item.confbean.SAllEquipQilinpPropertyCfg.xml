@@ -1,0 +1,100 @@
+<data>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="9">
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="12">
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="15">
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="18">
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="14"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="15"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="21">
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="14"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="15"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="85"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="86"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="24">  
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="14"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="15"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="85"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="86"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="24"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="27">  
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="14"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="15"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="85"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="86"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="24"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="65"/>
+      <mzm.gsp.item.confbean.Property2Param param="-2" property="67"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>
+  <mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg linlevel="30">  
+    <property2params>
+      <mzm.gsp.item.confbean.Property2Param param="7" property="1"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="7"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="9"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="16"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="8"/>
+      <mzm.gsp.item.confbean.Property2Param param="1" property="10"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="14"/>
+      <mzm.gsp.item.confbean.Property2Param param="20" property="15"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="85"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="86"/>
+      <mzm.gsp.item.confbean.Property2Param param="2" property="65"/>
+      <mzm.gsp.item.confbean.Property2Param param="-2" property="67"/>
+      <mzm.gsp.item.confbean.Property2Param param="-2" property="56"/>
+    </property2params>
+  </mzm.gsp.item.confbean.SAllEquipQilinpPropertyCfg>  
+</data>

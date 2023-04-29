@@ -1,0 +1,40 @@
+<data>
+  <mzm.gsp.ballbattle.confbean.SBallBattleCircleRawCfg circleCenterX="2305" circleCenterY="1693" circleModelA="64" circleModelB="32" circleModelG="32" circleModelId="700301216" circleModelR="32" circleModelRawRadius="128" id="965200000" initGeneItemNumber="25" initRadius="1693" totalReduceTimes="4">
+    <circleRadii>
+      <int>1409</int>
+      <int>1200</int>
+      <int>1000</int>
+      <int>800</int>
+      <int>600</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </circleRadii>
+    <circleReduceSeconds>
+      <int>110</int>
+      <int>60</int>
+      <int>60</int>
+      <int>60</int>
+      <int>60</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </circleReduceSeconds>
+    <geneItemNumbers>
+      <int>18</int>
+      <int>15</int>
+      <int>12</int>
+      <int>10</int>
+      <int>6</int>
+      <int>10</int>
+      <int>10</int>
+      <int>10</int>
+      <int>10</int>
+      <int>10</int>
+    </geneItemNumbers>
+  </mzm.gsp.ballbattle.confbean.SBallBattleCircleRawCfg>
+</data>

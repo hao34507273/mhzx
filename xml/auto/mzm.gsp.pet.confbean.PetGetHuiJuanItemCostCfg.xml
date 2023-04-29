@@ -1,0 +1,6 @@
+<data>
+  <mzm.gsp.pet.confbean.PetGetHuiJuanItemCostCfg costNum="10" costType="94" id="132800000" petType="1" priceItemId="210100055" templateName="宝宝消耗"/>
+  <mzm.gsp.pet.confbean.PetGetHuiJuanItemCostCfg costNum="20" costType="94" id="132800001" petType="2" priceItemId="210100055" templateName="变异消耗"/>
+  <mzm.gsp.pet.confbean.PetGetHuiJuanItemCostCfg costNum="10" costType="95" id="132800002" petType="4" priceItemId="210100056" templateName="魔兽消耗"/>
+  <mzm.gsp.pet.confbean.PetGetHuiJuanItemCostCfg costNum="20" costType="95" id="132800003" petType="3" priceItemId="210100056" templateName="神兽消耗"/>
+</data>
