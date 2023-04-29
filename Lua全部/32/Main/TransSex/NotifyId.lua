@@ -1,0 +1,7 @@
+local NotifyId = {
+  TRANS_SEX_SUCESS = 1,
+  TRANS_SEX_SYNC_INFO = 2,
+  REBIRTH_GUIDE_RED_POINT_CHANGE = 3,
+  REBIRTH_GUIDE_OPEN_CHANGE = 4
+}
+return NotifyId
